@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:48:50.907+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3385" WIDTH="2443">
+         <TopMargin HEIGHT="0" WIDTH="2443" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3385" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3385" WIDTH="0" VPOS="0" HPOS="2443"/>
+         <BottomMargin HEIGHT="0" WIDTH="2443" VPOS="3385" HPOS="0"/>
+         <PrintSpace HEIGHT="3385" WIDTH="2443" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="3043" WIDTH="1829" VPOS="182" HPOS="345">
+               <Shape>
+                  <Polygon POINTS="345,182 345,3225 2174,3225 2174,182"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="333,335 424,336 515,338 607,339 698,339 790,339 881,339 973,339 1064,339 1156,341 1247,341 1338,341 1430,341 1521,342 1613,344 1704,345 1796,347 1887,350 1979,354 2070,357 2140,359"
+                         HEIGHT="213"
+                         WIDTH="1832"
+                         VPOS="171"
+                         HPOS="333">
+                  <String ID="string_r1l1"
+                          HEIGHT="213"
+                          WIDTH="1832"
+                          VPOS="171"
+                          HPOS="333"
+                          CONTENT="Literariſche Rundſchau."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="1031,807 1056,807 1082,807 1108,808 1134,809 1160,810 1185,810 1211,812 1237,813 1263,813 1289,815 1314,815 1340,815 1366,813 1392,813 1418,810"
+                         HEIGHT="75"
+                         WIDTH="387"
+                         VPOS="762"
+                         HPOS="1031">
+                  <String ID="string_r1l2"
+                          HEIGHT="75"
+                          WIDTH="387"
+                          VPOS="762"
+                          HPOS="1031"
+                          CONTENT="Redigirt"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="1206,905 1220,908"
+                         HEIGHT="67"
+                         WIDTH="65"
+                         VPOS="860"
+                         HPOS="1206">
+                  <String ID="string_r1l3"
+                          HEIGHT="67"
+                          WIDTH="65"
+                          VPOS="860"
+                          HPOS="1206"
+                          CONTENT="von"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="924,1022 954,1023 985,1024 1016,1025 1047,1026 1077,1026 1108,1027 1139,1028 1170,1028 1200,1028 1231,1029 1262,1029 1293,1029 1323,1029 1354,1029 1385,1029 1416,1029 1446,1029 1477,1029 1508,1028 1539,1028"
+                         HEIGHT="74"
+                         WIDTH="615"
+                         VPOS="977"
+                         HPOS="924">
+                  <String ID="string_r1l4"
+                          HEIGHT="74"
+                          WIDTH="615"
+                          VPOS="977"
+                          HPOS="924"
+                          CONTENT="Joſeph Köhler."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="705,1676 756,1679 808,1680 860,1682 912,1683 964,1685 1016,1686 1068,1686 1120,1688 1172,1689 1224,1690 1275,1691 1327,1692 1379,1692 1431,1692 1483,1692 1535,1692 1587,1692 1639,1692 1691,1692 1743,1691"
+                         HEIGHT="83"
+                         WIDTH="1038"
+                         VPOS="1631"
+                         HPOS="705">
+                  <String ID="string_r1l5"
+                          HEIGHT="83"
+                          WIDTH="1038"
+                          VPOS="1631"
+                          HPOS="705"
+                          CONTENT="Erſter Jahrgang. 1875."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="1038,2960 1064,2960 1091,2961 1118,2961 1145,2961 1171,2960 1198,2960 1225,2958 1252,2958 1278,2958 1305,2958 1332,2959 1359,2960 1386,2963"
+                         HEIGHT="56"
+                         WIDTH="348"
+                         VPOS="2924"
+                         HPOS="1038">
+                  <String ID="string_r1l7"
+                          HEIGHT="56"
+                          WIDTH="348"
+                          VPOS="2924"
+                          HPOS="1038"
+                          CONTENT="Aachen 1875."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="887,3026 919,3027 951,3027 984,3029 1016,3030 1049,3030 1081,3030 1114,3030 1146,3030 1179,3030 1211,3030 1243,3029 1276,3029 1308,3029 1341,3029 1373,3029 1406,3029 1438,3030 1471,3030 1503,3032 1536,3032"
+                         HEIGHT="57"
+                         WIDTH="649"
+                         VPOS="2992"
+                         HPOS="887">
+                  <String ID="string_r1l8"
+                          HEIGHT="57"
+                          WIDTH="649"
+                          VPOS="2992"
+                          HPOS="887"
+                          CONTENT="Verlag von Rudolf Barth."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

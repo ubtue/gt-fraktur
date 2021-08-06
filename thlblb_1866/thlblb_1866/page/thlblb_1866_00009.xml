@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T14:11:24.882+01:00</Created>
+        <LastChange>2021-05-11T09:19:35.741+02:00</LastChange>
+        <TranskribusMetadata docId="543314" pageId="22811440" pageNr="6" tsid="57717714" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=BVHNQPHDKGYNXRCXJKVZGTDX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=APISRAOXMALLYBGUPIBQNDFR" imageId="17787059"/>
+    </Metadata>
+    <Page imageFilename="thlblb_1866_00009.tif" imageWidth="2301" imageHeight="3050">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327764573" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1616592747858_2402"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1616592762497_2411"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1616592809633_2445"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1616592809633_2444"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1616592816679_2452"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1616592825438_2461"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1616592831552_2466"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1616592831551_2465"/>
+                <RegionRefIndexed index="8" regionRef="TextRegion_1616592822504_2456"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1616592747858_2402" custom="readingOrder {index:0;}">
+            <Coords points="118,52 1478,56 1486,112 114,114"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="137,100 169,97 201,103 233,103 233,73 201,73 169,67 137,70"/>
+                <Baseline points="137,90 169,87 201,93 233,93"/>
+                <TextEquiv>
+                    <Unicode>VIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="927,102 953,103 979,103 1005,105 1032,105 1058,105 1084,105 1110,105 1137,105 1163,105 1189,103 1215,103 1242,103 1268,103 1294,103 1320,103 1347,103 1373,105 1399,105 1425,106 1452,106 1452,76 1425,76 1399,75 1373,75 1347,73 1320,73 1294,73 1268,73 1242,73 1215,73 1189,73 1163,75 1137,75 1110,75 1084,75 1058,75 1032,75 1005,75 979,73 953,73 927,72"/>
+                <Baseline points="927,92 953,93 979,93 1005,95 1032,95 1058,95 1084,95 1110,95 1137,95 1163,95 1189,93 1215,93 1242,93 1268,93 1294,93 1320,93 1347,93 1373,95 1399,95 1425,96 1452,96"/>
+                <TextEquiv>
+                    <Unicode>Theologiſches Literaturblatt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII
+Theologiſches Literaturblatt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1616592762497_2411" custom="readingOrder {index:1;}">
+            <Coords points="131,130 492,130 494,428 128,432"/>
+            <TextLine id="r1l4" custom="readingOrder {index:0;}">
+                <Coords points="134,193 159,195 184,196 210,196 235,196 261,195 286,195 312,195 337,195 363,195 363,165 337,165 312,165 286,165 261,165 235,166 210,166 184,166 159,165 134,163"/>
+                <Baseline points="134,183 159,185 184,186 210,186 235,186 261,185 286,185 312,185 337,185 363,185"/>
+                <TextEquiv>
+                    <Unicode>Vulgarius 569.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:1;}">
+                <Coords points="140,232 168,235 196,235 225,234 253,232 282,231 310,231 339,234 339,204 310,201 282,201 253,202 225,204 196,205 168,205 140,202"/>
+                <Baseline points="140,222 168,225 196,225 225,224 253,222 282,221 310,221 339,224"/>
+                <TextEquiv>
+                    <Unicode>Vulgata 403.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:2;}">
+                <Coords points="134,303 161,303 188,303 215,303 242,303 269,303 296,303 323,303 350,303 377,303 404,303 431,303 431,273 404,273 377,273 350,273 323,273 296,273 269,273 242,273 215,273 188,273 161,273 134,273"/>
+                <Baseline points="134,293 161,293 188,293 215,293 242,293 269,293 296,293 323,293 350,293 377,293 404,293 431,293"/>
+                <TextEquiv>
+                    <Unicode>Ward 54. 140. 524.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+                <Coords points="135,339 160,339 186,339 211,340 237,340 263,340 288,340 314,340 339,340 365,340 391,340 416,340 442,340 468,340 468,310 442,310 416,310 391,310 365,310 339,310 314,310 288,310 263,310 237,310 211,310 186,309 160,309 135,309"/>
+                <Baseline points="135,329 160,329 186,329 211,330 237,330 263,330 288,330 314,330 339,330 365,330 391,330 416,330 442,330 468,330"/>
+                <TextEquiv>
+                    <Unicode>Warinus v. Köln 349.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:4;}">
+                <Coords points="147,375 173,376 199,378 226,376 252,376 278,376 305,376 331,375 357,376 384,378 384,348 357,346 331,345 305,346 278,346 252,346 226,346 199,348 173,346 147,345"/>
+                <Baseline points="147,365 173,366 199,368 226,366 252,366 278,366 305,366 331,365 357,366 384,368"/>
+                <TextEquiv>
+                    <Unicode>Weihwaſſer 807.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:5;}">
+                <Coords points="147,414 172,414 198,414 224,414 249,414 275,414 301,414 326,414 352,414 378,414 378,384 352,384 326,384 301,384 275,384 249,384 224,384 198,384 172,384 147,384"/>
+                <Baseline points="147,404 172,404 198,404 224,404 249,404 275,404 301,404 326,404 352,404 378,404"/>
+                <TextEquiv>
+                    <Unicode>Weislinger 386.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vulgarius 569.
+Vulgata 403.
+Ward 54. 140. 524.
+Warinus v. Köln 349.
+Weihwaſſer 807.
+Weislinger 386.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1616592809633_2445" custom="readingOrder {index:2;}">
+            <Coords points="827,134 1298,142 1301,400 829,406"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="861,192 887,193 913,193 939,193 965,193 991,193 1018,193 1044,193 1070,192 1096,193 1122,193 1149,195 1149,165 1122,163 1096,163 1070,162 1044,163 1018,163 991,163 965,163 939,163 913,163 887,163 861,162"/>
+                <Baseline points="861,182 887,183 913,183 939,183 965,183 991,183 1018,183 1044,183 1070,182 1096,183 1122,183 1149,185"/>
+                <TextEquiv>
+                    <Unicode>Werden, Abtei 192.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:1;}">
+                <Coords points="857,229 883,229 909,229 935,231 962,231 988,231 1014,231 1040,232 1067,232 1093,232 1119,232 1146,231 1146,201 1119,202 1093,202 1067,202 1040,202 1014,201 988,201 962,201 935,201 909,199 883,199 857,199"/>
+                <Baseline points="857,219 883,219 909,219 935,221 962,221 988,221 1014,221 1040,222 1067,222 1093,222 1119,222 1146,221"/>
+                <TextEquiv>
+                    <Unicode>Werner, Franz 181.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;}">
+                <Coords points="858,267 884,267 910,267 937,267 963,267 989,268 1016,268 1042,268 1069,268 1095,268 1121,268 1148,268 1174,268 1200,268 1227,268 1253,268 1280,268 1280,238 1253,238 1227,238 1200,238 1174,238 1148,238 1121,238 1095,238 1069,238 1042,238 1016,238 989,238 963,237 937,237 910,237 884,237 858,237"/>
+                <Baseline points="858,257 884,257 910,257 937,257 963,257 989,258 1016,258 1042,258 1069,258 1095,258 1121,258 1148,258 1174,258 1200,258 1227,258 1253,258 1280,258"/>
+                <TextEquiv>
+                    <Unicode>Weſtfalen, Reformation 238.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:3;}">
+                <Coords points="858,304 886,304 914,304 942,304 971,304 999,304 1027,304 1056,303 1056,273 1027,274 999,274 971,274 942,274 914,274 886,274 858,274"/>
+                <Baseline points="858,294 886,294 914,294 942,294 971,294 999,294 1027,294 1056,293"/>
+                <TextEquiv>
+                    <Unicode>Wichmann 86.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+                <Coords points="864,342 892,340 920,339 948,339 977,339 1005,339 1033,340 1062,342 1062,312 1033,310 1005,309 977,309 948,309 920,309 892,310 864,312"/>
+                <Baseline points="864,332 892,330 920,329 948,329 977,329 1005,329 1033,330 1062,332"/>
+                <TextEquiv>
+                    <Unicode>Wilbrand 57.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:5;}">
+                <Coords points="855,375 882,377 909,378 936,379 963,379 990,379 1017,378 1017,348 990,349 963,349 936,349 909,348 882,347 855,345"/>
+                <Baseline points="855,365 882,367 909,368 936,369 963,369 990,369 1017,368"/>
+                <TextEquiv>
+                    <Unicode>Witzel 274.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Werden, Abtei 192.
+Werner, Franz 181.
+Weſtfalen, Reformation 238.
+Wichmann 86.
+Wilbrand 57.
+Witzel 274.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1616592809633_2444" custom="readingOrder {index:3;}">
+            <Coords points="1535,142 1938,146 1938,403 1541,403"/>
+            <TextLine id="r1l5" custom="readingOrder {index:0;}">
+                <Coords points="1562,193 1588,195 1615,195 1642,195 1669,196 1696,196 1723,196 1749,196 1776,196 1803,196 1830,198 1857,198 1884,198 1911,198 1911,168 1884,168 1857,168 1830,168 1803,166 1776,166 1749,166 1723,166 1696,166 1669,166 1642,165 1615,165 1588,165 1562,163"/>
+                <Baseline points="1562,183 1588,185 1615,185 1642,185 1669,186 1696,186 1723,186 1749,186 1776,186 1803,186 1830,188 1857,188 1884,188 1911,188"/>
+                <TextEquiv>
+                    <Unicode>Wunder 63. 506. 569.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:1;}">
+                <Coords points="1562,232 1587,231 1612,231 1638,231 1663,232 1689,232 1714,232 1740,233 1765,232 1791,231 1791,201 1765,202 1740,203 1714,202 1689,202 1663,202 1638,201 1612,201 1587,201 1562,202"/>
+                <Baseline points="1562,222 1587,221 1612,221 1638,221 1663,222 1689,222 1714,222 1740,223 1765,222 1791,221"/>
+                <TextEquiv>
+                    <Unicode>Würzburg 725.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:2;}">
+                <Coords points="1562,268 1588,270 1615,270 1641,270 1668,270 1694,270 1721,270 1747,270 1774,270 1800,271 1827,273 1827,243 1800,241 1774,240 1747,240 1721,240 1694,240 1668,240 1641,240 1615,240 1588,240 1562,238"/>
+                <Baseline points="1562,258 1588,260 1615,260 1641,260 1668,260 1694,260 1721,260 1747,260 1774,260 1800,261 1827,263"/>
+                <TextEquiv>
+                    <Unicode>Wyclef 668. 841.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:3;}">
+                <Coords points="1568,340 1594,339 1620,339 1646,339 1673,337 1699,337 1725,337 1751,339 1778,340 1778,310 1751,309 1725,307 1699,307 1673,307 1646,309 1620,309 1594,309 1568,310"/>
+                <Baseline points="1568,330 1594,329 1620,329 1646,329 1673,327 1699,327 1725,327 1751,329 1778,330"/>
+                <TextEquiv>
+                    <Unicode>Zacharias 441.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:4;}">
+                <Coords points="1568,378 1594,378 1621,378 1647,378 1674,378 1700,378 1727,378 1753,378 1780,379 1806,379 1833,378 1859,378 1886,378 1886,348 1859,348 1833,348 1806,349 1780,349 1753,348 1727,348 1700,348 1674,348 1647,348 1621,348 1594,348 1568,348"/>
+                <Baseline points="1568,368 1594,368 1621,368 1647,368 1674,368 1700,368 1727,368 1753,368 1780,369 1806,369 1833,368 1859,368 1886,368"/>
+                <TextEquiv>
+                    <Unicode>Zamosk, Synode 78.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wunder 63. 506. 569.
+Würzburg 725.
+Wyclef 668. 841.
+Zacharias 441.
+Zamosk, Synode 78.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1616592816679_2452" custom="readingOrder {index:4;}">
+            <Coords points="733,496 1649,498 1647,564 732,566"/>
+            <TextLine id="line_1616593036543_2515" custom="readingOrder {index:0;}">
+                <Coords points="740,526 817,526 1622,528 1622,558 1556,558 856,558 740,556"/>
+                <Baseline points="740,546 778,546 817,546 856,548 895,548 934,548 973,548 1012,548 1051,548 1090,548 1129,548 1167,548 1206,548 1245,548 1284,548 1323,548 1362,548 1401,548 1440,548 1479,548 1518,548 1556,548 1589,548 1622,548"/>
+                <TextEquiv>
+                    <Unicode>Bemerkungen und Berichtigungen von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bemerkungen und Berichtigungen von</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1616592825438_2461" custom="readingOrder {index:5;}">
+            <Coords points="131,583 601,586 591,691 126,697"/>
+            <TextLine id="r1l22" custom="readingOrder {index:0;}">
+                <Coords points="135,646 160,647 186,648 212,648 237,648 263,648 289,648 314,646 340,646 366,645 392,645 417,645 443,645 469,643 494,643 520,643 546,645 572,645 572,615 546,615 520,613 494,613 469,613 443,615 417,615 392,615 366,615 340,616 314,616 289,618 263,618 237,618 212,618 186,618 160,617 135,616"/>
+                <Baseline points="135,636 160,637 186,638 212,638 237,638 263,638 289,638 314,636 340,636 366,635 392,635 417,635 443,635 469,633 494,633 520,633 546,635 572,635"/>
+                <TextEquiv>
+                    <Unicode>Prof. Hergenröther 399.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:1;}">
+                <Coords points="135,682 161,684 187,684 213,684 239,684 265,684 291,683 317,682 343,681 369,681 395,680 421,679 447,679 473,680 500,681 500,651 473,650 447,649 421,649 395,650 369,651 343,651 317,652 291,653 265,654 239,654 213,654 187,654 161,654 135,652"/>
+                <Baseline points="135,672 161,674 187,674 213,674 239,674 265,674 291,673 317,672 343,671 369,671 395,670 421,669 447,669 473,670 500,671"/>
+                <TextEquiv>
+                    <Unicode>Domcap. Huller 863.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Prof. Hergenröther 399.
+Domcap. Huller 863.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1616592831552_2466" custom="readingOrder {index:6;}">
+            <Coords points="822,595 1254,599 1250,706 822,706"/>
+            <TextLine id="r1l24" custom="readingOrder {index:0;}">
+                <Coords points="852,646 878,646 905,646 932,646 959,646 985,646 1012,646 1039,646 1066,646 1092,646 1119,646 1146,646 1173,646 1173,616 1146,616 1119,616 1092,616 1066,616 1039,616 1012,616 985,616 959,616 932,616 905,616 878,616 852,616"/>
+                <Baseline points="852,636 878,636 905,636 932,636 959,636 985,636 1012,636 1039,636 1066,636 1092,636 1119,636 1146,636 1173,636"/>
+                <TextEquiv>
+                    <Unicode>Prof. Michelis 757.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:1;}">
+                <Coords points="857,687 882,685 907,685 932,684 957,684 982,684 1007,684 1032,684 1057,685 1082,685 1107,685 1132,685 1157,685 1182,685 1207,685 1232,684 1232,654 1207,655 1182,655 1157,655 1132,655 1107,655 1082,655 1057,655 1032,654 1007,654 982,654 957,654 932,654 907,655 882,655 857,657"/>
+                <Baseline points="857,677 882,675 907,675 932,674 957,674 982,674 1007,674 1032,674 1057,675 1082,675 1107,675 1132,675 1157,675 1182,675 1207,675 1232,674"/>
+                <TextEquiv>
+                    <Unicode>Prof. Neinerding 219.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Prof. Michelis 757.
+Prof. Neinerding 219.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1616592831551_2465" custom="readingOrder {index:7;}">
+            <Coords points="1542,589 1955,585 1955,700 1536,696"/>
+            <TextLine id="r1l23" custom="readingOrder {index:0;}">
+                <Coords points="1571,646 1597,648 1623,648 1649,648 1676,648 1702,648 1728,647 1754,646 1781,646 1807,645 1833,645 1859,645 1886,646 1886,616 1859,615 1833,615 1807,615 1781,616 1754,616 1728,617 1702,618 1676,618 1649,618 1623,618 1597,618 1571,616"/>
+                <Baseline points="1571,636 1597,638 1623,638 1649,638 1676,638 1702,638 1728,637 1754,636 1781,636 1807,635 1833,635 1859,635 1886,636"/>
+                <TextEquiv>
+                    <Unicode>Fl. Rieß. S. I. 861.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:1;}">
+                <Coords points="1569,684 1594,685 1619,685 1644,685 1670,685 1695,685 1720,685 1746,685 1771,685 1796,684 1821,684 1847,684 1872,685 1897,685 1923,687 1923,657 1897,655 1872,655 1847,654 1821,654 1796,654 1771,655 1746,655 1720,655 1695,655 1670,655 1644,655 1619,655 1594,655 1569,654"/>
+                <Baseline points="1569,674 1594,675 1619,675 1644,675 1670,675 1695,675 1720,675 1746,675 1771,675 1796,674 1821,674 1847,674 1872,675 1897,675 1923,677"/>
+                <TextEquiv>
+                    <Unicode>Domcap. Werner 598.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fl. Rieß. S. I. 861.
+Domcap. Werner 598.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1616592822504_2456" custom="readingOrder {index:8;}">
+            <Coords points="110,835 2225,824 2235,1105 105,1128"/>
+            <TextLine id="r1l33" custom="readingOrder {index:0;}">
+                <Coords points="1049,877 1074,876 1100,876 1125,876 1151,877 1176,877 1202,877 1227,877 1253,879 1278,879 1304,880 1304,850 1278,849 1253,849 1227,847 1202,847 1176,847 1151,847 1125,846 1100,846 1074,846 1049,847"/>
+                <Baseline points="1049,867 1074,866 1100,866 1125,866 1151,867 1176,867 1202,867 1227,867 1253,869 1278,869 1304,870"/>
+                <TextEquiv>
+                    <Unicode>Druckfehler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616592707333_2381" custom="readingOrder {index:1;}">
+                <Coords points="215,939 292,937 731,933 1434,934 2211,937 2211,967 2173,969 2025,970 1727,970 215,969"/>
+                <Baseline points="215,959 240,959 266,959 292,957 318,957 344,957 369,957 395,957 421,957 447,957 473,957 498,957 524,957 550,956 576,956 602,956 627,956 653,955 679,954 705,954 731,953 803,956 832,956 861,956 890,956 920,956 949,956 978,956 1007,956 1037,956 1066,956 1095,957 1124,957 1154,957 1183,957 1212,957 1241,957 1271,957 1300,956 1329,956 1358,956 1388,956 1404,954 1434,954 1467,957 1504,957 1541,957 1578,959 1615,959 1653,959 1690,959 1727,960 1764,960 1801,960 1839,960 1876,960 1913,960 1950,960 1987,960 2025,960 2062,959 2099,959 2136,959 2173,959 2211,957"/>
+                <TextEquiv>
+                    <Unicode>Sp. 6 Z. 27 I. crucis ſt. cruris. Sp. 9, Z. 13 ſtreiche „ſich zu erheben”. Sp. 18, Z. 11 I. „disciplina“ ſt. „disciplinae”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616592718846_2385" custom="readingOrder {index:2;}">
+                <Coords points="115,973 905,970 1527,969 1805,970 2216,978 2216,1008 2190,1009 2013,1009 1976,1009 115,1003"/>
+                <Baseline points="134,998 229,993 257,993 285,993 313,993 341,993 369,993 397,993 425,993 453,993 481,993 509,993 537,993 565,993 593,993 621,993 649,993 677,992 705,992 733,992 762,992 827,992 853,993 879,992 905,990 931,990 957,990 1022,990 1067,993 1085,993 1110,993 1135,993 1160,992 1185,992 1210,993 1235,993 1260,993 1285,993 1310,995 1335,995 1360,995 1385,995 1410,995 1435,995 1460,993 1485,992 1511,990 1527,989 1552,993 1578,995 1604,996 1630,997 1655,996 1681,995 1707,993 1733,990 1805,990 1833,994 1862,995 1890,995 1919,995 1947,996 1976,999 2013,999 2038,998 2063,998 2089,998 2114,998 2139,998 2165,999 2190,999 2216,998"/>
+                <TextEquiv>
+                    <Unicode>— Sp. 21, Z. 8 v. u. I. „zu äußern” ſt. „äußern”. — Sp. 380, Z. 19 l. „Radien” ſt. „Stadien” — Sp. 417, Z. 12 v. u. I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616592724568_2389" custom="readingOrder {index:3;}">
+                <Coords points="131,1011 228,1009 520,1006 1007,1006 2103,1014 2214,1015 2214,1045 2169,1048 131,1041"/>
+                <Baseline points="131,1031 228,1029 325,1029 423,1028 520,1026 617,1026 715,1026 812,1026 909,1026 1007,1026 1104,1028 1201,1028 1299,1029 1396,1029 1493,1031 1591,1031 1688,1032 1785,1032 1883,1034 1980,1034 2078,1035 2103,1034 2148,1035 2169,1038 2214,1035"/>
+                <TextEquiv>
+                    <Unicode>„Leſer” ſt. „Lehre” — Sp. 421, Z. 25 v. u. l. 1861 ſt. 1866. — Sp. 429, Z. 37 l. „die Schriften” ſt. „die in Schriften” — Sp.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616592733295_2395" custom="readingOrder {index:4;}">
+                <Coords points="137,1047 881,1042 1535,1044 1589,1045 1643,1047 1643,1077 1427,1080 137,1077"/>
+                <Baseline points="137,1067 170,1067 203,1067 236,1067 269,1067 302,1067 335,1067 368,1067 401,1067 434,1067 467,1065 500,1065 533,1065 566,1065 599,1065 632,1065 665,1065 698,1065 731,1065 764,1067 798,1067 881,1062 906,1064 931,1064 956,1065 982,1065 1007,1065 1032,1065 1057,1065 1083,1065 1108,1065 1133,1065 1158,1065 1184,1065 1209,1065 1234,1065 1259,1065 1285,1065 1310,1065 1335,1065 1360,1066 1386,1067 1427,1070 1454,1067 1481,1065 1508,1065 1535,1064 1562,1065 1589,1065 1616,1067 1643,1067"/>
+                <TextEquiv>
+                    <Unicode>440, Z. 3 v. u. l. „Bouvry” ſt. „Bonory”. — Sp. 691 Z. 33 l. „Sie reden” ſt „Sie werden”.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Druckfehler.
+Sp. 6 Z. 27 I. crucis ſt. cruris. Sp. 9, Z. 13 ſtreiche „ſich zu erheben”. Sp. 18, Z. 11 I. „disciplina“ ſt. „disciplinae”
+— Sp. 21, Z. 8 v. u. I. „zu äußern” ſt. „äußern”. — Sp. 380, Z. 19 l. „Radien” ſt. „Stadien” — Sp. 417, Z. 12 v. u. I.
+„Leſer” ſt. „Lehre” — Sp. 421, Z. 25 v. u. l. 1861 ſt. 1866. — Sp. 429, Z. 37 l. „die Schriften” ſt. „die in Schriften” — Sp.
+440, Z. 3 v. u. l. „Bouvry” ſt. „Bonory”. — Sp. 691 Z. 33 l. „Sie reden” ſt „Sie werden”.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

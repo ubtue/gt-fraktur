@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:49:51.556+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2610" WIDTH="1502">
+         <TopMargin HEIGHT="0" WIDTH="1502" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2610" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2610" WIDTH="0" VPOS="0" HPOS="1502"/>
+         <BottomMargin HEIGHT="0" WIDTH="1502" VPOS="2610" HPOS="0"/>
+         <PrintSpace HEIGHT="2610" WIDTH="1502" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2327" WIDTH="1354" VPOS="76" HPOS="128">
+               <Shape>
+                  <Polygon POINTS="128,76 128,2403 1482,2403 1482,76"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="781,100 827,102"
+                         HEIGHT="53"
+                         WIDTH="46"
+                         VPOS="82"
+                         HPOS="781">
+                  <String ID="string_r1l1"
+                          HEIGHT="53"
+                          WIDTH="46"
+                          VPOS="82"
+                          HPOS="781"
+                          CONTENT="34"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="128,206 195,207 262,208 329,208 396,209 464,209 531,209 598,209 665,209 732,209 800,209 867,209 934,209 1001,209 1068,209 1136,209 1203,210 1270,210 1337,211 1404,211 1472,212"
+                         HEIGHT="99"
+                         WIDTH="1344"
+                         VPOS="129"
+                         HPOS="128">
+                  <String ID="string_r1l2"
+                          HEIGHT="99"
+                          WIDTH="1344"
+                          VPOS="129"
+                          HPOS="128"
+                          CONTENT="Ehe und der Diſſidenten werden wieder auftauchen, und ein Antrag auf ein Unter⸗"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="134,258 204,259 274,261 345,261 415,262 486,262 556,262 627,262 697,262 768,262 838,261 909,261 979,261 1050,261 1120,261 1191,261 1261,262 1332,263 1402,264 1473,266"
+                         HEIGHT="61"
+                         WIDTH="1339"
+                         VPOS="221"
+                         HPOS="134">
+                  <String ID="string_r1l3"
+                          HEIGHT="61"
+                          WIDTH="1339"
+                          VPOS="221"
+                          HPOS="134"
+                          CONTENT="richtsgeſetz ſcheint durch die letzte Manifeſtation des Herrn Cultusminiſters in"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="138,311 204,313 271,314 338,315 405,315 472,315 539,315 605,315 672,315 739,314 806,314 873,314 940,314 1007,314 1073,314 1140,314 1207,314 1274,315 1341,317 1408,318 1475,320"
+                         HEIGHT="62"
+                         WIDTH="1337"
+                         VPOS="274"
+                         HPOS="138">
+                  <String ID="string_r1l4"
+                          HEIGHT="62"
+                          WIDTH="1337"
+                          VPOS="274"
+                          HPOS="138"
+                          CONTENT="Betreff der vielberegten „Regulative” ebenfalls in Ausſicht geſtellt. Hier müßten"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="133,366 200,367 267,367 334,367 401,367 469,367 536,367 603,367 670,367 737,367 805,367 872,367 939,367 1006,367 1073,368 1141,368 1208,369 1275,370 1342,371 1409,372 1477,374"
+                         HEIGHT="59"
+                         WIDTH="1344"
+                         VPOS="329"
+                         HPOS="133">
+                  <String ID="string_r1l5"
+                          HEIGHT="59"
+                          WIDTH="1344"
+                          VPOS="329"
+                          HPOS="133"
+                          CONTENT="wir es ſehr beklagen, wenn um etwaiger Mängel der Regulative willen auch das"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="133,420 182,421 231,421 280,421 329,421 379,421 428,420 477,420 526,419 575,419 625,418 674,418 723,417 772,417 821,417 871,417 920,418 969,418 1018,419 1067,421 1117,423"
+                         HEIGHT="56"
+                         WIDTH="984"
+                         VPOS="383"
+                         HPOS="133">
+                  <String ID="string_r1l6"
+                          HEIGHT="56"
+                          WIDTH="984"
+                          VPOS="383"
+                          HPOS="133"
+                          CONTENT="Gute, das ſie enthalten, über Bord geworfen werden ſollte."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="217,476 280,474 343,473 406,472 469,471 532,471 595,470 658,471 721,471 784,471 847,472 910,473 973,474 1036,474 1099,475 1162,476 1225,477 1288,478 1351,478 1414,479 1477,479"
+                         HEIGHT="63"
+                         WIDTH="1260"
+                         VPOS="431"
+                         HPOS="217">
+                  <String ID="string_r1l7"
+                          HEIGHT="63"
+                          WIDTH="1260"
+                          VPOS="431"
+                          HPOS="217"
+                          CONTENT="Unterdeſſen hat die weitgreifende Bewegung in der katholiſchen Welt auch"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="128,531 195,528 263,526 330,525 398,524 466,523 533,523 601,523 668,523 736,524 804,525 871,526 939,526 1006,527 1074,528 1141,529 1209,529 1277,530 1344,530 1412,530 1480,529"
+                         HEIGHT="59"
+                         WIDTH="1352"
+                         VPOS="487"
+                         HPOS="128">
+                  <String ID="string_r1l8"
+                          HEIGHT="59"
+                          WIDTH="1352"
+                          VPOS="487"
+                          HPOS="128"
+                          CONTENT="Preußen ergriffen. Selbſt die katholiſchen Studenten in Bonn wurden zu Hülfe"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="130,584 197,581 265,579 332,577 400,576 467,576 535,575 602,575 670,576 737,577 805,577 872,578 940,579 1007,581 1075,582 1142,583 1210,583 1277,584 1345,584 1412,584 1480,584"
+                         HEIGHT="62"
+                         WIDTH="1350"
+                         VPOS="538"
+                         HPOS="130">
+                  <String ID="string_r1l9"
+                          HEIGHT="62"
+                          WIDTH="1350"
+                          VPOS="538"
+                          HPOS="130"
+                          CONTENT="gerufen, um den wankenden Thron des Papſtes ſtützen zu helfen. Das wichtigſte"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="132,635 199,633 266,631 333,630 401,629 468,629 535,629 603,629 670,630 737,630 805,631 872,632 939,634 1006,635 1074,636 1141,637 1208,637 1276,638 1343,638 1410,638 1478,637"
+                         HEIGHT="61"
+                         WIDTH="1346"
+                         VPOS="592"
+                         HPOS="132">
+                  <String ID="string_r1l10"
+                          HEIGHT="61"
+                          WIDTH="1346"
+                          VPOS="592"
+                          HPOS="132"
+                          CONTENT="Aktenſtück in dieſer Angelegenheit iſt jedoch die Adreſſe der preußiſchen katholiſchen"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="129,683 196,682 264,681 331,681 399,681 467,681 534,682 602,682 670,683 737,684 805,685 873,686 940,687 1008,688 1076,689 1143,690 1211,690 1279,691 1346,691 1414,691 1482,690"
+                         HEIGHT="63"
+                         WIDTH="1353"
+                         VPOS="644"
+                         HPOS="129">
+                  <String ID="string_r1l11"
+                          HEIGHT="63"
+                          WIDTH="1353"
+                          VPOS="644"
+                          HPOS="129"
+                          CONTENT="Biſchöfe an Se. Königl. Hoheit den Prinz⸗Regenten. *) Auch vom proteſtantiſchen"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="142,736 208,735 275,735 341,734 408,735 474,735 541,735 607,736 674,737 740,738 807,739 873,740 940,741 1006,742 1073,743 1139,744 1206,745 1272,745 1339,746 1405,746 1472,746"
+                         HEIGHT="65"
+                         WIDTH="1330"
+                         VPOS="696"
+                         HPOS="142">
+                  <String ID="string_r1l12"
+                          HEIGHT="65"
+                          WIDTH="1330"
+                          VPOS="696"
+                          HPOS="142"
+                          CONTENT="Standpunkte aus werden wir revolutionäre Angriffe auf den Papſt und ſeine"/>
+               </TextLine>
+               <TextLine ID="line_1615978083035_811"
+                         BASELINE="188,797 228,799 243,799 293,801 343,802 393,804 444,805 494,806 544,807 594,808 645,808 695,809 745,810 795,810 846,811 896,812 946,812 996,813 1047,814 1097,815 1147,815 1197,816 1248,817"
+                         HEIGHT="71"
+                         WIDTH="1060"
+                         VPOS="760"
+                         HPOS="188">
+                  <String ID="string_line_1615978083035_811"
+                          HEIGHT="71"
+                          WIDTH="1060"
+                          VPOS="760"
+                          HPOS="188"
+                          CONTENT="*) Wir theilen ſie hiermit um ihrer Bedeutung willen im Auszuge mit:"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="318,850 375,851 433,851 491,852 549,853 607,853 665,854 722,855 780,857 838,858 896,859 954,860 1012,861 1070,862 1127,862 1185,863 1243,864 1301,864 1359,864 1417,864 1475,863"
+                         HEIGHT="59"
+                         WIDTH="1157"
+                         VPOS="818"
+                         HPOS="318">
+                  <String ID="string_r1l15"
+                          HEIGHT="59"
+                          WIDTH="1157"
+                          VPOS="818"
+                          HPOS="318"
+                          CONTENT="„Bei den unheilvollen Verwickelungen, welche ein trauriger Krieg und in ſeinem"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="241,894 302,895 364,896 426,897 487,898 549,899 611,900 672,901 734,902 796,903 858,904 919,905 981,906 1043,906 1104,907 1166,908 1228,908 1289,909 1351,910 1413,910 1475,910"
+                         HEIGHT="62"
+                         WIDTH="1234"
+                         VPOS="862"
+                         HPOS="241">
+                  <String ID="string_r1l16"
+                          HEIGHT="62"
+                          WIDTH="1234"
+                          VPOS="862"
+                          HPOS="241"
+                          CONTENT="Gefolge die Revolution über Italien und zum Theil auch über den Kirchenſtaat"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="241,942 302,943 363,944 425,944 486,945 548,946 609,947 670,948 732,948 793,949 855,950 916,951 977,952 1039,952 1100,953 1162,954 1223,954 1284,955 1346,956 1407,956 1469,957"
+                         HEIGHT="60"
+                         WIDTH="1228"
+                         VPOS="910"
+                         HPOS="241">
+                  <String ID="string_r1l17"
+                          HEIGHT="60"
+                          WIDTH="1228"
+                          VPOS="910"
+                          HPOS="241"
+                          CONTENT="gebracht haben, und welche nunmehr, wie öffentliche Blätter verläſſig berichten, auf"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="245,990 306,990 367,990 429,991 490,991 552,992 613,993 674,994 736,995 797,996 859,997 920,998 981,998 1043,999 1104,1000 1166,1000 1227,1001 1288,1001 1350,1001 1411,1000 1473,999"
+                         HEIGHT="55"
+                         WIDTH="1228"
+                         VPOS="960"
+                         HPOS="245">
+                  <String ID="string_r1l18"
+                          HEIGHT="55"
+                          WIDTH="1228"
+                          VPOS="960"
+                          HPOS="245"
+                          CONTENT="einem bevorſtehenden Congreß ihre Löſung finden ſollen, fühlen die katholiſchen Biſchöfe"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="244,1035 305,1036 367,1037 428,1038 490,1039 551,1040 613,1041 674,1042 736,1042 797,1043 859,1043 921,1044 982,1044 1044,1045 1105,1045 1167,1046 1228,1046 1290,1047 1351,1047 1413,1048 1475,1048"
+                         HEIGHT="58"
+                         WIDTH="1231"
+                         VPOS="1003"
+                         HPOS="244">
+                  <String ID="string_r1l19"
+                          HEIGHT="58"
+                          WIDTH="1231"
+                          VPOS="1003"
+                          HPOS="244"
+                          CONTENT="in Preußen ſich gedrungen, Ew. Königl. Hoheit eine die katholiſche Kirche auf das"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="241,1082 302,1083 364,1084 426,1085 487,1086 549,1086 611,1087 672,1088 734,1088 796,1089 858,1089 919,1090 981,1091 1043,1091 1104,1091 1166,1092 1228,1092 1289,1093 1351,1093 1413,1094 1475,1094"
+                         HEIGHT="57"
+                         WIDTH="1234"
+                         VPOS="1050"
+                         HPOS="241">
+                  <String ID="string_r1l20"
+                          HEIGHT="57"
+                          WIDTH="1234"
+                          VPOS="1050"
+                          HPOS="241"
+                          CONTENT="tiefſte berührende Bitte mit vertrauensvollſter Ehrfurcht vorzutragen. Es iſt die Bitte,"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="242,1129 303,1130 365,1131 426,1132 488,1133 550,1133 611,1134 673,1135 735,1136 796,1137 858,1137 920,1138 981,1138 1043,1139 1105,1139 1166,1140 1228,1140 1290,1140 1351,1140 1413,1140 1475,1140"
+                         HEIGHT="57"
+                         WIDTH="1233"
+                         VPOS="1097"
+                         HPOS="242">
+                  <String ID="string_r1l21"
+                          HEIGHT="57"
+                          WIDTH="1233"
+                          VPOS="1097"
+                          HPOS="242"
+                          CONTENT="daß Ew. Königl. Hoheit nicht zugeben, daß dem Papst die weltliche Herrſchaft, die"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="235,1176 296,1176 358,1177 420,1178 482,1179 544,1180 606,1181 668,1182 730,1183 792,1184 854,1184 915,1185 977,1186 1039,1186 1101,1187 1163,1187 1225,1187 1287,1187 1349,1187 1411,1186 1473,1185"
+                         HEIGHT="57"
+                         WIDTH="1238"
+                         VPOS="1144"
+                         HPOS="235">
+                  <String ID="string_r1l22"
+                          HEIGHT="57"
+                          WIDTH="1238"
+                          VPOS="1144"
+                          HPOS="235"
+                          CONTENT="ihm Gott gegeben, entzogen oder geſchmälert werde, und daß Ew. Königl. Hoheit"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="241,1222 302,1222 364,1222 425,1223 487,1224 549,1225 610,1226 672,1227 733,1228 795,1229 857,1230 918,1231 980,1232 1041,1233 1103,1233 1165,1234 1226,1234 1288,1233 1349,1233 1411,1232 1473,1230"
+                         HEIGHT="57"
+                         WIDTH="1232"
+                         VPOS="1190"
+                         HPOS="241">
+                  <String ID="string_r1l23"
+                          HEIGHT="57"
+                          WIDTH="1232"
+                          VPOS="1190"
+                          HPOS="241"
+                          CONTENT="den zum Congreß abzuordnenden preußiſchen Geſandten anweiſen wollen, ſich jeder"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="239,1266 300,1266 362,1267 423,1268 485,1269 547,1270 608,1271 670,1272 731,1273 793,1275 855,1276 916,1277 978,1278 1039,1279 1101,1279 1163,1280 1224,1280 1286,1279 1347,1279 1409,1278 1471,1277"
+                         HEIGHT="59"
+                         WIDTH="1232"
+                         VPOS="1234"
+                         HPOS="239">
+                  <String ID="string_r1l24"
+                          HEIGHT="59"
+                          WIDTH="1232"
+                          VPOS="1234"
+                          HPOS="239"
+                          CONTENT="Beeinträchtigung des apoſtoliſchen Stuhles und deren Sanctionirung mit allem der"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="249,1312 310,1312 371,1313 432,1314 494,1315 555,1316 616,1317 678,1318 739,1320 800,1321 862,1322 923,1323 984,1324 1045,1325 1107,1325 1168,1326 1229,1326 1291,1326 1352,1325 1413,1324 1475,1322"
+                         HEIGHT="59"
+                         WIDTH="1226"
+                         VPOS="1280"
+                         HPOS="249">
+                  <String ID="string_r1l25"
+                          HEIGHT="59"
+                          WIDTH="1226"
+                          VPOS="1280"
+                          HPOS="249"
+                          CONTENT="Machtſtellung Preußens entſprechenden, und wie wir überzeugt ſind, gewichtig in die"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="241,1358 303,1358 365,1359 427,1360 489,1361 551,1362 613,1363 675,1364 737,1366 799,1367 861,1368 923,1369 985,1370 1047,1371 1109,1371 1171,1372 1233,1371 1295,1371 1357,1370 1419,1369 1481,1367"
+                         HEIGHT="59"
+                         WIDTH="1240"
+                         VPOS="1326"
+                         HPOS="241">
+                  <String ID="string_r1l26"
+                          HEIGHT="59"
+                          WIDTH="1240"
+                          VPOS="1326"
+                          HPOS="241"
+                          CONTENT="Waagſchale fallenden Anſehen zu widerſetzen. Allergnädigſter Prinz⸗Regent! Wir"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="244,1403 305,1404 366,1405 428,1406 489,1407 551,1408 612,1409 674,1410 735,1412 797,1413 858,1414 919,1415 981,1416 1042,1417 1104,1417 1165,1418 1227,1418 1288,1417 1350,1417 1411,1416 1473,1414"
+                         HEIGHT="60"
+                         WIDTH="1229"
+                         VPOS="1371"
+                         HPOS="244">
+                  <String ID="string_r1l27"
+                          HEIGHT="60"
+                          WIDTH="1229"
+                          VPOS="1371"
+                          HPOS="244"
+                          CONTENT="bitten im Namen von 7 Millionen Preußen, und unſere Bitte iſt ebenſo national wie"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="244,1451 305,1451 367,1452 429,1453 491,1454 552,1455 614,1456 676,1457 738,1458 799,1459 861,1460 923,1461 985,1462 1046,1462 1108,1463 1170,1463 1232,1463 1293,1463 1355,1462 1417,1461 1479,1460"
+                         HEIGHT="57"
+                         WIDTH="1235"
+                         VPOS="1420"
+                         HPOS="244">
+                  <String ID="string_r1l28"
+                          HEIGHT="57"
+                          WIDTH="1235"
+                          VPOS="1420"
+                          HPOS="244"
+                          CONTENT="patriotiſch. Wenn, wie über allen Zweifel feſtſteht, Religion und Kirche die höchſten"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="243,1498 304,1498 365,1499 427,1500 488,1500 550,1501 611,1502 672,1503 734,1504 795,1505 857,1506 918,1507 979,1508 1041,1508 1102,1509 1164,1509 1225,1510 1286,1509 1348,1509 1409,1509 1471,1508"
+                         HEIGHT="57"
+                         WIDTH="1228"
+                         VPOS="1466"
+                         HPOS="243">
+                  <String ID="string_r1l29"
+                          HEIGHT="57"
+                          WIDTH="1228"
+                          VPOS="1466"
+                          HPOS="243"
+                          CONTENT="Intereſſen der gebildeten Völker einſchließen, und wenn, wie im vorliegenden Falle,"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="242,1543 303,1544 365,1545 427,1546 489,1547 551,1548 613,1549 674,1550 736,1551 798,1552 860,1552 922,1553 984,1554 1046,1554 1107,1555 1169,1555 1231,1555 1293,1555 1355,1555 1417,1554 1479,1553"
+                         HEIGHT="57"
+                         WIDTH="1237"
+                         VPOS="1512"
+                         HPOS="242">
+                  <String ID="string_r1l30"
+                          HEIGHT="57"
+                          WIDTH="1237"
+                          VPOS="1512"
+                          HPOS="242"
+                          CONTENT="die Intereſſen von Millionen Preußen auf das tiefſte berührt werden, ſo wird ihre"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="244,1589 305,1590 366,1591 428,1592 489,1593 551,1594 612,1595 674,1596 735,1597 797,1598 858,1599 919,1600 981,1600 1042,1601 1104,1601 1165,1602 1227,1602 1288,1602 1350,1601 1411,1601 1473,1600"
+                         HEIGHT="58"
+                         WIDTH="1229"
+                         VPOS="1557"
+                         HPOS="244">
+                  <String ID="string_r1l31"
+                          HEIGHT="58"
+                          WIDTH="1229"
+                          VPOS="1557"
+                          HPOS="244"
+                          CONTENT="Sache Sache der ganzen Nation, und ſie haben das Recht, für dieſe höchſte Angele⸗"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="246,1636 307,1636 368,1636 430,1637 491,1637 553,1638 614,1640 675,1641 737,1642 798,1643 860,1644 921,1645 982,1646 1044,1647 1105,1647 1167,1647 1228,1648 1289,1647 1351,1647 1412,1646 1474,1644"
+                         HEIGHT="58"
+                         WIDTH="1228"
+                         VPOS="1604"
+                         HPOS="246">
+                  <String ID="string_r1l32"
+                          HEIGHT="58"
+                          WIDTH="1228"
+                          VPOS="1604"
+                          HPOS="246"
+                          CONTENT="genheit den landesherrlichen Schutz anzurufen. Auch iſt unſere Bitte patriotiſch; denn"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="250,1681 311,1680 372,1681 433,1681 495,1682 556,1684 617,1685 679,1686 740,1687 801,1689 863,1690 924,1692 985,1693 1046,1694 1108,1694 1169,1695 1230,1695 1292,1694 1353,1693 1414,1692 1476,1690"
+                         HEIGHT="60"
+                         WIDTH="1226"
+                         VPOS="1648"
+                         HPOS="250">
+                  <String ID="string_r1l33"
+                          HEIGHT="60"
+                          WIDTH="1226"
+                          VPOS="1648"
+                          HPOS="250"
+                          CONTENT="wir wollen jede Möglichkeit beſeitigt wiſſen, daß ein übermüthiger Herrſcher je in"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="245,1726 306,1727 367,1727 428,1728 490,1729 551,1730 612,1731 674,1732 735,1734 796,1735 858,1736 919,1738 980,1738 1041,1739 1103,1740 1164,1741 1225,1741 1287,1741 1348,1740 1409,1739 1471,1738"
+                         HEIGHT="61"
+                         WIDTH="1226"
+                         VPOS="1694"
+                         HPOS="245">
+                  <String ID="string_r1l34"
+                          HEIGHT="61"
+                          WIDTH="1226"
+                          VPOS="1694"
+                          HPOS="245"
+                          CONTENT="Verſuchung komme, den ſeiner weltlichen Macht entkleideten und zum Vaſallen ernie⸗"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="243,1775 304,1774 366,1774 427,1774 489,1775 551,1776 612,1777 674,1778 735,1780 797,1781 859,1783 920,1784 982,1786 1043,1787 1105,1787 1167,1788 1228,1788 1290,1787 1351,1786 1413,1784 1475,1782"
+                         HEIGHT="60"
+                         WIDTH="1232"
+                         VPOS="1742"
+                         HPOS="243">
+                  <String ID="string_r1l35"
+                          HEIGHT="60"
+                          WIDTH="1232"
+                          VPOS="1742"
+                          HPOS="243"
+                          CONTENT="drigten Papſt irgendwie zu Verfolgung ſeiner ehrgeizigen Uebergewichts⸗ und Erobe⸗"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="248,1824 309,1822 370,1822 431,1821 493,1821 554,1822 615,1823 677,1824 738,1826 799,1827 861,1829 922,1830 983,1832 1044,1833 1106,1834 1167,1834 1228,1835 1290,1834 1351,1833 1412,1832 1474,1829"
+                         HEIGHT="59"
+                         WIDTH="1226"
+                         VPOS="1789"
+                         HPOS="248">
+                  <String ID="string_r1l36"
+                          HEIGHT="59"
+                          WIDTH="1226"
+                          VPOS="1789"
+                          HPOS="248"
+                          CONTENT="rungspläne mißbrauchen zu wollen. Dabei fürchten wir nicht den Vorwurf, daß wir"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="246,1870 307,1868 368,1867 429,1867 490,1867 551,1868 612,1869 673,1870 734,1872 795,1873 856,1874 917,1876 978,1877 1039,1878 1100,1879 1161,1880 1222,1880 1283,1880 1344,1879 1405,1878 1466,1876"
+                         HEIGHT="57"
+                         WIDTH="1220"
+                         VPOS="1836"
+                         HPOS="246">
+                  <String ID="string_r1l37"
+                          HEIGHT="57"
+                          WIDTH="1220"
+                          VPOS="1836"
+                          HPOS="246"
+                          CONTENT="uns unberufen und unberechtigt in die Politik einmiſchen, wenn wir vor Ew. Königl."/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="242,1916 303,1915 365,1914 426,1914 488,1914 549,1915 611,1916 672,1917 734,1918 795,1920 857,1922 918,1923 980,1924 1041,1925 1103,1926 1164,1926 1226,1926 1287,1925 1349,1924 1410,1922 1472,1920"
+                         HEIGHT="58"
+                         WIDTH="1230"
+                         VPOS="1882"
+                         HPOS="242">
+                  <String ID="string_r1l38"
+                          HEIGHT="58"
+                          WIDTH="1230"
+                          VPOS="1882"
+                          HPOS="242"
+                          CONTENT="Hoheit für den Papſt, ſeinen Stuhl und ſeines Stuhles Rechte das Wort ergreifen."/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="246,1963 307,1961 368,1960 429,1959 491,1960 552,1960 613,1961 675,1963 736,1964 797,1966 859,1968 920,1969 981,1971 1042,1972 1104,1973 1165,1973 1226,1973 1288,1972 1349,1970 1410,1968 1472,1964"
+                         HEIGHT="59"
+                         WIDTH="1226"
+                         VPOS="1927"
+                         HPOS="246">
+                  <String ID="string_r1l39"
+                          HEIGHT="59"
+                          WIDTH="1226"
+                          VPOS="1927"
+                          HPOS="246"
+                          CONTENT="Diese Rechte liegen über alle Politik hinaus, und ihr unverletzter Beſtand iſt für uns"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="244,2009 305,2007 367,2005 429,2005 491,2005 553,2005 614,2006 676,2008 738,2010 800,2011 862,2013 923,2015 985,2017 1047,2018 1109,2019 1171,2019 1232,2019 1294,2018 1356,2016 1418,2014 1480,2009"
+                         HEIGHT="60"
+                         WIDTH="1236"
+                         VPOS="1973"
+                         HPOS="244">
+                  <String ID="string_r1l40"
+                          HEIGHT="60"
+                          WIDTH="1236"
+                          VPOS="1973"
+                          HPOS="244"
+                          CONTENT="und alle Katholiken keine politiſche, ſondern eine kirchliche Angelegenheit, weil ſie"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="242,2056 303,2053 365,2052 427,2051 488,2051 550,2052 612,2053 673,2054 735,2056 797,2058 859,2060 920,2062 982,2064 1044,2065 1105,2066 1167,2066 1229,2066 1290,2064 1352,2061 1414,2058 1476,2053"
+                         HEIGHT="61"
+                         WIDTH="1234"
+                         VPOS="2019"
+                         HPOS="242">
+                  <String ID="string_r1l41"
+                          HEIGHT="61"
+                          WIDTH="1234"
+                          VPOS="2019"
+                          HPOS="242"
+                          CONTENT="eben unſere Kirche, ihr Oberhaupt, ſeine Stellung, ſeine Freiheit und Unabhängigkeit"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="246,2102 307,2099 369,2097 430,2096 492,2096 554,2097 615,2098 677,2100 738,2102 800,2104 862,2106 923,2108 985,2110 1046,2112 1108,2112 1170,2113 1231,2112 1293,2110 1354,2108 1416,2104 1478,2099"
+                         HEIGHT="62"
+                         WIDTH="1232"
+                         VPOS="2064"
+                         HPOS="246">
+                  <String ID="string_r1l42"
+                          HEIGHT="62"
+                          WIDTH="1232"
+                          VPOS="2064"
+                          HPOS="246"
+                          CONTENT="in Ausführung der ihm von der Vorſehung zur Wohlfahrt von mehr als 200 Millionen"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="241,2147 302,2145 363,2144 424,2143 486,2144 547,2145 608,2146 670,2147 731,2149 792,2151 854,2153 915,2155 976,2157 1037,2158 1099,2159 1160,2159 1221,2159 1283,2157 1344,2155 1405,2152 1467,2148"
+                         HEIGHT="62"
+                         WIDTH="1226"
+                         VPOS="2111"
+                         HPOS="241">
+                  <String ID="string_r1l43"
+                          HEIGHT="62"
+                          WIDTH="1226"
+                          VPOS="2111"
+                          HPOS="241"
+                          CONTENT="Bekenner übertragenen Miſſion auf das Weſentlichſte berührt. Daß dieſe Stellung"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="252,2194 312,2192 373,2191 434,2191 495,2191 556,2192 616,2193 677,2195 738,2197 799,2198 860,2200 920,2202 981,2204 1042,2205 1103,2206 1164,2206 1224,2205 1285,2204 1346,2202 1407,2199 1468,2194"
+                         HEIGHT="60"
+                         WIDTH="1216"
+                         VPOS="2159"
+                         HPOS="252">
+                  <String ID="string_r1l44"
+                          HEIGHT="60"
+                          WIDTH="1216"
+                          VPOS="2159"
+                          HPOS="252"
+                          CONTENT="ihm bewahrt bleibe, iſt für uns eine Frage der Religion. Zwar wiſſen wir es wohl,"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="250,2239 311,2238 372,2237 433,2237 494,2237 555,2238 616,2239 677,2241 738,2243 799,2244 861,2246 922,2248 983,2249 1044,2250 1105,2251 1166,2251 1227,2250 1288,2249 1349,2246 1410,2244 1472,2239"
+                         HEIGHT="58"
+                         WIDTH="1222"
+                         VPOS="2206"
+                         HPOS="250">
+                  <String ID="string_r1l45"
+                          HEIGHT="58"
+                          WIDTH="1222"
+                          VPOS="2206"
+                          HPOS="250"
+                          CONTENT="daß der Papſt wohl immerhin bleiben würde auch ohne weltliche Macht, Er iſt Papſt"/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="254,2283 315,2283 376,2282 437,2283 498,2284 560,2285 621,2286 682,2288 743,2290 804,2292 866,2293 927,2295 988,2296 1049,2297 1110,2297 1172,2297 1233,2296 1294,2294 1355,2292 1416,2289 1478,2285"
+                         HEIGHT="61"
+                         WIDTH="1224"
+                         VPOS="2250"
+                         HPOS="254">
+                  <String ID="string_r1l46"
+                          HEIGHT="61"
+                          WIDTH="1224"
+                          VPOS="2250"
+                          HPOS="254"
+                          CONTENT="geweſen, ehe er weltlicher Fürſt und Herrſcher geworden. Allein wie dieſes nun einmal"/>
+               </TextLine>
+               <TextLine ID="r1l47"
+                         BASELINE="246,2327 307,2327 369,2328 430,2329 492,2330 553,2332 615,2333 676,2335 738,2337 799,2339 861,2341 922,2342 984,2343 1045,2344 1107,2344 1168,2344 1230,2343 1291,2342 1353,2340 1414,2337 1476,2333"
+                         HEIGHT="63"
+                         WIDTH="1230"
+                         VPOS="2295"
+                         HPOS="246">
+                  <String ID="string_r1l47"
+                          HEIGHT="63"
+                          WIDTH="1230"
+                          VPOS="2295"
+                          HPOS="246"
+                          CONTENT="durch Gottes Vorſehung geworden und ſeit Jahrhunderten es iſt, iſt die weltliche"/>
+               </TextLine>
+               <TextLine ID="r1l48"
+                         BASELINE="245,2372 306,2373 367,2374 429,2376 490,2377 552,2379 613,2381 674,2383 736,2385 797,2387 859,2388 920,2390 981,2391 1043,2391 1104,2392 1166,2391 1227,2390 1288,2389 1350,2387 1411,2384 1473,2380"
+                         HEIGHT="56"
+                         WIDTH="1228"
+                         VPOS="2339"
+                         HPOS="245">
+                  <String ID="string_r1l48"
+                          HEIGHT="56"
+                          WIDTH="1228"
+                          VPOS="2339"
+                          HPOS="245"
+                          CONTENT="Macht, die ihm die Vorſehung gegeben, in ſeine Stellung ſo weſentlich verwachſen,"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

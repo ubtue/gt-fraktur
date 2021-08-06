@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T16:20:22.803+01:00</Created>
+        <LastChange>2021-05-12T10:22:08.426+02:00</LastChange>
+        <TranskribusMetadata docId="543405" pageId="22812812" pageNr="9" tsid="57770751" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=XMBELJZHOSDWCDBSXDVHZRGX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OZLJDQBZNTNIPVNOCRUGCZSA" imageId="17787862"/>
+    </Metadata>
+    <Page imageFilename="stml_1871_01_00060.tif" imageWidth="1420" imageHeight="2339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327604399" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="59,450 59,2257 1337,2257 1337,450"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="544,483 569,484 595,485 620,486 646,486 671,487 697,487 722,487 748,487 773,487 799,488 824,488 850,489 850,456 824,455 799,455 773,454 748,454 722,454 697,454 671,454 646,453 620,453 595,452 569,451 544,450"/>
+                <Baseline points="544,472 569,473 595,474 620,475 646,475 671,476 697,476 722,476 748,476 773,476 799,477 824,477 850,478"/>
+                <TextEquiv>
+                    <Unicode>Recenſionen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} textStyle {offset:0; length:26;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="66,585 129,584 193,584 256,584 320,584 383,583 447,583 510,583 574,583 637,583 701,584 765,584 828,584 892,584 955,584 1019,584 1082,584 1146,584 1209,584 1273,584 1337,584 1337,551 1273,551 1209,551 1146,551 1082,551 1019,551 955,551 892,551 828,551 765,551 701,551 637,550 574,550 510,550 447,550 383,550 320,551 256,551 193,551 129,551 66,552"/>
+                <Baseline points="66,574 129,573 193,573 256,573 320,573 383,572 447,572 510,572 574,572 637,572 701,573 765,573 828,573 892,573 955,573 1019,573 1082,573 1146,573 1209,573 1273,573 1337,573"/>
+                <TextEquiv>
+                    <Unicode>Allgemeiner Miſſions⸗Atlas. Nach Originalquellen bearbeitet von Dr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} textStyle {offset:0; length:14;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="152,641 211,640 270,640 329,640 388,639 447,639 506,639 566,640 625,640 684,640 743,640 802,640 861,640 920,641 980,641 1039,641 1098,641 1157,641 1216,641 1275,641 1335,641 1335,608 1275,608 1216,608 1157,608 1098,608 1039,608 980,608 920,608 861,607 802,607 743,607 684,607 625,607 566,607 506,606 447,606 388,606 329,607 270,607 211,607 152,608"/>
+                <Baseline points="152,630 211,629 270,629 329,629 388,628 447,628 506,628 566,629 625,629 684,629 743,629 802,629 861,629 920,630 980,630 1039,630 1098,630 1157,630 1216,630 1275,630 1335,630"/>
+                <TextEquiv>
+                    <Unicode>R. Grundemann, Prediger. Gotha, Perthes 1867–1870. (Bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="171,695 197,696 224,696 251,697 278,697 305,697 332,697 358,697 385,697 412,697 439,697 466,697 493,697 493,664 466,664 439,664 412,664 385,664 358,664 332,664 305,664 278,664 251,664 224,663 197,663 171,662"/>
+                <Baseline points="171,684 197,685 224,685 251,686 278,686 305,686 332,686 358,686 385,686 412,686 439,686 466,686 493,686"/>
+                <TextEquiv>
+                    <Unicode>setzt 8 Lieferungen.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="146,777 204,778 263,779 322,779 381,780 440,780 499,781 557,781 616,781 675,781 734,781 793,781 852,781 911,781 969,781 1028,781 1087,781 1146,781 1205,781 1264,780 1323,780 1323,747 1264,747 1205,748 1146,748 1087,748 1028,748 969,748 911,748 852,748 793,748 734,748 675,748 616,748 557,748 499,748 440,747 381,747 322,746 263,746 204,745 146,744"/>
+                <Baseline points="146,766 204,767 263,768 322,768 381,769 440,769 499,770 557,770 616,770 675,770 734,770 793,770 852,770 911,770 969,770 1028,770 1087,770 1146,770 1205,770 1264,769 1323,769"/>
+                <TextEquiv>
+                    <Unicode>Für eingehendes Studium des Miſſionsweſens ſind kartographiſche Hülfſmittel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="74,821 136,822 198,822 261,823 323,823 385,824 448,824 510,824 572,825 635,825 697,825 759,825 822,825 884,825 946,825 1009,825 1071,825 1133,825 1196,825 1258,825 1321,825 1321,794 1258,794 1196,794 1133,794 1071,794 1009,794 946,794 884,794 822,794 759,794 697,794 635,794 572,794 510,793 448,793 385,793 323,792 261,792 198,791 136,791 74,790"/>
+                <Baseline points="74,811 136,812 198,812 261,813 323,813 385,814 448,814 510,814 572,815 635,815 697,815 759,815 822,815 884,815 946,815 1009,815 1071,815 1133,815 1196,815 1258,815 1321,815"/>
+                <TextEquiv>
+                    <Unicode>überaus nützlich, ja nothwendig. Dieß iſt denn auch längſt begriffen worden. Sogar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="63,867 126,867 189,867 252,867 315,867 378,868 441,868 504,868 567,868 630,868 693,869 756,869 819,869 882,869 945,869 1008,869 1071,869 1134,869 1197,869 1260,869 1323,869 1323,838 1260,838 1197,838 1134,838 1071,838 1008,838 945,838 882,838 819,838 756,838 693,838 630,837 567,837 504,837 441,837 378,837 315,836 252,836 189,836 126,836 63,836"/>
+                <Baseline points="63,857 126,857 189,857 252,857 315,857 378,858 441,858 504,858 567,858 630,858 693,859 756,859 819,859 882,859 945,859 1008,859 1071,859 1134,859 1197,859 1260,859 1323,859"/>
+                <TextEquiv>
+                    <Unicode>der populär gehaltene „Weltbote von Joſepho Stöcklein, der Geſellſchaft Jeſu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="69,911 131,911 194,911 256,911 319,911 381,911 444,911 506,911 569,912 631,912 694,912 756,912 819,913 881,913 944,913 1006,913 1069,913 1131,913 1194,913 1256,913 1319,913 1319,883 1256,883 1194,883 1131,883 1069,883 1006,883 944,883 881,883 819,883 756,882 694,882 631,882 569,882 506,881 444,881 381,881 319,881 256,881 194,881 131,881 69,881"/>
+                <Baseline points="69,901 131,901 194,901 256,901 319,901 381,901 444,901 506,901 569,902 631,902 694,902 756,902 819,903 881,903 944,903 1006,903 1069,903 1131,903 1194,903 1256,903 1319,903"/>
+                <TextEquiv>
+                    <Unicode>Prieſtern“, ſucht durch zahlreiche Karten verſchiedener Theile Aſiens, Afrika’s, Ame⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="67,956 129,956 192,955 255,954 318,954 381,954 443,954 506,953 569,953 632,953 695,954 757,954 820,954 883,954 946,955 1009,955 1071,955 1134,956 1197,956 1260,957 1323,957 1323,927 1260,927 1197,926 1134,926 1071,925 1009,925 946,925 883,924 820,924 757,924 695,924 632,923 569,923 506,923 443,924 381,924 318,924 255,924 192,925 129,926 67,926"/>
+                <Baseline points="67,946 129,946 192,945 255,944 318,944 381,944 443,944 506,943 569,943 632,943 695,944 757,944 820,944 883,944 946,945 1009,945 1071,945 1134,946 1197,946 1260,947 1323,947"/>
+                <TextEquiv>
+                    <Unicode>rika’s, Oceaniens (Philippinen, Marianen, Carolinen) ſeine Miſſionsberichte zu ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="75,1000 137,999 199,999 261,999 323,999 386,999 448,999 510,998 572,998 634,998 697,998 759,998 821,998 883,998 945,998 1008,999 1070,999 1132,999 1194,1000 1256,1000 1319,1001 1319,970 1256,969 1194,969 1132,968 1070,968 1008,968 945,967 883,967 821,967 759,967 697,967 634,967 572,967 510,967 448,968 386,968 323,968 261,968 199,968 137,968 75,969"/>
+                <Baseline points="75,990 137,989 199,989 261,989 323,989 386,989 448,989 510,988 572,988 634,988 697,988 759,988 821,988 883,988 945,988 1008,989 1070,989 1132,989 1194,990 1256,990 1319,991"/>
+                <TextEquiv>
+                    <Unicode>anſchaulichen. Die alten Miſſionäre verwendeten aus demſelben Grunde große Mühe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="69,1042 131,1042 193,1042 256,1042 318,1042 381,1042 443,1042 506,1042 568,1042 631,1042 693,1042 755,1042 818,1043 880,1043 943,1043 1005,1043 1068,1043 1130,1043 1193,1043 1255,1043 1318,1043 1318,1012 1255,1012 1193,1012 1130,1012 1068,1012 1005,1012 943,1012 880,1012 818,1012 755,1011 693,1011 631,1011 568,1011 506,1011 443,1011 381,1011 318,1011 256,1011 193,1011 131,1011 69,1011"/>
+                <Baseline points="69,1032 131,1032 193,1032 256,1032 318,1032 381,1032 443,1032 506,1032 568,1032 631,1032 693,1032 755,1032 818,1033 880,1033 943,1033 1005,1033 1068,1033 1130,1033 1193,1033 1255,1033 1318,1033"/>
+                <TextEquiv>
+                    <Unicode>auf die Verfertigung topographiſcher und geographiſcher Zeichnungen. „Mit nächſtem“,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="72,1087 134,1086 197,1086 259,1086 322,1086 384,1086 447,1086 509,1086 572,1086 634,1086 697,1086 760,1086 822,1087 885,1087 947,1087 1010,1087 1072,1088 1135,1088 1197,1088 1260,1088 1323,1088 1323,1057 1260,1057 1197,1057 1135,1057 1072,1057 1010,1056 947,1056 885,1056 822,1056 760,1055 697,1055 634,1055 572,1055 509,1055 447,1055 384,1055 322,1055 259,1055 197,1055 134,1055 72,1056"/>
+                <Baseline points="72,1077 134,1076 197,1076 259,1076 322,1076 384,1076 447,1076 509,1076 572,1076 634,1076 697,1076 760,1076 822,1077 885,1077 947,1077 1010,1077 1072,1078 1135,1078 1197,1078 1260,1078 1323,1078"/>
+                <TextEquiv>
+                    <Unicode>heißt es in einem Brief P. Schindlers aus Quito (v. J. 1725) „werden wir guten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="63,1131 126,1131 189,1131 252,1131 315,1131 379,1131 442,1131 505,1131 568,1131 631,1131 695,1131 758,1131 821,1131 884,1131 947,1131 1011,1132 1074,1132 1137,1132 1200,1132 1263,1132 1327,1133 1327,1103 1263,1102 1200,1102 1137,1102 1074,1102 1011,1102 947,1101 884,1101 821,1101 758,1101 695,1101 631,1101 568,1101 505,1101 442,1101 379,1101 315,1101 252,1101 189,1101 126,1101 63,1101"/>
+                <Baseline points="63,1121 126,1121 189,1121 252,1121 315,1121 379,1121 442,1121 505,1121 568,1121 631,1121 695,1121 758,1121 821,1121 884,1121 947,1121 1011,1122 1074,1122 1137,1122 1200,1122 1263,1122 1327,1123"/>
+                <TextEquiv>
+                    <Unicode>Freunden mit weitläufigen Reis⸗ und Land⸗Beſchreibungen aufwarten, dieſe aber mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="65,1176 128,1176 191,1176 254,1176 317,1176 380,1176 443,1176 507,1176 570,1176 633,1176 696,1176 759,1176 822,1176 885,1176 949,1176 1012,1176 1075,1176 1138,1176 1201,1176 1264,1175 1328,1175 1328,1144 1264,1144 1201,1145 1138,1145 1075,1145 1012,1145 949,1145 885,1145 822,1145 759,1145 696,1145 633,1145 570,1145 507,1145 443,1145 380,1145 317,1145 254,1145 191,1145 128,1145 65,1145"/>
+                <Baseline points="65,1166 128,1166 191,1166 254,1166 317,1166 380,1166 443,1166 507,1166 570,1166 633,1166 696,1166 759,1166 822,1166 885,1166 949,1166 1012,1166 1075,1166 1138,1166 1201,1166 1264,1165 1328,1165"/>
+                <TextEquiv>
+                    <Unicode>etlichen neuen Land⸗Tafeln, welche P. Maroni mit Fleiß verzeichnet, ausführlich er⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="62,1220 124,1220 187,1219 250,1219 313,1219 376,1220 439,1220 501,1220 564,1220 627,1220 690,1220 753,1220 816,1221 879,1221 941,1221 1004,1221 1067,1221 1130,1220 1193,1220 1256,1220 1319,1219 1319,1188 1256,1189 1193,1189 1130,1189 1067,1190 1004,1190 941,1190 879,1190 816,1190 753,1189 690,1189 627,1189 564,1189 501,1189 439,1189 376,1189 313,1188 250,1188 187,1188 124,1189 62,1189"/>
+                <Baseline points="62,1210 124,1210 187,1209 250,1209 313,1209 376,1210 439,1210 501,1210 564,1210 627,1210 690,1210 753,1210 816,1211 879,1211 941,1211 1004,1211 1067,1211 1130,1210 1193,1210 1256,1210 1319,1209"/>
+                <TextEquiv>
+                    <Unicode>klären, in gänzlicher Hoffnung, die gelehrte Welt werde dieſe unſere Mühe um deſto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="70,1262 132,1263 195,1263 257,1263 320,1263 382,1263 445,1264 507,1264 570,1264 632,1264 695,1264 757,1264 820,1264 882,1264 945,1264 1007,1264 1070,1264 1132,1264 1195,1264 1257,1264 1320,1263 1320,1233 1257,1234 1195,1234 1132,1234 1070,1234 1007,1234 945,1234 882,1234 820,1234 757,1234 695,1234 632,1234 570,1234 507,1234 445,1234 382,1233 320,1233 257,1233 195,1233 132,1233 70,1232"/>
+                <Baseline points="70,1252 132,1253 195,1253 257,1253 320,1253 382,1253 445,1254 507,1254 570,1254 632,1254 695,1254 757,1254 820,1254 882,1254 945,1254 1007,1254 1070,1254 1132,1254 1195,1254 1257,1254 1320,1253"/>
+                <TextEquiv>
+                    <Unicode>mehr billigen, je handgreiflicher aus gemeldeten Land⸗Karten erhellen ſoll, wie ſehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="63,1308 125,1307 188,1307 250,1307 313,1307 375,1307 438,1307 500,1307 563,1307 625,1307 688,1307 751,1307 813,1307 876,1307 938,1307 1001,1307 1063,1307 1126,1307 1188,1307 1251,1306 1314,1306 1314,1276 1251,1276 1188,1277 1126,1277 1063,1277 1001,1277 938,1277 876,1277 813,1277 751,1277 688,1277 625,1277 563,1277 500,1277 438,1277 375,1277 313,1277 250,1277 188,1277 125,1277 63,1278"/>
+                <Baseline points="63,1298 125,1297 188,1297 250,1297 313,1297 375,1297 438,1297 500,1297 563,1297 625,1297 688,1297 751,1297 813,1297 876,1297 938,1297 1001,1297 1063,1297 1126,1297 1188,1297 1251,1296 1314,1296"/>
+                <TextEquiv>
+                    <Unicode>all' diejenigen, ſo bisher ſeien gedruckt worden, irren und betrügen.“ Es, „irren und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="68,1352 131,1352 194,1351 257,1351 320,1351 383,1350 446,1350 509,1350 572,1350 635,1350 698,1349 761,1349 824,1349 887,1349 950,1350 1013,1350 1076,1350 1139,1351 1202,1351 1265,1352 1328,1352 1328,1321 1265,1321 1202,1320 1139,1320 1076,1319 1013,1319 950,1319 887,1318 824,1318 761,1318 698,1318 635,1319 572,1319 509,1319 446,1319 383,1319 320,1320 257,1320 194,1320 131,1321 68,1321"/>
+                <Baseline points="68,1342 131,1342 194,1341 257,1341 320,1341 383,1340 446,1340 509,1340 572,1340 635,1340 698,1339 761,1339 824,1339 887,1339 950,1340 1013,1340 1076,1340 1139,1341 1202,1341 1265,1342 1328,1342"/>
+                <TextEquiv>
+                    <Unicode>betrügen“ freilich bei der heutigen Vervollkommnung der Erdkunde jetzt nicht mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="66,1397 128,1397 191,1397 253,1397 316,1396 378,1396 441,1395 503,1395 566,1394 628,1394 691,1393 753,1393 816,1393 878,1393 941,1393 1003,1393 1066,1394 1128,1395 1191,1396 1253,1397 1316,1399 1316,1368 1253,1366 1191,1365 1128,1364 1066,1363 1003,1362 941,1362 878,1362 816,1362 753,1362 691,1362 628,1363 566,1363 503,1364 441,1364 378,1365 316,1365 253,1366 191,1366 128,1366 66,1366"/>
+                <Baseline points="66,1387 128,1387 191,1387 253,1387 316,1386 378,1386 441,1385 503,1385 566,1384 628,1384 691,1383 753,1383 816,1383 878,1383 941,1383 1003,1383 1066,1384 1128,1385 1191,1386 1253,1387 1316,1389"/>
+                <TextEquiv>
+                    <Unicode>wie damals die „Land⸗Karten“; dennoch müſſen wir Herrn Grundemann beiſtimmen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="63,1443 126,1443 189,1443 252,1443 315,1442 378,1442 441,1441 504,1441 567,1440 630,1440 694,1439 757,1439 820,1439 883,1439 946,1439 1009,1439 1072,1440 1135,1441 1198,1442 1261,1443 1325,1445 1325,1412 1261,1410 1198,1409 1135,1408 1072,1407 1009,1406 946,1406 883,1406 820,1406 757,1406 694,1406 630,1407 567,1407 504,1408 441,1408 378,1409 315,1409 252,1410 189,1410 126,1410 63,1410"/>
+                <Baseline points="63,1432 126,1432 189,1432 252,1432 315,1431 378,1431 441,1430 504,1430 567,1429 630,1429 694,1428 757,1428 820,1428 883,1428 946,1428 1009,1428 1072,1429 1135,1430 1198,1431 1261,1432 1325,1434"/>
+                <TextEquiv>
+                    <Unicode>wenn er „den Mangel an ausreichenden karthographiſchen Hülfſmitteln zum Studium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="67,1487 130,1487 193,1487 256,1487 319,1487 382,1486 445,1486 508,1485 571,1485 634,1484 697,1483 760,1483 823,1483 886,1483 949,1483 1012,1483 1075,1484 1138,1485 1201,1486 1264,1487 1327,1489 1327,1458 1264,1456 1201,1455 1138,1454 1075,1453 1012,1452 949,1452 886,1452 823,1452 760,1452 697,1452 634,1453 571,1454 508,1454 445,1455 382,1455 319,1456 256,1456 193,1456 130,1456 67,1456"/>
+                <Baseline points="67,1477 130,1477 193,1477 256,1477 319,1477 382,1476 445,1476 508,1475 571,1475 634,1474 697,1473 760,1473 823,1473 886,1473 949,1473 1012,1473 1075,1474 1138,1475 1201,1476 1264,1477 1327,1479"/>
+                <TextEquiv>
+                    <Unicode>der Miſſionsſache“ beklagt. Darum begrüßen wir auch ſein Unternehmen mit Freuden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="65,1530 128,1530 191,1531 254,1531 317,1531 380,1531 443,1530 506,1530 569,1530 632,1529 695,1529 758,1528 821,1528 884,1528 947,1528 1010,1528 1073,1529 1136,1529 1199,1530 1262,1532 1325,1533 1325,1502 1262,1501 1199,1499 1136,1498 1073,1498 1010,1497 947,1497 884,1497 821,1497 758,1497 695,1498 632,1498 569,1499 506,1499 443,1499 380,1500 317,1500 254,1500 191,1500 128,1499 65,1499"/>
+                <Baseline points="65,1520 128,1520 191,1521 254,1521 317,1521 380,1521 443,1520 506,1520 569,1520 632,1519 695,1519 758,1518 821,1518 884,1518 947,1518 1010,1518 1073,1519 1136,1519 1199,1520 1262,1522 1325,1523"/>
+                <TextEquiv>
+                    <Unicode>und hoffen von demſelben einen Anſtoß zur Wiederaufnahme einer von den alten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="67,1572 129,1573 192,1573 254,1574 317,1574 379,1574 442,1574 504,1574 567,1574 629,1574 692,1574 754,1574 817,1573 879,1573 942,1573 1004,1573 1067,1574 1129,1574 1192,1575 1254,1576 1317,1577 1317,1547 1254,1546 1192,1545 1129,1544 1067,1544 1004,1543 942,1543 879,1543 817,1543 754,1544 692,1544 629,1544 567,1544 504,1544 442,1544 379,1544 317,1544 254,1544 192,1543 129,1543 67,1542"/>
+                <Baseline points="67,1562 129,1563 192,1563 254,1564 317,1564 379,1564 442,1564 504,1564 567,1564 629,1564 692,1564 754,1564 817,1563 879,1563 942,1563 1004,1563 1067,1564 1129,1564 1192,1565 1254,1566 1317,1567"/>
+                <TextEquiv>
+                    <Unicode>Jeſuiten⸗Miſſionären betretenen, dann aber leider faſt gänzlich verlaſſenen Bahn. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="64,1617 127,1618 190,1618 253,1618 316,1618 379,1618 442,1618 505,1618 568,1618 631,1617 694,1617 757,1617 820,1617 883,1617 946,1617 1009,1618 1072,1618 1135,1618 1198,1619 1261,1620 1324,1621 1324,1590 1261,1589 1198,1588 1135,1587 1072,1587 1009,1587 946,1586 883,1586 820,1586 757,1586 694,1586 631,1586 568,1587 505,1587 442,1587 379,1587 316,1587 253,1587 190,1587 127,1587 64,1586"/>
+                <Baseline points="64,1607 127,1608 190,1608 253,1608 316,1608 379,1608 442,1608 505,1608 568,1608 631,1607 694,1607 757,1607 820,1607 883,1607 946,1607 1009,1608 1072,1608 1135,1608 1198,1609 1261,1610 1324,1611"/>
+                <TextEquiv>
+                    <Unicode>Rückkehr zu dieſem Verfahren wird nicht nur das Intereſſe am Miſſionswerke fördern,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="74,1662 136,1662 198,1662 260,1662 323,1663 385,1662 447,1662 510,1662 572,1662 634,1662 697,1662 759,1662 821,1662 883,1662 946,1662 1008,1662 1070,1662 1133,1663 1195,1663 1257,1664 1320,1665 1320,1634 1257,1633 1195,1632 1133,1632 1070,1631 1008,1631 946,1631 883,1631 821,1631 759,1631 697,1631 634,1631 572,1631 510,1631 447,1631 385,1631 323,1632 260,1631 198,1631 136,1631 74,1631"/>
+                <Baseline points="74,1652 136,1652 198,1652 260,1652 323,1653 385,1652 447,1652 510,1652 572,1652 634,1652 697,1652 759,1652 821,1652 883,1652 946,1652 1008,1652 1070,1652 1133,1653 1195,1653 1257,1654 1320,1655"/>
+                <TextEquiv>
+                    <Unicode>ſondern auch der Wiſſenſchaft zu Nutzen kommen. So zweifeln wir nicht, daß Geo⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="64,1706 127,1706 190,1706 253,1706 316,1706 379,1706 442,1706 505,1706 568,1706 631,1706 695,1706 758,1706 821,1706 884,1707 947,1707 1010,1707 1073,1707 1136,1708 1199,1708 1262,1709 1326,1709 1326,1678 1262,1678 1199,1677 1136,1677 1073,1676 1010,1676 947,1676 884,1676 821,1675 758,1675 695,1675 631,1675 568,1675 505,1675 442,1675 379,1675 316,1675 253,1675 190,1675 127,1675 64,1675"/>
+                <Baseline points="64,1696 127,1696 190,1696 253,1696 316,1696 379,1696 442,1696 505,1696 568,1696 631,1696 695,1696 758,1696 821,1696 884,1697 947,1697 1010,1697 1073,1697 1136,1698 1199,1698 1262,1699 1326,1699"/>
+                <TextEquiv>
+                    <Unicode>graphen mit Intereſſe vorſtehenden Atlas in die Hand nehmen und manches Neue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="64,1750 126,1750 189,1750 252,1750 315,1750 378,1750 441,1750 504,1751 567,1751 630,1751 693,1751 755,1751 818,1751 881,1751 944,1751 1007,1751 1070,1751 1133,1752 1196,1752 1259,1752 1322,1753 1322,1722 1259,1721 1196,1721 1133,1721 1070,1720 1007,1720 944,1720 881,1720 818,1720 755,1720 693,1720 630,1720 567,1720 504,1720 441,1719 378,1719 315,1719 252,1719 189,1719 126,1719 64,1719"/>
+                <Baseline points="64,1740 126,1740 189,1740 252,1740 315,1740 378,1740 441,1740 504,1741 567,1741 630,1741 693,1741 755,1741 818,1741 881,1741 944,1741 1007,1741 1070,1741 1133,1742 1196,1742 1259,1742 1322,1743"/>
+                <TextEquiv>
+                    <Unicode>darin finden werden. Dieß gilt beſonders von einigen Karten Weſtafrikas und Polyneſiens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="135,1806 194,1806 253,1806 313,1806 372,1806 431,1806 491,1806 550,1807 609,1807 669,1807 728,1807 787,1807 847,1807 906,1807 965,1808 1025,1808 1084,1808 1143,1808 1203,1808 1262,1809 1322,1809 1322,1778 1262,1778 1203,1777 1143,1777 1084,1777 1025,1777 965,1777 906,1776 847,1776 787,1776 728,1776 669,1776 609,1776 550,1776 491,1775 431,1775 372,1775 313,1775 253,1775 194,1775 135,1775"/>
+                <Baseline points="135,1796 194,1796 253,1796 313,1796 372,1796 431,1796 491,1796 550,1797 609,1797 669,1797 728,1797 787,1797 847,1797 906,1797 965,1798 1025,1798 1084,1798 1143,1798 1203,1798 1262,1799 1322,1799"/>
+                <TextEquiv>
+                    <Unicode>Der „Allgemeine Miſſionsatlas“ zerfällt in vier Abtheilungen: Afrika (3 Liefe⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="65,1854 127,1852 190,1851 253,1850 316,1850 378,1850 441,1850 504,1850 567,1850 629,1850 692,1851 755,1851 818,1852 880,1852 943,1853 1006,1853 1069,1854 1131,1854 1194,1854 1257,1854 1320,1853 1320,1822 1257,1823 1194,1823 1131,1823 1069,1823 1006,1822 943,1822 880,1821 818,1821 755,1820 692,1820 629,1819 567,1819 504,1819 441,1819 378,1819 316,1819 253,1819 190,1820 127,1821 65,1823"/>
+                <Baseline points="65,1844 127,1842 190,1841 253,1840 316,1840 378,1840 441,1840 504,1840 567,1840 629,1840 692,1841 755,1841 818,1842 880,1842 943,1843 1006,1843 1069,1844 1131,1844 1194,1844 1257,1844 1320,1843"/>
+                <TextEquiv>
+                    <Unicode>rungen), Aſien mit Inbegriff der Türkei (4 Lief.), Polyneſien (1 Lief.), Amerika</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="61,1897 124,1896 187,1895 250,1894 313,1894 377,1894 440,1894 503,1894 566,1894 629,1894 693,1895 756,1895 819,1896 882,1896 945,1897 1009,1897 1072,1897 1135,1898 1198,1898 1261,1898 1325,1898 1325,1867 1261,1867 1198,1867 1135,1867 1072,1866 1009,1866 945,1866 882,1865 819,1865 756,1864 693,1864 629,1863 566,1863 503,1863 440,1863 377,1863 313,1863 250,1863 187,1864 124,1865 61,1866"/>
+                <Baseline points="61,1887 124,1886 187,1885 250,1884 313,1884 377,1884 440,1884 503,1884 566,1884 629,1884 693,1885 756,1885 819,1886 882,1886 945,1887 1009,1887 1072,1887 1135,1888 1198,1888 1261,1888 1325,1888"/>
+                <TextEquiv>
+                    <Unicode>(1 Lief.), wovon jedoch die letzte Abtheilung noch nicht ausgegeben wurde. Aus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="67,1942 130,1941 193,1940 256,1939 319,1939 382,1938 445,1938 508,1938 571,1938 634,1939 697,1939 760,1939 823,1940 886,1940 949,1941 1012,1941 1075,1942 1138,1942 1201,1942 1264,1942 1328,1943 1328,1912 1264,1911 1201,1911 1138,1911 1075,1911 1012,1910 949,1910 886,1909 823,1909 760,1908 697,1908 634,1908 571,1907 508,1907 445,1907 382,1907 319,1908 256,1908 193,1909 130,1910 67,1911"/>
+                <Baseline points="67,1932 130,1931 193,1930 256,1929 319,1929 382,1928 445,1928 508,1928 571,1928 634,1929 697,1929 760,1929 823,1930 886,1930 949,1931 1012,1931 1075,1932 1138,1932 1201,1932 1264,1932 1328,1933"/>
+                <TextEquiv>
+                    <Unicode>ſtattung und techniſche Ausführung ſind, wie ſich nicht anders von der berühmten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="61,1985 123,1985 186,1984 249,1983 312,1983 375,1983 438,1983 500,1983 563,1983 626,1983 689,1984 752,1984 815,1984 878,1985 940,1985 1003,1985 1066,1985 1129,1986 1192,1986 1255,1985 1318,1985 1318,1954 1255,1954 1192,1955 1129,1955 1066,1954 1003,1954 940,1954 878,1954 815,1953 752,1953 689,1953 626,1952 563,1952 500,1952 438,1952 375,1952 312,1952 249,1952 186,1953 123,1954 61,1954"/>
+                <Baseline points="61,1975 123,1975 186,1974 249,1973 312,1973 375,1973 438,1973 500,1973 563,1973 626,1973 689,1974 752,1974 815,1974 878,1975 940,1975 1003,1975 1066,1975 1129,1976 1192,1976 1255,1975 1318,1975"/>
+                <TextEquiv>
+                    <Unicode>Officin Perthes in Gotha erwarten ließ, ausgezeichnet. Insbeſondere ſind die Ueber⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="67,2030 129,2029 192,2028 255,2028 318,2028 380,2028 443,2028 506,2028 569,2028 631,2028 694,2028 757,2029 820,2029 882,2029 945,2030 1008,2030 1071,2030 1133,2030 1196,2030 1259,2030 1322,2030 1322,1999 1259,1999 1196,1999 1133,1999 1071,1999 1008,1999 945,1999 882,1998 820,1998 757,1998 694,1997 631,1997 569,1997 506,1997 443,1997 380,1997 318,1997 255,1997 192,1997 129,1998 67,1999"/>
+                <Baseline points="67,2020 129,2019 192,2018 255,2018 318,2018 380,2018 443,2018 506,2018 569,2018 631,2018 694,2018 757,2019 820,2019 882,2019 945,2020 1008,2020 1071,2020 1133,2020 1196,2020 1259,2020 1322,2020"/>
+                <TextEquiv>
+                    <Unicode>ſichtskarten, welche durch Farbentöne zugleich die Verſchiedenheit der Religion und die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="59,2072 122,2072 185,2072 249,2072 312,2073 375,2073 439,2073 502,2073 565,2074 629,2074 692,2074 755,2074 819,2075 882,2075 945,2075 1009,2075 1072,2075 1135,2075 1199,2075 1262,2074 1326,2074 1326,2043 1262,2043 1199,2044 1135,2044 1072,2044 1009,2044 945,2044 882,2044 819,2044 755,2043 692,2043 629,2043 565,2043 502,2042 439,2042 375,2042 312,2042 249,2041 185,2041 122,2041 59,2041"/>
+                <Baseline points="59,2062 122,2062 185,2062 249,2062 312,2063 375,2063 439,2063 502,2063 565,2064 629,2064 692,2064 755,2064 819,2065 882,2065 945,2065 1009,2065 1072,2065 1135,2065 1199,2065 1262,2064 1326,2064"/>
+                <TextEquiv>
+                    <Unicode>Dichtigkeit der Bevölkerung angeben, gut ausgefallen. Jeder Karte folgt ein kurzer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="67,2116 129,2117 192,2117 254,2118 317,2118 380,2118 442,2118 505,2118 568,2119 630,2119 693,2119 756,2119 818,2119 881,2119 944,2119 1006,2118 1069,2118 1132,2118 1194,2118 1257,2118 1320,2118 1320,2087 1257,2087 1194,2087 1132,2087 1069,2087 1006,2087 944,2088 881,2088 818,2088 756,2088 693,2088 630,2088 568,2088 505,2087 442,2087 380,2087 317,2087 254,2087 192,2086 129,2086 67,2085"/>
+                <Baseline points="67,2106 129,2107 192,2107 254,2108 317,2108 380,2108 442,2108 505,2108 568,2109 630,2109 693,2109 756,2109 818,2109 881,2109 944,2109 1006,2108 1069,2108 1132,2108 1194,2108 1257,2108 1320,2108"/>
+                <TextEquiv>
+                    <Unicode>erläuternder Text, welcher „dem Leſer ein Bild von den natürlichen Verhältniſſen des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="63,2159 125,2160 188,2161 251,2162 314,2162 377,2162 440,2163 503,2163 566,2163 629,2163 692,2163 754,2163 817,2163 880,2163 943,2163 1006,2163 1069,2163 1132,2163 1195,2164 1258,2164 1321,2165 1321,2134 1258,2133 1195,2133 1132,2132 1069,2132 1006,2132 943,2132 880,2132 817,2132 754,2132 692,2132 629,2132 566,2132 503,2132 440,2132 377,2131 314,2131 251,2131 188,2130 125,2129 63,2128"/>
+                <Baseline points="63,2149 125,2150 188,2151 251,2152 314,2152 377,2152 440,2153 503,2153 566,2153 629,2153 692,2153 754,2153 817,2153 880,2153 943,2153 1006,2153 1069,2153 1132,2153 1195,2154 1258,2154 1321,2155"/>
+                <TextEquiv>
+                    <Unicode>betreffenden Landes, ſeiner politiſchen Lage, der bisherigen Entwicklung der Miſſion u. ſ. w.”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:36;}">
+                <Coords points="61,2204 124,2205 187,2207 250,2208 313,2208 376,2209 439,2209 502,2209 565,2210 628,2210 691,2210 754,2209 817,2209 880,2209 943,2209 1006,2209 1069,2209 1132,2209 1195,2210 1258,2210 1321,2211 1321,2178 1258,2177 1195,2177 1132,2176 1069,2176 1006,2176 943,2176 880,2176 817,2176 754,2176 691,2177 628,2177 565,2177 502,2176 439,2176 376,2176 313,2175 250,2175 187,2174 124,2172 61,2171"/>
+                <Baseline points="61,2193 124,2194 187,2196 250,2197 313,2197 376,2198 439,2198 502,2198 565,2199 628,2199 691,2199 754,2198 817,2198 880,2198 943,2198 1006,2198 1069,2198 1132,2198 1195,2199 1258,2199 1321,2200"/>
+                <TextEquiv>
+                    <Unicode>bieten will. Die Angabe der proteſtantiſchen Miſſionsſtationen ſcheint ziemlich voll⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:37;}">
+                <Coords points="65,2250 127,2251 190,2252 252,2253 315,2254 377,2254 440,2254 502,2255 565,2255 627,2254 690,2254 752,2254 815,2254 877,2254 940,2254 1002,2254 1065,2254 1127,2255 1190,2255 1252,2256 1315,2257 1315,2224 1252,2223 1190,2222 1127,2222 1065,2221 1002,2221 940,2221 877,2221 815,2221 752,2221 690,2221 627,2221 565,2222 502,2222 440,2221 377,2221 315,2221 252,2220 190,2219 127,2218 65,2217"/>
+                <Baseline points="65,2239 127,2240 190,2241 252,2242 315,2243 377,2243 440,2243 502,2244 565,2244 627,2243 690,2243 752,2243 815,2243 877,2243 940,2243 1002,2243 1065,2243 1127,2244 1190,2244 1252,2245 1315,2246"/>
+                <TextEquiv>
+                    <Unicode>ſtändig zu ſein; dagegen ſah ſich H. Grundemann genöthigt, in der Vorrede ſein Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Recenſionen.
+Allgemeiner Miſſions⸗Atlas. Nach Originalquellen bearbeitet von Dr.
+R. Grundemann, Prediger. Gotha, Perthes 1867–1870. (Bis
+setzt 8 Lieferungen.)
+Für eingehendes Studium des Miſſionsweſens ſind kartographiſche Hülfſmittel
+überaus nützlich, ja nothwendig. Dieß iſt denn auch längſt begriffen worden. Sogar
+der populär gehaltene „Weltbote von Joſepho Stöcklein, der Geſellſchaft Jeſu
+Prieſtern“, ſucht durch zahlreiche Karten verſchiedener Theile Aſiens, Afrika’s, Ame⸗
+rika’s, Oceaniens (Philippinen, Marianen, Carolinen) ſeine Miſſionsberichte zu ver⸗
+anſchaulichen. Die alten Miſſionäre verwendeten aus demſelben Grunde große Mühe
+auf die Verfertigung topographiſcher und geographiſcher Zeichnungen. „Mit nächſtem“,
+heißt es in einem Brief P. Schindlers aus Quito (v. J. 1725) „werden wir guten
+Freunden mit weitläufigen Reis⸗ und Land⸗Beſchreibungen aufwarten, dieſe aber mit
+etlichen neuen Land⸗Tafeln, welche P. Maroni mit Fleiß verzeichnet, ausführlich er⸗
+klären, in gänzlicher Hoffnung, die gelehrte Welt werde dieſe unſere Mühe um deſto
+mehr billigen, je handgreiflicher aus gemeldeten Land⸗Karten erhellen ſoll, wie ſehr
+all' diejenigen, ſo bisher ſeien gedruckt worden, irren und betrügen.“ Es, „irren und
+betrügen“ freilich bei der heutigen Vervollkommnung der Erdkunde jetzt nicht mehr
+wie damals die „Land⸗Karten“; dennoch müſſen wir Herrn Grundemann beiſtimmen,
+wenn er „den Mangel an ausreichenden karthographiſchen Hülfſmitteln zum Studium
+der Miſſionsſache“ beklagt. Darum begrüßen wir auch ſein Unternehmen mit Freuden
+und hoffen von demſelben einen Anſtoß zur Wiederaufnahme einer von den alten
+Jeſuiten⸗Miſſionären betretenen, dann aber leider faſt gänzlich verlaſſenen Bahn. Die
+Rückkehr zu dieſem Verfahren wird nicht nur das Intereſſe am Miſſionswerke fördern,
+ſondern auch der Wiſſenſchaft zu Nutzen kommen. So zweifeln wir nicht, daß Geo⸗
+graphen mit Intereſſe vorſtehenden Atlas in die Hand nehmen und manches Neue
+darin finden werden. Dieß gilt beſonders von einigen Karten Weſtafrikas und Polyneſiens.
+Der „Allgemeine Miſſionsatlas“ zerfällt in vier Abtheilungen: Afrika (3 Liefe⸗
+rungen), Aſien mit Inbegriff der Türkei (4 Lief.), Polyneſien (1 Lief.), Amerika
+(1 Lief.), wovon jedoch die letzte Abtheilung noch nicht ausgegeben wurde. Aus⸗
+ſtattung und techniſche Ausführung ſind, wie ſich nicht anders von der berühmten
+Officin Perthes in Gotha erwarten ließ, ausgezeichnet. Insbeſondere ſind die Ueber⸗
+ſichtskarten, welche durch Farbentöne zugleich die Verſchiedenheit der Religion und die
+Dichtigkeit der Bevölkerung angeben, gut ausgefallen. Jeder Karte folgt ein kurzer
+erläuternder Text, welcher „dem Leſer ein Bild von den natürlichen Verhältniſſen des
+betreffenden Landes, ſeiner politiſchen Lage, der bisherigen Entwicklung der Miſſion u. ſ. w.”
+bieten will. Die Angabe der proteſtantiſchen Miſſionsſtationen ſcheint ziemlich voll⸗
+ſtändig zu ſein; dagegen ſah ſich H. Grundemann genöthigt, in der Vorrede ſein Be⸗</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

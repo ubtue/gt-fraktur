@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-20T17:30:31.167+01:00</Created>
+        <LastChange>2021-05-11T09:07:11.987+02:00</LastChange>
+        <TranskribusMetadata docId="542280" pageId="22797941" pageNr="6" tsid="57717382" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=HKCAOYXJDHDFMDBKIRACNIPO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FLZSUZNEIUUXZICKYDQWYUHR" imageId="17775133"/>
+    </Metadata>
+    <Page imageFilename="artl_001_00010.tif" imageWidth="1327" imageHeight="2454">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328074611" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="41,81 41,2120 1242,2120 1242,81"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="41,125 69,123 97,123 97,81 69,81 41,83"/>
+                <Baseline points="41,111 69,109 97,109"/>
+                <TextEquiv>
+                    <Unicode>IV</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1164,180 1191,178 1218,178 1218,148 1191,148 1164,150"/>
+                <Baseline points="1164,170 1191,168 1218,168"/>
+                <TextEquiv>
+                    <Unicode>Seite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371298979_1421" custom="readingOrder {index:2;}">
+                <Coords points="54,190 95,188 179,186 304,184 1221,177 1221,207 1193,209 964,215 54,223"/>
+                <Baseline points="54,212 95,210 137,209 179,208 221,208 262,207 304,206 346,206 388,206 429,206 471,205 513,205 555,205 596,205 638,205 680,205 722,204 763,204 805,204 847,203 889,203 954,204 964,204 1165,199 1193,199 1221,197"/>
+                <TextEquiv>
+                    <Unicode>Rheiniſche Provinzialblätter, 1. 2. Jahrg. 1832. 1833. . . . 248</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371303501_1425" custom="readingOrder {index:3;}">
+                <Coords points="50,236 120,234 225,232 436,229 1225,219 1225,252 1195,255 1165,256 962,262 50,269"/>
+                <Baseline points="50,258 85,257 120,256 155,256 190,255 225,254 260,254 296,253 331,253 366,252 401,252 436,251 471,251 506,251 542,250 577,250 612,250 647,250 682,250 717,250 753,250 962,251 972,249 1165,245 1195,244 1225,241"/>
+                <TextEquiv>
+                    <Unicode>Jahrbuch der kathol. Kirche, 1r Jahrg. 1833. . . . . . 248</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;} textStyle {offset:0; length:27;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="417,342 442,342 468,343 494,343 520,343 546,343 572,342 598,342 624,341 650,341 676,340 702,340 728,340 754,339 780,339 806,340 832,340 858,341 858,299 832,298 806,298 780,297 754,297 728,298 702,298 676,298 650,299 624,299 598,300 572,300 546,301 520,301 494,301 468,301 442,300 417,300"/>
+                <Baseline points="417,328 442,328 468,329 494,329 520,329 546,329 572,328 598,328 624,327 650,327 676,326 702,326 728,326 754,325 780,325 806,326 832,326 858,327"/>
+                <TextEquiv>
+                    <Unicode>2. Auslaͤndiſche Literatur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371307120_1429" custom="readingOrder {index:5;}">
+                <Coords points="54,363 92,361 168,359 245,358 1208,350 1234,350 1234,392 1132,398 54,405"/>
+                <Baseline points="54,391 92,389 130,388 168,387 207,387 245,386 283,386 321,386 360,386 398,386 436,386 474,387 513,387 551,387 589,387 627,386 666,386 704,386 742,385 780,384 819,382 1132,384 1157,382 1183,380 1208,378 1234,378"/>
+                <TextEquiv>
+                    <Unicode>Essai sur la vie de Jean Gerson, p. M. L’Ecuy . . . . 154</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;} textStyle {offset:0; length:25;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="373,503 400,503 427,504 455,504 482,504 510,504 537,504 565,504 592,503 620,503 647,503 674,503 702,503 729,503 757,503 784,503 812,503 839,503 867,503 894,502 922,502 922,460 894,460 867,461 839,461 812,461 784,461 757,461 729,461 702,461 674,461 647,461 620,461 592,461 565,462 537,462 510,462 482,462 455,462 427,462 400,461 373,461"/>
+                <Baseline points="373,489 400,489 427,490 455,490 482,490 510,490 537,490 565,490 592,489 620,489 647,489 674,489 702,489 729,489 757,489 784,489 812,489 839,489 867,489 894,488 922,488"/>
+                <TextEquiv>
+                    <Unicode>II. Kirchliche Statistik.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;} textStyle {offset:0; length:45;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="187,565 231,565 276,564 321,564 366,563 411,563 456,562 501,562 546,561 591,561 636,561 680,560 725,560 770,560 815,560 860,560 905,560 950,560 995,560 1040,560 1085,561 1085,521 1040,520 995,520 950,520 905,520 860,520 815,520 770,520 725,520 680,520 636,521 591,521 546,521 501,522 456,522 411,523 366,523 321,524 276,524 231,525 187,525"/>
+                <Baseline points="187,552 231,552 276,551 321,551 366,550 411,550 456,549 501,549 546,548 591,548 636,548 680,547 725,547 770,547 815,547 860,547 905,547 950,547 995,547 1040,547 1085,548"/>
+                <TextEquiv>
+                    <Unicode>1. Theologiſche Facultäten und Lehranſtalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371311557_1434" custom="readingOrder {index:8;}">
+                <Coords points="49,584 86,583 352,579 503,577 579,576 693,575 1190,572 1234,572 1234,614 49,624"/>
+                <Baseline points="49,611 86,610 124,610 162,609 200,609 238,608 276,608 314,607 352,606 390,606 428,605 465,605 503,604 541,604 579,603 617,603 655,603 693,602 731,602 769,602 807,602 1190,600 1234,600"/>
+                <TextEquiv>
+                    <Unicode>Jahresbericht der theologiſchen Facultät zu Bonn . . . . 45</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;} textStyle {offset:0; length:17;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="468,692 493,692 518,693 543,692 568,692 594,692 619,692 644,692 669,691 695,691 720,691 745,691 770,692 796,692 796,650 770,650 745,649 720,649 695,649 669,649 644,650 619,650 594,650 568,650 543,650 518,651 493,650 468,650"/>
+                <Baseline points="468,678 493,678 518,679 543,678 568,678 594,678 619,678 644,678 669,677 695,677 720,677 745,677 770,678 796,678"/>
+                <TextEquiv>
+                    <Unicode>2. Landeskirchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371323767_1440" custom="readingOrder {index:10;}">
+                <Coords points="53,717 201,715 1234,704 1234,737 1190,739 912,751 753,752 670,752 82,751 53,750"/>
+                <Baseline points="53,739 82,740 112,739 141,739 171,738 201,737 643,738 670,742 698,741 725,740 753,742 882,733 912,741 942,736 972,737 1190,728 1234,726"/>
+                <TextEquiv>
+                    <Unicode>Dänemark . . . . . . . . . . . . 75</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371330741_1444" custom="readingOrder {index:11;}">
+                <Coords points="50,768 78,766 106,765 163,763 1200,751 1229,751 1229,784 1067,798 50,798"/>
+                <Baseline points="50,788 78,786 106,785 134,785 163,783 588,786 614,783 640,782 666,781 692,782 718,782 744,782 843,786 874,782 906,783 971,782 1003,782 1035,784 1067,788 1171,775 1200,773 1229,773"/>
+                <TextEquiv>
+                    <Unicode>Island  . . . . . . . . . . . . 157</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371341480_1448" custom="readingOrder {index:12;}">
+                <Coords points="56,809 1223,794 1223,828 1151,837 1131,839 1070,841 240,843 82,840 56,839"/>
+                <Baseline points="56,829 82,830 108,830 134,830 161,829 187,829 213,831 240,833 706,830 737,827 768,828 800,830 868,825 884,825 962,826 989,829 1016,829 1043,830 1070,831 1131,825 1151,823 1167,823 1195,820 1223,817"/>
+                <TextEquiv>
+                    <Unicode>Würtemberg . . . . . . . . . . . . 220</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:13;} textStyle {offset:0; length:15;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="463,945 488,944 513,944 538,944 564,944 589,943 614,943 639,943 665,943 690,943 715,943 740,943 766,942 791,942 816,942 842,941 842,899 816,900 791,900 766,900 740,901 715,901 690,901 665,901 639,901 614,901 589,901 564,902 538,902 513,902 488,902 463,903"/>
+                <Baseline points="463,931 488,930 513,930 538,930 564,930 589,929 614,929 639,929 665,929 690,929 715,929 740,929 766,928 791,928 816,928 842,927"/>
+                <TextEquiv>
+                    <Unicode>III. Miscellen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:14;} textStyle {offset:0; length:57;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="56,1006 114,1005 173,1005 231,1004 290,1003 348,1003 407,1002 465,1001 524,1001 582,1000 641,1000 699,999 758,999 816,998 875,998 933,998 992,998 1050,997 1109,997 1167,997 1226,998 1226,965 1167,964 1109,964 1050,964 992,965 933,965 875,965 816,965 758,966 699,966 641,967 582,967 524,968 465,968 407,969 348,970 290,970 231,971 173,972 114,972 56,973"/>
+                <Baseline points="56,995 114,994 173,994 231,993 290,992 348,992 407,991 465,990 524,990 582,989 641,989 699,988 758,988 816,987 875,987 933,987 992,987 1050,986 1109,986 1167,986 1226,987"/>
+                <TextEquiv>
+                    <Unicode>1. Beförderungen, Ehrenbezeigungen, Vocationen, Jubiläen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:15;}">
+                <Coords points="1083,1041 1110,1042 1138,1042 1165,1041 1193,1041 1221,1041 1221,1010 1193,1010 1165,1010 1138,1011 1110,1011 1083,1010"/>
+                <Baseline points="1083,1031 1110,1032 1138,1032 1165,1031 1193,1031 1221,1031"/>
+                <TextEquiv>
+                    <Unicode>208. 223.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:16;} textStyle {offset:0; length:14;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="505,1124 531,1123 558,1123 585,1123 611,1123 638,1122 665,1122 691,1122 718,1122 745,1122 772,1122 772,1080 745,1080 718,1080 691,1080 665,1080 638,1080 611,1081 585,1081 558,1081 531,1081 505,1082"/>
+                <Baseline points="505,1110 531,1109 558,1109 585,1109 611,1109 638,1108 665,1108 691,1108 718,1108 745,1108 772,1108"/>
+                <TextEquiv>
+                    <Unicode>2. Todesfälle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:17;}">
+                <Coords points="1167,1156 1196,1155 1225,1160 1225,1118 1196,1113 1167,1114"/>
+                <Baseline points="1167,1142 1196,1141 1225,1146"/>
+                <TextEquiv>
+                    <Unicode>160.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371346895_1452" custom="readingOrder {index:18;} textStyle {offset:0; length:28;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="357,1192 741,1188 767,1188 923,1190 923,1232 897,1233 528,1235 385,1235 357,1234"/>
+                <Baseline points="357,1220 385,1221 414,1221 442,1221 471,1220 499,1220 528,1221 690,1219 715,1217 741,1216 767,1216 793,1217 819,1217 845,1218 871,1219 897,1219 923,1218"/>
+                <TextEquiv>
+                    <Unicode>3. Theologiſche Vorleſungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371351564_1456" custom="readingOrder {index:19;}">
+                <Coords points="90,1261 119,1260 1200,1250 1230,1250 1230,1280 62,1294 62,1263"/>
+                <Baseline points="62,1284 90,1282 119,1281 148,1282 1200,1270 1230,1270"/>
+                <TextEquiv>
+                    <Unicode>Bonn  . . . . . . . . . . . . 16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371356686_1460" custom="readingOrder {index:20;}">
+                <Coords points="62,1307 126,1304 478,1293 1229,1289 1229,1319 1199,1321 490,1335 62,1338"/>
+                <Baseline points="62,1328 94,1327 126,1325 158,1326 478,1321 490,1321 1199,1311 1229,1309"/>
+                <TextEquiv>
+                    <Unicode>Berlin . . . . . . . . . . . . 48</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371362420_1464" custom="readingOrder {index:21;}">
+                <Coords points="85,1350 139,1348 1198,1337 1230,1337 1230,1368 59,1383 59,1352"/>
+                <Baseline points="59,1373 85,1371 112,1370 139,1369 166,1369 193,1369 1198,1358 1230,1358"/>
+                <TextEquiv>
+                    <Unicode>Tübingen  . . . . . . . . . . . . 64</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371379894_1471" custom="readingOrder {index:22;}">
+                <Coords points="62,1395 246,1389 1196,1380 1234,1380 1234,1411 236,1432 62,1425"/>
+                <Baseline points="62,1415 90,1416 119,1415 148,1414 177,1414 206,1417 236,1418 246,1417 1196,1401 1234,1401"/>
+                <TextEquiv>
+                    <Unicode>Heidelberg . . . . . . . . . . . . 80</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371386528_1475" custom="readingOrder {index:23;}">
+                <Coords points="60,1439 116,1437 1228,1425 1228,1456 1178,1460 202,1471 60,1470"/>
+                <Baseline points="60,1460 88,1460 116,1458 145,1458 173,1458 202,1461 1178,1450 1203,1447 1228,1446"/>
+                <TextEquiv>
+                    <Unicode>Würzburg  . . . . . . . . . . . . 128</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371392096_1479" custom="readingOrder {index:24;}">
+                <Coords points="87,1482 1209,1470 1235,1470 1235,1501 1183,1503 148,1516 57,1517 57,1486"/>
+                <Baseline points="57,1507 87,1503 117,1504 148,1506 1183,1493 1209,1491 1235,1491"/>
+                <TextEquiv>
+                    <Unicode>Zürich  . . . . . . . . . . . . 144</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371398666_1483" custom="readingOrder {index:25;}">
+                <Coords points="64,1530 94,1529 125,1528 1231,1513 1231,1543 1185,1545 187,1561 64,1560"/>
+                <Baseline points="64,1550 94,1549 125,1548 156,1548 187,1551 1185,1535 1231,1533"/>
+                <TextEquiv>
+                    <Unicode>Freiburg . . . . . . . . . . . . 176</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371402698_1487" custom="readingOrder {index:26;}">
+                <Coords points="65,1573 1210,1557 1235,1557 1235,1590 1185,1592 187,1603 95,1604 65,1603"/>
+                <Baseline points="65,1593 95,1594 126,1593 156,1593 187,1593 1185,1581 1210,1579 1235,1579"/>
+                <TextEquiv>
+                    <Unicode>Erlangen . . . . . . . . . . . . 224</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371407031_1491" custom="readingOrder {index:27;}">
+                <Coords points="64,1616 1136,1601 1146,1601 1226,1603 1226,1634 1146,1643 122,1648 93,1648 64,1647"/>
+                <Baseline points="64,1637 93,1638 122,1638 151,1637 180,1637 1136,1629 1146,1629 1186,1626 1226,1624"/>
+                <TextEquiv>
+                    <Unicode>Breslau . . . . . . . . . . . . 256</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371410879_1495" custom="readingOrder {index:28;}">
+                <Coords points="66,1663 143,1661 1230,1647 1230,1678 1184,1680 220,1695 91,1694 66,1693"/>
+                <Baseline points="66,1683 91,1684 117,1683 143,1681 168,1681 194,1682 220,1685 1184,1670 1230,1668"/>
+                <TextEquiv>
+                    <Unicode>Königsberg . . . . . . . . . . . . 256</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371417602_1499" custom="readingOrder {index:29;}">
+                <Coords points="68,1705 249,1699 1184,1692 1238,1692 1238,1725 239,1743 68,1735"/>
+                <Baseline points="68,1725 99,1725 131,1726 163,1728 239,1729 249,1727 1184,1714 1211,1714 1238,1714"/>
+                <TextEquiv>
+                    <Unicode>Gieſſen . . . . . . . . . . . . 272</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371420996_1503" custom="readingOrder {index:30;}">
+                <Coords points="97,1750 1240,1737 1240,1768 1210,1769 160,1783 66,1783 66,1752"/>
+                <Baseline points="66,1773 97,1771 128,1773 160,1773 1181,1759 1210,1759 1240,1758"/>
+                <TextEquiv>
+                    <Unicode>Jena . . . . . . . . . . . . . 272</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371427191_1507" custom="readingOrder {index:31;}">
+                <Coords points="61,1794 230,1789 1183,1781 1235,1781 1235,1814 242,1833 61,1825"/>
+                <Baseline points="61,1815 86,1815 112,1816 138,1816 163,1816 189,1816 215,1817 230,1817 242,1819 1183,1803 1209,1803 1235,1803"/>
+                <TextEquiv>
+                    <Unicode>Göttingen . . . . . . . . . . . . 272</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371431292_1511" custom="readingOrder {index:32;} textStyle {offset:0; length:53;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="117,1862 521,1859 1152,1857 1179,1857 1179,1890 1126,1891 788,1897 495,1902 369,1904 268,1905 192,1905 117,1904"/>
+                <Baseline points="117,1890 142,1890 167,1890 192,1891 218,1891 243,1891 268,1891 293,1890 319,1890 344,1890 369,1890 394,1889 420,1889 445,1888 470,1888 495,1888 521,1887 788,1886 814,1885 840,1884 866,1884 892,1884 918,1883 944,1883 970,1882 996,1882 1022,1881 1048,1881 1074,1880 1100,1880 1126,1880 1152,1879 1179,1879"/>
+                <TextEquiv>
+                    <Unicode>4. Neuere liter. Unternehmungen auf theolog. Gebiete.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l72" custom="readingOrder {index:33;}">
+                <Coords points="925,1939 950,1939 975,1939 1000,1938 1025,1938 1050,1938 1076,1938 1101,1938 1126,1938 1151,1938 1176,1938 1201,1938 1227,1938 1227,1905 1201,1905 1176,1905 1151,1905 1126,1905 1101,1905 1076,1905 1050,1905 1025,1905 1000,1905 975,1906 950,1906 925,1906"/>
+                <Baseline points="925,1928 950,1928 975,1928 1000,1927 1025,1927 1050,1927 1076,1927 1101,1927 1126,1927 1151,1927 1176,1927 1201,1927 1227,1927"/>
+                <TextEquiv>
+                    <Unicode>112. 191. 208. 256.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l73" custom="readingOrder {index:34;} textStyle {offset:0; length:26;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="381,2023 407,2023 433,2023 459,2023 485,2023 512,2023 538,2023 564,2023 590,2023 616,2023 643,2023 669,2023 695,2022 721,2022 747,2021 774,2021 800,2020 826,2020 852,2019 878,2018 905,2017 905,1975 878,1976 852,1977 826,1978 800,1978 774,1979 747,1979 721,1980 695,1980 669,1981 643,1981 616,1981 590,1981 564,1981 538,1981 512,1981 485,1981 459,1981 433,1981 407,1981 381,1981"/>
+                <Baseline points="381,2009 407,2009 433,2009 459,2009 485,2009 512,2009 538,2009 564,2009 590,2009 616,2009 643,2009 669,2009 695,2008 721,2008 747,2007 774,2007 800,2006 826,2006 852,2005 878,2004 905,2003"/>
+                <TextEquiv>
+                    <Unicode>5. Vermiſchte Nachrichten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l74" custom="readingOrder {index:35;}">
+                <Coords points="926,2057 952,2058 978,2059 1004,2059 1030,2059 1056,2058 1083,2058 1109,2057 1135,2056 1161,2056 1187,2056 1213,2056 1240,2056 1240,2025 1213,2025 1187,2025 1161,2025 1135,2025 1109,2026 1083,2027 1056,2027 1030,2028 1004,2028 978,2028 952,2027 926,2026"/>
+                <Baseline points="926,2047 952,2048 978,2049 1004,2049 1030,2049 1056,2048 1083,2048 1109,2047 1135,2046 1161,2046 1187,2046 1213,2046 1240,2046"/>
+                <TextEquiv>
+                    <Unicode>128. 160. 176. 191.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371436831_1515" custom="readingOrder {index:36;}">
+                <Coords points="55,2078 90,2077 161,2076 515,2072 693,2070 1210,2068 1242,2072 1242,2103 764,2112 55,2120"/>
+                <Baseline points="55,2106 90,2105 125,2105 161,2104 196,2104 232,2104 267,2103 303,2103 338,2102 374,2102 409,2102 444,2101 480,2101 515,2100 551,2100 586,2100 622,2099 657,2099 693,2098 728,2098 764,2098 1178,2091 1210,2089 1242,2093"/>
+                <TextEquiv>
+                    <Unicode>Correſpondenz und eingegangene Geldbeiträge . . . . . 192</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>IV
+Seite
+Rheiniſche Provinzialblätter, 1. 2. Jahrg. 1832. 1833. . . . 248
+Jahrbuch der kathol. Kirche, 1r Jahrg. 1833. . . . . . 248
+2. Auslaͤndiſche Literatur.
+Essai sur la vie de Jean Gerson, p. M. L’Ecuy . . . . 154
+II. Kirchliche Statistik.
+1. Theologiſche Facultäten und Lehranſtalten.
+Jahresbericht der theologiſchen Facultät zu Bonn . . . . 45
+2. Landeskirchen.
+Dänemark . . . . . . . . . . . . 75
+Island  . . . . . . . . . . . . 157
+Würtemberg . . . . . . . . . . . . 220
+III. Miscellen.
+1. Beförderungen, Ehrenbezeigungen, Vocationen, Jubiläen.
+208. 223.
+2. Todesfälle.
+160.
+3. Theologiſche Vorleſungen.
+Bonn  . . . . . . . . . . . . 16
+Berlin . . . . . . . . . . . . 48
+Tübingen  . . . . . . . . . . . . 64
+Heidelberg . . . . . . . . . . . . 80
+Würzburg  . . . . . . . . . . . . 128
+Zürich  . . . . . . . . . . . . 144
+Freiburg . . . . . . . . . . . . 176
+Erlangen . . . . . . . . . . . . 224
+Breslau . . . . . . . . . . . . 256
+Königsberg . . . . . . . . . . . . 256
+Gieſſen . . . . . . . . . . . . 272
+Jena . . . . . . . . . . . . . 272
+Göttingen . . . . . . . . . . . . 272
+4. Neuere liter. Unternehmungen auf theolog. Gebiete.
+112. 191. 208. 256.
+5. Vermiſchte Nachrichten.
+128. 160. 176. 191.
+Correſpondenz und eingegangene Geldbeiträge . . . . . 192</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

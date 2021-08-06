@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:38:22.229+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2397" WIDTH="1342">
+         <TopMargin HEIGHT="0" WIDTH="1342" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2397" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2397" WIDTH="0" VPOS="0" HPOS="1342"/>
+         <BottomMargin HEIGHT="0" WIDTH="1342" VPOS="2397" HPOS="0"/>
+         <PrintSpace HEIGHT="2397" WIDTH="1342" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1718" WIDTH="1111" VPOS="438" HPOS="81">
+               <Shape>
+                  <Polygon POINTS="81,438 81,2156 1192,2156 1192,438"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="394,477 876,488"
+                         HEIGHT="58"
+                         WIDTH="492"
+                         VPOS="438"
+                         HPOS="394">
+                  <String ID="string_r1l1"
+                          HEIGHT="58"
+                          WIDTH="492"
+                          VPOS="438"
+                          HPOS="394"
+                          CONTENT="Inhalt."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="284,639 318,641 352,643 386,644 420,645 454,645 488,646 522,646 556,646 590,646 625,646 659,645 693,645 727,645 761,644 795,644 829,643 863,643 897,643 931,643 966,643"
+                         HEIGHT="65"
+                         WIDTH="682"
+                         VPOS="600"
+                         HPOS="284">
+                  <String ID="string_r1l3"
+                          HEIGHT="65"
+                          WIDTH="682"
+                          VPOS="600"
+                          HPOS="284"
+                          CONTENT="A. Abhandlungen und Aufſätze."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="1084,737 1114,735 1145,737 1176,737"
+                         HEIGHT="60"
+                         WIDTH="92"
+                         VPOS="696"
+                         HPOS="1084">
+                  <String ID="string_r1l4"
+                          HEIGHT="60"
+                          WIDTH="92"
+                          VPOS="696"
+                          HPOS="1084"
+                          CONTENT="Seite"/>
+               </TextLine>
+               <TextLine ID="line_1621257392806_1450"
+                         BASELINE="82,783 111,784 149,783 196,784 243,784 291,785 338,786 385,786 433,786 480,786 527,785 575,785 622,784 669,784 717,783 764,782 811,782 859,781 906,780 953,779 1001,779 1048,778 1096,777"
+                         HEIGHT="59"
+                         WIDTH="1014"
+                         VPOS="744"
+                         HPOS="82">
+                  <String ID="string_line_1621257392806_1450"
+                          HEIGHT="59"
+                          WIDTH="1014"
+                          VPOS="744"
+                          HPOS="82"
+                          CONTENT="I. Ueber das Leben, den Charakter und das Wirken für Theo⸗"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="165,839 211,839 257,840 303,840 349,840 395,840 441,840 487,839 533,839 579,838 626,838 672,837 718,836 764,836 810,835 856,835 902,834 948,834 994,833 1040,833 1087,833"
+                         HEIGHT="44"
+                         WIDTH="922"
+                         VPOS="808"
+                         HPOS="165">
+                  <String ID="string_r1l7"
+                          HEIGHT="44"
+                          WIDTH="922"
+                          VPOS="808"
+                          HPOS="165"
+                          CONTENT="logie und Philoſophie des Georg Hermes. Vom Profeſſor"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="158,891 183,891 209,892 235,893 261,893 287,893 313,893 339,892 364,892 390,892 416,891 442,891 468,891 494,891 1183,888"
+                         HEIGHT="39"
+                         WIDTH="362"
+                         VPOS="866"
+                         HPOS="158">
+                  <String ID="string_r1l8"
+                          HEIGHT="39"
+                          WIDTH="362"
+                          VPOS="866"
+                          HPOS="158"
+                          CONTENT="v. Droſte in Bonn . . . . . . . . . . . 1"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="86,940 136,942 187,944 238,944 289,945 340,945 390,945 441,945 492,945 543,944 594,943 644,943 695,942 746,941 797,940 848,940 898,939 949,938 1000,938 1051,938 1102,938"
+                         HEIGHT="44"
+                         WIDTH="1016"
+                         VPOS="913"
+                         HPOS="86">
+                  <String ID="string_r1l9"
+                          HEIGHT="44"
+                          WIDTH="1016"
+                          VPOS="913"
+                          HPOS="86"
+                          CONTENT="II. Ueber den Begriff der Philoſophie. Vom Profeſſor Biunde"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="162,998 188,997 215,997 242,997 268,998 295,998 322,998 348,998 375,999 402,999 428,999 455,999 482,999 1173,997"
+                         HEIGHT="41"
+                         WIDTH="1007"
+                         VPOS="969"
+                         HPOS="162">
+                  <String ID="string_r1l11"
+                          HEIGHT="41"
+                          WIDTH="1007"
+                          VPOS="969"
+                          HPOS="162"
+                          CONTENT="in Trier . . . . . . . . . . . . . 29"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="81,1047 131,1047 182,1047 232,1047 283,1047 334,1047 384,1047 435,1047 485,1047 536,1047 587,1047 637,1046 688,1046 738,1046 789,1045 840,1045 890,1045 941,1044 991,1044 1042,1044 1093,1044"
+                         HEIGHT="39"
+                         WIDTH="1012"
+                         VPOS="1020"
+                         HPOS="81">
+                  <String ID="string_r1l12"
+                          HEIGHT="39"
+                          WIDTH="1012"
+                          VPOS="1020"
+                          HPOS="81"
+                          CONTENT="III. Iſt jede durch unwahre Aeußerung gegen den Mitmenſchen"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="160,1098 206,1098 253,1097 299,1097 346,1097 393,1097 439,1097 486,1096 532,1096 579,1096 626,1096 672,1096 719,1096 765,1096 812,1096 859,1095 905,1095 952,1095 998,1095 1045,1095 1092,1095"
+                         HEIGHT="39"
+                         WIDTH="932"
+                         VPOS="1071"
+                         HPOS="160">
+                  <String ID="string_r1l13"
+                          HEIGHT="39"
+                          WIDTH="932"
+                          VPOS="1071"
+                          HPOS="160"
+                          CONTENT="beabſichtigte Irreleitung desſelben ohne Einſchränkung pflicht⸗"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="169,1151 215,1151 261,1150 308,1150 354,1150 401,1150 447,1149 493,1149 540,1149 586,1149 633,1149 679,1148 725,1148 772,1148 818,1148 865,1148 911,1147 957,1147 1004,1147 1050,1146 1183,1153"
+                         HEIGHT="45"
+                         WIDTH="1021"
+                         VPOS="1118"
+                         HPOS="169">
+                  <String ID="string_r1l14"
+                          HEIGHT="45"
+                          WIDTH="1021"
+                          VPOS="1118"
+                          HPOS="169"
+                          CONTENT="widrig oder Sünde? Vom Profeſſor Elvenich in Breslau. 70"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="85,1206 136,1206 187,1206 238,1205 289,1205 340,1205 391,1204 442,1204 493,1204 544,1203 595,1203 646,1202 697,1202 748,1202 799,1201 850,1201 901,1201 952,1201 1003,1201 1054,1201 1106,1202"
+                         HEIGHT="44"
+                         WIDTH="1021"
+                         VPOS="1175"
+                         HPOS="85">
+                  <String ID="string_r1l16"
+                          HEIGHT="44"
+                          WIDTH="1021"
+                          VPOS="1175"
+                          HPOS="85"
+                          CONTENT="IV. Ueber den Sinn und die Bedeutung einer Dogmengeſchichte"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="157,1257 203,1258 250,1258 297,1258 344,1259 391,1259 438,1259 485,1259 532,1259 579,1259 626,1258 672,1258 719,1258 766,1258 813,1257 860,1257 907,1257 954,1256 1001,1256 1048,1256 1095,1255"
+                         HEIGHT="43"
+                         WIDTH="938"
+                         VPOS="1229"
+                         HPOS="157">
+                  <String ID="string_r1l17"
+                          HEIGHT="43"
+                          WIDTH="938"
+                          VPOS="1229"
+                          HPOS="157"
+                          CONTENT="der katholiſchen Theologie im Gegenſatze zu der Dogmenge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="163,1309 191,1310 220,1311 248,1311 277,1312 306,1312 334,1312 363,1313 392,1313 420,1313 449,1313 478,1313 506,1313 535,1313 564,1313 592,1313 621,1313 650,1313 678,1313 707,1312 1186,1317"
+                         HEIGHT="41"
+                         WIDTH="1027"
+                         VPOS="1284"
+                         HPOS="163">
+                  <String ID="string_r1l19"
+                          HEIGHT="41"
+                          WIDTH="1027"
+                          VPOS="1284"
+                          HPOS="163"
+                          CONTENT="ſchichte der evangeliſchen Theologie . . . . . . . . 99"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="97,1363 147,1363 197,1364 248,1364 298,1364 349,1365 399,1365 450,1365 500,1365 551,1366 601,1366 651,1366 702,1365 752,1365 803,1365 853,1365 904,1365 954,1364 1005,1364 1055,1364 1106,1363"
+                         HEIGHT="40"
+                         WIDTH="1009"
+                         VPOS="1338"
+                         HPOS="97">
+                  <String ID="string_r1l21"
+                          HEIGHT="40"
+                          WIDTH="1009"
+                          VPOS="1338"
+                          HPOS="97"
+                          CONTENT="V. Ueber den rechtlichen Werth der Concordate. Vom Profeſſor"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="169,1418 197,1418 225,1418 253,1418 281,1418 310,1419 338,1419 366,1420 394,1420 422,1421 451,1422 479,1422 507,1423 535,1423 563,1424 592,1424 620,1425 648,1425 676,1424 704,1424 1186,1425"
+                         HEIGHT="46"
+                         WIDTH="1020"
+                         VPOS="1392"
+                         HPOS="169">
+                  <String ID="string_r1l23"
+                          HEIGHT="46"
+                          WIDTH="1020"
+                          VPOS="1392"
+                          HPOS="169"
+                          CONTENT="v. Droſte . . . . . .. . . . . . . .  . 126"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="482,1483 507,1485 532,1486 557,1487 583,1488 608,1488 633,1488 658,1488 684,1488 709,1489 734,1489 759,1489 785,1490"
+                         HEIGHT="52"
+                         WIDTH="303"
+                         VPOS="1453"
+                         HPOS="482">
+                  <String ID="string_r1l24"
+                          HEIGHT="52"
+                          WIDTH="303"
+                          VPOS="1453"
+                          HPOS="482"
+                          CONTENT="B. Recenſionen."/>
+               </TextLine>
+               <TextLine ID="line_1621257437127_1470"
+                         BASELINE="96,1547 128,1551 155,1552 202,1552 250,1551 297,1550 345,1550 392,1550 440,1550 487,1551 535,1551 582,1551 630,1552 678,1552 725,1552 773,1553 820,1553 868,1553 915,1553 963,1552 1010,1552 1058,1551 1106,1550"
+                         HEIGHT="62"
+                         WIDTH="1010"
+                         VPOS="1508"
+                         HPOS="96">
+                  <String ID="string_line_1621257437127_1470"
+                          HEIGHT="62"
+                          WIDTH="1010"
+                          VPOS="1508"
+                          HPOS="96"
+                          CONTENT="I. Platon's Werke von F. Schleiermacher. III. Theiles I."/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="165,1606 212,1605 259,1604 306,1603 354,1603 401,1603 448,1603 495,1603 543,1603 590,1603 637,1604 684,1604 732,1605 779,1605 826,1606 873,1606 921,1606 968,1606 1015,1606 1062,1605 1110,1604"
+                         HEIGHT="40"
+                         WIDTH="945"
+                         VPOS="1578"
+                         HPOS="165">
+                  <String ID="string_r1l27"
+                          HEIGHT="40"
+                          WIDTH="945"
+                          VPOS="1578"
+                          HPOS="165"
+                          CONTENT="Band. Der Staat. Berlin, 1828. Gedruckt und verlegt"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="161,1656 208,1656 255,1656 303,1656 350,1656 398,1656 445,1656 492,1656 540,1656 587,1656 635,1656 682,1657 729,1657 777,1657 824,1658 872,1658 919,1658 966,1659 1014,1659 1061,1660 1109,1660"
+                         HEIGHT="41"
+                         WIDTH="948"
+                         VPOS="1631"
+                         HPOS="161">
+                  <String ID="string_r1l28"
+                          HEIGHT="41"
+                          WIDTH="948"
+                          VPOS="1631"
+                          HPOS="161"
+                          CONTENT="bei G. Reimer. Auch unter dem Titel: Platon's Staat"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="171,1708 210,1708 249,1709 288,1709 327,1709 366,1709 405,1709 444,1709 483,1709 522,1708 562,1708 601,1708 640,1708 679,1708 718,1708 757,1709 796,1710 835,1711 874,1712 913,1714 1186,1718"
+                         HEIGHT="39"
+                         WIDTH="1015"
+                         VPOS="1686"
+                         HPOS="171">
+                  <String ID="string_r1l29"
+                          HEIGHT="39"
+                          WIDTH="1015"
+                          VPOS="1686"
+                          HPOS="171"
+                          CONTENT="von F. Schleiermacher. 626 S. 8. . . . . . . 135"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="90,1750 140,1753 190,1757 241,1759 291,1760 341,1761 392,1762 442,1762 492,1762 543,1762 593,1762 643,1761 694,1761 744,1760 794,1760 845,1760 895,1760 945,1761 996,1762 1046,1763 1097,1766"
+                         HEIGHT="49"
+                         WIDTH="1007"
+                         VPOS="1728"
+                         HPOS="90">
+                  <String ID="string_r1l31"
+                          HEIGHT="49"
+                          WIDTH="1007"
+                          VPOS="1728"
+                          HPOS="90"
+                          CONTENT="II. Die Revolution in Belgien im Jahre 1830. Nach den"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="173,1806 219,1808 266,1811 313,1812 360,1813 407,1814 454,1815 501,1815 548,1815 595,1815 642,1815 688,1814 735,1814 782,1814 829,1814 876,1814 923,1815 970,1816 1017,1817 1064,1819 1111,1822"
+                         HEIGHT="52"
+                         WIDTH="938"
+                         VPOS="1782"
+                         HPOS="173">
+                  <String ID="string_r1l32"
+                          HEIGHT="52"
+                          WIDTH="938"
+                          VPOS="1782"
+                          HPOS="173"
+                          CONTENT="zuverläſſigſten Berichten zuſammengeſtellt. Stuttgart, E."/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="178,1856 224,1860 270,1862 317,1865 363,1866 410,1867 456,1868 503,1868 549,1868 596,1868 642,1868 688,1868 735,1868 781,1868 828,1868 874,1868 921,1869 967,1870 1014,1872 1060,1874 1188,1877"
+                         HEIGHT="52"
+                         WIDTH="1007"
+                         VPOS="1833"
+                         HPOS="178">
+                  <String ID="string_r1l33"
+                          HEIGHT="52"
+                          WIDTH="1007"
+                          VPOS="1833"
+                          HPOS="178"
+                          CONTENT="Schweizerbarr's Verlagshandlung, 1831. 120 S. . . . . 151"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="100,1914 150,1915 200,1916 250,1917 301,1917 351,1918 401,1919 451,1919 502,1920 552,1920 602,1920 652,1921 703,1921 753,1921 803,1922 853,1922 904,1922 954,1923 1004,1923 1054,1923 1105,1924"
+                         HEIGHT="44"
+                         WIDTH="1005"
+                         VPOS="1891"
+                         HPOS="100">
+                  <String ID="string_r1l35"
+                          HEIGHT="44"
+                          WIDTH="1005"
+                          VPOS="1891"
+                          HPOS="100"
+                          CONTENT="III. Neuere Geſchichte der Deutſchen von der Reformation bis"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="172,1965 221,1967 270,1968 320,1970 369,1971 419,1972 468,1973 517,1973 567,1974 616,1974 666,1974 715,1974 765,1975 814,1975 863,1975 913,1976 962,1977 1012,1977 1061,1979 1111,1980"
+                         HEIGHT="54"
+                         WIDTH="939"
+                         VPOS="1939"
+                         HPOS="172">
+                  <String ID="string_r1l36"
+                          HEIGHT="54"
+                          WIDTH="939"
+                          VPOS="1939"
+                          HPOS="172"
+                          CONTENT="zur Bundes⸗Acte, von Carl Adolph Menzel, königl."/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="176,2020 222,2021 269,2022 316,2023 362,2023 409,2024 456,2024 502,2025 549,2025 596,2025 643,2026 689,2026 736,2027 783,2027 829,2028 876,2029 923,2030 969,2031 1016,2032 1063,2034 1110,2035"
+                         HEIGHT="52"
+                         WIDTH="934"
+                         VPOS="1995"
+                         HPOS="176">
+                  <String ID="string_r1l37"
+                          HEIGHT="52"
+                          WIDTH="934"
+                          VPOS="1995"
+                          HPOS="176"
+                          CONTENT="preuß. Conſiſtorial⸗ und Schul⸗Rath. Breslau, bei Graß,"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="178,2075 224,2075 271,2075 317,2075 364,2076 410,2076 457,2077 503,2078 550,2079 596,2079 643,2080 690,2081 736,2082 783,2083 829,2083 876,2084 922,2085 969,2085 1015,2086 1062,2086 1109,2086"
+                         HEIGHT="48"
+                         WIDTH="931"
+                         VPOS="2050"
+                         HPOS="178">
+                  <String ID="string_r1l38"
+                          HEIGHT="48"
+                          WIDTH="931"
+                          VPOS="2050"
+                          HPOS="178"
+                          CONTENT="Barth u. Comp. I. Band, 1826. II. Band, 1828. III."/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="168,2134 219,2132 270,2131 321,2130 372,2130 424,2130 475,2131 526,2132 577,2134 628,2135 680,2137 731,2138 782,2140 833,2141 884,2142 936,2143 987,2143 1038,2143 1089,2143 1140,2142 1192,2140"
+                         HEIGHT="52"
+                         WIDTH="1024"
+                         VPOS="2104"
+                         HPOS="168">
+                  <String ID="string_r1l39"
+                          HEIGHT="52"
+                          WIDTH="1024"
+                          VPOS="2104"
+                          HPOS="168"
+                          CONTENT="Band, 1880. IV. Band, 1831. 8. . . . . . . . 159"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

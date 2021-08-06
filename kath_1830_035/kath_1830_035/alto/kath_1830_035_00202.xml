@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:43:36.808+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2154" WIDTH="1258">
+         <TopMargin HEIGHT="0" WIDTH="1258" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2154" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2154" WIDTH="0" VPOS="0" HPOS="1258"/>
+         <BottomMargin HEIGHT="0" WIDTH="1258" VPOS="2154" HPOS="0"/>
+         <PrintSpace HEIGHT="2154" WIDTH="1258" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1964" WIDTH="1073" VPOS="85" HPOS="133">
+               <Shape>
+                  <Polygon POINTS="133,85 133,2049 1206,2049 1206,85"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="635,113 663,114 691,113 719,113"
+                         HEIGHT="43"
+                         WIDTH="84"
+                         VPOS="85"
+                         HPOS="635">
+                  <String ID="string_r1l1"
+                          HEIGHT="43"
+                          WIDTH="84"
+                          VPOS="85"
+                          HPOS="635"
+                          CONTENT="196"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="641,280 669,282 698,282 727,284"
+                         HEIGHT="46"
+                         WIDTH="86"
+                         VPOS="252"
+                         HPOS="641">
+                  <String ID="string_r1l2"
+                          HEIGHT="46"
+                          WIDTH="86"
+                          VPOS="252"
+                          HPOS="641"
+                          CONTENT="VIII."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="328,345 362,346 397,347 432,348 467,349 502,350 537,350 571,351 606,351 641,351 676,352 711,352 746,353 781,353 815,354 850,354 885,355 920,356 955,357 990,358 1025,360"
+                         HEIGHT="51"
+                         WIDTH="697"
+                         VPOS="321"
+                         HPOS="328">
+                  <String ID="string_r1l3"
+                          HEIGHT="51"
+                          WIDTH="697"
+                          VPOS="321"
+                          HPOS="328"
+                          CONTENT="Das Feſt der Epiphanie"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="644,400 671,400 698,400"
+                         HEIGHT="34"
+                         WIDTH="54"
+                         VPOS="377"
+                         HPOS="644">
+                  <String ID="string_r1l4"
+                          HEIGHT="34"
+                          WIDTH="54"
+                          VPOS="377"
+                          HPOS="644"
+                          CONTENT="und"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="137,452 189,451 242,451 295,451 348,452 401,452 454,453 507,453 560,454 613,455 666,456 718,457 771,458 824,459 877,461 930,462 983,463 1036,464 1089,465 1142,465 1195,466"
+                         HEIGHT="57"
+                         WIDTH="1058"
+                         VPOS="423"
+                         HPOS="137">
+                  <String ID="string_r1l5"
+                          HEIGHT="57"
+                          WIDTH="1058"
+                          VPOS="423"
+                          HPOS="137"
+                          CONTENT="die Akademie in der Propaganda."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="224,523 272,524 321,525 370,526 419,526 468,527 517,528 565,529 614,530 663,531 712,532 761,533 810,534 859,534 907,535 956,535 1005,536 1054,536 1103,536 1152,536 1201,535"
+                         HEIGHT="52"
+                         WIDTH="977"
+                         VPOS="497"
+                         HPOS="224">
+                  <String ID="string_r1l6"
+                          HEIGHT="52"
+                          WIDTH="977"
+                          VPOS="497"
+                          HPOS="224"
+                          CONTENT="Das Feſt der Epiphanie, der Erſcheinung des Herrn"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="141,582 196,581 252,580 308,580 363,580 419,581 475,581 531,583 586,584 642,585 698,586 754,588 809,589 865,590 921,591 977,592 1032,592 1088,592 1144,591 1200,590"
+                         HEIGHT="51"
+                         WIDTH="1059"
+                         VPOS="554"
+                         HPOS="141">
+                  <String ID="string_r1l7"
+                          HEIGHT="51"
+                          WIDTH="1059"
+                          VPOS="554"
+                          HPOS="141"
+                          CONTENT="iſt das Hauptfeſt der Kirche der Propaganda als Pri⸗"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="142,635 195,635 248,635 301,635 354,635 408,636 461,636 514,637 567,638 620,639 674,640 727,642 780,643 833,644 886,645 940,645 993,646 1046,646 1099,647 1152,647 1206,647"
+                         HEIGHT="51"
+                         WIDTH="1064"
+                         VPOS="609"
+                         HPOS="142">
+                  <String ID="string_r1l8"
+                          HEIGHT="51"
+                          WIDTH="1064"
+                          VPOS="609"
+                          HPOS="142"
+                          CONTENT="vat⸗ oder Collegialkirche, und mit Recht haben es dazu"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="143,690 195,689 248,689 300,689 353,689 406,689 458,690 511,691 563,692 616,693 669,694 721,695 774,696 826,697 879,698 932,699 984,700 1037,701 1089,701 1142,701 1195,701"
+                         HEIGHT="51"
+                         WIDTH="1052"
+                         VPOS="663"
+                         HPOS="143">
+                  <String ID="string_r1l9"
+                          HEIGHT="51"
+                          WIDTH="1052"
+                          VPOS="663"
+                          HPOS="143"
+                          CONTENT="die Stifter der Anſtalt eingeſetzt. Die Weiſen des Mor⸗"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="147,745 199,744 252,743 305,743 357,743 410,744 463,744 515,745 568,746 621,747 674,748 726,749 779,750 832,751 884,752 937,753 990,754 1042,755 1095,756 1148,756 1201,756"
+                         HEIGHT="52"
+                         WIDTH="1054"
+                         VPOS="717"
+                         HPOS="147">
+                  <String ID="string_r1l10"
+                          HEIGHT="52"
+                          WIDTH="1054"
+                          VPOS="717"
+                          HPOS="147"
+                          CONTENT="genlandes führte ihr glücklicher Stern nach der armen"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="142,798 195,797 248,797 301,797 354,797 407,797 460,798 513,799 566,800 619,800 672,802 725,803 778,804 831,805 884,806 937,808 990,809 1043,810 1096,811 1149,812 1203,812"
+                         HEIGHT="54"
+                         WIDTH="1061"
+                         VPOS="771"
+                         HPOS="142">
+                  <String ID="string_r1l11"
+                          HEIGHT="54"
+                          WIDTH="1061"
+                          VPOS="771"
+                          HPOS="142"
+                          CONTENT="Hütte in Bethlehem, auf daß ſie den Gottmenſchen, den"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="148,850 200,850 252,851 305,851 357,852 410,853 462,853 515,854 567,855 620,856 672,857 724,858 777,859 829,860 882,861 934,861 987,862 1039,863 1092,864 1144,865 1197,866"
+                         HEIGHT="53"
+                         WIDTH="1049"
+                         VPOS="825"
+                         HPOS="148">
+                  <String ID="string_r1l12"
+                          HEIGHT="53"
+                          WIDTH="1049"
+                          VPOS="825"
+                          HPOS="148"
+                          CONTENT="neugebornen Heiland anbeteten in den Armen der Gott⸗"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="142,908 194,909 247,909 299,910 352,910 404,910 457,911 509,911 562,911 614,912 667,912 720,913 772,913 825,914 877,914 930,915 982,916 1035,918 1087,919 1140,921 1193,923"
+                         HEIGHT="54"
+                         WIDTH="1051"
+                         VPOS="882"
+                         HPOS="142">
+                  <String ID="string_r1l13"
+                          HEIGHT="54"
+                          WIDTH="1051"
+                          VPOS="882"
+                          HPOS="142"
+                          CONTENT="geſegneten, die von der unbegreiflichen Liebe der Gottheit zu"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="139,962 191,963 244,964 297,965 349,966 402,967 455,967 507,968 560,968 613,969 666,969 718,970 771,970 824,971 876,971 929,972 982,973 1034,973 1087,974 1140,976 1193,977"
+                         HEIGHT="54"
+                         WIDTH="1054"
+                         VPOS="936"
+                         HPOS="139">
+                  <String ID="string_r1l14"
+                          HEIGHT="54"
+                          WIDTH="1054"
+                          VPOS="936"
+                          HPOS="139"
+                          CONTENT="den Menſchen ſchon vor der Zeiten Anfang dazu beſtimmt"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="137,1020 190,1021 243,1021 296,1022 349,1023 402,1024 455,1024 508,1025 561,1025 614,1026 667,1026 720,1027 773,1027 826,1028 879,1028 932,1029 985,1029 1038,1030 1091,1030 1144,1031 1197,1031"
+                         HEIGHT="51"
+                         WIDTH="1060"
+                         VPOS="993"
+                         HPOS="137">
+                  <String ID="string_r1l15"
+                          HEIGHT="51"
+                          WIDTH="1060"
+                          VPOS="993"
+                          HPOS="137"
+                          CONTENT="war, den Erlöſer des ganzen gefallenen Geſchlechtes"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="143,1076 195,1077 248,1077 300,1078 353,1079 406,1079 458,1080 511,1080 563,1081 616,1082 669,1082 721,1083 774,1083 826,1084 879,1084 932,1085 984,1085 1037,1086 1089,1086 1142,1087 1195,1087"
+                         HEIGHT="50"
+                         WIDTH="1052"
+                         VPOS="1050"
+                         HPOS="143">
+                  <String ID="string_r1l16"
+                          HEIGHT="50"
+                          WIDTH="1052"
+                          VPOS="1050"
+                          HPOS="143"
+                          CONTENT="Adam’s zu gebähren. Die heil. Schrift meldet uns nur"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="135,1131 188,1131 241,1132 294,1133 347,1134 400,1134 453,1135 506,1136 559,1136 612,1137 666,1137 719,1138 772,1138 825,1139 878,1139 931,1140 984,1140 1037,1140 1090,1141 1143,1141 1197,1142"
+                         HEIGHT="50"
+                         WIDTH="1062"
+                         VPOS="1105"
+                         HPOS="135">
+                  <String ID="string_r1l17"
+                          HEIGHT="50"
+                          WIDTH="1062"
+                          VPOS="1105"
+                          HPOS="135"
+                          CONTENT="noch die Rückkehr der glücklichen Könige; aber es iſt ge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="137,1184 190,1185 243,1186 296,1187 349,1188 403,1189 456,1189 509,1190 562,1191 615,1191 669,1192 722,1192 775,1193 828,1193 881,1194 935,1194 988,1195 1041,1195 1094,1196 1147,1196 1201,1196"
+                         HEIGHT="48"
+                         WIDTH="1064"
+                         VPOS="1160"
+                         HPOS="137">
+                  <String ID="string_r1l18"
+                          HEIGHT="48"
+                          WIDTH="1064"
+                          VPOS="1160"
+                          HPOS="137"
+                          CONTENT="wiß, daß ſie in ihrem Vaterlande die erſten Apoſtel der"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="143,1236 195,1237 248,1237 300,1238 353,1239 405,1239 458,1240 510,1241 563,1242 615,1242 668,1243 720,1244 773,1245 825,1246 878,1247 930,1248 983,1248 1035,1249 1088,1250 1140,1251 1193,1252"
+                         HEIGHT="52"
+                         WIDTH="1050"
+                         VPOS="1212"
+                         HPOS="143">
+                  <String ID="string_r1l19"
+                          HEIGHT="52"
+                          WIDTH="1050"
+                          VPOS="1212"
+                          HPOS="143"
+                          CONTENT="Ankunft des Herrn wurden. Wenn alſo die Propaganda"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="141,1288 193,1289 246,1290 298,1291 351,1292 404,1293 456,1293 509,1294 561,1295 614,1295 667,1296 719,1296 772,1297 824,1297 877,1298 930,1299 982,1300 1035,1301 1087,1302 1140,1303 1193,1304"
+                         HEIGHT="53"
+                         WIDTH="1052"
+                         VPOS="1263"
+                         HPOS="141">
+                  <String ID="string_r1l20"
+                          HEIGHT="53"
+                          WIDTH="1052"
+                          VPOS="1263"
+                          HPOS="141"
+                          CONTENT="als Miſſionsanſtalt, die nach dem ganzen Sinne der Sen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="142,1344 194,1344 246,1345 298,1345 351,1346 403,1346 455,1347 508,1348 560,1349 612,1350 665,1351 717,1352 769,1353 821,1354 874,1355 926,1356 978,1357 1031,1358 1083,1360 1135,1361 1188,1362"
+                         HEIGHT="57"
+                         WIDTH="1046"
+                         VPOS="1318"
+                         HPOS="142">
+                  <String ID="string_r1l21"
+                          HEIGHT="57"
+                          WIDTH="1046"
+                          VPOS="1318"
+                          HPOS="142"
+                          CONTENT="dung des Heilandes in alle Welt ihre Jünger ſchickt,"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="141,1404 193,1403 245,1403 297,1402 350,1403 402,1403 454,1404 506,1404 559,1405 611,1406 663,1407 715,1409 768,1410 820,1411 872,1412 924,1413 977,1414 1029,1414 1081,1415 1133,1415 1186,1415"
+                         HEIGHT="52"
+                         WIDTH="1045"
+                         VPOS="1376"
+                         HPOS="141">
+                  <String ID="string_r1l22"
+                          HEIGHT="52"
+                          WIDTH="1045"
+                          VPOS="1376"
+                          HPOS="141"
+                          CONTENT="allen Völkern und allen Kreaturen das Evan⸗"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="140,1463 192,1462 245,1461 298,1461 351,1461 404,1461 457,1461 509,1462 562,1462 615,1463 668,1464 721,1465 774,1466 827,1467 879,1468 932,1469 985,1470 1038,1470 1091,1471 1144,1471 1197,1470"
+                         HEIGHT="49"
+                         WIDTH="1057"
+                         VPOS="1435"
+                         HPOS="140">
+                  <String ID="string_r1l23"
+                          HEIGHT="49"
+                          WIDTH="1057"
+                          VPOS="1435"
+                          HPOS="140"
+                          CONTENT="gelium zu verkünden, ᴵ) das Feſt der Epiphanie"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="139,1516 191,1515 244,1515 297,1515 350,1515 403,1516 456,1516 509,1517 562,1518 615,1519 668,1519 720,1520 773,1521 826,1522 879,1523 932,1523 985,1524 1038,1524 1091,1525 1144,1525 1197,1524"
+                         HEIGHT="49"
+                         WIDTH="1058"
+                         VPOS="1489"
+                         HPOS="139">
+                  <String ID="string_r1l24"
+                          HEIGHT="49"
+                          WIDTH="1058"
+                          VPOS="1489"
+                          HPOS="139"
+                          CONTENT="als das Hauptfeſt ihrer Kirche feiert, ſo hat ſie immer"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="137,1569 189,1569 242,1570 295,1570 348,1570 401,1571 453,1571 506,1572 559,1573 612,1573 665,1574 717,1575 770,1575 823,1576 876,1577 929,1577 981,1578 1034,1579 1087,1579 1140,1579 1193,1580"
+                         HEIGHT="50"
+                         WIDTH="1056"
+                         VPOS="1543"
+                         HPOS="137">
+                  <String ID="string_r1l25"
+                          HEIGHT="50"
+                          WIDTH="1056"
+                          VPOS="1543"
+                          HPOS="137"
+                          CONTENT="den einen hohen Zweck vor Augen, der die ganze Ten⸗"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="141,1622 193,1623 246,1624 298,1624 351,1625 404,1626 456,1626 509,1627 561,1627 614,1628 667,1628 719,1629 772,1629 824,1630 877,1631 930,1631 982,1632 1035,1632 1087,1633 1140,1633 1193,1634"
+                         HEIGHT="49"
+                         WIDTH="1052"
+                         VPOS="1597"
+                         HPOS="141">
+                  <String ID="string_r1l26"
+                          HEIGHT="49"
+                          WIDTH="1052"
+                          VPOS="1597"
+                          HPOS="141"
+                          CONTENT="denz ihres kräftigen raſtloſen Wirkens umfaßt. Daher"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="142,1675 194,1677 247,1678 299,1679 352,1680 404,1680 457,1680 509,1681 562,1681 614,1681 667,1681 720,1681 772,1682 825,1682 877,1683 930,1683 982,1684 1035,1685 1087,1687 1140,1688 1193,1691"
+                         HEIGHT="53"
+                         WIDTH="1051"
+                         VPOS="1650"
+                         HPOS="142">
+                  <String ID="string_r1l27"
+                          HEIGHT="53"
+                          WIDTH="1051"
+                          VPOS="1650"
+                          HPOS="142"
+                          CONTENT="erinnert auch Alles daran, was die Kirche an äußerem"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="137,1728 189,1730 241,1731 294,1733 346,1734 399,1734 451,1735 503,1735 556,1736 608,1736 661,1736 713,1736 765,1736 818,1737 870,1737 923,1738 975,1739 1027,1740 1080,1742 1132,1744 1185,1746"
+                         HEIGHT="57"
+                         WIDTH="1048"
+                         VPOS="1702"
+                         HPOS="137">
+                  <String ID="string_r1l28"
+                          HEIGHT="57"
+                          WIDTH="1048"
+                          VPOS="1702"
+                          HPOS="137"
+                          CONTENT="Schmucke beſitzt, und das große ſchöne Bild des Haupt⸗"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="138,1784 190,1785 242,1786 295,1787 347,1788 399,1789 452,1789 504,1790 556,1790 609,1790 661,1791 713,1791 766,1791 818,1792 870,1793 923,1794 975,1795 1027,1796 1080,1797 1132,1800 1185,1801"
+                         HEIGHT="56"
+                         WIDTH="1047"
+                         VPOS="1758"
+                         HPOS="138">
+                  <String ID="string_r1l29"
+                          HEIGHT="56"
+                          WIDTH="1047"
+                          VPOS="1758"
+                          HPOS="138"
+                          CONTENT="altares kann ſchon darauf gleichfalls allein zurückführen."/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="133,1842 186,1843 239,1843 292,1843 345,1843 398,1843 451,1843 504,1843 557,1844 610,1844 663,1844 716,1844 769,1845 822,1845 875,1846 928,1847 981,1849 1034,1850 1087,1852 1140,1854 1193,1856"
+                         HEIGHT="53"
+                         WIDTH="1060"
+                         VPOS="1816"
+                         HPOS="133">
+                  <String ID="string_r1l30"
+                          HEIGHT="53"
+                          WIDTH="1060"
+                          VPOS="1816"
+                          HPOS="133"
+                          CONTENT="Es gewinnt auch die Feier dieſes Feſtes ſelbſt in der"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="135,1897 187,1896 240,1896 292,1897 345,1897 398,1897 450,1897 503,1898 555,1899 608,1899 661,1900 713,1901 766,1901 818,1902 871,1903 924,1904 976,1905 1029,1906 1081,1906 1134,1907 1187,1908"
+                         HEIGHT="51"
+                         WIDTH="1052"
+                         VPOS="1870"
+                         HPOS="135">
+                  <String ID="string_r1l31"
+                          HEIGHT="51"
+                          WIDTH="1052"
+                          VPOS="1870"
+                          HPOS="135"
+                          CONTENT="Propaganda etwas Großartiges und Auszeichnendes;"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="144,1953 196,1953 248,1952 301,1952 353,1953 406,1953 458,1954 511,1954 563,1955 616,1956 668,1957 720,1958 773,1959 825,1960 878,1961 930,1962 983,1963 1035,1963 1088,1964 1140,1964 1193,1964"
+                         HEIGHT="52"
+                         WIDTH="1049"
+                         VPOS="1925"
+                         HPOS="144">
+                  <String ID="string_r1l32"
+                          HEIGHT="52"
+                          WIDTH="1049"
+                          VPOS="1925"
+                          HPOS="144"
+                          CONTENT="und wie der Herr bei Malachias durch den Mund des"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="179,2022 209,2024 239,2025 270,2026 300,2027 331,2028 361,2029 392,2029 422,2029 453,2030 483,2030 513,2030 544,2030 574,2030 605,2031 635,2031 666,2031 696,2032 727,2033 757,2033 788,2035"
+                         HEIGHT="55"
+                         WIDTH="609"
+                         VPOS="1994"
+                         HPOS="179">
+                  <String ID="string_r1l33"
+                          HEIGHT="55"
+                          WIDTH="609"
+                          VPOS="1994"
+                          HPOS="179"
+                          CONTENT="ᴵ) Matth. XXVIII. 19.; Marc. XVI. 15."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-20T17:15:09.342+01:00</Created>
+        <LastChange>2021-04-30T16:41:58.115+02:00</LastChange>
+        <TranskribusMetadata docId="542279" pageId="22797904" pageNr="7" tsid="57494682" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=JLVFVCEIBDDPWEENSVGYUYDK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NWEUXCILVKAMETMXZRNXAXTW" imageId="17775096"/>
+    </Metadata>
+    <Page imageFilename="litrdsch_1875_0021.tif" imageWidth="2211" imageHeight="3383">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328137784" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1613727341254_691"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1615192489285_1054"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1615192489282_1053"/>
+                <RegionRefIndexed index="3" regionRef="region_1613727358269_697"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1613727341254_691" custom="readingOrder {index:0;}">
+            <Coords points="1087,134 1170,138 1174,198 1094,205"/>
+            <TextLine id="line_1615192489433_1057" custom="readingOrder {index:0;}">
+                <Coords points="1100,163 1122,161 1122,191 1100,193"/>
+                <Baseline points="1100,183 1160,185"/>
+                <TextEquiv>
+                    <Unicode>16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>16</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1615192489285_1054" custom="readingOrder {index:1;}">
+            <Coords points="96,239 1122,239 1122,3133 1073,3134 90,3122"/>
+            <TextLine id="line_1613727438792_728" custom="readingOrder {index:0;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="141,258 1023,258 1051,259 1080,261 1080,291 908,294 294,291 141,288"/>
+                <Baseline points="141,278 179,278 217,279 256,279 294,281 332,281 371,281 409,281 447,281 486,281 524,281 562,281 601,281 639,281 677,281 716,281 754,281 792,281 831,282 869,283 908,284 1023,278 1051,279 1098,292"/>
+                <TextEquiv>
+                    <Unicode>Mommson, Th., röm. Gesch. 2. Bd. 6 Aufl. gr. 8. 5 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:1;} textStyle {offset:0; length:15;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="132,325 179,325 227,325 275,325 322,327 370,327 418,327 465,327 513,327 561,327 609,327 656,327 704,327 752,327 799,327 847,327 895,327 942,327 990,327 1038,328 1086,328 1086,298 1038,298 990,297 942,297 895,297 847,297 799,297 752,297 704,297 656,297 609,297 561,297 513,297 465,297 418,297 370,297 322,297 275,295 227,295 179,295 132,295"/>
+                <Baseline points="132,315 179,315 227,315 275,315 322,317 370,317 418,317 465,317 513,317 561,317 609,317 656,317 704,317 752,317 799,317 847,317 895,317 942,317 990,317 1038,318 1093,324"/>
+                <TextEquiv>
+                    <Unicode>Monumenta Germ. historica, ed. G. H. Pertz. Scriptores.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727455197_734" custom="readingOrder {index:2;}">
+                <Coords points="206,330 1021,331 1047,332 1074,334 1074,364 941,366 904,366 353,364 279,363 206,360"/>
+                <Baseline points="206,350 242,351 279,353 316,353 353,354 389,354 426,354 463,354 500,354 536,354 573,354 610,354 647,354 683,354 720,354 757,354 794,354 830,354 867,354 904,356 941,356 969,354 995,353 1021,351 1047,352 1103,358"/>
+                <TextEquiv>
+                    <Unicode>Tom. 23. gr. fol. Hannover. Hahn. 54 M., auf feinerem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615192612809_1089" custom="readingOrder {index:3;}">
+                <Coords points="210,367 1004,367 1076,370 1076,400 1040,400 210,397"/>
+                <Baseline points="210,387 240,387 270,387 1004,387 1040,390 1094,401"/>
+                <TextEquiv>
+                    <Unicode>Velin. 81 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727474631_742" custom="readingOrder {index:4;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="116,405 983,403 1082,406 1082,436 1016,436 819,436 116,435"/>
+                <Baseline points="116,425 157,425 198,425 240,425 281,425 323,425 364,425 405,425 447,425 488,425 530,425 571,425 612,425 654,425 695,425 737,425 778,425 819,426 861,426 902,426 944,426 983,423 1016,426 1049,425 1091,432"/>
+                <TextEquiv>
+                    <Unicode>Oſterwald, Erzählungen aus der alten deutſchen Welt. 3. und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727479111_746" custom="readingOrder {index:5;}">
+                <Coords points="221,441 299,439 482,438 508,438 1031,439 1056,441 1082,445 1082,475 221,471"/>
+                <Baseline points="199,462 247,461 273,461 299,459 325,459 351,459 378,459 404,459 430,459 456,459 482,458 508,458 535,459 561,459 587,459 613,459 639,461 665,461 692,462 980,459 1005,459 1031,459 1056,461 1095,472"/>
+                <TextEquiv>
+                    <Unicode>7 Thl. 3 Aufl. 8. Halle. Waisenh. à 2 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727484225_750" custom="readingOrder {index:6;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="116,475 999,475 1057,477 1086,480 1086,510 948,510 116,505"/>
+                <Baseline points="116,495 157,495 199,495 240,495 282,495 324,495 365,495 407,495 448,495 490,495 532,495 573,495 615,495 656,496 698,497 740,497 781,497 823,498 864,498 906,498 948,500 971,495 999,495 1028,496 1057,497 1098,508"/>
+                <TextEquiv>
+                    <Unicode>Perlbach, M, preussische Regesten bis zum Ausg. des 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727519839_754" custom="readingOrder {index:7;}">
+                <Coords points="200,511 1008,510 1080,516 1080,546 200,541"/>
+                <Baseline points="200,531 228,531 257,531 285,531 314,531 342,531 371,531 399,531 428,531 456,531 485,531 514,531 542,531 571,531 599,531 628,531 656,531 685,533 713,533 742,533 771,533 1008,530 1044,533 1092,544"/>
+                <TextEquiv>
+                    <Unicode>Jahr. 1. Heft. gr. 8. Königsb. Beyer. 3 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:8;} textStyle {offset:0; length:15;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="116,576 163,576 211,576 258,577 306,577 354,577 401,577 449,577 496,577 544,577 592,577 639,577 687,577 734,578 782,579 830,579 877,579 925,579 972,579 1020,579 1068,579 1068,549 1020,549 972,549 925,549 877,549 830,549 782,549 734,548 687,547 639,547 592,547 544,547 496,547 449,547 401,547 354,547 306,547 258,547 211,546 163,546 116,546"/>
+                <Baseline points="116,566 163,566 211,566 258,567 306,567 354,567 401,567 449,567 496,567 544,567 592,567 639,567 687,567 734,568 782,569 830,569 877,569 925,569 972,569 1020,569 1091,577"/>
+                <TextEquiv>
+                    <Unicode>Ranke’s, L. v., ſämmtl. Werke. 13. 29. 33. 34 Bd. gr. 8. Leipz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:9;}">
+                <Coords points="192,612 236,612 280,612 324,612 368,612 412,612 456,612 500,612 544,613 588,613 633,613 677,613 721,613 765,613 809,613 853,613 897,613 941,613 985,613 1029,613 1074,613 1074,583 1029,583 985,583 941,583 897,583 853,583 809,583 765,583 721,583 677,583 633,583 588,583 544,583 500,582 456,582 412,582 368,582 324,582 280,582 236,582 192,582"/>
+                <Baseline points="192,602 236,602 280,602 324,602 368,602 412,602 456,602 500,602 544,603 588,603 633,603 677,603 721,603 765,603 809,603 853,603 897,603 941,603 985,603 1029,603 1090,612"/>
+                <TextEquiv>
+                    <Unicode>Duncker und Humblot. 13. Band 5 Mark, die übr. à 4,50 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727524083_758" custom="readingOrder {index:10;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="128,619 210,618 987,618 1047,621 1077,624 1077,654 128,649"/>
+                <Baseline points="128,639 169,639 210,638 251,638 292,638 333,638 374,638 416,638 457,638 498,639 539,639 580,639 621,639 662,639 704,639 745,639 786,639 827,639 868,639 909,638 951,638 987,638 1017,641 1047,641 1100,648"/>
+                <TextEquiv>
+                    <Unicode>Urkundenbuch, Bremisches, hrsg. v. R. Ehmck u. W. v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727532976_762" custom="readingOrder {index:11;}">
+                <Coords points="201,654 313,654 951,655 1045,657 1071,660 1071,690 538,687 201,684"/>
+                <Baseline points="201,674 238,674 276,674 313,674 351,675 388,675 426,675 463,675 501,676 538,677 576,677 613,677 651,677 688,677 726,678 763,678 801,677 838,677 876,677 913,677 951,675 993,677 1019,677 1045,677 1089,682"/>
+                <TextEquiv>
+                    <Unicode>Bippen. 2. Bd. 2. und 3. Lfg. gr. 4. Bremen. Müller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:12;}">
+                <Coords points="990,723 1016,723 1042,723 1068,726 1068,696 1042,693 1016,693 990,693"/>
+                <Baseline points="990,713 1016,713 1042,713 1087,720"/>
+                <TextEquiv>
+                    <Unicode>15 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:13;} textStyle {offset:0; length:24;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="117,753 164,753 212,754 260,754 308,756 356,756 404,756 451,756 499,757 547,757 595,757 643,757 691,757 739,757 786,757 834,757 882,757 930,759 978,759 1026,759 1074,760 1074,730 1026,729 978,729 930,729 882,727 834,727 786,727 739,727 691,727 643,727 595,727 547,727 499,727 451,726 404,726 356,726 308,726 260,724 212,724 164,723 117,723"/>
+                <Baseline points="117,743 164,743 212,744 260,744 308,746 356,746 404,746 451,746 499,747 547,747 595,747 643,747 691,747 739,747 786,747 834,747 882,747 930,749 978,749 1026,749 1094,750"/>
+                <TextEquiv>
+                    <Unicode>Varnhagen v. Enſe, K. A, ausgew. Schriften 15. und 16. Bd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727538236_766" custom="readingOrder {index:14;}">
+                <Coords points="204,759 999,765 1077,768 1077,798 1051,799 430,795 317,793 241,791 204,789"/>
+                <Baseline points="204,779 241,781 279,782 317,783 355,783 392,784 430,785 468,785 506,785 543,785 581,785 619,785 657,785 694,785 732,785 770,785 808,785 845,785 883,785 921,785 959,786 999,785 1025,788 1049,788 1093,792"/>
+                <TextEquiv>
+                    <Unicode>(2. Abth. Biogr. Denkmale. 9. u. 10. Thl.) 8 Leipz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727545211_771" custom="readingOrder {index:15;}">
+                <Coords points="195,795 975,801 1074,804 1074,834 1041,835 279,829 251,828 195,825"/>
+                <Baseline points="195,815 223,816 251,818 279,819 307,819 336,818 975,821 1008,822 1041,825 1090,831"/>
+                <TextEquiv>
+                    <Unicode>Brockhaus. à 4 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l60" custom="readingOrder {index:16;} textStyle {offset:0; length:19;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="420,870 445,871 471,873 496,873 522,873 548,873 573,873 599,873 625,873 650,873 676,873 702,873 727,873 753,873 779,874 779,844 753,843 727,843 702,843 676,843 650,843 625,843 599,843 573,843 548,843 522,843 496,843 471,843 445,841 420,840"/>
+                <Baseline points="420,860 445,861 471,863 496,863 522,863 548,863 573,863 599,863 625,863 650,863 676,863 702,863 727,863 753,863 779,864"/>
+                <TextEquiv>
+                    <Unicode>Geographie. Reiſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l62" custom="readingOrder {index:17;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="113,915 161,916 209,918 257,919 305,920 354,921 402,921 450,921 498,921 546,921 595,921 643,921 691,919 739,919 787,919 836,919 884,920 932,921 980,921 1028,922 1077,924 1077,894 1028,892 980,891 932,891 884,890 836,889 787,889 739,889 691,889 643,891 595,891 546,891 498,891 450,891 402,891 354,891 305,890 257,889 209,888 161,886 113,885"/>
+                <Baseline points="113,905 161,906 209,908 257,909 305,910 354,911 402,911 450,911 498,911 546,911 595,911 643,911 691,909 739,909 787,909 836,909 884,910 932,911 980,911 1028,912 1077,914"/>
+                <TextEquiv>
+                    <Unicode>Behm, E., geogr. Jahrbuch. 5. Bd. 1874. 8. Gotha. J. Perthes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l64" custom="readingOrder {index:18;}">
+                <Coords points="1047,958 1080,958 1080,928 1047,928"/>
+                <Baseline points="1003,946 1080,948"/>
+                <TextEquiv>
+                    <Unicode>8 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l66" custom="readingOrder {index:19;} textStyle {offset:0; length:16;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="120,987 170,988 220,989 271,990 321,990 372,991 422,991 473,991 523,991 574,991 624,991 675,991 725,991 776,991 826,991 877,991 927,993 978,993 1028,994 1079,996 1079,966 1028,964 978,963 927,963 877,961 826,961 776,961 725,961 675,961 624,961 574,961 523,961 473,961 422,961 372,961 321,960 271,960 220,959 170,958 120,957"/>
+                <Baseline points="120,977 170,978 220,979 271,980 321,980 372,981 422,981 473,981 523,981 574,981 624,981 675,981 725,981 776,981 826,981 877,981 927,983 978,983 1028,984 1079,986"/>
+                <TextEquiv>
+                    <Unicode>Nordpolarfahrt, die zweite deutsche, in den J. 1869 n. 70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l68" custom="readingOrder {index:20;}">
+                <Coords points="192,1026 235,1026 279,1027 323,1027 367,1027 411,1027 455,1027 499,1027 543,1027 587,1026 631,1026 674,1026 718,1026 762,1027 806,1027 850,1027 894,1027 938,1027 982,1029 1026,1029 1070,1030 1070,1000 1026,999 982,999 938,997 894,997 850,997 806,997 762,997 718,996 674,996 631,996 587,996 543,997 499,997 455,997 411,997 367,997 323,997 279,997 235,996 192,996"/>
+                <Baseline points="192,1016 235,1016 279,1017 323,1017 367,1017 411,1017 455,1017 499,1017 543,1017 587,1016 631,1016 674,1016 718,1016 762,1017 806,1017 850,1017 894,1017 938,1017 982,1019 1026,1019 1085,1022"/>
+                <TextEquiv>
+                    <Unicode>unter Führung des Kapitain Karl Koldewey. 2. Bd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l69" custom="readingOrder {index:21;}">
+                <Coords points="206,1060 251,1060 296,1062 341,1062 386,1063 432,1063 477,1063 522,1065 567,1065 612,1065 658,1065 703,1065 748,1065 793,1066 838,1066 884,1066 929,1066 974,1066 1019,1065 1065,1065 1065,1035 1019,1035 974,1036 929,1036 884,1036 838,1036 793,1036 748,1035 703,1035 658,1035 612,1035 567,1035 522,1035 477,1033 432,1033 386,1033 341,1032 296,1032 251,1030 206,1030"/>
+                <Baseline points="206,1050 251,1050 296,1052 341,1052 386,1053 432,1053 477,1053 522,1055 567,1055 612,1055 658,1055 703,1055 748,1055 793,1056 838,1056 884,1056 929,1056 974,1056 1019,1055 1080,1060"/>
+                <TextEquiv>
+                    <Unicode>Wissensch. Ergebnisse. 3. Abth. gr. 8. Leipz. Brockhaus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l70" custom="readingOrder {index:22;}">
+                <Coords points="1004,1099 1037,1102 1070,1102 1070,1072 1037,1072 1004,1069"/>
+                <Baseline points="1004,1089 1037,1092 1082,1095"/>
+                <TextEquiv>
+                    <Unicode>18 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l71" custom="readingOrder {index:23;} textStyle {offset:0; length:14;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="113,1131 161,1132 209,1132 257,1134 305,1134 353,1134 401,1135 450,1135 498,1135 546,1135 594,1135 642,1135 690,1135 738,1135 787,1135 835,1135 883,1137 931,1137 979,1137 1027,1138 1076,1138 1076,1108 1027,1108 979,1107 931,1107 883,1107 835,1105 787,1105 738,1105 690,1105 642,1105 594,1105 546,1105 498,1105 450,1105 401,1105 353,1104 305,1104 257,1104 209,1102 161,1102 113,1101"/>
+                <Baseline points="113,1121 161,1122 209,1122 257,1124 305,1124 353,1124 401,1125 450,1125 498,1125 546,1125 594,1125 642,1125 690,1125 738,1125 787,1125 835,1125 883,1127 931,1127 979,1127 1027,1128 1076,1128"/>
+                <TextEquiv>
+                    <Unicode>Stieler’s, A., Handatlas. Ergänzungsheft. 4. qu. Fol. 1,60 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l73" custom="readingOrder {index:24;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="110,1168 158,1168 206,1170 254,1170 302,1171 350,1171 398,1171 446,1171 494,1171 542,1171 590,1171 638,1171 686,1171 734,1171 782,1171 830,1172 878,1173 926,1173 974,1173 1022,1173 1070,1174 1070,1144 1022,1143 974,1143 926,1143 878,1143 830,1142 782,1141 734,1141 686,1141 638,1141 590,1141 542,1141 494,1141 446,1141 398,1141 350,1141 302,1141 254,1140 206,1140 158,1138 110,1138"/>
+                <Baseline points="110,1158 158,1158 206,1160 254,1160 302,1161 350,1161 398,1161 446,1161 494,1161 542,1161 590,1161 638,1161 686,1161 734,1161 782,1161 830,1162 878,1163 926,1163 974,1163 1022,1163 1075,1173"/>
+                <TextEquiv>
+                    <Unicode>Topelius, Z., e. Reise in Finnland. Nach Originalgemälden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l74" custom="readingOrder {index:25;}">
+                <Coords points="179,1204 223,1204 267,1206 312,1206 356,1207 401,1207 445,1207 489,1209 534,1209 578,1209 623,1209 667,1209 711,1209 756,1209 800,1209 845,1209 889,1209 933,1209 978,1209 1022,1210 1067,1210 1067,1180 1022,1180 978,1179 933,1179 889,1179 845,1179 800,1179 756,1179 711,1179 667,1179 623,1179 578,1179 534,1179 489,1179 445,1177 401,1177 356,1177 312,1176 267,1176 223,1174 179,1174"/>
+                <Baseline points="179,1194 223,1194 267,1196 312,1196 356,1197 401,1197 445,1197 489,1199 534,1199 578,1199 623,1199 667,1199 711,1199 756,1199 800,1199 845,1199 889,1199 933,1199 978,1199 1022,1200 1079,1202"/>
+                <TextEquiv>
+                    <Unicode>v. A. v. Becker etc. qu. gr. 4. Leipz. Weigel. Geb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727672989_828" custom="readingOrder {index:26;}">
+                <Coords points="189,1209 1065,1216 1065,1246 996,1246 330,1243 273,1242 189,1239"/>
+                <Baseline points="189,1229 217,1230 245,1230 273,1232 302,1232 330,1233 358,1233 387,1232 996,1236 1030,1236 1079,1241"/>
+                <TextEquiv>
+                    <Unicode>m. Goldschn. 36 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l79" custom="readingOrder {index:27;} textStyle {offset:0; length:15;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="446,1282 473,1284 500,1285 527,1285 554,1285 581,1285 608,1285 635,1285 662,1285 689,1286 716,1287 744,1288 744,1258 716,1257 689,1256 662,1255 635,1255 608,1255 581,1255 554,1255 527,1255 500,1255 473,1254 446,1252"/>
+                <Baseline points="446,1272 473,1274 500,1275 527,1275 554,1275 581,1275 608,1275 635,1275 662,1275 689,1276 716,1277 744,1278"/>
+                <TextEquiv>
+                    <Unicode>Socialökonomie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l82" custom="readingOrder {index:28;} textStyle {offset:0; length:15;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="110,1329 157,1330 205,1330 253,1330 300,1330 348,1332 396,1332 443,1332 491,1333 539,1333 587,1333 634,1335 682,1335 730,1335 777,1335 825,1336 873,1336 920,1336 968,1336 1016,1336 1064,1336 1064,1306 1016,1306 968,1306 920,1306 873,1306 825,1306 777,1305 730,1305 682,1305 634,1305 587,1303 539,1303 491,1303 443,1302 396,1302 348,1302 300,1300 253,1300 205,1300 157,1300 110,1299"/>
+                <Baseline points="110,1319 157,1320 205,1320 253,1320 300,1320 348,1322 396,1322 443,1322 491,1323 539,1323 587,1323 634,1325 682,1325 730,1325 777,1325 825,1326 873,1326 920,1326 968,1326 1016,1326 1078,1327"/>
+                <TextEquiv>
+                    <Unicode>Roßbach, J. J., Geſch. der Geſellschaft. 7. Thl. Der vierte Stand.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727668295_824" custom="readingOrder {index:29;}">
+                <Coords points="197,1336 275,1336 587,1338 990,1341 1074,1344 1074,1374 1046,1375 301,1368 197,1366"/>
+                <Baseline points="197,1356 223,1356 249,1356 275,1356 301,1358 327,1358 353,1358 379,1358 405,1358 431,1358 457,1358 483,1358 509,1358 535,1358 561,1358 587,1358 613,1359 639,1359 665,1359 990,1361 1018,1363 1046,1365 1074,1364"/>
+                <TextEquiv>
+                    <Unicode>3. Abth. 8. Würzburg. Stuber. 3 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l87" custom="readingOrder {index:30;} textStyle {offset:0; length:16;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="474,1419 501,1419 528,1419 556,1419 583,1419 610,1419 638,1419 665,1420 692,1420 720,1422 720,1392 692,1390 665,1390 638,1389 610,1389 583,1389 556,1389 528,1389 501,1389 474,1389"/>
+                <Baseline points="474,1409 501,1409 528,1409 556,1409 583,1409 610,1409 638,1409 665,1410 692,1410 720,1412"/>
+                <TextEquiv>
+                    <Unicode>Kunſtgeſchichte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l90" custom="readingOrder {index:31;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="120,1465 168,1464 216,1464 264,1464 312,1462 360,1462 408,1464 456,1464 504,1464 552,1464 600,1465 648,1465 696,1465 744,1467 792,1467 840,1467 888,1467 936,1467 984,1467 1032,1467 1080,1465 1080,1435 1032,1437 984,1437 936,1437 888,1437 840,1437 792,1437 744,1437 696,1435 648,1435 600,1435 552,1434 504,1434 456,1434 408,1434 360,1432 312,1432 264,1434 216,1434 168,1434 120,1435"/>
+                <Baseline points="120,1455 168,1454 216,1454 264,1454 312,1452 360,1452 408,1454 456,1454 504,1454 552,1454 600,1455 648,1455 696,1455 744,1457 792,1457 840,1457 888,1457 936,1457 984,1457 1032,1457 1080,1455"/>
+                <TextEquiv>
+                    <Unicode>Brendel, F, Gesch der Musik in Italien, Deutschid. u. Frank.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727679185_832" custom="readingOrder {index:32;}">
+                <Coords points="192,1470 507,1468 650,1468 1032,1470 1065,1473 1065,1503 765,1503 220,1501 192,1500"/>
+                <Baseline points="192,1490 220,1491 249,1491 277,1491 306,1491 335,1491 363,1490 392,1490 421,1490 449,1490 478,1490 507,1488 535,1488 564,1488 593,1488 621,1488 650,1488 679,1490 707,1490 736,1491 765,1493 999,1490 1032,1490 1075,1498"/>
+                <TextEquiv>
+                    <Unicode>reich. 5. Aufl. gr. 8. Leipz. Matthes. 10 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l94" custom="readingOrder {index:33;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="111,1537 159,1536 207,1536 255,1536 304,1536 352,1536 400,1536 449,1536 497,1536 545,1536 594,1534 642,1534 690,1534 738,1534 787,1534 835,1534 883,1534 932,1534 980,1536 1028,1536 1077,1536 1077,1506 1028,1506 980,1506 932,1504 883,1504 835,1504 787,1504 738,1504 690,1504 642,1504 594,1504 545,1506 497,1506 449,1506 400,1506 352,1506 304,1506 255,1506 207,1506 159,1506 111,1507"/>
+                <Baseline points="111,1527 159,1526 207,1526 255,1526 304,1526 352,1526 400,1526 449,1526 497,1526 545,1526 594,1524 642,1524 690,1524 738,1524 787,1524 835,1524 883,1524 932,1524 980,1526 1028,1526 1077,1526"/>
+                <TextEquiv>
+                    <Unicode>Overbeck, J., Pompeji in seinen Alterth., Gebäuden u. Kunst-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727698844_838" custom="readingOrder {index:34;}">
+                <Coords points="188,1542 990,1540 1077,1540 1077,1570 1048,1573 1019,1573 257,1573 188,1572"/>
+                <Baseline points="188,1562 222,1562 257,1563 291,1563 326,1563 360,1563 395,1563 429,1562 464,1562 498,1562 533,1562 567,1562 602,1562 636,1562 671,1562 705,1562 740,1562 774,1562 809,1562 843,1562 878,1562 990,1560 1019,1563 1048,1563 1077,1560"/>
+                <TextEquiv>
+                    <Unicode>werken. 3. Aufl Lex. 8. Leipzig. Engelmann 20 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727703002_842" custom="readingOrder {index:35;}">
+                <Coords points="872,1581 920,1578 1065,1579 1065,1609 872,1611"/>
+                <Baseline points="872,1601 920,1598 951,1599 979,1599 1008,1599 1040,1600 1085,1603"/>
+                <TextEquiv>
+                    <Unicode>geb. 22,50 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727714716_848" custom="readingOrder {index:36;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="107,1617 873,1615 914,1615 1071,1618 1071,1648 945,1648 107,1647"/>
+                <Baseline points="107,1637 147,1637 187,1637 228,1637 268,1637 308,1637 349,1637 389,1637 429,1637 470,1637 510,1637 550,1637 591,1637 631,1637 671,1637 712,1637 752,1637 792,1637 833,1637 873,1635 914,1635 945,1638 970,1638 995,1638 1020,1638 1045,1638 1071,1638"/>
+                <TextEquiv>
+                    <Unicode>Rahn, Gesch. der bildenden Künste in der Schweiz. 2. Abth.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727721055_852" custom="readingOrder {index:37;}">
+                <Coords points="176,1657 202,1656 256,1654 337,1653 976,1653 1034,1654 1064,1657 1064,1687 176,1687"/>
+                <Baseline points="176,1677 202,1676 229,1676 256,1674 283,1674 310,1674 337,1673 363,1673 390,1673 417,1673 444,1674 471,1674 498,1676 947,1674 976,1673 1005,1674 1034,1674 1081,1686"/>
+                <TextEquiv>
+                    <Unicode>gr. 8. Zürich. Staub. 11,20 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727740855_858" custom="readingOrder {index:38;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="116,1687 959,1684 1042,1688 1070,1690 1070,1720 116,1717"/>
+                <Baseline points="116,1707 155,1707 195,1707 235,1707 275,1707 314,1707 354,1707 394,1707 434,1707 473,1707 513,1707 553,1707 593,1707 632,1707 672,1707 712,1707 752,1707 791,1707 831,1707 871,1707 911,1707 959,1704 986,1707 1014,1707 1042,1708 1079,1719"/>
+                <TextEquiv>
+                    <Unicode>Reber, F., Gesch. der neueren deutschen Kunst. 3. Lfg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727749893_864" custom="readingOrder {index:39;}">
+                <Coords points="182,1725 207,1724 309,1720 1009,1719 1038,1719 1068,1722 1068,1752 182,1755"/>
+                <Baseline points="182,1745 207,1744 233,1743 258,1742 284,1741 309,1740 335,1740 360,1740 386,1740 411,1740 437,1740 462,1740 488,1740 513,1740 539,1740 564,1740 590,1740 615,1740 641,1740 950,1740 979,1741 1009,1739 1038,1739 1081,1748"/>
+                <TextEquiv>
+                    <Unicode>gr. 8. Stuttg. Meyer u. Zeller 2,40 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727761000_870" custom="readingOrder {index:40;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="111,1758 318,1756 983,1753 1073,1756 1073,1786 235,1788 111,1788"/>
+                <Baseline points="111,1778 152,1778 194,1778 235,1778 277,1777 318,1776 360,1776 401,1776 443,1776 484,1776 526,1776 568,1775 609,1775 651,1775 692,1775 734,1775 775,1775 817,1775 858,1775 900,1776 942,1776 983,1773 1013,1775 1043,1775 1073,1776"/>
+                <TextEquiv>
+                    <Unicode>Schnaase, C., Gesch. der bildenden Kunst. 2. Aufl. 7. Bd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727765397_874" custom="readingOrder {index:41;}">
+                <Coords points="191,1794 329,1792 468,1791 974,1789 1070,1792 1070,1822 746,1824 191,1824"/>
+                <Baseline points="191,1814 218,1814 246,1814 274,1814 302,1814 329,1812 357,1812 385,1812 413,1812 440,1812 468,1811 496,1811 524,1811 551,1811 579,1811 607,1811 635,1812 662,1812 690,1812 718,1813 746,1814 974,1809 1006,1812 1038,1811 1070,1812"/>
+                <TextEquiv>
+                    <Unicode>1. Abth. gr. 8. Düsseldorf. Buddeus. 10 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l132" custom="readingOrder {index:42;} textStyle {offset:0; length:20;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="432,1873 457,1872 482,1872 508,1872 533,1872 558,1873 584,1873 609,1873 635,1873 660,1873 685,1873 711,1873 736,1875 762,1875 762,1845 736,1845 711,1843 685,1843 660,1843 635,1843 609,1843 584,1843 558,1843 533,1842 508,1842 482,1842 457,1842 432,1843"/>
+                <Baseline points="432,1863 457,1862 482,1862 508,1862 533,1862 558,1863 584,1863 609,1863 635,1863 660,1863 685,1863 711,1863 736,1865 762,1865"/>
+                <TextEquiv>
+                    <Unicode>Literaturgeſchichte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l133" custom="readingOrder {index:43;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="110,1911 158,1911 206,1911 254,1911 302,1912 350,1912 398,1912 446,1912 494,1912 542,1914 590,1914 638,1914 686,1914 734,1914 782,1914 830,1914 878,1914 926,1914 974,1912 1022,1912 1071,1911 1071,1881 1022,1882 974,1882 926,1884 878,1884 830,1884 782,1884 734,1884 686,1884 638,1884 590,1884 542,1884 494,1882 446,1882 398,1882 350,1882 302,1882 254,1881 206,1881 158,1881 110,1881"/>
+                <Baseline points="110,1901 158,1901 206,1901 254,1901 302,1902 350,1902 398,1902 446,1902 494,1902 542,1904 590,1904 638,1904 686,1904 734,1904 782,1904 830,1904 878,1904 926,1904 974,1902 1022,1902 1071,1901"/>
+                <TextEquiv>
+                    <Unicode>Ebert, H., Fritz Reuter. Sein Leben u. ſ. Werke. 8. Güſtrow.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727771791_878" custom="readingOrder {index:44;}">
+                <Coords points="188,1917 995,1915 1070,1918 1070,1948 1045,1948 213,1948 188,1947"/>
+                <Baseline points="188,1937 213,1938 238,1938 263,1938 288,1937 313,1937 338,1937 363,1937 389,1937 995,1935 1020,1937 1045,1938 1070,1938"/>
+                <TextEquiv>
+                    <Unicode>Opitz und Co. 3 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l138" custom="readingOrder {index:45;} textStyle {offset:0; length:15;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="110,1983 158,1983 206,1983 254,1981 302,1981 350,1981 398,1981 446,1983 494,1983 542,1983 590,1983 638,1984 686,1984 734,1984 782,1984 830,1984 878,1984 926,1984 974,1984 1022,1984 1070,1984 1070,1954 1022,1954 974,1954 926,1954 878,1954 830,1954 782,1954 734,1954 686,1954 638,1954 590,1953 542,1953 494,1953 446,1953 398,1951 350,1951 302,1951 254,1951 206,1953 158,1953 110,1953"/>
+                <Baseline points="110,1973 158,1973 206,1973 254,1971 302,1971 350,1971 398,1971 446,1973 494,1973 542,1973 590,1973 638,1974 686,1974 734,1974 782,1974 830,1974 878,1974 926,1974 974,1974 1022,1974 1070,1974"/>
+                <TextEquiv>
+                    <Unicode>Gottſchall, R, die deutſche Nationallit. des 19. Jahrh. 4. Aufl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727775797_882" custom="readingOrder {index:46;}">
+                <Coords points="186,1990 264,1987 995,1987 1067,1990 1067,2020 1031,2020 186,2020"/>
+                <Baseline points="186,2010 212,2009 238,2009 264,2007 290,2007 316,2007 342,2007 368,2007 394,2007 421,2009 447,2009 473,2009 499,2009 525,2009 551,2009 577,2009 603,2009 630,2007 995,2007 1031,2010 1080,2018"/>
+                <TextEquiv>
+                    <Unicode>1. Halbbd. Breslau. Trewendt 2 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727784508_888" custom="readingOrder {index:47;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="105,2026 189,2025 1062,2023 1062,2053 1033,2056 951,2058 908,2059 781,2059 105,2056"/>
+                <Baseline points="105,2046 147,2046 189,2045 231,2045 274,2045 316,2045 358,2045 401,2046 443,2046 485,2046 528,2046 570,2048 612,2048 654,2048 697,2048 739,2048 781,2049 824,2049 866,2049 908,2049 951,2048 975,2046 1004,2046 1033,2046 1078,2052"/>
+                <TextEquiv>
+                    <Unicode>Längin, G., Joh. Peter Hebel. Ein Lebensbild. gr. 8. Carls⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727792148_895" custom="readingOrder {index:48;}">
+                <Coords points="173,2059 1067,2061 1067,2091 1031,2094 995,2094 225,2092 199,2091 173,2089"/>
+                <Baseline points="173,2079 199,2081 225,2082 251,2082 278,2082 304,2082 330,2081 356,2081 383,2082 995,2084 1031,2084 1067,2081"/>
+                <TextEquiv>
+                    <Unicode>ruhe, Macklot. 3 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l148" custom="readingOrder {index:49;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="488,2131 516,2130 544,2130 573,2133 601,2134 630,2137 658,2137 687,2137 687,2107 658,2107 630,2107 601,2104 573,2103 544,2100 516,2100 488,2101"/>
+                <Baseline points="488,2121 516,2120 544,2120 573,2123 601,2124 630,2127 658,2127 687,2127"/>
+                <TextEquiv>
+                    <Unicode>Philologie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l150" custom="readingOrder {index:50;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="113,2173 160,2172 208,2172 255,2172 303,2172 351,2172 398,2172 446,2172 493,2173 541,2173 589,2173 636,2173 684,2175 731,2175 779,2175 827,2175 874,2175 922,2175 969,2175 1017,2175 1065,2175 1065,2145 1017,2145 969,2145 922,2145 874,2145 827,2145 779,2145 731,2145 684,2145 636,2143 589,2143 541,2143 493,2143 446,2142 398,2142 351,2142 303,2142 255,2142 208,2142 160,2142 113,2143"/>
+                <Baseline points="113,2163 160,2162 208,2162 255,2162 303,2162 351,2162 398,2162 446,2162 493,2163 541,2163 589,2163 636,2163 684,2165 731,2165 779,2165 827,2165 874,2165 922,2165 969,2165 1017,2165 1065,2165"/>
+                <TextEquiv>
+                    <Unicode>Demosthenes, ausgew. Reden. Erkl. v. A. Westermann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727800387_899" custom="readingOrder {index:51;}">
+                <Coords points="179,2179 247,2178 1058,2178 1058,2208 982,2211 881,2211 179,2209"/>
+                <Baseline points="179,2199 213,2199 247,2198 282,2198 316,2198 351,2198 385,2198 419,2199 454,2199 488,2199 523,2199 557,2199 591,2199 626,2199 660,2199 695,2199 729,2199 763,2199 798,2199 832,2199 867,2198 881,2201 906,2201 931,2201 956,2201 982,2201 1007,2199 1034,2200 1081,2205"/>
+                <TextEquiv>
+                    <Unicode>2. Bdchn. 5. Aufl. gr. 8. Berlin. Weidmann. 1,80 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l154" custom="readingOrder {index:52;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="107,2247 154,2246 202,2245 249,2245 297,2245 345,2245 392,2245 440,2245 487,2245 535,2245 583,2245 630,2245 678,2245 725,2245 773,2245 821,2245 868,2245 916,2245 963,2245 1011,2247 1059,2247 1059,2217 1011,2217 963,2215 916,2215 868,2215 821,2215 773,2215 725,2215 678,2215 630,2215 583,2215 535,2215 487,2215 440,2215 392,2215 345,2215 297,2215 249,2215 202,2215 154,2216 107,2217"/>
+                <Baseline points="107,2237 154,2236 202,2235 249,2235 297,2235 345,2235 392,2235 440,2235 487,2235 535,2235 583,2235 630,2235 678,2235 725,2235 773,2235 821,2235 868,2235 916,2235 963,2235 1011,2237 1072,2245"/>
+                <TextEquiv>
+                    <Unicode>Fick, A., die griech. Pers. Namen nach ihrer Bildung erklärt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727818037_907" custom="readingOrder {index:53;}">
+                <Coords points="179,2254 282,2251 831,2250 866,2250 1068,2251 1068,2281 213,2284 179,2284"/>
+                <Baseline points="179,2274 213,2274 247,2273 282,2271 316,2271 350,2271 385,2271 419,2271 453,2271 488,2271 522,2271 556,2271 591,2271 625,2271 659,2271 694,2271 728,2271 762,2271 797,2271 831,2270 866,2270 1038,2271 1068,2271"/>
+                <TextEquiv>
+                    <Unicode>gr. 8. Göttingen. Vandenhoeck u. Ruprecht. 8 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727833092_917" custom="readingOrder {index:54;}">
+                <Coords points="143,2280 1059,2289 1059,2319 440,2319 176,2317 128,2313 128,2283"/>
+                <Baseline points="109,2305 148,2314 176,2307 220,2307 264,2307 308,2307 352,2307 396,2307 440,2309 485,2309 529,2309 573,2309 617,2309 661,2309 705,2309 749,2309 794,2309 838,2309 882,2309 926,2309 970,2309 1014,2309 1074,2317"/>
+                <TextEquiv>
+                    <Unicode>— vergleichendes Wörterbuch der indogerm. Sprachen. 3. Bd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727822576_911" custom="readingOrder {index:55;}">
+                <Coords points="177,2322 995,2320 1064,2326 1064,2356 252,2356 202,2354 177,2352"/>
+                <Baseline points="177,2342 202,2344 227,2345 252,2346 277,2346 302,2346 327,2346 352,2346 377,2346 402,2346 427,2346 452,2345 477,2345 503,2346 995,2340 1029,2343 1071,2355"/>
+                <TextEquiv>
+                    <Unicode>3. Aufl. gr. 8. Ebend. 7 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727845103_924" custom="readingOrder {index:56;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="105,2356 993,2358 1059,2361 1059,2391 619,2394 362,2394 233,2391 147,2388 105,2386"/>
+                <Baseline points="105,2376 147,2378 190,2379 233,2381 276,2381 319,2382 362,2384 405,2384 448,2384 491,2384 534,2384 576,2384 619,2384 662,2382 705,2382 748,2382 791,2382 834,2382 877,2381 920,2381 963,2381 993,2378 1026,2381 1075,2386"/>
+                <TextEquiv>
+                    <Unicode>Horatius Flaccus, Lieder. Deutſch v. W. Oſterwald. 8. Halle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727860307_933" custom="readingOrder {index:57;}">
+                <Coords points="177,2391 1025,2395 1055,2398 1055,2428 300,2427 207,2424 177,2421"/>
+                <Baseline points="177,2411 207,2414 238,2412 269,2414 300,2417 995,2415 1025,2415 1069,2424"/>
+                <TextEquiv>
+                    <Unicode>Waiſenh. 2 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l168" custom="readingOrder {index:58;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="114,2455 161,2457 209,2459 256,2461 304,2461 352,2463 399,2463 447,2463 495,2463 542,2463 590,2463 638,2463 685,2461 733,2461 781,2461 828,2461 876,2461 924,2461 971,2461 1019,2461 1067,2463 1067,2433 1019,2431 971,2431 924,2431 876,2431 828,2431 781,2431 733,2431 685,2431 638,2433 590,2433 542,2433 495,2433 447,2433 399,2433 352,2433 304,2431 256,2431 209,2429 161,2427 114,2425"/>
+                <Baseline points="114,2445 161,2447 209,2449 256,2451 304,2451 352,2453 399,2453 447,2453 495,2453 542,2453 590,2453 638,2453 685,2451 733,2451 781,2451 828,2451 876,2451 924,2451 971,2451 1019,2451 1067,2453"/>
+                <TextEquiv>
+                    <Unicode>Martin, E., mittelhochdeutsche Gramm. nebst Wörterb. zu der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l170" custom="readingOrder {index:59;}">
+                <Coords points="183,2491 227,2493 271,2496 315,2497 360,2499 404,2499 448,2500 492,2500 537,2500 581,2500 625,2500 669,2500 714,2500 758,2500 802,2500 846,2500 891,2499 935,2499 979,2500 1023,2500 1068,2500 1068,2470 1023,2470 979,2470 935,2469 891,2469 846,2470 802,2470 758,2470 714,2470 669,2470 625,2470 581,2470 537,2470 492,2470 448,2470 404,2469 360,2469 315,2467 271,2466 227,2463 183,2461"/>
+                <Baseline points="183,2481 227,2483 271,2486 315,2487 360,2489 404,2489 448,2490 492,2490 537,2490 581,2490 625,2490 669,2490 714,2490 758,2490 802,2490 846,2490 891,2489 935,2489 979,2490 1023,2490 1068,2490"/>
+                <TextEquiv>
+                    <Unicode>Nibel. Nôt, zu W. v. der Vogelw. und zu Laurin. 6. Aufl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727871655_939" custom="readingOrder {index:60;}">
+                <Coords points="180,2502 206,2500 258,2499 1065,2505 1065,2535 521,2539 180,2532"/>
+                <Baseline points="180,2522 206,2520 232,2520 258,2519 284,2520 311,2520 337,2521 363,2522 389,2522 416,2524 442,2525 468,2526 494,2528 521,2529 993,2525 1029,2525 1065,2525"/>
+                <TextEquiv>
+                    <Unicode>gr. 8. Berl. Weidmann. 1. M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727877482_943" custom="readingOrder {index:61;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="111,2533 963,2539 1058,2542 1058,2572 986,2572 537,2572 451,2571 281,2568 153,2565 111,2563"/>
+                <Baseline points="111,2553 153,2555 196,2556 238,2556 281,2558 324,2558 366,2559 409,2559 451,2561 494,2561 537,2562 579,2562 622,2562 664,2562 707,2562 750,2562 792,2562 835,2562 877,2561 920,2561 963,2559 986,2562 1022,2562 1058,2562"/>
+                <TextEquiv>
+                    <Unicode>Mätzner, E., engl. Gramm. 2. Thl. 1. Hälfte. 2. Aufl. gr. 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727881283_947" custom="readingOrder {index:62;}">
+                <Coords points="182,2569 990,2574 1059,2577 1059,2607 1024,2607 449,2605 208,2601 182,2599"/>
+                <Baseline points="182,2589 208,2591 235,2591 262,2591 288,2591 315,2591 342,2591 368,2591 395,2593 422,2594 449,2595 990,2594 1024,2597 1070,2603"/>
+                <TextEquiv>
+                    <Unicode>Berlin. Weidmann. 10 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727895900_955" custom="readingOrder {index:63;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="110,2605 942,2611 1055,2613 1055,2643 992,2646 318,2640 193,2638 151,2637 110,2635"/>
+                <Baseline points="110,2625 151,2627 193,2628 234,2628 276,2628 318,2630 359,2630 401,2630 442,2630 484,2631 526,2631 567,2631 609,2631 650,2631 692,2631 734,2631 775,2631 817,2631 858,2631 900,2631 942,2631 992,2636 1023,2633 1071,2640"/>
+                <TextEquiv>
+                    <Unicode>Neue, F., Formenlehre der lat. Spr. 2. Thl. 2. Aufl. gr. 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727906137_963" custom="readingOrder {index:64;}">
+                <Coords points="183,2643 221,2643 1033,2647 1061,2650 1061,2680 527,2679 374,2677 183,2673"/>
+                <Baseline points="183,2663 221,2663 259,2664 297,2664 336,2666 374,2667 412,2667 450,2667 489,2667 527,2669 565,2669 603,2669 642,2669 680,2669 718,2669 756,2669 795,2669 833,2669 871,2669 909,2669 948,2669 977,2667 1005,2667 1033,2667 1074,2678"/>
+                <TextEquiv>
+                    <Unicode>Berlin. Calvary u. Co. 3,60 Mark. Subſcr.preis pro 2 Bde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727916677_970" custom="readingOrder {index:65;}">
+                <Coords points="180,2680 222,2680 983,2683 1058,2686 1058,2716 180,2710"/>
+                <Baseline points="180,2700 222,2700 983,2703 1008,2705 1033,2705 1074,2715"/>
+                <TextEquiv>
+                    <Unicode>cplt. 15 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727924764_977" custom="readingOrder {index:66;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="107,2716 191,2715 275,2715 951,2719 1052,2721 1052,2751 990,2755 107,2746"/>
+                <Baseline points="107,2736 149,2736 191,2735 233,2735 275,2735 318,2736 360,2736 402,2736 444,2738 486,2738 529,2739 571,2739 613,2739 655,2741 697,2741 740,2741 782,2741 824,2741 866,2741 908,2739 951,2739 990,2745 1021,2741 1069,2749"/>
+                <TextEquiv>
+                    <Unicode>Schade, O, altdeutsches Wörterbuch. 2. Aufl. 2. Heft. gr. 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613727932639_984" custom="readingOrder {index:67;}">
+                <Coords points="189,2751 364,2751 1064,2754 1064,2784 1032,2787 414,2784 264,2783 214,2782 189,2781"/>
+                <Baseline points="189,2771 214,2772 239,2772 264,2773 289,2772 314,2772 339,2771 364,2771 389,2772 414,2774 1001,2774 1032,2777 1069,2785"/>
+                <TextEquiv>
+                    <Unicode>Halle. Waisenh. 3 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l197" custom="readingOrder {index:68;} textStyle {offset:0; length:16;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="119,2817 166,2818 213,2818 260,2820 307,2820 354,2820 401,2821 448,2821 495,2821 542,2821 589,2821 636,2823 683,2823 730,2823 777,2823 824,2823 871,2823 918,2823 965,2823 1012,2823 1059,2823 1059,2793 1012,2793 965,2793 918,2793 871,2793 824,2793 777,2793 730,2793 683,2793 636,2793 589,2791 542,2791 495,2791 448,2791 401,2791 354,2790 307,2790 260,2790 213,2788 166,2788 119,2787"/>
+                <Baseline points="119,2807 166,2808 213,2808 260,2810 307,2810 354,2810 401,2811 448,2811 495,2811 542,2811 589,2811 636,2813 683,2813 730,2813 777,2813 824,2813 871,2813 918,2813 965,2813 1012,2813 1059,2813"/>
+                <TextEquiv>
+                    <Unicode>Wackernagel, W., kl. Schriften. 3. Bd. gr. 8. Leipz. Hirzel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l199" custom="readingOrder {index:69;}">
+                <Coords points="995,2857 1022,2860 1049,2860 1049,2830 1022,2830 995,2827"/>
+                <Baseline points="995,2847 1022,2850 1065,2852"/>
+                <TextEquiv>
+                    <Unicode>8 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l201" custom="readingOrder {index:70;} textStyle {offset:0; length:17;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="435,2892 461,2893 487,2893 513,2895 539,2895 565,2896 592,2898 618,2899 644,2901 670,2902 696,2902 722,2904 749,2905 749,2875 722,2874 696,2872 670,2872 644,2871 618,2869 592,2868 565,2866 539,2865 513,2865 487,2863 461,2863 435,2862"/>
+                <Baseline points="435,2882 461,2883 487,2883 513,2885 539,2885 565,2886 592,2888 618,2889 644,2891 670,2892 696,2892 722,2894 749,2895"/>
+                <TextEquiv>
+                    <Unicode>Schöne Literatur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l203" custom="readingOrder {index:71;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="98,2937 146,2937 194,2935 242,2935 291,2935 339,2935 387,2935 436,2937 484,2937 532,2938 581,2938 629,2939 677,2940 725,2940 774,2940 822,2940 870,2940 919,2939 967,2938 1015,2937 1064,2934 1064,2904 1015,2907 967,2908 919,2909 870,2910 822,2910 774,2910 725,2910 677,2910 629,2909 581,2908 532,2908 484,2907 436,2907 387,2905 339,2905 291,2905 242,2905 194,2905 146,2907 98,2907"/>
+                <Baseline points="98,2927 146,2927 194,2925 242,2925 291,2925 339,2925 387,2925 436,2927 484,2927 532,2928 581,2928 629,2929 677,2930 725,2930 774,2930 822,2930 870,2930 919,2929 967,2928 1015,2927 1064,2924"/>
+                <TextEquiv>
+                    <Unicode>Asher’s Collection. 8. Vol. 99. Jubal and other poëms by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728353374_991" custom="readingOrder {index:72;}">
+                <Coords points="176,2938 206,2938 1033,2943 1059,2946 1059,2976 299,2971 237,2970 176,2968"/>
+                <Baseline points="176,2958 206,2958 237,2960 268,2960 299,2961 957,2963 982,2964 1008,2963 1033,2963 1076,2972"/>
+                <TextEquiv>
+                    <Unicode>G. Eliot. 1, 50 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728364833_997" custom="readingOrder {index:73;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="152,2980 236,2977 488,2977 1056,2980 1056,3010 110,3012 110,2982"/>
+                <Baseline points="110,3002 152,3000 194,2999 236,2997 278,2997 320,2997 362,2997 404,2997 446,2997 488,2997 530,2999 572,2999 614,2999 656,3000 698,3000 740,3000 782,3000 824,3000 866,3000 908,3000 950,3000 969,3000 998,3000 1027,3000 1066,3008"/>
+                <TextEquiv>
+                    <Unicode>Dahn F., zwölf Balladen. gr. 16. Leipz. Breitkopf und Härtel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728372630_1003" custom="readingOrder {index:74;}">
+                <Coords points="179,3012 335,3010 387,3010 1016,3013 1052,3016 1052,3046 205,3043 179,3042"/>
+                <Baseline points="179,3032 205,3033 231,3033 257,3032 283,3032 309,3032 335,3030 361,3030 387,3030 413,3031 439,3032 465,3033 980,3033 1016,3033 1063,3038"/>
+                <TextEquiv>
+                    <Unicode>Cart. mit Goldſchn. 3 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l213" custom="readingOrder {index:75;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="101,3084 149,3082 197,3081 245,3079 293,3079 342,3079 390,3078 438,3078 486,3078 534,3079 583,3079 631,3079 679,3079 727,3081 775,3081 824,3081 872,3081 920,3081 968,3081 1016,3081 1065,3079 1065,3049 1016,3051 968,3051 920,3051 872,3051 824,3051 775,3051 727,3051 679,3049 631,3049 583,3049 534,3049 486,3048 438,3048 390,3048 342,3049 293,3049 245,3049 197,3051 149,3052 101,3054"/>
+                <Baseline points="101,3074 149,3072 197,3071 245,3069 293,3069 342,3069 390,3068 438,3068 486,3068 534,3069 583,3069 631,3069 679,3069 727,3071 775,3071 824,3071 872,3071 920,3071 968,3071 1016,3071 1065,3069"/>
+                <TextEquiv>
+                    <Unicode>Freytag, G., die Ahnen. Roman. 3. Abth. Die Brüder vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728382066_1010" custom="readingOrder {index:76;}">
+                <Coords points="213,3087 292,3085 372,3084 987,3084 1056,3085 1056,3115 926,3120 174,3120 174,3090"/>
+                <Baseline points="174,3110 213,3107 253,3106 292,3105 332,3105 372,3104 411,3104 451,3104 490,3105 530,3105 570,3105 609,3107 649,3107 688,3107 728,3108 768,3108 807,3108 847,3110 886,3110 926,3110 966,3108 987,3104 1021,3105 1066,3105"/>
+                <TextEquiv>
+                    <Unicode>deutſchen Hauſe. 8. 1. und 2. Auflage. Leipz. Hirzel. 6 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mommson, Th., röm. Gesch. 2. Bd. 6 Aufl. gr. 8. 5 M.
+Monumenta Germ. historica, ed. G. H. Pertz. Scriptores.
+Tom. 23. gr. fol. Hannover. Hahn. 54 M., auf feinerem
+Velin. 81 M.
+Oſterwald, Erzählungen aus der alten deutſchen Welt. 3. und
+7 Thl. 3 Aufl. 8. Halle. Waisenh. à 2 M.
+Perlbach, M, preussische Regesten bis zum Ausg. des 13.
+Jahr. 1. Heft. gr. 8. Königsb. Beyer. 3 M.
+Ranke’s, L. v., ſämmtl. Werke. 13. 29. 33. 34 Bd. gr. 8. Leipz.
+Duncker und Humblot. 13. Band 5 Mark, die übr. à 4,50 M.
+Urkundenbuch, Bremisches, hrsg. v. R. Ehmck u. W. v.
+Bippen. 2. Bd. 2. und 3. Lfg. gr. 4. Bremen. Müller
+15 M.
+Varnhagen v. Enſe, K. A, ausgew. Schriften 15. und 16. Bd.
+(2. Abth. Biogr. Denkmale. 9. u. 10. Thl.) 8 Leipz.
+Brockhaus. à 4 M.
+Geographie. Reiſen.
+Behm, E., geogr. Jahrbuch. 5. Bd. 1874. 8. Gotha. J. Perthes.
+8 M.
+Nordpolarfahrt, die zweite deutsche, in den J. 1869 n. 70
+unter Führung des Kapitain Karl Koldewey. 2. Bd.
+Wissensch. Ergebnisse. 3. Abth. gr. 8. Leipz. Brockhaus
+18 M.
+Stieler’s, A., Handatlas. Ergänzungsheft. 4. qu. Fol. 1,60 M.
+Topelius, Z., e. Reise in Finnland. Nach Originalgemälden
+v. A. v. Becker etc. qu. gr. 4. Leipz. Weigel. Geb.
+m. Goldschn. 36 M.
+Socialökonomie.
+Roßbach, J. J., Geſch. der Geſellschaft. 7. Thl. Der vierte Stand.
+3. Abth. 8. Würzburg. Stuber. 3 M.
+Kunſtgeſchichte.
+Brendel, F, Gesch der Musik in Italien, Deutschid. u. Frank.
+reich. 5. Aufl. gr. 8. Leipz. Matthes. 10 M.
+Overbeck, J., Pompeji in seinen Alterth., Gebäuden u. Kunst-
+werken. 3. Aufl Lex. 8. Leipzig. Engelmann 20 M.
+geb. 22,50 M.
+Rahn, Gesch. der bildenden Künste in der Schweiz. 2. Abth.
+gr. 8. Zürich. Staub. 11,20 M.
+Reber, F., Gesch. der neueren deutschen Kunst. 3. Lfg.
+gr. 8. Stuttg. Meyer u. Zeller 2,40 M.
+Schnaase, C., Gesch. der bildenden Kunst. 2. Aufl. 7. Bd.
+1. Abth. gr. 8. Düsseldorf. Buddeus. 10 M.
+Literaturgeſchichte.
+Ebert, H., Fritz Reuter. Sein Leben u. ſ. Werke. 8. Güſtrow.
+Opitz und Co. 3 M.
+Gottſchall, R, die deutſche Nationallit. des 19. Jahrh. 4. Aufl.
+1. Halbbd. Breslau. Trewendt 2 M.
+Längin, G., Joh. Peter Hebel. Ein Lebensbild. gr. 8. Carls⸗
+ruhe, Macklot. 3 M.
+Philologie.
+Demosthenes, ausgew. Reden. Erkl. v. A. Westermann.
+2. Bdchn. 5. Aufl. gr. 8. Berlin. Weidmann. 1,80 M.
+Fick, A., die griech. Pers. Namen nach ihrer Bildung erklärt
+gr. 8. Göttingen. Vandenhoeck u. Ruprecht. 8 M.
+— vergleichendes Wörterbuch der indogerm. Sprachen. 3. Bd.
+3. Aufl. gr. 8. Ebend. 7 M.
+Horatius Flaccus, Lieder. Deutſch v. W. Oſterwald. 8. Halle.
+Waiſenh. 2 M.
+Martin, E., mittelhochdeutsche Gramm. nebst Wörterb. zu der
+Nibel. Nôt, zu W. v. der Vogelw. und zu Laurin. 6. Aufl.
+gr. 8. Berl. Weidmann. 1. M.
+Mätzner, E., engl. Gramm. 2. Thl. 1. Hälfte. 2. Aufl. gr. 8.
+Berlin. Weidmann. 10 M.
+Neue, F., Formenlehre der lat. Spr. 2. Thl. 2. Aufl. gr. 8.
+Berlin. Calvary u. Co. 3,60 Mark. Subſcr.preis pro 2 Bde.
+cplt. 15 M.
+Schade, O, altdeutsches Wörterbuch. 2. Aufl. 2. Heft. gr. 8.
+Halle. Waisenh. 3 M.
+Wackernagel, W., kl. Schriften. 3. Bd. gr. 8. Leipz. Hirzel.
+8 M.
+Schöne Literatur.
+Asher’s Collection. 8. Vol. 99. Jubal and other poëms by
+G. Eliot. 1, 50 M.
+Dahn F., zwölf Balladen. gr. 16. Leipz. Breitkopf und Härtel.
+Cart. mit Goldſchn. 3 M.
+Freytag, G., die Ahnen. Roman. 3. Abth. Die Brüder vom
+deutſchen Hauſe. 8. 1. und 2. Auflage. Leipz. Hirzel. 6 M.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1615192489282_1053" custom="readingOrder {index:2;}">
+            <Coords points="1122,239 2127,239 2127,3116 1122,3133"/>
+            <TextLine id="line_1613728395204_1016" custom="readingOrder {index:0;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1148,262 2109,270 2109,300 1968,303 1394,297 1189,294 1148,292"/>
+                <Baseline points="1148,282 1189,284 1230,284 1271,284 1312,285 1353,285 1394,287 1435,287 1476,287 1517,287 1558,288 1599,288 1640,288 1681,288 1722,290 1763,290 1804,290 1845,290 1886,291 1927,291 1968,293 1989,290 2019,290 2049,290 2079,290 2109,290"/>
+                <TextEquiv>
+                    <Unicode>Leſſing’s Werke, herausg. v. R. Goſche. Ill. Ausg. 1. Lfg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728400474_1020" custom="readingOrder {index:1;}">
+                <Coords points="1223,298 1277,298 1982,301 2105,307 2105,337 1358,331 1223,328"/>
+                <Baseline points="1223,318 1250,318 1277,318 1304,319 1331,320 1358,321 1385,321 1412,321 1440,320 1982,321 2012,323 2043,324 2074,326 2105,327"/>
+                <TextEquiv>
+                    <Unicode>8. Berl. Grote. 0,50 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728406555_1024" custom="readingOrder {index:2;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1158,333 1628,337 1976,340 2076,342 2102,343 2102,373 2001,373 1943,373 1194,366 1158,363"/>
+                <Baseline points="1158,353 1194,356 1230,356 1245,356 1279,356 1314,357 1349,357 1384,357 1419,357 1454,357 1489,357 1524,357 1559,357 1594,357 1628,357 1663,359 1698,359 1733,359 1768,359 1803,360 1838,360 1873,362 1908,362 1943,363 1976,360 2001,363 2026,363 2051,362 2076,362 2111,364"/>
+                <TextEquiv>
+                    <Unicode>Löwe, F., neue Gedichte. 16. Stuttg. Wittwer. Geb. mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728415858_1030" custom="readingOrder {index:3;}">
+                <Coords points="1226,367 2039,376 2105,379 2105,409 2072,409 1254,400 1226,397"/>
+                <Baseline points="1226,387 1254,390 1283,390 1311,389 1340,390 2039,396 2072,399 2123,402"/>
+                <TextEquiv>
+                    <Unicode>Goldſchn. 5 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:4;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1148,436 1195,436 1243,438 1291,438 1339,438 1387,438 1435,439 1482,439 1530,439 1578,441 1626,441 1674,441 1722,442 1770,442 1817,442 1865,442 1913,443 1961,444 2009,444 2057,444 2105,444 2105,414 2057,414 2009,414 1961,414 1913,413 1865,412 1817,412 1770,412 1722,412 1674,411 1626,411 1578,411 1530,409 1482,409 1435,409 1387,408 1339,408 1291,408 1243,408 1195,406 1148,406"/>
+                <Baseline points="1148,426 1195,426 1243,428 1291,428 1339,428 1387,428 1435,429 1482,429 1530,429 1578,431 1626,431 1674,431 1722,432 1770,432 1817,432 1865,432 1913,433 1961,434 2009,434 2057,434 2105,434"/>
+                <TextEquiv>
+                    <Unicode>Reuter, Fr. Nachgelaſſene Schriften. 1. Bd. Herausgegeben und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:5;}">
+                <Coords points="1224,471 1267,471 1311,472 1354,473 1398,474 1442,474 1485,475 1529,475 1573,477 1616,477 1660,477 1704,478 1747,478 1791,478 1835,478 1878,479 1922,480 1966,480 2009,480 2053,480 2097,480 2097,450 2053,450 2009,450 1966,450 1922,450 1878,449 1835,448 1791,448 1747,448 1704,448 1660,447 1616,447 1573,447 1529,445 1485,445 1442,444 1398,444 1354,443 1311,442 1267,441 1224,441"/>
+                <Baseline points="1224,461 1267,461 1311,462 1354,463 1398,464 1442,464 1485,465 1529,465 1573,467 1616,467 1660,467 1704,468 1747,468 1791,468 1835,468 1878,469 1922,470 1966,470 2009,470 2053,470 2107,469"/>
+                <TextEquiv>
+                    <Unicode>mit Biographie des Dichters eingeleitet v. A. Wilbrandt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728424475_1037" custom="readingOrder {index:6;}">
+                <Coords points="1230,477 1309,477 2050,484 2103,486 2103,516 1575,513 1230,507"/>
+                <Baseline points="1230,497 1256,497 1283,497 1309,497 1336,498 1362,498 1389,498 1416,500 1442,500 1469,500 1495,501 1522,501 1548,502 1575,503 1602,503 1785,504 1811,504 1838,504 1864,504 1891,504 1917,504 1944,504 1970,504 1997,504 2023,504 2050,504 2068,505 2119,505"/>
+                <TextEquiv>
+                    <Unicode>(Reuter’s Werke. Bd. 14.) geh. 3 M. geb. 4 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:7;} textStyle {offset:0; length:17;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1148,541 1195,543 1243,544 1291,546 1339,547 1387,547 1435,547 1482,549 1530,549 1578,549 1626,549 1674,549 1722,549 1770,549 1817,549 1865,549 1913,550 1961,550 2009,550 2057,552 2105,553 2105,523 2057,522 2009,520 1961,520 1913,520 1865,519 1817,519 1770,519 1722,519 1674,519 1626,519 1578,519 1530,519 1482,519 1435,517 1387,517 1339,517 1291,516 1243,514 1195,513 1148,511"/>
+                <Baseline points="1148,531 1195,533 1243,534 1291,536 1339,537 1387,537 1435,537 1482,539 1530,539 1578,539 1626,539 1674,539 1722,539 1770,539 1817,539 1865,539 1913,540 1961,540 2009,540 2057,542 2105,543"/>
+                <TextEquiv>
+                    <Unicode>Silberſtein, A., deutſche Hochlandsgeſchichten. 2 Bde. 8. Stuttg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728432905_1043" custom="readingOrder {index:8;}">
+                <Coords points="1245,549 1362,549 2028,555 2091,558 2091,588 2059,588 1245,579"/>
+                <Baseline points="1212,573 1274,569 1303,569 1332,569 1362,569 2028,575 2059,578 2112,582"/>
+                <TextEquiv>
+                    <Unicode>Hallberger 6 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:9;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1148,615 1195,616 1243,616 1291,616 1339,618 1387,618 1435,618 1482,618 1530,618 1578,618 1626,618 1674,618 1722,619 1770,619 1817,619 1865,619 1913,621 1961,621 2009,622 2057,624 2105,625 2105,595 2057,594 2009,592 1961,591 1913,591 1865,589 1817,589 1770,589 1722,589 1674,588 1626,588 1578,588 1530,588 1482,588 1435,588 1387,588 1339,588 1291,586 1243,586 1195,586 1148,585"/>
+                <Baseline points="1148,605 1195,606 1243,606 1291,606 1339,608 1387,608 1435,608 1482,608 1530,608 1578,608 1626,608 1674,608 1722,609 1770,609 1817,609 1865,609 1913,611 1961,611 2009,612 2057,614 2105,615"/>
+                <TextEquiv>
+                    <Unicode>Shakſpere, Venus u. Adonis. Ein ep. Ged. Deutſch nebſt Einl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728476478_1060" custom="readingOrder {index:10;}">
+                <Coords points="1223,622 1360,622 2067,625 2093,631 2093,661 1415,654 1223,652"/>
+                <Baseline points="1223,642 1250,642 1278,642 1305,642 1333,642 1360,642 1388,643 1415,644 1443,644 1470,644 1498,644 1525,645 1553,645 1580,645 1608,645 1635,645 1663,645 1690,645 1718,645 1745,644 1773,644 1991,648 2016,649 2042,647 2067,645 2105,654"/>
+                <TextEquiv>
+                    <Unicode>v. Tſchiſchwitz. 8. Halle. Schwabe. 1,20 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728515302_1085" custom="readingOrder {index:11;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1151,655 1977,661 2062,663 2093,664 2093,694 2000,694 1646,693 1316,690 1233,688 1192,687 1151,685"/>
+                <Baseline points="1151,675 1192,677 1233,678 1274,678 1316,680 1357,680 1398,680 1440,681 1481,681 1522,681 1564,681 1605,681 1646,683 1687,683 1729,683 1770,682 1811,681 1853,681 1894,681 1935,681 1977,681 2000,684 2031,683 2062,683 2093,684"/>
+                <TextEquiv>
+                    <Unicode>Shakſpeare v. Schlegel und Tieck. Ill. Ausg. 8 Bände 8. Berl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728484454_1067" custom="readingOrder {index:12;}">
+                <Coords points="1209,694 1305,694 2007,696 2097,699 2097,729 2067,730 1209,724"/>
+                <Baseline points="1209,714 1241,714 1273,714 1305,714 2007,716 2037,717 2067,720 2097,719"/>
+                <TextEquiv>
+                    <Unicode>Grote. 22 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l50" custom="readingOrder {index:13;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1151,759 1198,759 1245,759 1292,759 1340,759 1387,760 1434,760 1482,760 1529,760 1576,760 1624,760 1671,760 1718,760 1765,762 1813,762 1860,762 1907,763 1955,763 2002,763 2049,765 2097,765 2097,735 2049,735 2002,733 1955,733 1907,733 1860,732 1813,732 1765,732 1718,730 1671,730 1624,730 1576,730 1529,730 1482,730 1434,730 1387,730 1340,729 1292,729 1245,729 1198,729 1151,729"/>
+                <Baseline points="1151,749 1198,749 1245,749 1292,749 1340,749 1387,750 1434,750 1482,750 1529,750 1576,750 1624,750 1671,750 1718,750 1765,752 1813,752 1860,752 1907,753 1955,753 2002,753 2049,755 2097,755"/>
+                <TextEquiv>
+                    <Unicode>Tauchnitz Collection gr. 16. Vol. 1463: The little lame</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728492945_1073" custom="readingOrder {index:14;}">
+                <Coords points="1227,766 1328,765 1362,765 1986,768 2094,771 2094,801 1923,802 1227,796"/>
+                <Baseline points="1227,786 1260,786 1294,786 1328,785 1362,785 1396,786 1430,786 1464,786 1498,786 1532,786 1566,786 1599,787 1633,788 1667,788 1701,788 1735,788 1769,789 1803,789 1837,789 1871,789 1905,789 1923,792 1953,788 1986,788 2013,791 2040,791 2067,791 2109,793"/>
+                <TextEquiv>
+                    <Unicode>prince. By the author of ‚John Halifax’. —1464. u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l57" custom="readingOrder {index:15;}">
+                <Coords points="1224,831 1267,831 1310,831 1354,831 1397,832 1441,832 1484,832 1528,832 1571,832 1615,832 1658,834 1701,834 1745,834 1788,834 1832,834 1875,835 1919,835 1962,835 2006,835 2049,835 2093,835 2093,805 2049,805 2006,805 1962,805 1919,805 1875,805 1832,804 1788,804 1745,804 1701,804 1658,804 1615,802 1571,802 1528,802 1484,802 1441,802 1397,802 1354,801 1310,801 1267,801 1224,801"/>
+                <Baseline points="1224,821 1267,821 1310,821 1354,821 1397,822 1441,822 1484,822 1528,822 1571,822 1615,822 1658,824 1701,824 1745,824 1788,824 1832,824 1875,825 1919,825 1962,825 2006,825 2049,825 2107,822"/>
+                <TextEquiv>
+                    <Unicode>65: Mortomleys estate by Mrs. Riddell. 2 Voll. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l59" custom="readingOrder {index:16;}">
+                <Coords points="1218,867 1261,867 1304,867 1348,868 1391,868 1435,868 1478,868 1522,868 1565,868 1609,869 1652,870 1695,870 1739,870 1782,870 1826,870 1869,870 1913,871 1956,871 2000,871 2043,871 2087,871 2087,841 2043,841 2000,841 1956,841 1913,841 1869,840 1826,840 1782,840 1739,840 1695,840 1652,840 1609,839 1565,838 1522,838 1478,838 1435,838 1391,838 1348,838 1304,837 1261,837 1218,837"/>
+                <Baseline points="1218,857 1261,857 1304,857 1348,858 1391,858 1435,858 1478,858 1522,858 1565,858 1609,859 1652,860 1695,860 1739,860 1782,860 1826,860 1869,860 1913,861 1956,861 2000,861 2043,861 2114,859"/>
+                <TextEquiv>
+                    <Unicode>1466: Vanessa by the author of ‚Still waters’. — Se-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l61" custom="readingOrder {index:17;}">
+                <Coords points="1215,901 1259,903 1303,904 1348,904 1392,905 1436,906 1481,906 1525,906 1569,906 1614,906 1658,906 1702,906 1747,907 1791,907 1835,907 1880,907 1924,907 1968,907 2013,907 2057,908 2102,909 2102,879 2057,878 2013,877 1968,877 1924,877 1880,877 1835,877 1791,877 1747,877 1702,876 1658,876 1614,876 1569,876 1525,876 1481,876 1436,876 1392,875 1348,874 1303,874 1259,873 1215,871"/>
+                <Baseline points="1215,891 1259,893 1303,894 1348,894 1392,895 1436,896 1481,896 1525,896 1569,896 1614,896 1658,896 1702,896 1747,897 1791,897 1835,897 1880,897 1924,897 1968,897 2013,897 2057,898 2102,899"/>
+                <TextEquiv>
+                    <Unicode>ries for the young. Vol. 23: The town-crier by F. Mont-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l63" custom="readingOrder {index:18;}">
+                <Coords points="1217,942 1243,939 1269,939 1295,940 1322,939 1322,909 1295,910 1269,909 1243,909 1217,912"/>
+                <Baseline points="1217,932 1243,929 1269,929 1295,930 1322,929"/>
+                <TextEquiv>
+                    <Unicode>gomery.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l65" custom="readingOrder {index:19;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1148,975 1195,975 1242,975 1290,976 1337,976 1385,976 1432,976 1479,976 1527,977 1574,978 1622,978 1669,978 1716,978 1764,978 1811,979 1859,979 1906,979 1953,979 2001,981 2048,981 2096,982 2096,952 2048,951 2001,951 1953,949 1906,949 1859,949 1811,949 1764,948 1716,948 1669,948 1622,948 1574,948 1527,947 1479,946 1432,946 1385,946 1337,946 1290,946 1242,945 1195,945 1148,945"/>
+                <Baseline points="1148,965 1195,965 1242,965 1290,966 1337,966 1385,966 1432,966 1479,966 1527,967 1574,968 1622,968 1669,968 1716,968 1764,968 1811,969 1859,969 1906,969 1953,969 2001,971 2048,971 2096,972"/>
+                <TextEquiv>
+                    <Unicode>Wagner, R., Götterdämmerung. 3. Tag aus der Trilogie:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l67" custom="readingOrder {index:20;}">
+                <Coords points="1215,1009 1259,1011 1303,1012 1347,1014 1391,1014 1435,1014 1479,1015 1523,1015 1567,1015 1611,1015 1655,1015 1699,1015 1743,1015 1787,1015 1831,1017 1875,1017 1919,1017 1963,1018 2007,1018 2051,1020 2096,1021 2096,991 2051,990 2007,988 1963,988 1919,987 1875,987 1831,987 1787,985 1743,985 1699,985 1655,985 1611,985 1567,985 1523,985 1479,985 1435,984 1391,984 1347,984 1303,982 1259,981 1215,979"/>
+                <Baseline points="1215,999 1259,1001 1303,1002 1347,1004 1391,1004 1435,1004 1479,1005 1523,1005 1567,1005 1611,1005 1655,1005 1699,1005 1743,1005 1787,1005 1831,1007 1875,1007 1919,1007 1963,1008 2007,1008 2051,1010 2096,1011"/>
+                <TextEquiv>
+                    <Unicode>Der Ring der Nibelungen. 8. Mainz. Schott’s Söhne 1,20 M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l72" custom="readingOrder {index:21;} textStyle {offset:0; length:25;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1386,1153 1412,1153 1438,1153 1465,1154 1491,1155 1517,1155 1544,1155 1570,1156 1596,1156 1623,1156 1649,1156 1675,1157 1702,1158 1728,1158 1754,1158 1781,1158 1807,1159 1833,1159 1860,1159 1843,1098 1818,1101 1793,1106 1778,1100 1749,1099 1721,1101 1694,1101 1660,1100 1637,1099 1610,1100 1580,1100 1560,1101 1534,1096 1505,1097 1482,1096 1464,1096 1434,1094 1406,1093 1370,1092"/>
+                <Baseline points="1386,1143 1412,1143 1438,1143 1465,1144 1491,1145 1517,1145 1544,1145 1570,1146 1596,1146 1623,1146 1649,1146 1675,1147 1702,1148 1728,1148 1754,1148 1781,1148 1807,1149 1833,1149 1860,1149"/>
+                <TextEquiv>
+                    <Unicode>Redactions-Correſpondenz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l75" custom="readingOrder {index:22;} textStyle {offset:11; length:2;fontSize:0.0; kerning:0; bold:true;} textStyle {offset:17; length:5;fontSize:0.0; kerning:0; bold:true;} textStyle {offset:32; length:2;fontSize:0.0; kerning:0; bold:true;} textStyle {offset:38; length:5;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1257,1206 1299,1207 1341,1207 1383,1209 1425,1209 1467,1210 1509,1212 1551,1212 1593,1213 1635,1215 1677,1215 1719,1216 1761,1216 1803,1217 1845,1218 1887,1218 1929,1218 1971,1218 2013,1217 2055,1216 2097,1215 2097,1185 2055,1186 2013,1187 1971,1188 1929,1188 1887,1188 1845,1188 1803,1187 1761,1186 1719,1186 1677,1185 1635,1185 1593,1183 1551,1182 1509,1182 1467,1180 1425,1179 1383,1179 1341,1177 1299,1177 1257,1176"/>
+                <Baseline points="1257,1196 1299,1197 1341,1197 1383,1199 1425,1199 1467,1200 1509,1202 1551,1202 1593,1203 1635,1205 1677,1205 1719,1206 1761,1206 1803,1207 1845,1208 1887,1208 1929,1208 1971,1208 2013,1207 2055,1206 2097,1205"/>
+                <TextEquiv>
+                    <Unicode>Herrn Pfr. N. in Szg. und Prof. K. in Rbg. Herzlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l77" custom="readingOrder {index:23;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1142,1248 1167,1246 1192,1246 1217,1245 1243,1245 1268,1245 1293,1245 1318,1245 1344,1245 1369,1246 1394,1246 1419,1246 1445,1247 1470,1248 1495,1248 1520,1248 1546,1248 1571,1249 1596,1249 1622,1249 1622,1219 1596,1219 1571,1219 1546,1218 1520,1218 1495,1218 1470,1218 1445,1217 1419,1216 1394,1216 1369,1216 1344,1215 1318,1215 1293,1215 1268,1215 1243,1215 1217,1215 1192,1216 1167,1216 1142,1218"/>
+                <Baseline points="1142,1238 1167,1236 1192,1236 1217,1235 1243,1235 1268,1235 1293,1235 1318,1235 1344,1235 1369,1236 1394,1236 1419,1236 1445,1237 1470,1238 1495,1238 1520,1238 1546,1238 1571,1239 1596,1239 1622,1239"/>
+                <TextEquiv>
+                    <Unicode>Dank. Hoffentlich in nächſter Nr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l80" custom="readingOrder {index:24;}">
+                <Coords points="1251,1281 1292,1281 1334,1282 1376,1282 1418,1282 1460,1284 1502,1284 1543,1285 1585,1285 1627,1285 1669,1287 1711,1287 1753,1287 1795,1287 1836,1287 1878,1287 1920,1287 1962,1287 2004,1287 2046,1287 2088,1285 2088,1255 2046,1257 2004,1257 1962,1257 1920,1257 1878,1257 1836,1257 1795,1257 1753,1257 1711,1257 1669,1257 1627,1255 1585,1255 1543,1255 1502,1254 1460,1254 1418,1252 1376,1252 1334,1252 1292,1251 1251,1251"/>
+                <Baseline points="1251,1271 1292,1271 1334,1272 1376,1272 1418,1272 1460,1274 1502,1274 1543,1275 1585,1275 1627,1275 1669,1277 1711,1277 1753,1277 1795,1277 1836,1277 1878,1277 1920,1277 1962,1277 2004,1277 2046,1277 2102,1280"/>
+                <TextEquiv>
+                    <Unicode>Mehrere unſerer verehrlichen Herren Mitarbeiter haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l81" custom="readingOrder {index:25;}">
+                <Coords points="1139,1317 1186,1318 1233,1318 1281,1318 1328,1320 1376,1320 1423,1320 1470,1321 1518,1321 1565,1321 1613,1321 1660,1321 1707,1323 1755,1323 1802,1323 1850,1323 1897,1323 1944,1323 1992,1323 2039,1324 2087,1324 2087,1294 2039,1294 1992,1293 1944,1293 1897,1293 1850,1293 1802,1293 1755,1293 1707,1293 1660,1291 1613,1291 1565,1291 1518,1291 1470,1291 1423,1290 1376,1290 1328,1290 1281,1288 1233,1288 1186,1288 1139,1287"/>
+                <Baseline points="1139,1307 1186,1308 1233,1308 1281,1308 1328,1310 1376,1310 1423,1310 1470,1311 1518,1311 1565,1311 1613,1311 1660,1311 1707,1313 1755,1313 1802,1313 1850,1313 1897,1313 1944,1313 1992,1313 2039,1314 2087,1314"/>
+                <TextEquiv>
+                    <Unicode>den Wunſch geäußert, vor dem Abdruck ihrer reſp. Artikel einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l83" custom="readingOrder {index:26;}">
+                <Coords points="1143,1353 1190,1353 1238,1354 1285,1354 1333,1354 1381,1355 1428,1356 1476,1356 1524,1356 1571,1357 1619,1357 1667,1357 1714,1357 1762,1359 1810,1359 1857,1359 1905,1359 1953,1359 2000,1359 2048,1359 2096,1359 2096,1329 2048,1329 2000,1329 1953,1329 1905,1329 1857,1329 1810,1329 1762,1329 1714,1327 1667,1327 1619,1327 1571,1327 1524,1326 1476,1326 1428,1326 1381,1325 1333,1324 1285,1324 1238,1324 1190,1323 1143,1323"/>
+                <Baseline points="1143,1343 1190,1343 1238,1344 1285,1344 1333,1344 1381,1345 1428,1346 1476,1346 1524,1346 1571,1347 1619,1347 1667,1347 1714,1347 1762,1349 1810,1349 1857,1349 1905,1349 1953,1349 2000,1349 2048,1349 2096,1349"/>
+                <TextEquiv>
+                    <Unicode>Reviſionsabzug zugeſchickt zu bekommen. Wir ſehen uns, zumal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l86" custom="readingOrder {index:27;}">
+                <Coords points="1142,1390 1189,1390 1236,1390 1283,1390 1331,1391 1378,1392 1425,1392 1473,1392 1520,1393 1567,1393 1615,1393 1662,1395 1709,1395 1756,1395 1804,1395 1851,1395 1898,1395 1946,1396 1993,1396 2040,1395 2088,1395 2088,1365 2040,1365 1993,1366 1946,1366 1898,1365 1851,1365 1804,1365 1756,1365 1709,1365 1662,1365 1615,1363 1567,1363 1520,1363 1473,1362 1425,1362 1378,1362 1331,1361 1283,1360 1236,1360 1189,1360 1142,1360"/>
+                <Baseline points="1142,1380 1189,1380 1236,1380 1283,1380 1331,1381 1378,1382 1425,1382 1473,1382 1520,1383 1567,1383 1615,1383 1662,1385 1709,1385 1756,1385 1804,1385 1851,1385 1898,1385 1946,1386 1993,1386 2040,1385 2088,1385"/>
+                <TextEquiv>
+                    <Unicode>bei der gegenwärtig beſtehenden Entfernung der Redaction vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l88" custom="readingOrder {index:28;}">
+                <Coords points="1136,1422 1183,1423 1230,1425 1277,1425 1325,1426 1372,1426 1419,1428 1466,1428 1514,1429 1561,1429 1608,1429 1655,1431 1703,1431 1750,1431 1797,1431 1844,1431 1892,1431 1939,1431 1986,1431 2033,1431 2081,1431 2081,1401 2033,1401 1986,1401 1939,1401 1892,1401 1844,1401 1797,1401 1750,1401 1703,1401 1655,1401 1608,1399 1561,1399 1514,1399 1466,1398 1419,1398 1372,1396 1325,1396 1277,1395 1230,1395 1183,1393 1136,1392"/>
+                <Baseline points="1136,1412 1183,1413 1230,1415 1277,1415 1325,1416 1372,1416 1419,1418 1466,1418 1514,1419 1561,1419 1608,1419 1655,1421 1703,1421 1750,1421 1797,1421 1844,1421 1892,1421 1939,1421 1986,1421 2033,1421 2097,1424"/>
+                <TextEquiv>
+                    <Unicode>Verlagsorte, außer Stande, dieſem Wunſche nachzukommen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l89" custom="readingOrder {index:29;}">
+                <Coords points="1143,1458 1190,1459 1238,1461 1285,1461 1333,1462 1380,1462 1428,1464 1475,1464 1523,1464 1570,1465 1618,1465 1665,1465 1713,1466 1760,1467 1808,1467 1855,1467 1903,1467 1950,1467 1998,1467 2045,1468 2093,1468 2093,1438 2045,1438 1998,1437 1950,1437 1903,1437 1855,1437 1808,1437 1760,1437 1713,1436 1665,1435 1618,1435 1570,1435 1523,1434 1475,1434 1428,1434 1380,1432 1333,1432 1285,1431 1238,1431 1190,1429 1143,1428"/>
+                <Baseline points="1143,1448 1190,1449 1238,1451 1285,1451 1333,1452 1380,1452 1428,1454 1475,1454 1523,1454 1570,1455 1618,1455 1665,1455 1713,1456 1760,1457 1808,1457 1855,1457 1903,1457 1950,1457 1998,1457 2045,1458 2093,1458"/>
+                <TextEquiv>
+                    <Unicode>bitten daher recht angelegentlich, uns völlig druckfertige und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l91" custom="readingOrder {index:30;}">
+                <Coords points="1136,1494 1166,1495 1197,1495 1228,1496 1259,1497 1290,1497 1321,1498 1352,1498 1383,1498 1414,1499 1445,1500 1475,1500 1506,1500 1537,1500 1568,1500 1599,1500 1630,1501 1661,1501 1692,1501 1723,1501 1754,1501 1754,1471 1723,1471 1692,1471 1661,1471 1630,1471 1599,1470 1568,1470 1537,1470 1506,1470 1475,1470 1445,1470 1414,1469 1383,1468 1352,1468 1321,1468 1290,1467 1259,1467 1228,1466 1197,1465 1166,1465 1136,1464"/>
+                <Baseline points="1136,1484 1166,1485 1197,1485 1228,1486 1259,1487 1290,1487 1321,1488 1352,1488 1383,1488 1414,1489 1445,1490 1475,1490 1506,1490 1537,1490 1568,1490 1599,1490 1630,1491 1661,1491 1692,1491 1723,1491 1754,1491"/>
+                <TextEquiv>
+                    <Unicode>leſerliche Manuscripte zuſtellen zu wollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l99" custom="readingOrder {index:31;}">
+                <Coords points="1160,1606 1205,1608 1250,1608 1296,1609 1341,1609 1386,1609 1432,1611 1477,1611 1522,1611 1568,1612 1613,1612 1658,1613 1704,1614 1749,1614 1794,1614 1840,1615 1885,1615 1930,1615 1976,1615 2021,1611 2067,1615 2082,1556 2020,1547 1965,1547 1918,1552 1862,1548 1820,1552 1768,1548 1725,1545 1682,1547 1642,1548 1590,1548 1549,1550 1504,1545 1461,1548 1409,1547 1364,1547 1326,1552 1273,1543 1239,1543 1199,1543 1156,1543"/>
+                <Baseline points="1160,1596 1205,1598 1250,1598 1296,1599 1341,1599 1386,1599 1432,1601 1477,1601 1522,1601 1568,1602 1613,1602 1658,1603 1704,1604 1749,1604 1794,1604 1840,1605 1885,1605 1930,1605 1976,1605 2021,1605 2067,1605"/>
+                <TextEquiv>
+                    <Unicode>Kleines Theater für Geſellen⸗Vereine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728649765_1108" custom="readingOrder {index:32;} textStyle {offset:9; length:17;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1139,1648 1165,1647 1245,1645 1298,1645 2031,1650 2100,1656 2100,1686 2065,1686 1139,1678"/>
+                <Baseline points="1139,1668 1165,1667 1192,1667 1218,1666 1245,1665 1271,1665 1298,1665 1324,1666 1351,1667 1377,1667 1404,1668 1430,1668 1457,1668 1483,1668 1510,1668 1536,1668 1563,1668 1998,1671 2016,1671 2031,1670 2065,1676 2100,1676"/>
+                <TextEquiv>
+                    <Unicode>Heft 10: Ein Unglücksvogel . . . . . . . . . 3 Sgr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728658100_1112" custom="readingOrder {index:33;} textStyle {offset:6; length:37;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1157,1687 1190,1681 1214,1680 1648,1680 1749,1681 1995,1684 2073,1695 2073,1725 1157,1717"/>
+                <Baseline points="1157,1707 1190,1701 1214,1700 1247,1700 1280,1700 1314,1700 1347,1700 1381,1700 1414,1700 1448,1700 1481,1700 1515,1700 1548,1700 1581,1700 1615,1700 1648,1700 1682,1701 1715,1701 1749,1701 1782,1702 1816,1703 1849,1703 1883,1704 1926,1706 1941,1707 1995,1704 2010,1707 2042,1713 2073,1715"/>
+                <TextEquiv>
+                    <Unicode>„ 11: Intermezzo auf der ſilbernen Hochzeit . . 5 „ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728666913_1116" custom="readingOrder {index:34;} textStyle {offset:6; length:33;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1143,1717 1256,1712 1294,1711 1369,1710 2012,1710 2073,1723 2073,1753 2040,1753 1143,1747"/>
+                <Baseline points="1143,1737 1180,1736 1218,1734 1256,1732 1294,1731 1332,1731 1369,1730 1407,1730 1445,1730 1483,1731 1521,1731 1558,1731 1596,1733 1634,1733 1672,1734 1710,1736 1747,1736 1785,1737 1823,1738 1861,1739 1899,1740 1922,1742 1938,1739 2003,1741 2027,1740 2040,1743 2073,1743"/>
+                <TextEquiv>
+                    <Unicode>„ 12: Stündchen in der Wahl⸗Verſammlung . . 3 „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728675308_1120" custom="readingOrder {index:35;} textStyle {offset:6; length:18;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1154,1752 1179,1749 1255,1746 1433,1746 1560,1747 1971,1752 2058,1761 2073,1764 2073,1794 1154,1782"/>
+                <Baseline points="1154,1772 1179,1769 1204,1769 1230,1767 1255,1766 1281,1766 1306,1766 1331,1766 1357,1766 1382,1766 1408,1766 1433,1766 1458,1767 1484,1767 1509,1767 1535,1767 1560,1767 1586,1769 1878,1772 1893,1772 1920,1773 1945,1774 1971,1772 1997,1778 2058,1781 2073,1784"/>
+                <TextEquiv>
+                    <Unicode>„ 13: Landhaus zu kaufen . . . . . . 4 ½ „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728689918_1127" custom="readingOrder {index:36;} textStyle {offset:5; length:35;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1154,1788 1189,1786 1259,1783 1399,1783 1978,1787 2061,1800 2061,1830 2046,1830 1154,1818"/>
+                <Baseline points="1154,1808 1189,1806 1224,1805 1259,1803 1294,1803 1329,1803 1364,1803 1399,1803 1434,1804 1469,1805 1505,1806 1540,1806 1575,1808 1610,1808 1645,1809 1680,1809 1715,1809 1750,1809 1785,1809 1820,1808 1856,1808 1878,1808 1903,1811 1928,1810 1953,1808 1978,1807 2004,1815 2046,1820 2080,1820"/>
+                <TextEquiv>
+                    <Unicode>„14: Wahrheit kann keine Herberge finden . . 7 ½ „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l131" custom="readingOrder {index:37;}">
+                <Coords points="1287,1860 1319,1860 1351,1861 1383,1861 1416,1861 1448,1861 1480,1861 1512,1861 1545,1863 1577,1863 1609,1863 1641,1863 1674,1863 1706,1864 1738,1864 1770,1864 1803,1864 1835,1864 1867,1864 1899,1866 1932,1866 1932,1836 1899,1836 1867,1834 1835,1834 1803,1834 1770,1834 1738,1834 1706,1834 1674,1833 1641,1833 1609,1833 1577,1833 1545,1833 1512,1831 1480,1831 1448,1831 1416,1831 1383,1831 1351,1831 1319,1830 1287,1830"/>
+                <Baseline points="1287,1850 1319,1850 1351,1851 1383,1851 1416,1851 1448,1851 1480,1851 1512,1851 1545,1853 1577,1853 1609,1853 1641,1853 1674,1853 1706,1854 1738,1854 1770,1854 1803,1854 1835,1854 1867,1854 1899,1856 1947,1863"/>
+                <TextEquiv>
+                    <Unicode>Feſtbeſtelltes verſende ich direct und franco.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728713975_1135" custom="readingOrder {index:38;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; bold:true;} textStyle {offset:23; length:9;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1173,1884 1376,1884 1863,1887 2049,1890 2049,1920 2022,1921 1969,1921 1529,1918 1173,1914"/>
+                <Baseline points="1173,1904 1198,1904 1223,1904 1249,1904 1274,1904 1300,1904 1325,1904 1351,1904 1376,1904 1401,1905 1427,1905 1452,1905 1478,1905 1503,1907 1529,1908 1863,1907 1889,1908 1916,1910 1942,1910 1969,1911 1995,1911 2022,1911 2049,1910"/>
+                <TextEquiv>
+                    <Unicode>Paderborn (Weſtfalen). B. Keine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l139" custom="readingOrder {index:39;} textStyle {offset:7; length:6;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1239,1980 1281,1980 1323,1982 1365,1983 1408,1984 1450,1984 1492,1985 1535,1986 1577,1986 1619,1987 1662,1987 1704,1987 1746,1987 1788,1989 1831,1989 1873,1989 1915,1990 1958,1990 2000,1992 2042,1992 2085,1993 2085,1963 2042,1962 2000,1962 1958,1960 1915,1960 1873,1959 1831,1959 1788,1959 1746,1957 1704,1957 1662,1957 1619,1957 1577,1956 1535,1956 1492,1955 1450,1954 1408,1954 1365,1953 1323,1952 1281,1950 1239,1950"/>
+                <Baseline points="1239,1970 1281,1970 1323,1972 1365,1973 1408,1974 1450,1974 1492,1975 1535,1976 1577,1976 1619,1977 1662,1977 1704,1977 1746,1977 1788,1979 1831,1979 1873,1979 1915,1980 1958,1980 2000,1982 2042,1982 2085,1983"/>
+                <TextEquiv>
+                    <Unicode>In der Herder’ſchen Verlagshandlung in Freiburg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l142" custom="readingOrder {index:40;}">
+                <Coords points="1127,2029 1172,2028 1218,2028 1264,2028 1310,2028 1356,2028 1402,2028 1448,2029 1494,2029 1540,2029 1586,2031 1631,2031 1677,2032 1723,2032 1769,2034 1815,2034 1861,2035 1907,2035 1953,2037 1999,2037 2045,2038 2045,2008 1999,2007 1953,2007 1907,2005 1861,2005 1815,2004 1769,2004 1723,2002 1677,2002 1631,2001 1586,2001 1540,1999 1494,1999 1448,1999 1402,1998 1356,1998 1310,1998 1264,1998 1218,1998 1172,1998 1127,1999"/>
+                <Baseline points="1127,2019 1172,2018 1218,2018 1264,2018 1310,2018 1356,2018 1402,2018 1448,2019 1494,2019 1540,2019 1586,2021 1631,2021 1677,2022 1723,2022 1769,2024 1815,2024 1861,2025 1907,2025 1953,2027 1999,2027 2051,2030"/>
+                <TextEquiv>
+                    <Unicode>erſchien und iſt durch alle Buchhandlungen zu beziehen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l145" custom="readingOrder {index:41;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1460,2086 1486,2085 1513,2085 1539,2085 1566,2086 1592,2087 1619,2088 1645,2089 1672,2091 1698,2092 1725,2092 1752,2091 1752,2061 1725,2062 1698,2062 1672,2061 1645,2059 1619,2058 1592,2057 1566,2056 1539,2055 1513,2055 1486,2055 1460,2056"/>
+                <Baseline points="1460,2076 1486,2075 1513,2075 1539,2075 1566,2076 1592,2077 1619,2078 1645,2079 1672,2081 1698,2082 1725,2082 1752,2081"/>
+                <TextEquiv>
+                    <Unicode>W. Lindemann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l149" custom="readingOrder {index:42;}">
+                <Coords points="1154,2170 1199,2169 1245,2168 1291,2167 1337,2167 1383,2167 1428,2167 1474,2167 1520,2169 1566,2169 1612,2170 1657,2170 1703,2172 1749,2172 1795,2173 1841,2173 1886,2175 1932,2175 1978,2175 2024,2176 2070,2175 2075,2111 2017,2114 1973,2094 1922,2093 1878,2098 1839,2100 1793,2119 1741,2096 1698,2106 1657,2100 1607,2105 1568,2109 1529,2111 1472,2101 1422,2107 1374,2096 1340,2098 1281,2114 1237,2109 1189,2098 1144,2097"/>
+                <Baseline points="1154,2160 1199,2159 1245,2158 1291,2157 1337,2157 1383,2157 1428,2157 1474,2157 1520,2159 1566,2159 1612,2160 1657,2160 1703,2162 1749,2162 1795,2163 1841,2163 1886,2165 1932,2165 1978,2165 2024,2166 2070,2165"/>
+                <TextEquiv>
+                    <Unicode>Blumenstrauß von geiſtlichen Gedichten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l153" custom="readingOrder {index:43;} textStyle {offset:0; length:27;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1404,2220 1429,2220 1454,2220 1479,2221 1505,2221 1530,2223 1555,2223 1581,2223 1606,2224 1631,2226 1657,2226 1682,2226 1707,2226 1733,2226 1758,2226 1783,2225 1809,2224 1809,2194 1783,2195 1758,2196 1733,2196 1707,2196 1682,2196 1657,2196 1631,2196 1606,2194 1581,2193 1555,2193 1530,2193 1505,2191 1479,2191 1454,2190 1429,2190 1404,2190"/>
+                <Baseline points="1404,2210 1429,2210 1454,2210 1479,2211 1505,2211 1530,2213 1555,2213 1581,2213 1606,2214 1631,2216 1657,2216 1682,2216 1707,2216 1733,2216 1758,2216 1783,2215 1809,2214"/>
+                <TextEquiv>
+                    <Unicode>des deutſchen Mittelalters,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l155" custom="readingOrder {index:44;}">
+                <Coords points="1232,2271 1269,2271 1306,2271 1343,2271 1380,2271 1418,2272 1455,2272 1492,2272 1529,2274 1566,2274 1604,2275 1641,2275 1678,2277 1715,2277 1752,2277 1790,2278 1827,2278 1864,2278 1901,2278 1938,2278 1976,2278 1976,2248 1938,2248 1901,2248 1864,2248 1827,2248 1790,2248 1752,2247 1715,2247 1678,2247 1641,2245 1604,2245 1566,2244 1529,2244 1492,2242 1455,2242 1418,2242 1380,2241 1343,2241 1306,2241 1269,2241 1232,2241"/>
+                <Baseline points="1232,2261 1269,2261 1306,2261 1343,2261 1380,2261 1418,2262 1455,2262 1492,2262 1529,2264 1566,2264 1604,2265 1641,2265 1678,2267 1715,2267 1752,2267 1790,2268 1827,2268 1864,2268 1901,2268 1938,2268 1976,2268"/>
+                <TextEquiv>
+                    <Unicode>den Freunden religiöſer Dichtung gewidmet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l160" custom="readingOrder {index:45;}">
+                <Coords points="1520,2320 1548,2319 1577,2320 1605,2322 1634,2324 1662,2327 1691,2329 1691,2299 1662,2297 1634,2294 1605,2292 1577,2290 1548,2289 1520,2290"/>
+                <Baseline points="1520,2310 1548,2309 1577,2310 1605,2312 1634,2314 1662,2317 1691,2319"/>
+                <TextEquiv>
+                    <Unicode>546 S. 12⁰.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l163" custom="readingOrder {index:46;} textStyle {offset:0; length:41;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1305,2365 1335,2366 1366,2367 1396,2368 1427,2368 1458,2369 1488,2370 1519,2370 1549,2371 1580,2371 1611,2373 1641,2373 1672,2373 1702,2374 1733,2374 1764,2374 1794,2374 1825,2373 1855,2373 1886,2373 1917,2371 1917,2341 1886,2343 1855,2343 1825,2343 1794,2344 1764,2344 1733,2344 1702,2344 1672,2343 1641,2343 1611,2343 1580,2341 1549,2341 1519,2340 1488,2340 1458,2339 1427,2338 1396,2338 1366,2337 1335,2336 1305,2335"/>
+                <Baseline points="1305,2355 1335,2356 1366,2357 1396,2358 1427,2358 1458,2359 1488,2360 1519,2360 1549,2361 1580,2361 1611,2363 1641,2363 1672,2363 1702,2364 1733,2364 1764,2364 1794,2364 1825,2363 1855,2363 1886,2363 1917,2361"/>
+                <TextEquiv>
+                    <Unicode>Geh. Thlr. 1, 24, eleg. geb. Thlr. 2, 10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l169" custom="readingOrder {index:47;} textStyle {offset:0; length:14;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1380,2466 1406,2466 1432,2466 1458,2467 1484,2467 1510,2468 1536,2469 1562,2470 1588,2470 1614,2470 1640,2472 1666,2472 1692,2472 1718,2472 1744,2472 1770,2472 1796,2472 1822,2470 1848,2470 1854,2411 1821,2401 1801,2404 1766,2397 1740,2395 1715,2406 1675,2397 1666,2403 1633,2402 1603,2402 1580,2390 1569,2402 1541,2389 1499,2407 1464,2408 1462,2396 1425,2393 1405,2386 1376,2397"/>
+                <Baseline points="1380,2456 1406,2456 1432,2456 1458,2457 1484,2457 1510,2458 1536,2459 1562,2460 1588,2460 1614,2460 1640,2462 1666,2462 1692,2462 1718,2462 1744,2462 1770,2462 1796,2462 1822,2460 1848,2460"/>
+                <TextEquiv>
+                    <Unicode>Zur Nachricht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l171" custom="readingOrder {index:48;}">
+                <Coords points="1241,2521 1283,2522 1325,2523 1367,2524 1409,2526 1451,2526 1493,2526 1536,2527 1578,2527 1620,2529 1662,2529 1704,2529 1746,2529 1788,2529 1831,2529 1873,2530 1915,2530 1957,2530 1999,2530 2041,2530 2084,2530 2084,2500 2041,2500 1999,2500 1957,2500 1915,2500 1873,2500 1831,2499 1788,2499 1746,2499 1704,2499 1662,2499 1620,2499 1578,2497 1536,2497 1493,2496 1451,2496 1409,2496 1367,2494 1325,2493 1283,2492 1241,2491"/>
+                <Baseline points="1241,2511 1283,2512 1325,2513 1367,2514 1409,2516 1451,2516 1493,2516 1536,2517 1578,2517 1620,2519 1662,2519 1704,2519 1746,2519 1788,2519 1831,2519 1873,2520 1915,2520 1957,2520 1999,2520 2041,2520 2084,2520"/>
+                <TextEquiv>
+                    <Unicode>Nr. 2 der ‚Literarischen Rundschau’ erſcheint am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728819350_1147" custom="readingOrder {index:49;}">
+                <Coords points="1131,2538 2088,2544 2088,2574 1956,2575 1869,2575 1176,2574 1131,2568"/>
+                <Baseline points="1131,2558 1176,2564 1212,2561 1255,2561 1299,2561 1343,2561 1387,2561 1431,2561 1474,2561 1518,2562 1562,2562 1606,2562 1650,2562 1693,2564 1737,2564 1781,2564 1825,2564 1869,2565 1912,2565 1956,2565 2000,2564 2044,2564 2088,2564"/>
+                <TextEquiv>
+                    <Unicode>15. Februar. Dieſelbe wird die Fortſetzung der Artikel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728824375_1151" custom="readingOrder {index:50;}">
+                <Coords points="1125,2586 1396,2585 2084,2590 2084,2620 1955,2622 1869,2622 1155,2617 1125,2616"/>
+                <Baseline points="1125,2606 1155,2607 1185,2607 1224,2607 1267,2606 1310,2606 1353,2606 1396,2605 1439,2606 1482,2606 1525,2606 1568,2607 1611,2607 1654,2608 1697,2609 1740,2610 1783,2610 1826,2610 1869,2612 1912,2612 1955,2612 1998,2611 2041,2610 2084,2610"/>
+                <TextEquiv>
+                    <Unicode>von Hettinger und Baumſtark bringen, ferner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1613728827983_1155" custom="readingOrder {index:51;}">
+                <Coords points="1128,2634 1316,2629 1445,2629 1755,2634 1755,2664 1703,2665 1626,2665 1128,2664"/>
+                <Baseline points="1128,2654 1161,2654 1194,2654 1239,2654 1264,2651 1290,2651 1316,2649 1342,2649 1368,2649 1393,2649 1419,2649 1445,2649 1471,2650 1497,2651 1522,2652 1548,2652 1574,2654 1600,2654 1626,2655 1651,2655 1677,2655 1703,2655 1729,2654 1755,2654"/>
+                <TextEquiv>
+                    <Unicode>unter anderm Aufſätze der Herren:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l188" custom="readingOrder {index:52;}">
+                <Coords points="1229,2704 1271,2704 1313,2706 1356,2706 1398,2707 1440,2707 1483,2707 1525,2709 1567,2709 1610,2709 1652,2709 1694,2709 1737,2709 1779,2709 1821,2709 1864,2709 1906,2709 1948,2707 1991,2707 2033,2706 2076,2704 2076,2674 2033,2676 1991,2677 1948,2677 1906,2679 1864,2679 1821,2679 1779,2679 1737,2679 1694,2679 1652,2679 1610,2679 1567,2679 1525,2679 1483,2677 1440,2677 1398,2677 1356,2676 1313,2676 1271,2674 1229,2674"/>
+                <Baseline points="1229,2694 1271,2694 1313,2696 1356,2696 1398,2697 1440,2697 1483,2697 1525,2699 1567,2699 1610,2699 1652,2699 1694,2699 1737,2699 1779,2699 1821,2699 1864,2699 1906,2699 1948,2697 1991,2697 2033,2696 2076,2694"/>
+                <TextEquiv>
+                    <Unicode>Lindemann, über Düntzer’s Frau v. Stein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l192" custom="readingOrder {index:53;}">
+                <Coords points="1232,2749 1274,2751 1316,2751 1359,2751 1401,2752 1444,2752 1486,2754 1529,2754 1571,2754 1614,2755 1656,2755 1698,2755 1741,2755 1783,2755 1826,2755 1868,2754 1911,2754 1953,2752 1996,2751 2038,2749 2081,2746 2081,2716 2038,2719 1996,2721 1953,2722 1911,2724 1868,2724 1826,2725 1783,2725 1741,2725 1698,2725 1656,2725 1614,2725 1571,2724 1529,2724 1486,2724 1444,2722 1401,2722 1359,2721 1316,2721 1274,2721 1232,2719"/>
+                <Baseline points="1232,2739 1274,2741 1316,2741 1359,2741 1401,2742 1444,2742 1486,2744 1529,2744 1571,2744 1614,2745 1656,2745 1698,2745 1741,2745 1783,2745 1826,2745 1868,2744 1911,2744 1953,2742 1996,2741 2038,2739 2098,2738"/>
+                <TextEquiv>
+                    <Unicode>Cardauns über Lorenz’ Papstwahl u. Kaiſer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l196" custom="readingOrder {index:54;}">
+                <Coords points="1280,2794 1312,2797 1344,2796 1376,2797 1376,2767 1344,2766 1312,2767 1280,2764"/>
+                <Baseline points="1280,2784 1312,2787 1344,2786 1376,2787"/>
+                <TextEquiv>
+                    <Unicode>thum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l198" custom="readingOrder {index:55;}">
+                <Coords points="1235,2842 1275,2842 1316,2842 1357,2844 1398,2844 1439,2844 1479,2844 1520,2844 1561,2844 1602,2844 1643,2844 1683,2844 1724,2842 1765,2842 1806,2841 1847,2841 1887,2839 1928,2839 1969,2838 2010,2836 2051,2835 2051,2805 2010,2806 1969,2808 1928,2809 1887,2809 1847,2811 1806,2811 1765,2812 1724,2812 1683,2814 1643,2814 1602,2814 1561,2814 1520,2814 1479,2814 1439,2814 1398,2814 1357,2814 1316,2812 1275,2812 1235,2812"/>
+                <Baseline points="1235,2832 1275,2832 1316,2832 1357,2834 1398,2834 1439,2834 1479,2834 1520,2834 1561,2834 1602,2834 1643,2834 1683,2834 1724,2832 1765,2832 1806,2831 1847,2831 1887,2829 1928,2829 1969,2828 2010,2826 2051,2825"/>
+                <TextEquiv>
+                    <Unicode>Kraus über Jungmann, de vera religione.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l200" custom="readingOrder {index:56;}">
+                <Coords points="1238,2884 1280,2886 1322,2887 1364,2887 1406,2889 1449,2889 1491,2889 1533,2889 1575,2890 1617,2890 1660,2890 1702,2889 1744,2889 1786,2889 1828,2887 1871,2887 1913,2886 1955,2885 1997,2884 2039,2883 2082,2881 2082,2851 2039,2853 1997,2854 1955,2855 1913,2856 1871,2857 1828,2857 1786,2859 1744,2859 1702,2859 1660,2860 1617,2860 1575,2860 1533,2859 1491,2859 1449,2859 1406,2859 1364,2857 1322,2857 1280,2856 1238,2854"/>
+                <Baseline points="1238,2874 1280,2876 1322,2877 1364,2877 1406,2879 1449,2879 1491,2879 1533,2879 1575,2880 1617,2880 1660,2880 1702,2879 1744,2879 1786,2879 1828,2877 1871,2877 1913,2876 1955,2875 1997,2874 2039,2873 2098,2873"/>
+                <TextEquiv>
+                    <Unicode>Steinle über Morris’ Bedrängniſſe der Ka⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l202" custom="readingOrder {index:57;}">
+                <Coords points="1281,2931 1306,2931 1332,2931 1358,2931 1384,2932 1410,2933 1436,2934 1462,2935 1487,2935 1513,2937 1539,2937 1565,2937 1591,2937 1617,2936 1643,2935 1643,2905 1617,2906 1591,2907 1565,2907 1539,2907 1513,2907 1487,2905 1462,2905 1436,2904 1410,2903 1384,2902 1358,2901 1332,2901 1306,2901 1281,2901"/>
+                <Baseline points="1281,2921 1306,2921 1332,2921 1358,2921 1384,2922 1410,2923 1436,2924 1462,2925 1487,2925 1513,2927 1539,2927 1565,2927 1591,2927 1617,2926 1643,2925"/>
+                <TextEquiv>
+                    <Unicode>tholiken in England.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l209" custom="readingOrder {index:58;}">
+                <Coords points="1238,3019 1280,3022 1322,3022 1364,3024 1406,3024 1448,3024 1490,3024 1532,3024 1574,3024 1616,3024 1658,3022 1700,3022 1742,3021 1784,3021 1826,3019 1868,3019 1910,3019 1952,3018 1994,3018 2036,3018 2079,3019 2079,2989 2036,2988 1994,2988 1952,2988 1910,2989 1868,2989 1826,2989 1784,2991 1742,2991 1700,2992 1658,2992 1616,2994 1574,2994 1532,2994 1490,2994 1448,2994 1406,2994 1364,2994 1322,2992 1280,2992 1238,2989"/>
+                <Baseline points="1238,3009 1280,3012 1322,3012 1364,3014 1406,3014 1448,3014 1490,3014 1532,3014 1574,3014 1616,3014 1658,3012 1700,3012 1742,3011 1784,3011 1826,3009 1868,3009 1910,3009 1952,3008 1994,3008 2036,3008 2079,3009"/>
+                <TextEquiv>
+                    <Unicode>Beſtellungen auf Nr. 2 u. ff. wolle man gefl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l212" custom="readingOrder {index:59;}">
+                <Coords points="1136,3067 1183,3069 1231,3070 1278,3070 1326,3072 1373,3072 1421,3072 1468,3071 1516,3070 1563,3070 1611,3069 1659,3069 1706,3067 1754,3067 1801,3066 1849,3066 1896,3064 1944,3064 1991,3063 2039,3063 2087,3063 2087,3033 2039,3033 1991,3033 1944,3034 1896,3034 1849,3036 1801,3036 1754,3037 1706,3037 1659,3039 1611,3039 1563,3040 1516,3040 1468,3041 1421,3042 1373,3042 1326,3042 1278,3040 1231,3040 1183,3039 1136,3037"/>
+                <Baseline points="1136,3057 1183,3059 1231,3060 1278,3060 1326,3062 1373,3062 1421,3062 1468,3061 1516,3060 1563,3060 1611,3059 1659,3059 1706,3057 1754,3057 1801,3056 1849,3056 1896,3054 1944,3054 1991,3053 2039,3053 2087,3053"/>
+                <TextEquiv>
+                    <Unicode>bald machen, damit die Zuſendung keine Unterbrechung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l215" custom="readingOrder {index:60;}">
+                <Coords points="1130,3115 1160,3114 1190,3115 1220,3117 1250,3118 1250,3088 1220,3087 1190,3085 1160,3084 1130,3085"/>
+                <Baseline points="1130,3105 1160,3104 1190,3105 1220,3107 1250,3108"/>
+                <TextEquiv>
+                    <Unicode>erleidet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Leſſing’s Werke, herausg. v. R. Goſche. Ill. Ausg. 1. Lfg.
+8. Berl. Grote. 0,50 M.
+Löwe, F., neue Gedichte. 16. Stuttg. Wittwer. Geb. mit
+Goldſchn. 5 M.
+Reuter, Fr. Nachgelaſſene Schriften. 1. Bd. Herausgegeben und
+mit Biographie des Dichters eingeleitet v. A. Wilbrandt.
+(Reuter’s Werke. Bd. 14.) geh. 3 M. geb. 4 M.
+Silberſtein, A., deutſche Hochlandsgeſchichten. 2 Bde. 8. Stuttg.
+Hallberger 6 M.
+Shakſpere, Venus u. Adonis. Ein ep. Ged. Deutſch nebſt Einl.
+v. Tſchiſchwitz. 8. Halle. Schwabe. 1,20 M.
+Shakſpeare v. Schlegel und Tieck. Ill. Ausg. 8 Bände 8. Berl
+Grote. 22 M.
+Tauchnitz Collection gr. 16. Vol. 1463: The little lame
+prince. By the author of ‚John Halifax’. —1464. u.
+65: Mortomleys estate by Mrs. Riddell. 2 Voll. —
+1466: Vanessa by the author of ‚Still waters’. — Se-
+ries for the young. Vol. 23: The town-crier by F. Mont-
+gomery.
+Wagner, R., Götterdämmerung. 3. Tag aus der Trilogie:
+Der Ring der Nibelungen. 8. Mainz. Schott’s Söhne 1,20 M.
+Redactions-Correſpondenz.
+Herrn Pfr. N. in Szg. und Prof. K. in Rbg. Herzlichen
+Dank. Hoffentlich in nächſter Nr.
+Mehrere unſerer verehrlichen Herren Mitarbeiter haben
+den Wunſch geäußert, vor dem Abdruck ihrer reſp. Artikel einen
+Reviſionsabzug zugeſchickt zu bekommen. Wir ſehen uns, zumal
+bei der gegenwärtig beſtehenden Entfernung der Redaction vom
+Verlagsorte, außer Stande, dieſem Wunſche nachzukommen und
+bitten daher recht angelegentlich, uns völlig druckfertige und
+leſerliche Manuscripte zuſtellen zu wollen.
+Kleines Theater für Geſellen⸗Vereine.
+Heft 10: Ein Unglücksvogel . . . . . . . . . 3 Sgr.
+„ 11: Intermezzo auf der ſilbernen Hochzeit . . 5 „ 
+„ 12: Stündchen in der Wahl⸗Verſammlung . . 3 „
+„ 13: Landhaus zu kaufen . . . . . . 4 ½ „
+„14: Wahrheit kann keine Herberge finden . . 7 ½ „
+Feſtbeſtelltes verſende ich direct und franco.
+Paderborn (Weſtfalen). B. Keine.
+In der Herder’ſchen Verlagshandlung in Freiburg
+erſchien und iſt durch alle Buchhandlungen zu beziehen:
+W. Lindemann,
+Blumenstrauß von geiſtlichen Gedichten
+des deutſchen Mittelalters,
+den Freunden religiöſer Dichtung gewidmet.
+546 S. 12⁰.
+Geh. Thlr. 1, 24, eleg. geb. Thlr. 2, 10.
+Zur Nachricht.
+Nr. 2 der ‚Literarischen Rundschau’ erſcheint am
+15. Februar. Dieſelbe wird die Fortſetzung der Artikel
+von Hettinger und Baumſtark bringen, ferner
+unter anderm Aufſätze der Herren:
+Lindemann, über Düntzer’s Frau v. Stein
+Cardauns über Lorenz’ Papstwahl u. Kaiſer⸗
+thum.
+Kraus über Jungmann, de vera religione.
+Steinle über Morris’ Bedrängniſſe der Ka⸗
+tholiken in England.
+Beſtellungen auf Nr. 2 u. ff. wolle man gefl.
+bald machen, damit die Zuſendung keine Unterbrechung
+erleidet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613727358269_697" custom="readingOrder {index:3;}">
+            <Coords points="277,3128 1897,3128 1902,3181 272,3176"/>
+            <TextLine id="line_1615192489457_1059" custom="readingOrder {index:0;}">
+                <Coords points="300,3138 379,3138 458,3139 538,3139 617,3141 696,3141 776,3142 934,3142 1014,3144 1122,3144 1122,3174 1014,3174 934,3172 776,3172 696,3171 617,3171 538,3169 458,3169 379,3168 300,3168"/>
+                <Baseline points="300,3158 379,3158 458,3159 538,3159 617,3161 696,3161 776,3162 855,3162 934,3162 1014,3164 1868,3164 1897,3164"/>
+                <TextEquiv>
+                    <Unicode>Verantwortlicher Redacteur Joſeph Köhler in Paderborn. — Druck von Franz Joſ. Urlichs in Aachen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verantwortlicher Redacteur Joſeph Köhler in Paderborn. — Druck von Franz Joſ. Urlichs in Aachen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

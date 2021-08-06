@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:46:45.19+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2454" WIDTH="1342">
+         <TopMargin HEIGHT="0" WIDTH="1342" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="1342"/>
+         <BottomMargin HEIGHT="0" WIDTH="1342" VPOS="2454" HPOS="0"/>
+         <PrintSpace HEIGHT="2454" WIDTH="1342" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2182" WIDTH="1192" VPOS="59" HPOS="0">
+               <Shape>
+                  <Polygon POINTS="0,59 0,2241 1192,2241 1192,59"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="390,83 415,84 440,84 466,84 491,84 516,85 542,85 567,85 593,85 618,85 643,85 669,86 694,86 719,87 745,87 770,88 796,89"
+                         HEIGHT="42"
+                         WIDTH="406"
+                         VPOS="59"
+                         HPOS="390">
+                  <String ID="string_r1l1"
+                          HEIGHT="42"
+                          WIDTH="406"
+                          VPOS="59"
+                          HPOS="390"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="10,92 30,92"
+                         HEIGHT="36"
+                         WIDTH="20"
+                         VPOS="68"
+                         HPOS="10">
+                  <String ID="string_r1l2"
+                          HEIGHT="36"
+                          WIDTH="20"
+                          VPOS="68"
+                          HPOS="10"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="11,164 70,165 129,165 188,165 247,166 306,166 365,167 424,167 483,168 542,168 601,169 660,170 719,171 778,171 837,172 896,173 955,174 1014,174 1073,175 1132,176 1192,177"
+                         HEIGHT="47"
+                         WIDTH="1181"
+                         VPOS="141"
+                         HPOS="11">
+                  <String ID="string_r1l3"
+                          HEIGHT="47"
+                          WIDTH="1181"
+                          VPOS="141"
+                          HPOS="11"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="9,213 67,213 126,214 185,214 244,214 303,215 362,215 421,216 480,217 539,217 598,218 656,219 715,220 774,220 833,221 892,222 951,222 1010,223 1069,224 1128,224 1187,224"
+                         HEIGHT="45"
+                         WIDTH="1178"
+                         VPOS="190"
+                         HPOS="9">
+                  <String ID="string_r1l4"
+                          HEIGHT="45"
+                          WIDTH="1178"
+                          VPOS="190"
+                          HPOS="9"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="7,261 65,262 124,263 183,263 242,264 301,265 360,265 419,266 478,267 537,267 596,268 654,269 713,269 772,270 831,271 890,272 949,273 1008,273 1067,274 1126,275 1185,276"
+                         HEIGHT="51"
+                         WIDTH="1178"
+                         VPOS="237"
+                         HPOS="7">
+                  <String ID="string_r1l5"
+                          HEIGHT="51"
+                          WIDTH="1178"
+                          VPOS="237"
+                          HPOS="7"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="8,312 34,310 60,310 87,310 113,311 140,312"
+                         HEIGHT="36"
+                         WIDTH="132"
+                         VPOS="287"
+                         HPOS="8">
+                  <String ID="string_r1l6"
+                          HEIGHT="36"
+                          WIDTH="132"
+                          VPOS="287"
+                          HPOS="8"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="82,359 139,359 197,360 255,360 313,361 371,362 429,363 486,364 544,365 602,366 660,367 718,367 776,368 833,369 891,369 949,370 1007,370 1065,371 1123,371 1181,371"
+                         HEIGHT="46"
+                         WIDTH="1099"
+                         VPOS="336"
+                         HPOS="82">
+                  <String ID="string_r1l7"
+                          HEIGHT="46"
+                          WIDTH="1099"
+                          VPOS="336"
+                          HPOS="82"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="0,407 58,408 117,408 176,409 235,410 293,411 352,411 411,412 470,413 528,413 587,414 646,415 705,416 763,416 822,417 881,418 940,418 998,419 1057,419 1116,420 1175,420"
+                         HEIGHT="47"
+                         WIDTH="1175"
+                         VPOS="384"
+                         HPOS="0">
+                  <String ID="string_r1l8"
+                          HEIGHT="47"
+                          WIDTH="1175"
+                          VPOS="384"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="0,455 59,456 118,458 177,459 236,460 295,461 354,461 413,462 472,463 531,463 590,464 649,464 708,465 767,465 826,466 885,466 944,467 1003,468 1062,468 1121,469 1181,471"
+                         HEIGHT="50"
+                         WIDTH="1181"
+                         VPOS="432"
+                         HPOS="0">
+                  <String ID="string_r1l9"
+                          HEIGHT="50"
+                          WIDTH="1181"
+                          VPOS="432"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="16,504 74,505 132,507 191,508 249,508 307,509 366,510 424,511 482,511 541,512 599,513 657,513 716,514 774,514 832,515 891,515 949,516 1007,517 1066,518 1124,518 1183,519"
+                         HEIGHT="49"
+                         WIDTH="1167"
+                         VPOS="481"
+                         HPOS="16">
+                  <String ID="string_r1l10"
+                          HEIGHT="49"
+                          WIDTH="1167"
+                          VPOS="481"
+                          HPOS="16"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="6,556 64,557 123,558 182,558 240,559 299,559 358,560 416,560 475,561 534,561 593,562 651,562 710,563 769,563 827,564 886,564 945,565 1003,566 1062,566 1121,567 1180,567"
+                         HEIGHT="45"
+                         WIDTH="1174"
+                         VPOS="533"
+                         HPOS="6">
+                  <String ID="string_r1l11"
+                          HEIGHT="45"
+                          WIDTH="1174"
+                          VPOS="533"
+                          HPOS="6"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="0,606 59,606 118,607 177,607 236,607 295,608 354,608 413,609 472,610 531,610 590,611 649,611 708,612 767,612 826,613 885,613 944,614 1003,614 1062,615 1121,615 1181,615"
+                         HEIGHT="43"
+                         WIDTH="1181"
+                         VPOS="583"
+                         HPOS="0">
+                  <String ID="string_r1l12"
+                          HEIGHT="43"
+                          WIDTH="1181"
+                          VPOS="583"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="9,654 68,655 127,655 186,656 245,656 304,657 363,657 422,658 481,658 540,659 599,659 658,660 717,660 776,661 835,661 894,662 953,663 1012,663 1071,664 1130,664 1189,665"
+                         HEIGHT="45"
+                         WIDTH="1180"
+                         VPOS="631"
+                         HPOS="9">
+                  <String ID="string_r1l13"
+                          HEIGHT="45"
+                          WIDTH="1180"
+                          VPOS="631"
+                          HPOS="9"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="0,704 59,704 118,704 177,705 237,705 296,705 355,706 414,706 474,707 533,707 592,708 651,708 711,709 770,709 829,710 888,711 948,712 1007,712 1066,713 1125,714 1185,715"
+                         HEIGHT="45"
+                         WIDTH="1185"
+                         VPOS="681"
+                         HPOS="0">
+                  <String ID="string_r1l14"
+                          HEIGHT="45"
+                          WIDTH="1185"
+                          VPOS="681"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="5,752 63,753 122,753 180,753 239,754 298,754 356,755 415,755 473,756 532,756 591,757 649,757 708,758 766,758 825,759 884,760 942,760 1001,761 1059,761 1118,762 1177,762"
+                         HEIGHT="44"
+                         WIDTH="1172"
+                         VPOS="729"
+                         HPOS="5">
+                  <String ID="string_r1l15"
+                          HEIGHT="44"
+                          WIDTH="1172"
+                          VPOS="729"
+                          HPOS="5"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="6,800 64,801 123,802 182,802 241,803 300,803 359,804 417,804 476,805 535,805 594,805 653,806 712,806 771,807 829,807 888,808 947,808 1006,809 1065,810 1124,811 1183,812"
+                         HEIGHT="46"
+                         WIDTH="1177"
+                         VPOS="777"
+                         HPOS="6">
+                  <String ID="string_r1l16"
+                          HEIGHT="46"
+                          WIDTH="1177"
+                          VPOS="777"
+                          HPOS="6"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="6,849 64,850 122,851 181,851 239,852 298,852 356,853 415,853 473,854 532,854 590,854 648,855 707,855 765,855 824,856 882,856 941,857 999,858 1058,858 1116,859 1175,860"
+                         HEIGHT="47"
+                         WIDTH="1169"
+                         VPOS="825"
+                         HPOS="6">
+                  <String ID="string_r1l17"
+                          HEIGHT="47"
+                          WIDTH="1169"
+                          VPOS="825"
+                          HPOS="6"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="2,898 60,899 119,899 177,900 236,900 294,901 353,901 411,902 470,902 528,903 587,903 646,904 704,904 763,905 821,905 880,906 938,907 997,907 1055,908 1114,908 1173,909"
+                         HEIGHT="47"
+                         WIDTH="1171"
+                         VPOS="874"
+                         HPOS="2">
+                  <String ID="string_r1l18"
+                          HEIGHT="47"
+                          WIDTH="1171"
+                          VPOS="874"
+                          HPOS="2"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="5,947 63,948 122,949 181,950 239,950 298,951 357,951 415,951 474,952 533,952 592,952 650,953 709,953 768,954 826,954 885,955 944,956 1002,957 1061,958 1120,959 1179,960"
+                         HEIGHT="49"
+                         WIDTH="1174"
+                         VPOS="923"
+                         HPOS="5">
+                  <String ID="string_r1l19"
+                          HEIGHT="49"
+                          WIDTH="1174"
+                          VPOS="923"
+                          HPOS="5"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="5,997 63,998 122,998 180,999 239,999 297,999 356,1000 414,1000 473,1001 531,1001 590,1002 649,1002 707,1002 766,1003 824,1004 883,1004 941,1005 1000,1006 1058,1007 1117,1008 1176,1009"
+                         HEIGHT="46"
+                         WIDTH="1171"
+                         VPOS="974"
+                         HPOS="5">
+                  <String ID="string_r1l20"
+                          HEIGHT="46"
+                          WIDTH="1171"
+                          VPOS="974"
+                          HPOS="5"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="10,1047 68,1047 127,1048 185,1048 244,1048 303,1049 361,1049 420,1050 479,1050 537,1050 596,1051 655,1051 713,1052 772,1052 831,1053 889,1053 948,1054 1007,1055 1065,1055 1124,1056 1183,1057"
+                         HEIGHT="44"
+                         WIDTH="1173"
+                         VPOS="1024"
+                         HPOS="10">
+                  <String ID="string_r1l21"
+                          HEIGHT="44"
+                          WIDTH="1173"
+                          VPOS="1024"
+                          HPOS="10"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="7,1094 65,1095 124,1096 183,1097 241,1097 300,1098 359,1099 417,1099 476,1100 535,1100 594,1101 652,1101 711,1101 770,1102 828,1102 887,1103 946,1103 1004,1103 1063,1104 1122,1104 1181,1104"
+                         HEIGHT="44"
+                         WIDTH="1174"
+                         VPOS="1071"
+                         HPOS="7">
+                  <String ID="string_r1l22"
+                          HEIGHT="44"
+                          WIDTH="1174"
+                          VPOS="1071"
+                          HPOS="7"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="8,1145 66,1145 124,1146 182,1146 241,1147 299,1147 357,1148 415,1148 474,1149 532,1149 590,1149 648,1150 707,1150 765,1151 823,1151 881,1151 940,1151 998,1152 1056,1152 1114,1152 1173,1152"
+                         HEIGHT="41"
+                         WIDTH="1165"
+                         VPOS="1122"
+                         HPOS="8">
+                  <String ID="string_r1l23"
+                          HEIGHT="41"
+                          WIDTH="1165"
+                          VPOS="1122"
+                          HPOS="8"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="7,1195 65,1195 124,1196 183,1196 242,1196 300,1197 359,1197 418,1197 477,1198 535,1198 594,1198 653,1198 712,1199 770,1199 829,1199 888,1200 947,1200 1005,1200 1064,1201 1123,1201 1182,1201"
+                         HEIGHT="40"
+                         WIDTH="1175"
+                         VPOS="1172"
+                         HPOS="7">
+                  <String ID="string_r1l24"
+                          HEIGHT="40"
+                          WIDTH="1175"
+                          VPOS="1172"
+                          HPOS="7"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="0,1242 58,1242 117,1243 176,1243 235,1243 293,1244 352,1244 411,1244 470,1245 528,1245 587,1246 646,1246 705,1246 763,1247 822,1247 881,1248 940,1248 998,1249 1057,1249 1116,1250 1175,1251"
+                         HEIGHT="43"
+                         WIDTH="1175"
+                         VPOS="1219"
+                         HPOS="0">
+                  <String ID="string_r1l25"
+                          HEIGHT="43"
+                          WIDTH="1175"
+                          VPOS="1219"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="0,1291 62,1291 124,1292 186,1292 248,1292 310,1293 372,1293 434,1293 496,1294 558,1294 620,1295 682,1295 744,1295 806,1296 868,1296 930,1297 992,1298 1054,1298 1116,1299 1179,1300"
+                         HEIGHT="45"
+                         WIDTH="1179"
+                         VPOS="1267"
+                         HPOS="0">
+                  <String ID="string_r1l26"
+                          HEIGHT="45"
+                          WIDTH="1179"
+                          VPOS="1267"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="0,1340 58,1340 117,1341 176,1342 235,1342 293,1343 352,1343 411,1343 470,1344 528,1344 587,1344 646,1345 705,1345 763,1345 822,1346 881,1346 940,1347 998,1347 1057,1348 1116,1349 1175,1350"
+                         HEIGHT="46"
+                         WIDTH="1175"
+                         VPOS="1316"
+                         HPOS="0">
+                  <String ID="string_r1l27"
+                          HEIGHT="46"
+                          WIDTH="1175"
+                          VPOS="1316"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="5,1390 63,1391 122,1391 181,1392 239,1392 298,1392 357,1393 415,1393 474,1393 533,1393 592,1394 650,1394 709,1394 768,1395 826,1395 885,1396 944,1396 1002,1397 1061,1397 1120,1398 1179,1399"
+                         HEIGHT="45"
+                         WIDTH="1174"
+                         VPOS="1366"
+                         HPOS="5">
+                  <String ID="string_r1l28"
+                          HEIGHT="45"
+                          WIDTH="1174"
+                          VPOS="1366"
+                          HPOS="5"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="0,1440 58,1440 117,1440 176,1440 234,1441 293,1441 352,1441 410,1442 469,1442 528,1443 587,1443 645,1443 704,1444 763,1444 821,1445 880,1445 939,1446 997,1446 1056,1446 1115,1447 1174,1447"
+                         HEIGHT="41"
+                         WIDTH="1174"
+                         VPOS="1417"
+                         HPOS="0">
+                  <String ID="string_r1l29"
+                          HEIGHT="41"
+                          WIDTH="1174"
+                          VPOS="1417"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="13,1488 71,1489 129,1489 187,1489 245,1489 304,1490 362,1490 420,1490 478,1491 536,1491 595,1491 653,1492 711,1492 769,1493 827,1493 886,1494 944,1494 1002,1494 1060,1495 1118,1495 1177,1496"
+                         HEIGHT="42"
+                         WIDTH="1164"
+                         VPOS="1465"
+                         HPOS="13">
+                  <String ID="string_r1l30"
+                          HEIGHT="42"
+                          WIDTH="1164"
+                          VPOS="1465"
+                          HPOS="13"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="7,1536 65,1537 123,1538 181,1538 239,1539 298,1539 356,1539 414,1540 472,1540 530,1541 589,1541 647,1541 705,1542 763,1542 821,1543 880,1543 938,1543 996,1544 1054,1544 1112,1545 1171,1545"
+                         HEIGHT="43"
+                         WIDTH="1164"
+                         VPOS="1513"
+                         HPOS="7">
+                  <String ID="string_r1l31"
+                          HEIGHT="43"
+                          WIDTH="1164"
+                          VPOS="1513"
+                          HPOS="7"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="8,1585 66,1586 124,1586 182,1586 241,1587 299,1587 357,1588 415,1588 474,1589 532,1589 590,1590 648,1590 707,1591 765,1591 823,1591 881,1592 940,1592 998,1592 1056,1592 1114,1592 1173,1592"
+                         HEIGHT="41"
+                         WIDTH="1165"
+                         VPOS="1562"
+                         HPOS="8">
+                  <String ID="string_r1l32"
+                          HEIGHT="41"
+                          WIDTH="1165"
+                          VPOS="1562"
+                          HPOS="8"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="5,1635 63,1635 121,1635 179,1636 238,1636 296,1636 354,1637 413,1637 471,1638 529,1638 588,1639 646,1639 704,1640 762,1640 821,1641 879,1641 937,1641 996,1642 1054,1642 1112,1642 1171,1642"
+                         HEIGHT="41"
+                         WIDTH="1166"
+                         VPOS="1612"
+                         HPOS="5">
+                  <String ID="string_r1l33"
+                          HEIGHT="41"
+                          WIDTH="1166"
+                          VPOS="1612"
+                          HPOS="5"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="8,1683 66,1683 124,1684 182,1684 240,1685 298,1685 356,1685 415,1686 473,1686 531,1686 589,1687 647,1687 705,1688 763,1688 822,1688 880,1689 938,1689 996,1690 1054,1690 1112,1691 1171,1691"
+                         HEIGHT="42"
+                         WIDTH="1163"
+                         VPOS="1660"
+                         HPOS="8">
+                  <String ID="string_r1l34"
+                          HEIGHT="42"
+                          WIDTH="1163"
+                          VPOS="1660"
+                          HPOS="8"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="9,1732 66,1733 124,1733 182,1733 240,1734 298,1734 356,1735 414,1735 472,1735 530,1736 588,1736 645,1737 703,1737 761,1737 819,1738 877,1738 935,1739 993,1739 1051,1740 1109,1740 1167,1741"
+                         HEIGHT="43"
+                         WIDTH="1158"
+                         VPOS="1709"
+                         HPOS="9">
+                  <String ID="string_r1l35"
+                          HEIGHT="43"
+                          WIDTH="1158"
+                          VPOS="1709"
+                          HPOS="9"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="0,1781 58,1782 116,1782 175,1782 233,1783 292,1783 350,1783 409,1784 467,1784 526,1785 584,1785 642,1785 701,1786 759,1786 818,1786 876,1787 935,1787 993,1787 1052,1787 1110,1788 1169,1788"
+                         HEIGHT="41"
+                         WIDTH="1169"
+                         VPOS="1758"
+                         HPOS="0">
+                  <String ID="string_r1l36"
+                          HEIGHT="41"
+                          WIDTH="1169"
+                          VPOS="1758"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="6,1830 64,1830 122,1831 181,1831 239,1831 298,1832 356,1832 415,1833 473,1833 532,1833 590,1834 648,1834 707,1834 765,1835 824,1835 882,1836 941,1836 999,1836 1058,1837 1116,1837 1175,1837"
+                         HEIGHT="41"
+                         WIDTH="1169"
+                         VPOS="1807"
+                         HPOS="6">
+                  <String ID="string_r1l37"
+                          HEIGHT="41"
+                          WIDTH="1169"
+                          VPOS="1807"
+                          HPOS="6"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="5,1880 63,1880 121,1880 180,1880 238,1880 297,1880 355,1880 413,1881 472,1881 530,1882 589,1882 647,1883 705,1883 764,1884 822,1884 881,1885 939,1885 997,1885 1056,1885 1114,1885 1173,1885"
+                         HEIGHT="41"
+                         WIDTH="1168"
+                         VPOS="1856"
+                         HPOS="5">
+                  <String ID="string_r1l38"
+                          HEIGHT="41"
+                          WIDTH="1168"
+                          VPOS="1856"
+                          HPOS="5"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="3,1929 61,1928 119,1928 177,1928 236,1929 294,1929 352,1930 411,1930 469,1931 527,1932 586,1932 644,1933 702,1934 760,1934 819,1935 877,1935 935,1935 994,1935 1052,1935 1110,1935 1169,1934"
+                         HEIGHT="41"
+                         WIDTH="1166"
+                         VPOS="1905"
+                         HPOS="3">
+                  <String ID="string_r1l39"
+                          HEIGHT="41"
+                          WIDTH="1166"
+                          VPOS="1905"
+                          HPOS="3"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="9,1979 66,1978 124,1977 182,1977 240,1977 297,1978 355,1978 413,1979 471,1980 528,1980 586,1981 644,1982 702,1983 759,1983 817,1984 875,1984 933,1984 990,1984 1048,1983 1106,1982 1164,1981"
+                         HEIGHT="41"
+                         WIDTH="1155"
+                         VPOS="1954"
+                         HPOS="9">
+                  <String ID="string_r1l40"
+                          HEIGHT="41"
+                          WIDTH="1155"
+                          VPOS="1954"
+                          HPOS="9"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="0,2028 58,2027 117,2026 175,2026 234,2027 293,2027 351,2027 410,2028 468,2029 527,2030 586,2030 644,2031 703,2032 761,2032 820,2033 879,2033 937,2033 996,2032 1054,2032 1113,2030 1172,2029"
+                         HEIGHT="41"
+                         WIDTH="1172"
+                         VPOS="2003"
+                         HPOS="0">
+                  <String ID="string_r1l41"
+                          HEIGHT="41"
+                          WIDTH="1172"
+                          VPOS="2003"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="0,2078 58,2077 116,2076 175,2076 233,2076 292,2077 350,2077 408,2078 467,2078 525,2079 584,2080 642,2080 700,2081 759,2081 817,2082 876,2082 934,2081 992,2081 1051,2080 1109,2079 1168,2077"
+                         HEIGHT="40"
+                         WIDTH="1168"
+                         VPOS="2053"
+                         HPOS="0">
+                  <String ID="string_r1l42"
+                          HEIGHT="40"
+                          WIDTH="1168"
+                          VPOS="2053"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="0,2125 58,2124 117,2124 175,2124 234,2124 292,2125 351,2126 409,2126 468,2127 526,2128 585,2129 643,2130 702,2130 760,2131 819,2131 877,2131 936,2131 994,2130 1053,2129 1111,2128 1170,2126"
+                         HEIGHT="41"
+                         WIDTH="1170"
+                         VPOS="2101"
+                         HPOS="0">
+                  <String ID="string_r1l43"
+                          HEIGHT="41"
+                          WIDTH="1170"
+                          VPOS="2101"
+                          HPOS="0"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="8,2174 66,2174 124,2174 182,2174 240,2174 299,2175 357,2175 415,2176 473,2177 531,2178 590,2178 648,2179 706,2180 764,2180 822,2180 881,2180 939,2180 997,2179 1055,2178 1113,2176 1172,2174"
+                         HEIGHT="40"
+                         WIDTH="1164"
+                         VPOS="2151"
+                         HPOS="8">
+                  <String ID="string_r1l44"
+                          HEIGHT="40"
+                          WIDTH="1164"
+                          VPOS="2151"
+                          HPOS="8"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="7,2224 65,2224 123,2223 182,2223 240,2224 299,2224 357,2225 415,2226 474,2227 532,2228 591,2229 649,2229 707,2230 766,2230 824,2230 883,2230 941,2229 999,2228 1058,2227 1116,2225 1175,2222"
+                         HEIGHT="42"
+                         WIDTH="1168"
+                         VPOS="2199"
+                         HPOS="7">
+                  <String ID="string_r1l45"
+                          HEIGHT="42"
+                          WIDTH="1168"
+                          VPOS="2199"
+                          HPOS="7"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

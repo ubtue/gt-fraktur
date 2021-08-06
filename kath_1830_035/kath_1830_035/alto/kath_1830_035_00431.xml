@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:43:40.924+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2153" WIDTH="1259">
+         <TopMargin HEIGHT="0" WIDTH="1259" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="1259"/>
+         <BottomMargin HEIGHT="0" WIDTH="1259" VPOS="2153" HPOS="0"/>
+         <PrintSpace HEIGHT="2153" WIDTH="1259" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1982" WIDTH="1065" VPOS="110" HPOS="106">
+               <Shape>
+                  <Polygon POINTS="106,110 106,2092 1171,2092 1171,110"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="557,135 582,134 607,132 633,131 658,130 683,130 709,131"
+                         HEIGHT="35"
+                         WIDTH="152"
+                         VPOS="110"
+                         HPOS="557">
+                  <String ID="string_r1l1"
+                          HEIGHT="35"
+                          WIDTH="152"
+                          VPOS="110"
+                          HPOS="557"
+                          CONTENT="XLVII"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="107,245 159,245 212,244 264,243 317,242 369,241 422,240 474,238 527,236 579,235 632,233 685,231 737,229 790,227 842,226 895,224 947,223 1000,221 1052,220 1105,219 1158,218"
+                         HEIGHT="57"
+                         WIDTH="1051"
+                         VPOS="198"
+                         HPOS="107">
+                  <String ID="string_r1l2"
+                          HEIGHT="57"
+                          WIDTH="1051"
+                          VPOS="198"
+                          HPOS="107"
+                          CONTENT="„ ligen ab, ſondern bringt auch reiche Frucht durch den Dank"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="107,287 159,287 212,286 264,285 317,284 369,283 422,281 474,279 527,278 579,276 632,274 684,273 737,271 789,269 842,267 894,266 947,264 999,263 1052,261 1104,260 1157,259"
+                         HEIGHT="58"
+                         WIDTH="1050"
+                         VPOS="239"
+                         HPOS="107">
+                  <String ID="string_r1l3"
+                          HEIGHT="58"
+                          WIDTH="1050"
+                          VPOS="239"
+                          HPOS="107"
+                          CONTENT="„ vieler gegen Gott, welche wegen dieſer erprobten Mildthaͤtigkeit"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="117,326 169,326 221,325 273,324 325,323 377,322 429,321 481,320 533,318 585,317 638,315 690,314 742,312 794,310 846,309 898,307 950,305 1002,304 1054,302 1106,301 1159,299"
+                         HEIGHT="57"
+                         WIDTH="1042"
+                         VPOS="279"
+                         HPOS="117">
+                  <String ID="string_r1l4"
+                          HEIGHT="57"
+                          WIDTH="1042"
+                          VPOS="279"
+                          HPOS="117"
+                          CONTENT="„ Gott preiſen fuͤr den Gehorſam gegen das Evangelium Jeſu"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="113,369 165,368 217,367 269,366 322,365 374,363 426,362 479,361 531,359 583,358 636,356 688,355 740,353 792,351 845,350 897,348 949,346 1002,345 1054,343 1106,342 1159,341"
+                         HEIGHT="58"
+                         WIDTH="1046"
+                         VPOS="321"
+                         HPOS="113">
+                  <String ID="string_r1l5"
+                          HEIGHT="58"
+                          WIDTH="1046"
+                          VPOS="321"
+                          HPOS="113"
+                          CONTENT="„ Chriſti, das ihr bekennet und fuͤr die gutthaͤtige Mittheilung"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="115,411 166,410 218,409 270,407 322,406 374,405 425,403 477,402 529,400 581,399 633,397 684,396 736,394 788,392 840,391 892,389 943,388 995,387 1047,385 1099,384 1151,382"
+                         HEIGHT="59"
+                         WIDTH="1036"
+                         VPOS="362"
+                         HPOS="115">
+                  <String ID="string_r1l6"
+                          HEIGHT="59"
+                          WIDTH="1036"
+                          VPOS="362"
+                          HPOS="115"
+                          CONTENT="„ gegen ſie und alle und durch ihr Gebet fuͤr euch, da ſie euch"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="115,451 167,449 219,448 272,447 324,446 376,444 429,443 481,442 533,440 586,439 638,437 690,436 743,435 795,433 847,432 900,431 952,429 1004,428 1057,427 1109,426 1162,425"
+                         HEIGHT="56"
+                         WIDTH="1047"
+                         VPOS="405"
+                         HPOS="115">
+                  <String ID="string_r1l7"
+                          HEIGHT="56"
+                          WIDTH="1047"
+                          VPOS="405"
+                          HPOS="115"
+                          CONTENT="„ wegen der reichlichen Wohlthat, die Gott ihnen durch euch wer⸗"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="113,491 155,491 197,490 239,490 281,489 324,488 366,487 408,486 450,485 492,484 535,483 577,481 619,480 661,479 703,478 746,477 788,476 830,475 872,474 914,473 957,473"
+                         HEIGHT="48"
+                         WIDTH="844"
+                         VPOS="453"
+                         HPOS="113">
+                  <String ID="string_r1l8"
+                          HEIGHT="48"
+                          WIDTH="844"
+                          VPOS="453"
+                          HPOS="113"
+                          CONTENT="„ den ließ, herzlich lieben.“ (II. Cor. IX. 12. 1.)"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="197,532 245,531 293,529 341,528 389,527 438,526 486,525 534,524 582,523 630,521 679,520 727,519 775,518 823,516 871,515 920,514 968,512 1016,510 1064,508 1112,506 1161,504"
+                         HEIGHT="58"
+                         WIDTH="964"
+                         VPOS="484"
+                         HPOS="197">
+                  <String ID="string_r1l9"
+                          HEIGHT="58"
+                          WIDTH="964"
+                          VPOS="484"
+                          HPOS="197"
+                          CONTENT="Ich ſchließe mit der herzlichen Bitte. Moͤge des Herrn"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="111,571 163,571 215,570 267,570 319,569 372,568 424,567 476,566 528,565 580,563 633,562 685,561 737,559 789,558 841,556 894,555 946,553 998,552 1050,550 1102,549 1155,547"
+                         HEIGHT="54"
+                         WIDTH="1044"
+                         VPOS="527"
+                         HPOS="111">
+                  <String ID="string_r1l10"
+                          HEIGHT="54"
+                          WIDTH="1044"
+                          VPOS="527"
+                          HPOS="111"
+                          CONTENT="Auge walten uͤber ſeinem heiligen Hauſe, Sein Segen ſichtbar"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="112,612 164,612 216,611 268,610 321,609 373,609 425,607 477,606 530,605 582,604 634,602 686,601 739,599 791,598 843,596 895,595 948,593 1000,592 1052,590 1104,588 1157,587"
+                         HEIGHT="55"
+                         WIDTH="1045"
+                         VPOS="567"
+                         HPOS="112">
+                  <String ID="string_r1l11"
+                          HEIGHT="55"
+                          WIDTH="1045"
+                          VPOS="567"
+                          HPOS="112"
+                          CONTENT="werden in erhoͤhter Tugend und Froͤmmigkeit der katholiſchen Ge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="113,653 165,652 217,652 269,651 322,650 374,649 426,648 479,647 531,646 583,645 636,644 688,642 740,641 792,639 845,637 897,636 949,634 1002,632 1054,630 1106,628 1159,625"
+                         HEIGHT="58"
+                         WIDTH="1046"
+                         VPOS="605"
+                         HPOS="113">
+                  <String ID="string_r1l12"
+                          HEIGHT="58"
+                          WIDTH="1046"
+                          VPOS="605"
+                          HPOS="113"
+                          CONTENT="meinde: ſichtbar in erneuertem Eifer des kirchlich⸗religioͤſen Sin⸗"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="109,694 161,693 214,693 267,692 320,692 373,691 425,690 478,689 531,688 584,687 637,685 689,684 742,683 795,681 848,679 901,677 953,675 1006,673 1059,671 1112,668 1165,665"
+                         HEIGHT="59"
+                         WIDTH="1056"
+                         VPOS="645"
+                         HPOS="109">
+                  <String ID="string_r1l13"
+                          HEIGHT="59"
+                          WIDTH="1056"
+                          VPOS="645"
+                          HPOS="109"
+                          CONTENT="nes, auf daß in Erfuͤllung gehe, was der heil. Paulus an die"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="117,733 169,733 221,733 273,732 326,732 378,731 430,730 483,730 535,728 587,727 640,726 692,725 744,723 796,721 849,719 901,717 953,715 1006,713 1058,711 1110,709 1163,706"
+                         HEIGHT="57"
+                         WIDTH="1046"
+                         VPOS="686"
+                         HPOS="117">
+                  <String ID="string_r1l14"
+                          HEIGHT="57"
+                          WIDTH="1046"
+                          VPOS="686"
+                          HPOS="117"
+                          CONTENT="Hebraͤer am 10. ſo dringend anempfiehlt: „Laſſet uns im Be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="109,776 161,775 214,774 267,774 320,773 373,772 425,771 478,770 531,768 584,767 637,766 689,764 742,763 795,761 848,759 901,758 953,755 1006,754 1059,751 1112,749 1165,747"
+                         HEIGHT="59"
+                         WIDTH="1056"
+                         VPOS="727"
+                         HPOS="109">
+                  <String ID="string_r1l15"
+                          HEIGHT="59"
+                          WIDTH="1056"
+                          VPOS="727"
+                          HPOS="109"
+                          CONTENT="„kenntniß unſerer Hoffnung unbeweglich verharren; laſſet uns"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="113,816 165,815 218,815 271,814 324,814 377,813 430,812 483,810 536,809 589,808 642,807 694,805 747,803 800,801 853,800 906,798 959,796 1012,794 1065,792 1118,791 1171,789"
+                         HEIGHT="57"
+                         WIDTH="1058"
+                         VPOS="769"
+                         HPOS="113">
+                  <String ID="string_r1l16"
+                          HEIGHT="57"
+                          WIDTH="1058"
+                          VPOS="769"
+                          HPOS="113"
+                          CONTENT="„nicht wie es einige zu ihun pflegen, unſre Verſammlungen ver⸗"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="109,857 153,857 198,856 243,855 288,854 333,854 377,853 422,852 467,851 512,849 557,848 601,847 646,846 691,845 736,843 781,842 825,841 870,840 915,839 960,838 1005,837"
+                         HEIGHT="50"
+                         WIDTH="896"
+                         VPOS="817"
+                         HPOS="109">
+                  <String ID="string_r1l17"
+                          HEIGHT="50"
+                          WIDTH="896"
+                          VPOS="817"
+                          HPOS="109"
+                          CONTENT="„laſſen, ſondern uns untereinander troͤſten und erbauen."/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="198,895 246,895 294,894 342,893 391,892 439,891 487,891 535,890 584,889 632,887 680,887 728,886 777,884 825,883 873,882 921,881 970,880 1018,879 1066,878 1114,877 1163,875"
+                         HEIGHT="50"
+                         WIDTH="965"
+                         VPOS="855"
+                         HPOS="198">
+                  <String ID="string_r1l18"
+                          HEIGHT="50"
+                          WIDTH="965"
+                          VPOS="855"
+                          HPOS="198"
+                          CONTENT="Geſchrieben zu Duͤrkheim im Rheinkreiſe Bayerns in der"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="106,938 140,938 174,938 209,937 243,937 278,936 312,936 347,935 381,934 416,933 450,933 484,932 519,931 553,930 588,930 622,929 657,928 691,927 726,927 760,926 795,925"
+                         HEIGHT="43"
+                         WIDTH="689"
+                         VPOS="905"
+                         HPOS="106">
+                  <String ID="string_r1l19"
+                          HEIGHT="43"
+                          WIDTH="689"
+                          VPOS="905"
+                          HPOS="106"
+                          CONTENT="Octave der Erſcheinung des Herrn, 1830."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="748,972 774,968 801,965 828,964 854,963 881,963 908,964 981,963"
+                         HEIGHT="39"
+                         WIDTH="187"
+                         VPOS="943"
+                         HPOS="748">
+                  <String ID="string_r1l20"
+                          HEIGHT="39"
+                          WIDTH="187"
+                          VPOS="943"
+                          HPOS="748"
+                          CONTENT="Zimmer,"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="601,1007 627,1006 653,1006 679,1005 705,1004 731,1003 757,1003 783,1002 809,1001 835,1000 861,999 887,998 913,997 939,997 965,996 991,995 1017,995 1043,994 1069,994 1095,993"
+                         HEIGHT="44"
+                         WIDTH="494"
+                         VPOS="973"
+                         HPOS="601">
+                  <String ID="string_r1l21"
+                          HEIGHT="44"
+                          WIDTH="494"
+                          VPOS="973"
+                          HPOS="601"
+                          CONTENT="Pfarrer der katholiſchen Gemeinde."/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="113,1061 165,1061 218,1060 270,1059 323,1058 376,1057 428,1056 481,1054 533,1053 586,1052 639,1051 691,1049 744,1048 796,1047 849,1046 902,1045 954,1043 1007,1042 1059,1041 1112,1040 1165,1039"
+                         HEIGHT="52"
+                         WIDTH="1052"
+                         VPOS="1019"
+                         HPOS="113">
+                  <String ID="string_r1l22"
+                          HEIGHT="52"
+                          WIDTH="1052"
+                          VPOS="1019"
+                          HPOS="113"
+                          CONTENT="Augemeine Ueberſicht der milden Beiträge, die zum Behufe des katholiſchen"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="346,1086 375,1085 404,1085 434,1085 463,1084 493,1084 522,1084 552,1083 581,1083 611,1083 640,1082 669,1082 699,1081 728,1081 758,1080 787,1079 817,1079 846,1078 876,1076 905,1075 935,1074"
+                         HEIGHT="42"
+                         WIDTH="589"
+                         VPOS="1054"
+                         HPOS="346">
+                  <String ID="string_r1l23"
+                          HEIGHT="42"
+                          WIDTH="589"
+                          VPOS="1054"
+                          HPOS="346"
+                          CONTENT="Kirchenbaues in Dürkheim eingegangen ſind."/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="1018,1137 1044,1138 1071,1137 1097,1137 1124,1139"
+                         HEIGHT="32"
+                         WIDTH="106"
+                         VPOS="1117"
+                         HPOS="1018">
+                  <String ID="string_r1l24"
+                          HEIGHT="32"
+                          WIDTH="106"
+                          VPOS="1117"
+                          HPOS="1018"
+                          CONTENT="Betrag."/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="378,1170 403,1169 428,1169 454,1168 479,1167 505,1167 530,1167 556,1166 581,1166 607,1165 632,1165 658,1165 683,1164 709,1164 734,1163 760,1163 785,1162 811,1161"
+                         HEIGHT="39"
+                         WIDTH="433"
+                         VPOS="1141"
+                         HPOS="378">
+                  <String ID="string_r1l25"
+                          HEIGHT="39"
+                          WIDTH="433"
+                          VPOS="1141"
+                          HPOS="378"
+                          CONTENT="Behoͤrde. Koͤnigreich Bayern."/>
+               </TextLine>
+               <TextLine ID="line_1621255927542_859"
+                         BASELINE="159,1272 181,1274 293,1268 325,1268 357,1268 389,1267 422,1267 454,1266 486,1266 519,1265 551,1264 583,1264 616,1263 648,1262 680,1261 712,1261 745,1260 777,1259 809,1258 842,1257 874,1257 906,1256 939,1255"
+                         HEIGHT="49"
+                         WIDTH="780"
+                         VPOS="1235"
+                         HPOS="159">
+                  <String ID="string_line_1621255927542_859"
+                          HEIGHT="49"
+                          WIDTH="780"
+                          VPOS="1235"
+                          HPOS="159"
+                          CONTENT="1. Durch ſeine Majeſtaͤt den Koͤnig von Bayern"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="234,1307 269,1306 304,1305 339,1304 374,1304 410,1303 445,1303 480,1302 515,1301 550,1301 586,1300 621,1299 656,1299 691,1298 726,1297 762,1296 797,1296 832,1295 867,1294 902,1293 938,1292"
+                         HEIGHT="45"
+                         WIDTH="704"
+                         VPOS="1272"
+                         HPOS="234">
+                  <String ID="string_r1l31"
+                          HEIGHT="45"
+                          WIDTH="704"
+                          VPOS="1272"
+                          HPOS="234"
+                          CONTENT="nach ertheilter allergnaͤdigſten Genehmigung einer"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="238,1342 273,1341 308,1340 343,1339 378,1339 413,1338 448,1337 483,1337 518,1336 553,1336 589,1336 624,1335 659,1335 694,1335 729,1334 764,1334 799,1333 834,1333 869,1332 904,1331 940,1330"
+                         HEIGHT="42"
+                         WIDTH="702"
+                         VPOS="1310"
+                         HPOS="238">
+                  <String ID="string_r1l32"
+                          HEIGHT="42"
+                          WIDTH="702"
+                          VPOS="1310"
+                          HPOS="238"
+                          CONTENT="allgemeinen Kollekte die milde Schenkung von"/>
+               </TextLine>
+               <TextLine ID="line_1621255940635_867"
+                         BASELINE="244,1374 270,1374 296,1374 322,1374 348,1373 374,1373 400,1373 426,1373 452,1373 478,1373 504,1373 530,1373 556,1374 575,1371 601,1372 627,1372 653,1371 679,1370 705,1369 731,1369 757,1369 783,1371 998,1361 1023,1361 1048,1361"
+                         HEIGHT="43"
+                         WIDTH="804"
+                         VPOS="1341"
+                         HPOS="244">
+                  <String ID="string_line_1621255940635_867"
+                          HEIGHT="43"
+                          WIDTH="804"
+                          VPOS="1341"
+                          HPOS="244"
+                          CONTENT="zwanzig Bauſtaͤmmen, veranſchlagt zu 230"/>
+               </TextLine>
+               <TextLine ID="line_1621255935311_863"
+                         BASELINE="151,1406 187,1416 237,1409 265,1408 294,1407 323,1407 351,1406 380,1406 409,1406 437,1406 466,1406 495,1407 524,1407 552,1407 581,1407 610,1407 638,1408 667,1408 696,1408 724,1407 753,1407 782,1407 811,1406 998,1398 1044,1396 1106,1390 1126,1390"
+                         HEIGHT="56"
+                         WIDTH="975"
+                         VPOS="1370"
+                         HPOS="151">
+                  <String ID="string_line_1621255935311_863"
+                          HEIGHT="56"
+                          WIDTH="975"
+                          VPOS="1370"
+                          HPOS="151"
+                          CONTENT="2. Koͤnigliche Polizeidirection in Muͤnchen. 283 1"/>
+               </TextLine>
+               <TextLine ID="line_1621255948798_871"
+                         BASELINE="164,1448 189,1448 238,1444 263,1444 288,1443 314,1442 339,1441 364,1441 390,1442 418,1442 446,1440 474,1439 503,1440 531,1441 560,1442 1014,1428 1048,1428 1097,1426 1128,1427"
+                         HEIGHT="52"
+                         WIDTH="955"
+                         VPOS="1406"
+                         HPOS="173">
+                  <String ID="string_line_1621255948798_871"
+                          HEIGHT="52"
+                          WIDTH="955"
+                          VPOS="1406"
+                          HPOS="173"
+                          CONTENT="3. Landgericht Techernſee. 36 12"/>
+               </TextLine>
+               <TextLine ID="line_1621255954705_875"
+                         BASELINE="162,1479 182,1481 311,1484 331,1486 413,1472 441,1471 469,1472 497,1473 525,1474 553,1475 1006,1463 1052,1463 1095,1460 1126,1461"
+                         HEIGHT="56"
+                         WIDTH="964"
+                         VPOS="1440"
+                         HPOS="162">
+                  <String ID="string_line_1621255954705_875"
+                          HEIGHT="56"
+                          WIDTH="964"
+                          VPOS="1440"
+                          HPOS="162"
+                          CONTENT="4. „ Weilheim. 142 31"/>
+               </TextLine>
+               <TextLine ID="line_1621255960661_879"
+                         BASELINE="161,1516 182,1516 309,1518 329,1520 418,1511 445,1510 472,1509 499,1509 526,1509 553,1510 580,1511 1023,1496 1053,1498 1098,1493 1129,1496"
+                         HEIGHT="57"
+                         WIDTH="968"
+                         VPOS="1473"
+                         HPOS="161">
+                  <String ID="string_line_1621255960661_879"
+                          HEIGHT="57"
+                          WIDTH="968"
+                          VPOS="1473"
+                          HPOS="161"
+                          CONTENT="5. „ Werdenfels. 40 35"/>
+               </TextLine>
+               <TextLine ID="line_1621255966543_883"
+                         BASELINE="153,1548 179,1550 308,1554 328,1554 412,1546 442,1543 473,1544 503,1546 534,1546 1018,1529 1047,1532 1094,1527 1126,1531"
+                         HEIGHT="57"
+                         WIDTH="973"
+                         VPOS="1507"
+                         HPOS="153">
+                  <String ID="string_line_1621255966543_883"
+                          HEIGHT="57"
+                          WIDTH="973"
+                          VPOS="1507"
+                          HPOS="153"
+                          CONTENT="6. „ Koͤtzling. 18 41"/>
+               </TextLine>
+               <TextLine ID="line_1621255974787_887"
+                         BASELINE="161,1584 194,1586 313,1587 323,1587 416,1575 441,1578 467,1579 492,1580 518,1580 544,1581 1024,1568 1054,1568 1095,1566 1125,1568"
+                         HEIGHT="58"
+                         WIDTH="964"
+                         VPOS="1539"
+                         HPOS="161">
+                  <String ID="string_line_1621255974787_887"
+                          HEIGHT="58"
+                          WIDTH="964"
+                          VPOS="1539"
+                          HPOS="161"
+                          CONTENT="7. „ Misbach. 93 22"/>
+               </TextLine>
+               <TextLine ID="line_1621255980348_891"
+                         BASELINE="157,1617 188,1620 313,1626 323,1625 421,1616 446,1615 471,1616 496,1616 521,1617 546,1617 1022,1599 1054,1603 1093,1602 1119,1602 1146,1605"
+                         HEIGHT="57"
+                         WIDTH="968"
+                         VPOS="1579"
+                         HPOS="178">
+                  <String ID="string_line_1621255980348_891"
+                          HEIGHT="57"
+                          WIDTH="968"
+                          VPOS="1579"
+                          HPOS="178"
+                          CONTENT="8. „ Landshut. 84 29 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621255988071_895"
+                         BASELINE="168,1655 191,1653 309,1655 335,1654 420,1652 448,1651 477,1651 506,1650 1024,1633 1046,1635 1093,1636 1124,1638 1156,1645"
+                         HEIGHT="56"
+                         WIDTH="988"
+                         VPOS="1609"
+                         HPOS="168">
+                  <String ID="string_line_1621255988071_895"
+                          HEIGHT="56"
+                          WIDTH="988"
+                          VPOS="1609"
+                          HPOS="168"
+                          CONTENT="9. „ Regen. 47 11 ¼"/>
+               </TextLine>
+               <TextLine ID="line_1621256000091_899"
+                         BASELINE="143,1690 179,1692 234,1688 262,1688 290,1688 319,1688 347,1688 376,1688 414,1685 443,1686 472,1686 501,1686 530,1687 560,1691 1022,1669 1050,1671 1096,1671 1120,1674"
+                         HEIGHT="53"
+                         WIDTH="977"
+                         VPOS="1649"
+                         HPOS="143">
+                  <String ID="string_line_1621256000091_899"
+                          HEIGHT="53"
+                          WIDTH="977"
+                          VPOS="1649"
+                          HPOS="143"
+                          CONTENT="10. Magiſtrat Straubing. 37 55"/>
+               </TextLine>
+               <TextLine ID="line_1621256005082_903"
+                         BASELINE="139,1724 181,1728 328,1729 338,1729 413,1721 438,1722 463,1721 489,1721 514,1721 540,1722 1018,1705 1054,1707 1093,1708 1118,1708 1166,1711"
+                         HEIGHT="54"
+                         WIDTH="1005"
+                         VPOS="1685"
+                         HPOS="139">
+                  <String ID="string_line_1621256005082_903"
+                          HEIGHT="54"
+                          WIDTH="1005"
+                          VPOS="1685"
+                          HPOS="139"
+                          CONTENT="11. „ Landshut. 63 21 ¼"/>
+               </TextLine>
+               <TextLine ID="line_1621256010375_907"
+                         BASELINE="143,1760 179,1764 238,1762 268,1760 298,1758 314,1760 348,1758 382,1758 414,1755 439,1755 464,1755 489,1755 514,1756 539,1756 564,1756 589,1756 614,1755 1024,1743 1048,1743 1093,1742 1120,1746 1147,1750"
+                         HEIGHT="52"
+                         WIDTH="1004"
+                         VPOS="1722"
+                         HPOS="143">
+                  <String ID="string_line_1621256010375_907"
+                          HEIGHT="52"
+                          WIDTH="1004"
+                          VPOS="1722"
+                          HPOS="143"
+                          CONTENT="12. Landgericht Berchtolsgaden. 20 19 ¼"/>
+               </TextLine>
+               <TextLine ID="line_1621256016464_911"
+                         BASELINE="146,1796 178,1796 318,1806 340,1804 417,1792 447,1792 477,1794 1017,1776 1048,1777 1093,1776 1123,1780"
+                         HEIGHT="60"
+                         WIDTH="977"
+                         VPOS="1756"
+                         HPOS="146">
+                  <String ID="string_line_1621256016464_911"
+                          HEIGHT="60"
+                          WIDTH="977"
+                          VPOS="1756"
+                          HPOS="146"
+                          CONTENT="13. „ Toͤlz. 89 50"/>
+               </TextLine>
+               <TextLine ID="line_1621256023487_915"
+                         BASELINE="142,1829 192,1832 319,1836 339,1838 416,1828 441,1827 467,1826 492,1825 518,1826 1013,1811 1045,1811 1102,1810 1125,1814"
+                         HEIGHT="58"
+                         WIDTH="983"
+                         VPOS="1790"
+                         HPOS="142">
+                  <String ID="string_line_1621256023487_915"
+                          HEIGHT="58"
+                          WIDTH="983"
+                          VPOS="1790"
+                          HPOS="142"
+                          CONTENT="14. „ Landau. 81 57"/>
+               </TextLine>
+               <TextLine ID="line_1621256028915_919"
+                         BASELINE="149,1864 183,1866 315,1864 346,1867 421,1862 447,1861 473,1861 499,1860 525,1860 551,1860 577,1862 1007,1849 1055,1847 1093,1846 1124,1850 1155,1856"
+                         HEIGHT="51"
+                         WIDTH="1006"
+                         VPOS="1826"
+                         HPOS="149">
+                  <String ID="string_line_1621256028915_919"
+                          HEIGHT="51"
+                          WIDTH="1006"
+                          VPOS="1826"
+                          HPOS="149"
+                          CONTENT="15. „ Eggenfelder. 128 11 ¼"/>
+               </TextLine>
+               <TextLine ID="line_1621256033670_923"
+                         BASELINE="135,1896 179,1900 237,1897 264,1896 292,1896 319,1896 347,1897 375,1897 418,1893 449,1895 481,1896 513,1896 1015,1880 1054,1883 1098,1882 1128,1882"
+                         HEIGHT="50"
+                         WIDTH="993"
+                         VPOS="1860"
+                         HPOS="135">
+                  <String ID="string_line_1621256033670_923"
+                          HEIGHT="50"
+                          WIDTH="993"
+                          VPOS="1860"
+                          HPOS="135"
+                          CONTENT="16. Magiſtrat Paſſau. 39 18"/>
+               </TextLine>
+               <TextLine ID="line_1621256044288_931"
+                         BASELINE="149,1934 183,1936 244,1934 272,1933 300,1933 328,1933 356,1932 384,1932 417,1931 447,1929 477,1929 507,1930 537,1929 1018,1916 1054,1916 1113,1916 1149,1922"
+                         HEIGHT="50"
+                         WIDTH="1000"
+                         VPOS="1896"
+                         HPOS="149">
+                  <String ID="string_line_1621256044288_931"
+                          HEIGHT="50"
+                          WIDTH="1000"
+                          VPOS="1896"
+                          HPOS="149"
+                          CONTENT="17. Landgericht Troßberg. 63 6 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256039125_927"
+                         BASELINE="150,1967 184,1969 328,1975 338,1977 417,1964 446,1964 476,1963 506,1963 536,1965 566,1967 1026,1950 1050,1949 1096,1951 1127,1954"
+                         HEIGHT="70"
+                         WIDTH="977"
+                         VPOS="1917"
+                         HPOS="150">
+                  <String ID="string_line_1621256039125_927"
+                          HEIGHT="70"
+                          WIDTH="977"
+                          VPOS="1917"
+                          HPOS="150"
+                          CONTENT="18. „ Straubing. 77 28"/>
+               </TextLine>
+               <TextLine ID="line_1621256049844_935"
+                         BASELINE="146,2001 181,2004 322,2010 342,2010 417,1999 444,2000 471,2000 498,2000 525,2000 552,2000 1001,1988 1027,1986 1053,1988 1110,1987 1130,1988"
+                         HEIGHT="54"
+                         WIDTH="984"
+                         VPOS="1966"
+                         HPOS="146">
+                  <String ID="string_line_1621256049844_935"
+                          HEIGHT="54"
+                          WIDTH="984"
+                          VPOS="1966"
+                          HPOS="146"
+                          CONTENT="19. „ Vilshofen. 102 6"/>
+               </TextLine>
+               <TextLine ID="line_1621256054723_939"
+                         BASELINE="143,2036 183,2040 320,2043 344,2043 422,2031 449,2033 476,2033 504,2034 531,2034 559,2034 1021,2020 1054,2021 1100,2020 1128,2018"
+                         HEIGHT="55"
+                         WIDTH="985"
+                         VPOS="1998"
+                         HPOS="143">
+                  <String ID="string_line_1621256054723_939"
+                          HEIGHT="55"
+                          WIDTH="985"
+                          VPOS="1998"
+                          HPOS="143"
+                          CONTENT="20. „ Grafenau. 40 10"/>
+               </TextLine>
+               <TextLine ID="line_1621256060998_943"
+                         BASELINE="142,2073 155,2073 181,2076 207,2082 324,2080 344,2080 420,2069 448,2070 476,2069 504,2069 532,2069 560,2071 1008,2055 1054,2057 1094,2056 1131,2058 1168,2060"
+                         HEIGHT="57"
+                         WIDTH="1039"
+                         VPOS="2035"
+                         HPOS="129">
+                  <String ID="string_line_1621256060998_943"
+                          HEIGHT="57"
+                          WIDTH="1039"
+                          VPOS="2035"
+                          HPOS="129"
+                          CONTENT="21. „ Schongau. 77 46 ¼"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

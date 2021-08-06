@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;ig_lb=true):v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-18T17:26:42.444+01:00</Created>
+        <LastChange>2021-05-11T09:10:03.902+02:00</LastChange>
+        <TranskribusMetadata docId="541181" pageId="22777157" pageNr="1" tsid="57717462" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=HVKIBZSWPNNCRFLXWDUDWQKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TZXMHGNRPGNGXHHIWYRIALWH" imageId="17757276"/>
+    </Metadata>
+    <Page imageFilename="akzs_1860_00003.tif" imageWidth="1562" imageHeight="2610">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328182506" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="31,50 43,2434 1429,2434 1443,67"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="640,144 667,144 694,145 721,145 748,145 776,146 803,146 830,146 857,147 885,148 885,103 877,77 834,81 812,84 788,83 758,85 745,82 724,82 690,80 640,62"/>
+                <Baseline points="640,129 667,129 694,130 721,130 748,130 776,131 803,131 830,131 857,132 885,133"/>
+                <TextEquiv>
+                    <Unicode>Prospect.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="73,375 140,375 208,375 276,375 344,376 412,376 479,376 547,377 615,377 683,378 751,378 818,379 886,380 954,381 1022,382 1090,384 1157,385 1225,387 1293,388 1361,391 1429,393 1429,348 1414,282 1317,279 1253,282 1202,276 1123,270 1059,279 1001,265 954,288 898,279 832,267 748,269 680,273 589,263 547,270 480,275 403,263 337,286 289,289 228,258 77,236"/>
+                <Baseline points="73,360 140,360 208,360 276,360 344,361 412,361 479,361 547,362 615,362 683,363 751,363 818,364 886,365 954,366 1022,367 1090,369 1157,370 1225,372 1293,373 1361,376 1429,378"/>
+                <TextEquiv>
+                    <Unicode>Allgemeine kirchliche Zeitſchrift.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="484,586 518,588 552,590 586,592 621,594 655,595 689,596 724,598 758,598 792,599 827,600 861,601 895,602 929,603 964,603 998,604 1032,606 1067,607 1101,609 1135,610 1170,612 1170,567 1135,565 1101,564 1067,562 1027,563 998,559 972,540 938,542 901,542 872,544 844,540 807,536 778,534 739,510 691,520 660,523 651,522 617,524 579,513 534,516 486,507"/>
+                <Baseline points="450,579 484,581 518,583 552,585 587,587 621,588 655,589 690,591 724,591 758,592 793,593 827,594 861,595 895,596 930,596 964,597 998,599 1033,600 1067,602 1101,603 1136,605"/>
+                <TextEquiv>
+                    <Unicode>Ein Organ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="209,698 272,699 335,700 398,701 461,701 524,702 587,703 650,704 713,705 776,706 840,707 903,708 966,708 1029,709 1092,710 1155,711 1218,713 1281,714 1344,715 1408,716 1408,674 1344,673 1281,672 1218,671 1155,669 1092,668 1029,667 966,666 903,666 840,665 776,664 713,663 650,662 587,661 524,660 461,659 398,659 335,658 272,657 209,656"/>
+                <Baseline points="209,684 272,685 335,686 398,687 461,687 524,688 587,689 650,690 713,691 776,692 840,693 903,694 966,694 1029,695 1092,696 1155,697 1218,699 1281,700 1344,701 1408,702"/>
+                <TextEquiv>
+                    <Unicode>für die evangeliſche Geiſtlichkeit und Gemeinde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="446,863 481,864 516,864 552,865 587,865 623,866 658,867 693,867 729,868 764,868 800,869 835,870 870,870 906,871 941,871 977,872 1012,872 1047,873 1083,873 1118,873 1154,873 1154,836 1118,836 1083,836 1047,836 1012,835 977,835 941,834 906,834 870,833 835,833 800,832 764,831 729,831 693,830 658,830 623,829 587,828 552,828 516,827 481,827 446,826"/>
+                <Baseline points="446,851 481,852 516,852 552,853 587,853 623,854 658,855 693,855 729,856 764,856 800,857 835,858 870,858 906,859 941,859 977,860 1012,860 1047,861 1083,861 1118,861 1154,861"/>
+                <TextEquiv>
+                    <Unicode>Unter Mitwirkung ausgezeichneter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615966028093_14" custom="readingOrder {index:5;}">
+                <Coords points="322,896 1165,905 1165,955 322,946"/>
+                <Baseline points="322,941 1165,950"/>
+                <TextEquiv>
+                    <Unicode>Theologen, Geiſtlichen und Gemeindegenoſſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+                <Coords points="586,1050 611,1051 636,1051 662,1052 687,1052 712,1053 738,1054 763,1054 788,1055 814,1055 839,1055 864,1055 890,1054 890,1009 864,1010 839,1010 814,1010 788,1010 763,1009 738,1009 712,1008 687,1007 662,1007 636,1006 611,1006 586,1005"/>
+                <Baseline points="586,1035 611,1036 636,1036 662,1037 687,1037 712,1038 738,1039 763,1039 788,1040 814,1040 839,1040 864,1040 890,1039"/>
+                <TextEquiv>
+                    <Unicode>herausgegeben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615966093127_50" custom="readingOrder {index:7;}">
+                <Coords points="702,1068 775,1065 777,1115 704,1118"/>
+                <Baseline points="704,1113 777,1110"/>
+                <TextEquiv>
+                    <Unicode>von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:8;} textStyle {offset:0; length:30;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="486,1189 512,1188 538,1188 564,1188 591,1188 617,1188 643,1189 669,1189 696,1190 722,1191 748,1192 774,1192 801,1193 827,1194 853,1195 879,1195 906,1196 932,1196 958,1196 984,1196 1011,1195 1011,1158 984,1159 958,1159 932,1159 906,1159 879,1158 853,1158 827,1157 801,1156 774,1155 748,1155 722,1154 696,1153 669,1152 643,1152 617,1151 591,1151 564,1151 538,1151 512,1151 486,1152"/>
+                <Baseline points="486,1177 512,1176 538,1176 564,1176 591,1176 617,1176 643,1177 669,1177 696,1178 722,1179 748,1180 774,1180 801,1181 827,1182 853,1183 879,1183 906,1184 932,1184 958,1184 984,1184 1011,1183"/>
+                <TextEquiv>
+                    <Unicode>Profeſſor Dr. Daniel Schenkel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615966113914_59" custom="readingOrder {index:9;}">
+                <Coords points="191,1199 1094,1209 1232,1211 1288,1213 1288,1258 1039,1254 232,1236 191,1235"/>
+                <Baseline points="191,1223 232,1224 274,1224 316,1225 358,1226 400,1226 442,1227 484,1228 526,1228 568,1229 610,1230 651,1230 693,1231 735,1232 777,1233 819,1234 861,1235 903,1236 945,1237 987,1238 1029,1239 1039,1239 1066,1239 1094,1239 1122,1240 1149,1240 1177,1241 1205,1241 1232,1241 1260,1242 1288,1243"/>
+                <TextEquiv>
+                    <Unicode>Großherzoglich Badiſchem Kirchenrath, Seminar⸗Director und erſtem Univerſitätsprediger.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615966071822_36" custom="readingOrder {index:10;}">
+                <Coords points="167,1395 1427,1422 1426,1472 166,1445"/>
+                <Baseline points="166,1440 1426,1467"/>
+                <TextEquiv>
+                    <Unicode>Schon ſeit längerer Zeit, und immer dringender, hat ſich das Bedürfniß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:11;}">
+                <Coords points="59,1499 126,1503 194,1506 261,1508 329,1510 396,1512 464,1514 531,1515 599,1516 666,1517 734,1517 801,1518 869,1518 936,1519 1004,1519 1071,1520 1139,1521 1206,1522 1274,1523 1341,1524 1409,1526 1409,1489 1341,1487 1274,1486 1206,1485 1139,1484 1071,1483 1004,1482 936,1482 869,1481 801,1481 734,1480 666,1480 599,1479 531,1478 464,1477 396,1475 329,1473 261,1471 194,1469 126,1466 59,1462"/>
+                <Baseline points="59,1487 126,1491 194,1494 261,1496 329,1498 396,1500 464,1502 531,1503 599,1504 666,1505 734,1505 801,1506 869,1506 936,1507 1004,1507 1071,1508 1139,1509 1206,1510 1274,1511 1341,1512 1409,1514"/>
+                <TextEquiv>
+                    <Unicode>zur Gründung eines Organes gezeigt, welches das kirchliche Leben der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:12;}">
+                <Coords points="61,1556 128,1558 196,1560 264,1562 332,1564 400,1565 468,1566 536,1567 604,1568 672,1569 740,1570 807,1570 875,1571 943,1572 1011,1572 1079,1573 1147,1574 1215,1576 1283,1577 1351,1578 1419,1580 1419,1543 1351,1541 1283,1540 1215,1539 1147,1537 1079,1536 1011,1535 943,1535 875,1534 807,1533 740,1533 672,1532 604,1531 536,1530 468,1529 400,1528 332,1527 264,1525 196,1523 128,1521 61,1519"/>
+                <Baseline points="61,1544 128,1546 196,1548 264,1550 332,1552 400,1553 468,1554 536,1555 604,1556 672,1557 740,1558 807,1558 875,1559 943,1560 1011,1560 1079,1561 1147,1562 1215,1564 1283,1565 1351,1566 1419,1568"/>
+                <TextEquiv>
+                    <Unicode>Gegenwart, ſeine Bewegung und Entwicklung, nicht nur für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:13;}">
+                <Coords points="63,1610 130,1613 198,1615 265,1617 333,1619 400,1620 468,1621 535,1622 603,1623 670,1623 738,1624 806,1624 873,1625 941,1626 1008,1626 1076,1627 1143,1628 1211,1629 1278,1631 1346,1632 1414,1634 1414,1595 1346,1593 1278,1592 1211,1590 1143,1589 1076,1588 1008,1587 941,1587 873,1586 806,1585 738,1585 670,1584 603,1584 535,1583 468,1582 400,1581 333,1580 265,1578 198,1576 130,1574 63,1571"/>
+                <Baseline points="63,1597 130,1600 198,1602 265,1604 333,1606 400,1607 468,1608 535,1609 603,1610 670,1610 738,1611 806,1611 873,1612 941,1613 1008,1613 1076,1614 1143,1615 1211,1616 1278,1618 1346,1619 1414,1621"/>
+                <TextEquiv>
+                    <Unicode>engeren Kreiſe der Fachmänner (Theologen und Geiſtlichen), ſondern auch für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:14;}">
+                <Coords points="53,1663 121,1666 189,1668 257,1671 325,1672 393,1673 461,1675 529,1675 597,1676 665,1677 733,1677 801,1678 869,1678 937,1679 1005,1679 1073,1680 1141,1681 1209,1682 1277,1684 1345,1685 1413,1687 1413,1648 1345,1646 1277,1645 1209,1643 1141,1642 1073,1641 1005,1640 937,1640 869,1639 801,1639 733,1638 665,1638 597,1637 529,1636 461,1636 393,1634 325,1633 257,1632 189,1629 121,1627 53,1624"/>
+                <Baseline points="53,1650 121,1653 189,1655 257,1658 325,1659 393,1660 461,1662 529,1662 597,1663 665,1664 733,1664 801,1665 869,1665 937,1666 1005,1666 1073,1667 1141,1668 1209,1669 1277,1671 1345,1672 1413,1674"/>
+                <TextEquiv>
+                    <Unicode>die weiteren der chriſtlichen Gemeindegenoſſen ſo umfaſſend, einge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:15;}">
+                <Coords points="51,1715 118,1718 186,1720 254,1722 321,1723 389,1724 457,1725 524,1726 592,1727 660,1728 728,1728 795,1729 863,1729 931,1730 998,1731 1066,1731 1134,1732 1201,1733 1269,1735 1337,1736 1405,1738 1405,1708 1337,1706 1269,1705 1201,1703 1134,1702 1066,1701 998,1701 931,1700 863,1699 795,1699 728,1698 660,1698 592,1697 524,1696 457,1695 389,1694 321,1693 254,1692 186,1690 118,1688 51,1685"/>
+                <Baseline points="51,1705 118,1708 186,1710 254,1712 321,1713 389,1714 457,1715 524,1716 592,1717 660,1718 728,1718 795,1719 863,1719 931,1720 998,1721 1066,1721 1134,1722 1201,1723 1269,1725 1337,1726 1405,1728"/>
+                <TextEquiv>
+                    <Unicode>hend und überſichtlich als möglich zu beleuchten und darzulegen ſich zur Auf⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:16;}">
+                <Coords points="49,1769 75,1772 101,1774 127,1775 153,1776 179,1776 205,1777 231,1778 257,1780 257,1744 231,1742 205,1741 179,1740 153,1740 127,1739 101,1738 75,1736 49,1733"/>
+                <Baseline points="49,1757 75,1760 101,1762 127,1763 153,1764 179,1764 205,1765 231,1766 257,1768"/>
+                <TextEquiv>
+                    <Unicode>gabe machte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:17;}">
+                <Coords points="133,1827 200,1829 267,1831 334,1832 402,1833 469,1834 536,1834 604,1835 671,1835 738,1836 806,1836 873,1836 940,1836 1008,1837 1075,1838 1142,1838 1210,1840 1277,1841 1344,1843 1412,1845 1412,1808 1344,1806 1277,1804 1210,1803 1142,1801 1075,1801 1008,1800 940,1799 873,1799 806,1799 738,1799 671,1798 604,1798 536,1797 469,1797 402,1796 334,1795 267,1794 200,1792 133,1790"/>
+                <Baseline points="133,1815 200,1817 267,1819 334,1820 402,1821 469,1822 536,1822 604,1823 671,1823 738,1824 806,1824 873,1824 940,1824 1008,1825 1075,1826 1142,1826 1210,1828 1277,1829 1344,1831 1412,1833"/>
+                <TextEquiv>
+                    <Unicode>Der Stand der Theologen und Geiſtlichen iſt gewiß ein höchſt wichtiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:18;}">
+                <Coords points="51,1879 118,1881 186,1882 254,1883 321,1884 389,1885 457,1886 524,1886 592,1887 660,1887 728,1888 795,1888 863,1889 931,1890 998,1890 1066,1891 1134,1892 1201,1893 1269,1895 1337,1896 1405,1898 1405,1861 1337,1859 1269,1858 1201,1856 1134,1855 1066,1854 998,1853 931,1853 863,1852 795,1851 728,1851 660,1850 592,1850 524,1849 457,1849 389,1848 321,1847 254,1846 186,1845 118,1844 51,1842"/>
+                <Baseline points="51,1867 118,1869 186,1870 254,1871 321,1872 389,1873 457,1874 524,1874 592,1875 660,1875 728,1876 795,1876 863,1877 931,1878 998,1878 1066,1879 1134,1880 1201,1881 1269,1883 1337,1884 1405,1886"/>
+                <TextEquiv>
+                    <Unicode>und einflußreicher innerhalb der evangeliſchen Kirche, und ſoll es immer bleiben;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:19;}">
+                <Coords points="57,1932 124,1935 192,1937 260,1938 328,1939 396,1940 464,1941 531,1941 599,1941 667,1941 735,1941 803,1941 871,1941 939,1942 1006,1942 1074,1943 1142,1944 1210,1945 1278,1947 1346,1949 1414,1951 1414,1914 1346,1912 1278,1910 1210,1908 1142,1907 1074,1906 1006,1905 939,1905 871,1904 803,1904 735,1904 667,1904 599,1904 531,1904 464,1904 396,1903 328,1902 260,1901 192,1900 124,1898 57,1895"/>
+                <Baseline points="57,1920 124,1923 192,1925 260,1926 328,1927 396,1928 464,1929 531,1929 599,1929 667,1929 735,1929 803,1929 871,1929 939,1930 1006,1930 1074,1931 1142,1932 1210,1933 1278,1935 1346,1937 1414,1939"/>
+                <TextEquiv>
+                    <Unicode>aber er bildet — nach den Grundſätzen der Reformation — nicht die Kirche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:20;}">
+                <Coords points="47,1983 115,1986 183,1989 251,1991 319,1993 387,1994 455,1995 523,1996 591,1996 659,1996 727,1996 795,1996 863,1996 931,1996 999,1996 1067,1997 1135,1997 1203,1999 1271,2000 1339,2002 1407,2005 1407,1968 1339,1965 1271,1963 1203,1962 1135,1960 1067,1960 999,1959 931,1959 863,1959 795,1959 727,1959 659,1959 591,1959 523,1959 455,1958 387,1957 319,1956 251,1954 183,1952 115,1949 47,1946"/>
+                <Baseline points="47,1971 115,1974 183,1977 251,1979 319,1981 387,1982 455,1983 523,1984 591,1984 659,1984 727,1984 795,1984 863,1984 931,1984 999,1984 1067,1985 1135,1985 1203,1987 1271,1988 1339,1990 1407,1993"/>
+                <TextEquiv>
+                    <Unicode>ſelbſt. Die evangeliſche Kirche ruht auf der Kraft und Lebendigkeit der Ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:21;}">
+                <Coords points="59,2043 126,2044 194,2045 262,2046 329,2047 397,2048 465,2048 532,2049 600,2049 668,2049 736,2050 803,2050 871,2050 939,2050 1006,2051 1074,2051 1142,2052 1209,2053 1277,2054 1345,2055 1413,2057 1413,2021 1345,2019 1277,2018 1209,2017 1142,2016 1074,2015 1006,2015 939,2014 871,2014 803,2014 736,2014 668,2013 600,2013 532,2013 465,2012 397,2012 329,2011 262,2010 194,2009 126,2008 59,2007"/>
+                <Baseline points="59,2031 126,2032 194,2033 262,2034 329,2035 397,2036 465,2036 532,2037 600,2037 668,2037 736,2038 803,2038 871,2038 939,2038 1006,2039 1074,2039 1142,2040 1209,2041 1277,2042 1345,2043 1413,2045"/>
+                <TextEquiv>
+                    <Unicode>meinde, und was der fromme Spener vor bald zwei Jahrhunderten, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:22;}">
+                <Coords points="49,2092 117,2094 185,2097 253,2098 321,2100 389,2101 457,2102 525,2103 593,2103 661,2104 729,2104 797,2104 865,2104 933,2104 1001,2104 1069,2105 1137,2105 1205,2106 1273,2107 1341,2107 1410,2109 1410,2073 1341,2071 1273,2071 1205,2070 1137,2069 1069,2069 1001,2068 933,2068 865,2068 797,2068 729,2068 661,2068 593,2067 525,2067 457,2066 389,2065 321,2064 253,2062 185,2061 117,2058 49,2056"/>
+                <Baseline points="49,2080 117,2082 185,2085 253,2086 321,2088 389,2089 457,2090 525,2091 593,2091 661,2092 729,2092 797,2092 865,2092 933,2092 1001,2092 1069,2093 1137,2093 1205,2094 1273,2095 1341,2095 1410,2097"/>
+                <TextEquiv>
+                    <Unicode>der Prophet einer beſſeren kirchlichen Zukunft, erſehnt und geweiſſagt hat, wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:23;}">
+                <Coords points="47,2144 115,2148 183,2151 251,2153 320,2154 388,2156 456,2157 525,2157 593,2157 661,2157 730,2157 798,2157 866,2157 934,2157 1003,2157 1071,2157 1139,2158 1208,2158 1276,2160 1344,2162 1413,2164 1413,2127 1344,2125 1276,2123 1208,2121 1139,2121 1071,2120 1003,2120 934,2120 866,2120 798,2120 730,2120 661,2120 593,2120 525,2120 456,2120 388,2119 320,2117 251,2116 183,2114 115,2111 47,2107"/>
+                <Baseline points="47,2132 115,2136 183,2139 251,2141 320,2142 388,2144 456,2145 525,2145 593,2145 661,2145 730,2145 798,2145 866,2145 934,2145 1003,2145 1071,2145 1139,2146 1208,2146 1276,2148 1344,2150 1413,2152"/>
+                <TextEquiv>
+                    <Unicode>ſich ſicherlich immer mehr erfüllen: die Gemeinde wird immer mehr in ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l50" custom="readingOrder {index:24;}">
+                <Coords points="50,2198 118,2201 186,2204 254,2206 322,2208 390,2209 458,2210 526,2211 594,2211 662,2211 731,2212 799,2212 867,2212 935,2212 1003,2212 1071,2213 1139,2213 1207,2214 1275,2215 1343,2216 1412,2218 1412,2184 1343,2182 1275,2181 1207,2180 1139,2179 1071,2179 1003,2178 935,2178 867,2178 799,2178 731,2178 662,2177 594,2177 526,2177 458,2176 390,2175 322,2174 254,2172 186,2170 118,2167 50,2164"/>
+                <Baseline points="50,2187 118,2190 186,2193 254,2195 322,2197 390,2198 458,2199 526,2200 594,2200 662,2200 731,2201 799,2201 867,2201 935,2201 1003,2201 1071,2202 1139,2202 1207,2203 1275,2204 1343,2205 1412,2207"/>
+                <TextEquiv>
+                    <Unicode>apoſtoliſchen Urrechte eintreten und ſich zum geiſtlichen Tempel erbauen, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l52" custom="readingOrder {index:25;}">
+                <Coords points="54,2250 81,2252 108,2254 135,2256 162,2258 189,2259 216,2260 243,2260 270,2261 297,2261 325,2261 352,2261 379,2261 406,2261 433,2261 460,2261 487,2262 514,2262 541,2262 568,2263 596,2264 596,2230 568,2229 541,2228 514,2228 487,2228 460,2227 433,2227 406,2227 379,2227 352,2227 325,2227 297,2227 270,2227 243,2226 216,2226 189,2225 162,2224 135,2222 108,2220 81,2218 54,2216"/>
+                <Baseline points="54,2239 81,2241 108,2243 135,2245 162,2247 189,2248 216,2249 243,2249 270,2250 297,2250 325,2250 352,2250 379,2250 406,2250 433,2250 460,2250 487,2251 514,2251 541,2251 568,2252 596,2253"/>
+                <TextEquiv>
+                    <Unicode>welchem der heil. Geiſt wohnet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l55" custom="readingOrder {index:26;}">
+                <Coords points="131,2313 194,2314 258,2316 321,2317 385,2318 448,2318 512,2319 575,2319 639,2319 702,2319 766,2319 829,2319 893,2319 956,2319 1020,2319 1083,2320 1147,2321 1210,2322 1274,2323 1337,2325 1401,2328 1401,2289 1337,2286 1274,2284 1210,2283 1147,2282 1083,2281 1020,2280 956,2280 893,2280 829,2280 766,2280 702,2280 639,2280 575,2280 512,2280 448,2279 385,2279 321,2278 258,2277 194,2275 131,2274"/>
+                <Baseline points="131,2300 194,2301 258,2303 321,2304 385,2305 448,2305 512,2306 575,2306 639,2306 702,2306 766,2306 829,2306 893,2306 956,2306 1020,2306 1083,2307 1147,2308 1210,2309 1274,2310 1337,2312 1401,2315"/>
+                <TextEquiv>
+                    <Unicode>Aber wie vieler Arbeit und Vorbereitung bedarf es noch, damit dieſer leben⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l56" custom="readingOrder {index:27;}">
+                <Coords points="47,2361 115,2365 183,2367 251,2369 319,2371 387,2372 455,2373 523,2373 591,2374 659,2374 727,2374 795,2374 863,2373 931,2373 999,2374 1067,2374 1135,2374 1203,2375 1271,2377 1339,2378 1407,2381 1407,2342 1339,2339 1271,2338 1203,2336 1135,2335 1067,2335 999,2335 931,2334 863,2334 795,2335 727,2335 659,2335 591,2335 523,2334 455,2334 387,2333 319,2332 251,2330 183,2328 115,2326 47,2322"/>
+                <Baseline points="47,2348 115,2352 183,2354 251,2356 319,2358 387,2359 455,2360 523,2360 591,2361 659,2361 727,2361 795,2361 863,2360 931,2360 999,2361 1067,2361 1135,2361 1203,2362 1271,2364 1339,2365 1407,2368"/>
+                <TextEquiv>
+                    <Unicode>dige Bau zum Preiſe Gottes und zur Verherrlichung des Erlöſers ſich freudig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l57" custom="readingOrder {index:28;}">
+                <Coords points="43,2417 111,2420 179,2422 247,2424 315,2426 383,2427 451,2428 519,2428 587,2429 655,2429 723,2429 791,2429 859,2428 927,2428 995,2428 1063,2429 1131,2429 1199,2430 1267,2431 1335,2432 1403,2434 1403,2395 1335,2393 1267,2392 1199,2391 1131,2390 1063,2390 995,2389 927,2389 859,2389 791,2390 723,2390 655,2390 587,2390 519,2389 451,2389 383,2388 315,2387 247,2385 179,2383 111,2381 43,2378"/>
+                <Baseline points="43,2404 111,2407 179,2409 247,2411 315,2413 383,2414 451,2415 519,2415 587,2416 655,2416 723,2416 791,2416 859,2415 927,2415 995,2415 1063,2416 1131,2416 1199,2417 1267,2418 1335,2419 1403,2421"/>
+                <TextEquiv>
+                    <Unicode>erhebe! Unſere ſeit Jahrhunderten der kirchlichen Thätigkeit großentheils entfrem⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Prospect.
+Allgemeine kirchliche Zeitſchrift.
+Ein Organ
+für die evangeliſche Geiſtlichkeit und Gemeinde.
+Unter Mitwirkung ausgezeichneter
+Theologen, Geiſtlichen und Gemeindegenoſſen
+herausgegeben
+von
+Profeſſor Dr. Daniel Schenkel,
+Großherzoglich Badiſchem Kirchenrath, Seminar⸗Director und erſtem Univerſitätsprediger.
+Schon ſeit längerer Zeit, und immer dringender, hat ſich das Bedürfniß
+zur Gründung eines Organes gezeigt, welches das kirchliche Leben der
+Gegenwart, ſeine Bewegung und Entwicklung, nicht nur für die
+engeren Kreiſe der Fachmänner (Theologen und Geiſtlichen), ſondern auch für
+die weiteren der chriſtlichen Gemeindegenoſſen ſo umfaſſend, einge⸗
+hend und überſichtlich als möglich zu beleuchten und darzulegen ſich zur Auf⸗
+gabe machte.
+Der Stand der Theologen und Geiſtlichen iſt gewiß ein höchſt wichtiger
+und einflußreicher innerhalb der evangeliſchen Kirche, und ſoll es immer bleiben;
+aber er bildet — nach den Grundſätzen der Reformation — nicht die Kirche
+ſelbſt. Die evangeliſche Kirche ruht auf der Kraft und Lebendigkeit der Ge⸗
+meinde, und was der fromme Spener vor bald zwei Jahrhunderten, als
+der Prophet einer beſſeren kirchlichen Zukunft, erſehnt und geweiſſagt hat, wird
+ſich ſicherlich immer mehr erfüllen: die Gemeinde wird immer mehr in ihre
+apoſtoliſchen Urrechte eintreten und ſich zum geiſtlichen Tempel erbauen, in
+welchem der heil. Geiſt wohnet.
+Aber wie vieler Arbeit und Vorbereitung bedarf es noch, damit dieſer leben⸗
+dige Bau zum Preiſe Gottes und zur Verherrlichung des Erlöſers ſich freudig
+erhebe! Unſere ſeit Jahrhunderten der kirchlichen Thätigkeit großentheils entfrem⸗</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

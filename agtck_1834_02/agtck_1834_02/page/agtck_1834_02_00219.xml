@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-18T17:24:27.760+01:00</Created>
+        <LastChange>2021-05-12T08:27:06.231+02:00</LastChange>
+        <TranskribusMetadata docId="541177" pageId="22777145" pageNr="9" tsid="57766735" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=DCVIOKZCCRNCNLBTHHDPHMER&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IIICOBHTLEYLRNCDBARMVRTV" imageId="17757264"/>
+    </Metadata>
+    <Page imageFilename="agtck_1834_02_00219.tif" imageWidth="1283" imageHeight="2356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328273104" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="286,160 286,1301 1099,1301 1099,160"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="513,190 540,190 567,190 594,191 621,191 648,191 675,192 702,192 729,192 756,193 783,194 810,194 837,195 864,195 891,196 918,197 945,198 972,198 999,199 1026,200 1053,200 1053,170 1026,170 999,169 972,168 945,168 918,167 891,166 864,165 837,165 810,164 783,164 756,163 729,162 702,162 675,162 648,161 621,161 594,161 567,160 540,160 513,160"/>
+                <Baseline points="513,180 540,180 567,180 594,181 621,181 648,181 675,182 702,182 729,182 756,183 783,184 810,184 837,185 864,185 891,186 918,187 945,188 972,188 999,189 1026,190 1053,190"/>
+                <TextEquiv>
+                    <Unicode>Inhalts⸗Anzeige.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="405,320 431,322 458,323 485,324 511,324 538,325 565,325 591,326 618,326 645,327 672,327 672,297 645,297 618,296 591,296 565,295 538,295 511,294 485,294 458,293 431,292 405,290"/>
+                <Baseline points="405,310 431,312 458,313 485,314 511,314 538,315 565,315 591,316 618,316 645,317 672,317"/>
+                <TextEquiv>
+                    <Unicode>I. Literatur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="298,365 337,366 377,368 417,369 457,371 497,372 537,373 576,374 616,375 656,376 696,376 736,377 776,378 816,378 855,379 895,379 935,379 975,379 1015,379 1055,379 1095,379 1095,349 1055,349 1015,349 975,349 935,349 895,349 855,349 816,348 776,348 736,347 696,346 656,346 616,345 576,344 537,343 497,342 457,341 417,339 377,338 337,336 298,335"/>
+                <Baseline points="298,355 337,356 377,358 417,359 457,361 497,362 537,363 576,364 616,365 656,366 696,366 736,367 776,368 816,368 855,369 895,369 935,369 975,369 1015,369 1055,369 1095,369"/>
+                <TextEquiv>
+                    <Unicode>W. Benecke, der Brief Pauli an die Roͤmer, er⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="376,401 402,403 428,404 454,405 480,405 480,375 454,375 428,374 402,373 376,371"/>
+                <Baseline points="376,391 402,393 428,394 454,395 1211,403"/>
+                <TextEquiv>
+                    <Unicode>laͤutert. . . . . . . . 211</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620800668579_432" custom="readingOrder {index:4;}">
+                <Coords points="306,403 1098,417 1098,447 1023,447 910,446 760,444 611,442 498,440 386,438 349,437 306,433"/>
+                <Baseline points="306,423 340,425 349,427 386,428 423,428 461,429 498,430 536,430 573,431 611,432 648,432 686,433 723,433 760,434 798,434 835,435 873,435 910,436 948,436 985,436 1023,437 1060,437 1217,436"/>
+                <TextEquiv>
+                    <Unicode>R. Klotz, Clementis Alex. opera omnia. Vol. III. 226</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620800676537_438" custom="readingOrder {index:5;}">
+                <Coords points="306,441 351,440 1097,454 1097,484 1059,484 798,481 649,479 335,473 306,471"/>
+                <Baseline points="306,461 335,463 351,460 388,462 425,463 462,465 500,466 537,466 574,467 612,468 649,469 686,469 724,470 761,470 798,471 835,471 873,471 910,472 947,472 985,473 1022,473 1059,474 1097,474"/>
+                <TextEquiv>
+                    <Unicode>J. P. Gerlach, Fides oder die Religionen u. Culte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="374,507 410,508 446,510 482,511 518,512 554,512 590,513 626,514 662,515 698,515 734,515 770,516 806,516 842,517 878,517 914,517 950,518 986,518 1022,519 1058,520 1095,521 1095,491 1058,490 1022,489 986,488 950,488 914,487 878,487 842,487 806,486 770,486 734,485 698,485 662,485 626,484 590,483 554,482 518,482 482,481 446,480 410,478 374,477"/>
+                <Baseline points="374,497 410,498 446,500 482,501 518,502 554,502 590,503 626,504 662,505 698,505 734,505 770,506 806,506 842,507 878,507 914,507 950,508 986,508 1022,509 1058,510 1095,511"/>
+                <TextEquiv>
+                    <Unicode>der bekannteſten Voͤlker der Erde ꝛc. 2r. Bd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="374,541 400,543 426,544 452,544 478,545 505,546 505,516 478,515 452,514 426,514 400,513 374,511"/>
+                <Baseline points="374,531 400,533 426,534 452,534 478,535 1208,544"/>
+                <TextEquiv>
+                    <Unicode>(Schluß.) . . . . . . . .228</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620800694910_446" custom="readingOrder {index:8;}">
+                <Coords points="305,521 362,520 1097,559 1097,589 986,588 876,587 730,585 619,583 436,579 363,577 304,571"/>
+                <Baseline points="304,566 343,567 366,565 363,567 399,567 436,569 473,569 509,570 546,571 583,572 619,573 656,573 693,574 730,575 766,575 803,576 840,576 876,577 913,577 950,577 986,578 1023,578 1060,578 1097,579"/>
+                <TextEquiv>
+                    <Unicode>H. G. M. Rettig, die freie proteſt. Kirche, oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="371,612 407,613 443,615 479,616 516,617 552,618 588,619 625,619 661,620 697,621 734,621 770,621 806,622 842,622 879,622 915,622 951,623 988,623 1024,623 1060,623 1097,624 1097,594 1060,593 1024,593 988,593 951,593 915,592 879,592 842,592 806,592 770,591 734,591 697,591 661,590 625,589 588,589 552,588 516,587 479,586 443,585 407,583 371,582"/>
+                <Baseline points="371,602 407,603 443,605 479,606 516,607 552,608 588,609 625,609 661,610 697,611 734,611 770,611 806,612 842,612 879,612 915,612 951,613 988,613 1024,613 1060,613 1097,614"/>
+                <TextEquiv>
+                    <Unicode>die kirchlichen Verfaſſungsgrundſaͤtze des Evan⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="373,646 398,647 423,649 449,650 474,651 499,651 525,652 550,652 575,652 601,652 626,652 652,652 652,622 626,622 601,622 575,622 550,622 525,622 499,621 474,621 449,620 423,619 398,617 373,616"/>
+                <Baseline points="373,636 398,637 423,639 449,640 474,641 499,641 525,642 550,642 575,642 601,642 626,642 1205,649"/>
+                <TextEquiv>
+                    <Unicode>geliums. (Schluß.) . . . . . .242</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620800709109_453" custom="readingOrder {index:11;}">
+                <Coords points="302,654 336,650 1093,663 1093,693 1056,693 836,691 302,684"/>
+                <Baseline points="302,674 336,670 361,672 397,673 434,674 470,675 507,675 544,676 580,677 617,678 653,678 690,679 727,679 763,680 800,680 836,681 873,681 910,681 946,682 983,682 1019,682 1056,683 1093,683"/>
+                <TextEquiv>
+                    <Unicode>F. Gebhardt, vollſtaͤndige Sammlung von An⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="368,717 404,718 440,720 476,721 513,722 549,723 585,723 622,724 658,725 694,725 731,726 767,726 803,727 839,727 876,728 912,728 948,728 985,729 1021,729 1057,729 1094,729 1094,699 1057,699 1021,699 985,699 948,698 912,698 876,698 839,697 803,697 767,696 731,696 694,695 658,695 622,694 585,693 549,693 513,692 476,691 440,690 404,688 368,687"/>
+                <Baseline points="368,707 404,708 440,710 476,711 513,712 549,713 585,713 622,714 658,715 694,715 731,716 767,716 803,717 839,717 876,718 912,718 948,718 985,719 1021,719 1057,719 1202,718"/>
+                <TextEquiv>
+                    <Unicode>reden u. Gebeten fuͤr die deutſche prot. Kirche ꝛc. 255</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="400,776 436,778 473,779 510,781 547,782 583,783 620,784 657,785 694,785 731,786 767,787 804,787 841,788 878,788 915,789 951,789 988,790 1025,790 1062,791 1099,792 1099,762 1062,761 1025,760 988,760 951,759 915,759 878,758 841,758 804,757 767,757 731,756 694,755 657,755 620,754 583,753 547,752 510,751 473,749 436,748 400,746"/>
+                <Baseline points="400,766 436,768 473,769 510,771 547,772 583,773 620,774 657,775 694,775 731,776 767,777 804,777 841,778 878,778 915,779 951,779 988,780 1025,780 1062,781 1099,782"/>
+                <TextEquiv>
+                    <Unicode>II. Wiſſenſchaftliche Abhandlungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+                <Coords points="461,814 487,815 513,816 539,817 565,818 592,818 618,819 644,820 670,820 696,821 723,822 723,792 696,791 670,790 644,790 618,789 592,788 565,788 539,787 513,786 487,785 461,784"/>
+                <Baseline points="461,804 487,805 513,806 539,807 565,808 592,808 618,809 644,810 670,810 696,811 723,812"/>
+                <TextEquiv>
+                    <Unicode>und Aufſaͤtze.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+                <Coords points="294,858 333,859 373,860 413,861 453,862 493,862 532,863 572,864 612,865 652,866 692,867 731,868 771,868 811,869 851,870 891,870 930,871 970,871 1010,871 1050,871 1090,871 1090,841 1050,841 1010,841 970,841 930,841 891,840 851,840 811,839 771,838 731,838 692,837 652,836 612,835 572,834 532,833 493,832 453,832 413,831 373,830 333,829 294,828"/>
+                <Baseline points="294,848 333,849 373,850 413,851 453,852 493,852 532,853 572,854 612,855 652,856 692,857 731,858 771,858 811,859 851,860 891,860 930,861 970,861 1010,861 1050,861 1090,861"/>
+                <TextEquiv>
+                    <Unicode>Haben die Verfaſſer der Denkwuͤrdigkeiten Jeſu, u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:16;}">
+                <Coords points="365,895 401,895 437,896 474,897 510,897 547,898 583,899 619,900 656,901 692,901 729,902 765,903 801,903 838,904 874,904 911,905 947,905 983,905 1020,906 1056,906 1093,906 1093,876 1056,876 1020,876 983,875 947,875 911,875 874,874 838,874 801,873 765,873 729,872 692,871 656,871 619,870 583,869 547,868 510,867 474,867 437,866 401,865 365,865"/>
+                <Baseline points="365,885 401,885 437,886 474,887 510,887 547,888 583,889 619,890 656,891 692,891 729,892 765,893 801,893 838,894 874,894 911,895 947,895 983,895 1020,896 1056,896 1093,896"/>
+                <TextEquiv>
+                    <Unicode>die Apoſtel von ihrer Individualitaͤt u. ihren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="362,930 398,930 435,931 471,932 508,933 545,933 581,934 618,935 655,936 691,937 728,937 765,938 801,939 838,939 875,940 911,940 948,940 985,941 1021,941 1058,940 1095,940 1095,910 1058,910 1021,911 985,911 948,910 911,910 875,910 838,909 801,909 765,908 728,907 691,907 655,906 618,905 581,904 545,903 508,903 471,902 435,901 398,900 362,900"/>
+                <Baseline points="362,920 398,920 435,921 471,922 508,923 545,923 581,924 618,925 655,926 691,927 728,927 765,928 801,929 838,929 875,930 911,930 948,930 985,931 1021,931 1058,930 1095,930"/>
+                <TextEquiv>
+                    <Unicode>juͤdiſch⸗modificirten Anſichten befangen, manches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+                <Coords points="362,965 398,966 434,967 471,967 507,968 543,969 580,970 616,970 652,971 689,972 725,972 761,973 798,974 834,974 870,975 907,975 943,975 979,975 1016,975 1052,975 1089,975 1089,945 1052,945 1016,945 979,945 943,945 907,945 870,945 834,944 798,944 761,943 725,942 689,942 652,941 616,940 580,940 543,939 507,938 471,937 434,937 398,936 362,935"/>
+                <Baseline points="362,955 398,956 434,957 471,957 507,958 543,959 580,960 616,960 652,961 689,962 725,962 761,963 798,964 834,964 870,965 907,965 943,965 979,965 1016,965 1052,965 1089,965"/>
+                <TextEquiv>
+                    <Unicode>Fremdartige ꝛc. in ihre chriſtl. Darſtellungen hin⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:19;}">
+                <Coords points="362,999 395,1000 428,1001 461,1002 494,1002 527,1003 560,1004 593,1004 626,1005 659,1005 692,1006 725,1006 758,1006 791,1007 824,1007 857,1008 890,1008 923,1009 956,1010 989,1010 1023,1011 1023,981 989,980 956,980 923,979 890,978 857,978 824,977 791,977 758,976 725,976 692,976 659,975 626,975 593,974 560,974 527,973 494,972 461,972 428,971 395,970 362,969"/>
+                <Baseline points="441,991 474,992 507,993 540,994 573,994 606,995 639,996 672,996 705,997 738,997 771,998 804,998 837,998 870,999 903,999 936,1000 969,1000 1002,1001 1035,1002 1068,1002 1200,998"/>
+                <TextEquiv>
+                    <Unicode>eingetragen ꝛc.? Von E. Wickenhoͤfer. . 262</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:20;}">
+                <Coords points="288,1031 327,1032 367,1033 407,1034 447,1035 486,1036 526,1037 566,1038 606,1039 645,1040 685,1040 725,1041 765,1042 804,1043 844,1043 884,1044 924,1044 963,1045 1003,1045 1043,1046 1083,1046 1083,1016 1043,1016 1003,1015 963,1015 924,1014 884,1014 844,1013 804,1013 765,1012 725,1011 685,1010 645,1010 606,1009 566,1008 526,1007 486,1006 447,1005 407,1004 367,1003 327,1002 288,1001"/>
+                <Baseline points="288,1021 327,1022 367,1023 407,1024 447,1025 486,1026 526,1027 566,1028 606,1029 645,1030 685,1030 725,1031 765,1032 804,1033 844,1033 884,1034 924,1034 963,1035 1003,1035 1043,1036 1099,1037"/>
+                <TextEquiv>
+                    <Unicode>Ueber die Wunder Jeſu. Etwas fuͤr Supernatura⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:21;}">
+                <Coords points="364,1067 396,1068 428,1069 461,1070 493,1071 526,1072 558,1073 591,1073 623,1074 656,1075 688,1075 720,1076 753,1076 785,1077 818,1077 850,1078 883,1079 915,1080 948,1082 980,1083 1013,1085 1013,1055 980,1053 948,1052 915,1050 883,1049 850,1048 818,1047 785,1047 753,1046 720,1046 688,1045 656,1045 623,1044 591,1043 558,1043 526,1042 493,1041 461,1040 428,1039 396,1038 364,1037"/>
+                <Baseline points="364,1057 396,1058 428,1059 461,1060 493,1061 526,1062 558,1063 591,1063 623,1064 656,1065 688,1065 720,1066 753,1066 785,1067 818,1067 850,1068 883,1069 915,1070 948,1072 980,1073 1193,1063"/>
+                <TextEquiv>
+                    <Unicode>liſten u. Rationaliſten. Von M. Stein. . 284</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+                <Coords points="286,1102 318,1103 350,1103 382,1104 414,1105 447,1105 479,1106 511,1107 543,1108 575,1109 608,1110 640,1111 672,1111 704,1112 736,1113 769,1113 801,1114 833,1115 865,1115 897,1115 930,1115 930,1085 897,1085 865,1085 833,1085 801,1084 769,1083 736,1083 704,1082 672,1081 640,1081 608,1080 575,1079 543,1078 511,1077 479,1076 447,1075 414,1075 382,1074 350,1073 318,1073 286,1072"/>
+                <Baseline points="286,1092 318,1093 350,1093 382,1094 414,1095 447,1095 479,1096 511,1097 543,1098 575,1099 608,1100 640,1101 672,1101 704,1102 736,1103 769,1103 801,1104 833,1105 865,1105 897,1105 1200,1099"/>
+                <TextEquiv>
+                    <Unicode>Das Urevangelium. Von Dr. Kochen. . .298</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+                <Coords points="387,1162 413,1164 440,1166 467,1167 494,1168 521,1169 548,1170 575,1171 602,1171 629,1172 656,1172 683,1173 710,1173 710,1143 683,1143 656,1142 629,1142 602,1141 575,1141 548,1140 521,1139 494,1138 467,1137 440,1136 413,1134 387,1132"/>
+                <Baseline points="387,1152 413,1154 440,1156 467,1157 494,1158 521,1159 548,1160 575,1161 602,1161 629,1162 656,1162 683,1163 710,1163"/>
+                <TextEquiv>
+                    <Unicode>III. Miscellen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:24;}">
+                <Coords points="298,1214 337,1214 377,1214 416,1215 456,1215 495,1216 535,1217 574,1218 614,1219 653,1220 693,1221 733,1222 772,1223 812,1224 851,1225 891,1225 930,1226 970,1226 1009,1227 1049,1227 1089,1226 1089,1196 1049,1197 1009,1197 970,1196 930,1196 891,1195 851,1195 812,1194 772,1193 733,1192 693,1191 653,1190 614,1189 574,1188 535,1187 495,1186 456,1185 416,1185 377,1184 337,1184 298,1184"/>
+                <Baseline points="298,1204 337,1204 377,1204 416,1205 456,1205 495,1206 535,1207 574,1208 614,1209 653,1210 693,1211 733,1212 772,1213 812,1214 851,1215 891,1215 930,1216 970,1216 1009,1217 1049,1217 1089,1216"/>
+                <TextEquiv>
+                    <Unicode>Pierpaolo Vergerio, Biſchof v. Capod'Iſtria ꝛc., an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:25;}">
+                <Coords points="357,1250 393,1250 429,1250 466,1251 502,1251 539,1252 575,1253 611,1254 648,1255 684,1256 721,1257 757,1258 793,1259 830,1260 866,1261 903,1261 939,1262 975,1262 1012,1262 1048,1262 1085,1261 1085,1231 1048,1232 1012,1232 975,1232 939,1232 903,1231 866,1231 830,1230 793,1229 757,1228 721,1227 684,1226 648,1225 611,1224 575,1223 539,1222 502,1221 466,1221 429,1220 393,1220 357,1220"/>
+                <Baseline points="357,1240 393,1240 429,1240 466,1241 502,1241 539,1242 575,1243 611,1244 648,1245 684,1246 721,1247 757,1248 793,1249 830,1250 866,1251 903,1251 939,1252 975,1252 1012,1252 1048,1252 1085,1251"/>
+                <TextEquiv>
+                    <Unicode>Pabſt Paul IV. uͤb. die Wiederherſtellung des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:26;}">
+                <Coords points="346,1285 375,1287 404,1288 434,1289 463,1290 493,1291 522,1292 551,1292 581,1293 610,1294 640,1295 669,1295 698,1296 728,1297 757,1297 787,1298 816,1298 845,1299 875,1300 904,1301 934,1301 934,1271 904,1271 875,1270 845,1269 816,1268 787,1268 757,1267 728,1267 698,1266 669,1265 640,1265 610,1264 581,1263 551,1262 522,1262 493,1261 463,1260 434,1259 404,1258 375,1257 346,1255"/>
+                <Baseline points="346,1275 375,1277 404,1278 434,1279 463,1280 493,1281 522,1282 551,1282 581,1283 610,1284 640,1285 669,1285 698,1286 728,1287 757,1287 787,1288 816,1288 845,1289 875,1290 904,1291 1194,1281"/>
+                <TextEquiv>
+                    <Unicode>Concils zu Trient. (Fortſetzung.). . . 306</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Inhalts⸗Anzeige.
+I. Literatur.
+W. Benecke, der Brief Pauli an die Roͤmer, er⸗
+laͤutert. . . . . . . . 211
+R. Klotz, Clementis Alex. opera omnia. Vol. III. 226
+J. P. Gerlach, Fides oder die Religionen u. Culte
+der bekannteſten Voͤlker der Erde ꝛc. 2r. Bd.
+(Schluß.) . . . . . . . .228
+H. G. M. Rettig, die freie proteſt. Kirche, oder
+die kirchlichen Verfaſſungsgrundſaͤtze des Evan⸗
+geliums. (Schluß.) . . . . . .242
+F. Gebhardt, vollſtaͤndige Sammlung von An⸗
+reden u. Gebeten fuͤr die deutſche prot. Kirche ꝛc. 255
+II. Wiſſenſchaftliche Abhandlungen
+und Aufſaͤtze.
+Haben die Verfaſſer der Denkwuͤrdigkeiten Jeſu, u.
+die Apoſtel von ihrer Individualitaͤt u. ihren
+juͤdiſch⸗modificirten Anſichten befangen, manches
+Fremdartige ꝛc. in ihre chriſtl. Darſtellungen hin⸗
+eingetragen ꝛc.? Von E. Wickenhoͤfer. . 262
+Ueber die Wunder Jeſu. Etwas fuͤr Supernatura⸗
+liſten u. Rationaliſten. Von M. Stein. . 284
+Das Urevangelium. Von Dr. Kochen. . .298
+III. Miscellen.
+Pierpaolo Vergerio, Biſchof v. Capod'Iſtria ꝛc., an
+Pabſt Paul IV. uͤb. die Wiederherſtellung des
+Concils zu Trient. (Fortſetzung.). . . 306</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1124,248 1124,1296 1205,1296 1205,248"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1124,300 1151,301 1178,298 1205,297 1205,248 1178,249 1151,252 1124,251"/>
+                <Baseline points="1124,284 1151,285 1178,282 1205,281"/>
+                <TextEquiv>
+                    <Unicode>Seite.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Seite.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

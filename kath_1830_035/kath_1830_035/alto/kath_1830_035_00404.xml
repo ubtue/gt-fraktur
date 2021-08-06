@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:43:39.859+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2153" WIDTH="1258">
+         <TopMargin HEIGHT="0" WIDTH="1258" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="1258"/>
+         <BottomMargin HEIGHT="0" WIDTH="1258" VPOS="2153" HPOS="0"/>
+         <PrintSpace HEIGHT="2153" WIDTH="1258" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1970" WIDTH="1086" VPOS="119" HPOS="157">
+               <Shape>
+                  <Polygon POINTS="157,119 157,2089 1243,2089 1243,119"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="652,150 678,148 704,145 730,146"
+                         HEIGHT="44"
+                         WIDTH="78"
+                         VPOS="119"
+                         HPOS="652">
+                  <String ID="string_r1l1"
+                          HEIGHT="44"
+                          WIDTH="78"
+                          VPOS="119"
+                          HPOS="652"
+                          CONTENT="XX"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="160,260 212,258 264,256 316,255 368,253 420,252 472,251 525,250 577,249 629,247 681,246 733,245 785,244 837,243 890,241 942,240 994,238 1046,236 1098,234 1150,232 1203,230"
+                         HEIGHT="69"
+                         WIDTH="1043"
+                         VPOS="204"
+                         HPOS="160">
+                  <String ID="string_r1l2"
+                          HEIGHT="69"
+                          WIDTH="1043"
+                          VPOS="204"
+                          HPOS="160"
+                          CONTENT="Bote, iſt kein Staat wie ein Anderer, es herrſcht darin kein"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="161,314 213,312 265,310 318,309 370,307 423,306 475,305 527,303 580,302 632,301 685,300 737,299 789,298 842,297 894,295 947,294 999,292 1051,290 1104,289 1156,286 1209,284"
+                         HEIGHT="69"
+                         WIDTH="1048"
+                         VPOS="258"
+                         HPOS="161">
+                  <String ID="string_r1l3"
+                          HEIGHT="69"
+                          WIDTH="1048"
+                          VPOS="258"
+                          HPOS="161"
+                          CONTENT="Koͤnig und kein Kaiſer, ſondern ein Pabſt und zwar gibt's nur"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="162,366 214,365 266,363 319,362 371,361 423,360 476,359 528,357 580,356 633,355 685,354 737,353 790,351 842,350 894,349 947,347 999,346 1051,344 1104,343 1156,341 1209,339"
+                         HEIGHT="66"
+                         WIDTH="1047"
+                         VPOS="313"
+                         HPOS="162">
+                  <String ID="string_r1l4"
+                          HEIGHT="66"
+                          WIDTH="1047"
+                          VPOS="313"
+                          HPOS="162"
+                          CONTENT="Einen auf der Welt. Der Pabſt iſt das Oberhaupt der katho⸗"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="161,419 213,418 265,417 317,416 369,415 422,414 474,413 526,412 578,411 630,409 683,408 735,407 787,406 839,404 891,403 944,401 996,400 1048,398 1100,396 1152,395 1205,393"
+                         HEIGHT="65"
+                         WIDTH="1044"
+                         VPOS="367"
+                         HPOS="161">
+                  <String ID="string_r1l5"
+                          HEIGHT="65"
+                          WIDTH="1044"
+                          VPOS="367"
+                          HPOS="161"
+                          CONTENT="liſchen Kirche; es gab ſehr ſchlechte und ſehr fromme Paͤbſte"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="161,472 213,471 265,470 318,469 370,468 423,467 475,465 528,464 580,463 633,462 685,460 737,459 790,458 842,457 895,455 947,454 1000,452 1052,451 1105,450 1157,448 1210,446"
+                         HEIGHT="63"
+                         WIDTH="1049"
+                         VPOS="421"
+                         HPOS="161">
+                  <String ID="string_r1l6"
+                          HEIGHT="63"
+                          WIDTH="1049"
+                          VPOS="421"
+                          HPOS="161"
+                          CONTENT="(der Bote muß eine beſondere Freude an den Schlechten ha⸗"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="157,524 210,524 263,523 316,523 369,522 422,521 475,520 528,519 581,517 634,515 687,514 740,513 793,511 846,509 899,508 952,506 1005,505 1058,503 1111,502 1164,501 1217,500"
+                         HEIGHT="61"
+                         WIDTH="1060"
+                         VPOS="475"
+                         HPOS="157">
+                  <String ID="string_r1l7"
+                          HEIGHT="61"
+                          WIDTH="1060"
+                          VPOS="475"
+                          HPOS="157"
+                          CONTENT="ben, da er ſie oben anſetzt), von dem jetzigen wird allerlei ge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="165,581 216,580 268,578 320,577 372,575 424,574 476,573 528,571 580,570 632,568 684,567 735,565 787,564 839,563 891,561 943,560 995,559 1047,557 1099,556 1151,554 1203,553"
+                         HEIGHT="65"
+                         WIDTH="1038"
+                         VPOS="528"
+                         HPOS="165">
+                  <String ID="string_r1l8"
+                          HEIGHT="65"
+                          WIDTH="1038"
+                          VPOS="528"
+                          HPOS="165"
+                          CONTENT="ſprochen. Die Cardinaͤle nennen ſich Prinzen (eigentlich Fuͤrſten)"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="162,636 214,633 266,631 319,629 371,628 424,626 476,625 529,623 581,622 634,621 686,620 738,619 791,618 843,617 896,615 948,614 1001,613 1053,611 1106,609 1158,607 1211,605"
+                         HEIGHT="68"
+                         WIDTH="1049"
+                         VPOS="580"
+                         HPOS="162">
+                  <String ID="string_r1l9"
+                          HEIGHT="68"
+                          WIDTH="1049"
+                          VPOS="580"
+                          HPOS="162"
+                          CONTENT="der Kirche und tragen ſehr reiche Kleider, die Apoſtel aber"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="164,689 216,686 269,684 321,682 374,680 426,679 479,677 531,676 584,675 636,673 689,672 741,671 794,670 846,669 899,668 951,666 1004,665 1056,664 1109,663 1161,661 1214,660"
+                         HEIGHT="66"
+                         WIDTH="1050"
+                         VPOS="635"
+                         HPOS="164">
+                  <String ID="string_r1l10"
+                          HEIGHT="66"
+                          WIDTH="1050"
+                          VPOS="635"
+                          HPOS="164"
+                          CONTENT="trugen deren ganz einfache.“ Haben etwa die Apoſtel auch den"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="162,742 214,739 266,737 319,735 371,733 423,731 476,730 528,728 580,727 633,726 685,724 737,723 790,722 842,721 894,720 947,719 999,718 1051,717 1104,716 1156,715 1209,714"
+                         HEIGHT="65"
+                         WIDTH="1047"
+                         VPOS="689"
+                         HPOS="162">
+                  <String ID="string_r1l11"
+                          HEIGHT="65"
+                          WIDTH="1047"
+                          VPOS="689"
+                          HPOS="162"
+                          CONTENT="Welperſchen hinkenden Boten geleſen? Wenn dem nicht ſo iſt,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="165,794 217,792 270,790 323,787 376,785 428,783 481,782 534,780 587,779 639,778 692,777 745,776 798,775 850,774 903,773 956,772 1009,771 1061,770 1114,769 1167,767 1220,766"
+                         HEIGHT="65"
+                         WIDTH="1055"
+                         VPOS="741"
+                         HPOS="165">
+                  <String ID="string_r1l12"
+                          HEIGHT="65"
+                          WIDTH="1055"
+                          VPOS="741"
+                          HPOS="165"
+                          CONTENT="ſo waͤre derſelbe entbehrlich. Der Bote ſcheint uͤbrigens den"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="174,844 226,842 278,841 330,840 382,838 434,837 486,836 539,835 591,834 643,832 695,831 747,830 799,829 851,828 904,827 956,826 1008,824 1060,823 1112,822 1164,820 1217,819"
+                         HEIGHT="62"
+                         WIDTH="1043"
+                         VPOS="794"
+                         HPOS="174">
+                  <String ID="string_r1l13"
+                          HEIGHT="62"
+                          WIDTH="1043"
+                          VPOS="794"
+                          HPOS="174"
+                          CONTENT="Cardinaͤlen zumuthen zu wollrn, daß ſie einen einfachen Bra⸗"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="165,897 217,897 270,896 322,895 375,894 427,893 480,891 532,890 585,889 637,887 690,886 742,885 795,883 847,881 900,880 952,878 1005,877 1057,876 1110,875 1162,874 1215,873"
+                         HEIGHT="61"
+                         WIDTH="1050"
+                         VPOS="848"
+                         HPOS="165">
+                  <String ID="string_r1l14"
+                          HEIGHT="61"
+                          WIDTH="1050"
+                          VPOS="848"
+                          HPOS="165"
+                          CONTENT="tenrock tragen ſollten, oder einfach lederne Beinkleider mit"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="167,954 219,954 272,953 325,952 378,950 431,949 483,947 536,946 589,944 642,942 695,941 747,939 800,937 853,935 906,934 959,932 1011,930 1064,929 1117,928 1170,927 1223,926"
+                         HEIGHT="67"
+                         WIDTH="1056"
+                         VPOS="900"
+                         HPOS="167">
+                  <String ID="string_r1l15"
+                          HEIGHT="67"
+                          WIDTH="1056"
+                          VPOS="900"
+                          HPOS="167"
+                          CONTENT="weißem Schurze, wie ſeine baͤueriſchen Leſer im Koͤcherſperge;"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="178,1011 230,1010 282,1008 335,1007 387,1005 439,1004 492,1002 544,1001 596,999 649,997 701,996 753,994 806,993 858,991 910,989 963,987 1015,986 1067,984 1120,981 1172,980 1225,978"
+                         HEIGHT="72"
+                         WIDTH="1047"
+                         VPOS="952"
+                         HPOS="178">
+                  <String ID="string_r1l16"
+                          HEIGHT="72"
+                          WIDTH="1047"
+                          VPOS="952"
+                          HPOS="178"
+                          CONTENT="de gustibus non est disputandum. Von den Cardinaͤlen"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="177,1065 229,1063 282,1062 334,1060 387,1059 439,1057 492,1056 544,1054 597,1053 649,1052 702,1050 754,1049 807,1047 859,1045 912,1044 964,1042 1017,1040 1069,1038 1122,1036 1174,1034 1227,1031"
+                         HEIGHT="73"
+                         WIDTH="1050"
+                         VPOS="1005"
+                         HPOS="177">
+                  <String ID="string_r1l17"
+                          HEIGHT="73"
+                          WIDTH="1050"
+                          VPOS="1005"
+                          HPOS="177"
+                          CONTENT="kommt noch einmal die Reihe an die Oeſterreicher, auf die der"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="174,1119 226,1118 279,1116 332,1115 385,1113 438,1111 491,1110 543,1108 596,1106 649,1105 702,1103 755,1102 808,1100 861,1098 913,1097 966,1095 1019,1093 1072,1091 1125,1089 1178,1087 1231,1085"
+                         HEIGHT="71"
+                         WIDTH="1057"
+                         VPOS="1060"
+                         HPOS="174">
+                  <String ID="string_r1l18"
+                          HEIGHT="71"
+                          WIDTH="1057"
+                          VPOS="1060"
+                          HPOS="174"
+                          CONTENT="Hinker gar ſchlecht zu ſprechen iſt: man ſollte faſt meinen, er"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="173,1173 225,1171 277,1169 330,1168 382,1166 435,1164 487,1163 539,1161 592,1159 644,1158 697,1156 749,1154 801,1153 854,1151 906,1150 959,1148 1011,1146 1063,1145 1116,1143 1168,1141 1221,1139"
+                         HEIGHT="71"
+                         WIDTH="1048"
+                         VPOS="1114"
+                         HPOS="173">
+                  <String ID="string_r1l19"
+                          HEIGHT="71"
+                          WIDTH="1048"
+                          VPOS="1114"
+                          HPOS="173"
+                          CONTENT="haͤtte unlaͤngſt in den Jahren 1814 und 15 ſich etwas revolu⸗"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="178,1224 230,1223 283,1221 335,1220 388,1219 441,1217 493,1216 546,1214 598,1212 651,1211 704,1209 756,1208 809,1206 861,1204 914,1203 967,1201 1019,1200 1072,1199 1124,1197 1177,1196 1230,1196"
+                         HEIGHT="65"
+                         WIDTH="1052"
+                         VPOS="1171"
+                         HPOS="178">
+                  <String ID="string_r1l20"
+                          HEIGHT="65"
+                          WIDTH="1052"
+                          VPOS="1171"
+                          HPOS="178"
+                          CONTENT="tionaͤr vernehmen laſſen, und Haſelnuͤſſe knacken muͤſſen."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="179,1274 231,1274 283,1272 336,1271 388,1270 441,1269 493,1267 545,1265 598,1264 650,1262 703,1260 755,1259 807,1257 860,1256 912,1254 965,1253 1017,1252 1069,1251 1122,1250 1174,1250 1227,1249"
+                         HEIGHT="61"
+                         WIDTH="1048"
+                         VPOS="1225"
+                         HPOS="179">
+                  <String ID="string_r1l21"
+                          HEIGHT="61"
+                          WIDTH="1048"
+                          VPOS="1225"
+                          HPOS="179"
+                          CONTENT="„Die Oſterreicher, ſagt Welper’s ungerathener Sohn, haben"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="173,1328 225,1326 278,1324 331,1322 384,1320 437,1319 490,1317 543,1316 596,1314 649,1313 702,1312 754,1310 807,1309 860,1308 913,1307 966,1306 1019,1305 1072,1304 1125,1303 1178,1302 1231,1301"
+                         HEIGHT="63"
+                         WIDTH="1058"
+                         VPOS="1277"
+                         HPOS="173">
+                  <String ID="string_r1l22"
+                          HEIGHT="63"
+                          WIDTH="1058"
+                          VPOS="1277"
+                          HPOS="173"
+                          CONTENT="kraͤftige Magen, Mutterwitz, wenig Aufklaͤrung. Kaiſer Joſeph"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="180,1384 232,1382 284,1380 337,1377 389,1376 442,1374 494,1373 547,1371 599,1370 652,1369 704,1367 756,1366 809,1365 861,1364 914,1362 966,1361 1019,1360 1071,1358 1124,1356 1176,1355 1229,1352"
+                         HEIGHT="69"
+                         WIDTH="1049"
+                         VPOS="1327"
+                         HPOS="180">
+                  <String ID="string_r1l23"
+                          HEIGHT="69"
+                          WIDTH="1049"
+                          VPOS="1327"
+                          HPOS="180"
+                          CONTENT="kam zu fruͤh und ſtarb zu fruͤh. Der Wahlſpruch dieſes Landes"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="174,1438 226,1436 279,1435 332,1433 385,1431 438,1429 491,1428 543,1426 596,1425 649,1423 702,1421 755,1420 808,1419 861,1417 913,1416 966,1415 1019,1413 1072,1412 1125,1411 1178,1410 1231,1409"
+                         HEIGHT="68"
+                         WIDTH="1057"
+                         VPOS="1383"
+                         HPOS="174">
+                  <String ID="string_r1l24"
+                          HEIGHT="68"
+                          WIDTH="1057"
+                          VPOS="1383"
+                          HPOS="174"
+                          CONTENT="iſt: Es bleibt beim Olten.“ Dem Boten thuts niemand recht;"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="181,1491 233,1490 285,1489 337,1487 390,1485 442,1484 494,1482 547,1480 599,1479 651,1477 704,1475 756,1474 808,1472 860,1471 913,1469 965,1468 1017,1467 1070,1466 1122,1465 1174,1464 1227,1463"
+                         HEIGHT="67"
+                         WIDTH="1046"
+                         VPOS="1437"
+                         HPOS="181">
+                  <String ID="string_r1l25"
+                          HEIGHT="67"
+                          WIDTH="1046"
+                          VPOS="1437"
+                          HPOS="181"
+                          CONTENT="die Cardinaͤle werden getadelt, weil ſie nicht beim Olten bleiben,"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="177,1545 229,1544 282,1542 335,1541 388,1539 441,1537 493,1536 546,1534 599,1533 652,1531 705,1529 757,1528 810,1526 863,1525 916,1524 969,1522 1021,1521 1074,1520 1127,1519 1180,1518 1233,1517"
+                         HEIGHT="65"
+                         WIDTH="1056"
+                         VPOS="1492"
+                         HPOS="177">
+                  <String ID="string_r1l26"
+                          HEIGHT="65"
+                          WIDTH="1056"
+                          VPOS="1492"
+                          HPOS="177"
+                          CONTENT="und die Oeſterreicher, weil ſie beim Alten bleiben. Gott ſey dank,"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="177,1599 229,1598 282,1597 335,1595 387,1593 440,1592 493,1590 545,1588 598,1587 651,1585 704,1584 756,1582 809,1580 862,1579 914,1577 967,1575 1020,1574 1072,1573 1125,1571 1178,1570 1231,1569"
+                         HEIGHT="67"
+                         WIDTH="1054"
+                         VPOS="1544"
+                         HPOS="177">
+                  <String ID="string_r1l27"
+                          HEIGHT="67"
+                          WIDTH="1054"
+                          VPOS="1544"
+                          HPOS="177"
+                          CONTENT="daß Letztere gute Magen haben, wie koͤnnten ſie ſonst ſolche Al⸗"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="179,1650 231,1649 284,1648 337,1647 390,1646 443,1645 496,1643 549,1642 602,1640 655,1638 708,1637 760,1635 813,1633 866,1632 919,1630 972,1629 1025,1627 1078,1627 1131,1625 1184,1625 1237,1624"
+                         HEIGHT="63"
+                         WIDTH="1058"
+                         VPOS="1599"
+                         HPOS="179">
+                  <String ID="string_r1l28"
+                          HEIGHT="63"
+                          WIDTH="1058"
+                          VPOS="1599"
+                          HPOS="179"
+                          CONTENT="bernheiten des Boten vertragen? Wenn uͤbrigens jemand berechtigt"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="177,1703 229,1702 282,1701 334,1700 387,1699 440,1698 492,1696 545,1695 598,1693 650,1692 703,1690 756,1689 808,1687 861,1686 914,1684 966,1683 1019,1682 1072,1681 1124,1680 1177,1679 1230,1678"
+                         HEIGHT="62"
+                         WIDTH="1053"
+                         VPOS="1653"
+                         HPOS="177">
+                  <String ID="string_r1l29"
+                          HEIGHT="62"
+                          WIDTH="1053"
+                          VPOS="1653"
+                          HPOS="177"
+                          CONTENT="iſt, die Donaubewohner, weil ſie o ſtatt a ſagen, zu foppen, ſo"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="184,1756 236,1755 288,1754 341,1754 393,1752 445,1751 498,1749 550,1748 602,1746 655,1745 707,1743 759,1742 812,1740 864,1738 916,1736 969,1735 1021,1734 1073,1732 1126,1731 1178,1730 1231,1729"
+                         HEIGHT="64"
+                         WIDTH="1047"
+                         VPOS="1704"
+                         HPOS="184">
+                  <String ID="string_r1l30"
+                          HEIGHT="64"
+                          WIDTH="1047"
+                          VPOS="1704"
+                          HPOS="184"
+                          CONTENT="iſt es gewiß der Welperiſche hinkende Bote zu Straßburg, wo"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="185,1809 237,1808 290,1807 342,1806 395,1805 447,1804 500,1802 552,1801 605,1800 657,1798 710,1796 762,1795 815,1793 867,1792 920,1790 972,1788 1025,1787 1077,1786 1130,1784 1182,1783 1235,1781"
+                         HEIGHT="67"
+                         WIDTH="1050"
+                         VPOS="1755"
+                         HPOS="185">
+                  <String ID="string_r1l31"
+                          HEIGHT="67"
+                          WIDTH="1050"
+                          VPOS="1755"
+                          HPOS="185"
+                          CONTENT="bekanntlich die reine germaniſche Mundart den hoͤchſten Culmi⸗"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="189,1861 241,1860 293,1860 345,1859 397,1858 450,1856 502,1855 554,1854 606,1853 658,1852 711,1850 763,1849 815,1847 867,1846 919,1844 972,1843 1024,1841 1076,1839 1128,1837 1180,1836 1233,1834"
+                         HEIGHT="66"
+                         WIDTH="1044"
+                         VPOS="1808"
+                         HPOS="189">
+                  <String ID="string_r1l32"
+                          HEIGHT="66"
+                          WIDTH="1044"
+                          VPOS="1808"
+                          HPOS="189"
+                          CONTENT="nationspunkt erſchwungen hat. Von Ungarn und Boͤhmen"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="192,1914 244,1913 296,1913 348,1912 400,1911 452,1910 504,1908 556,1907 608,1906 660,1905 713,1903 765,1901 817,1900 869,1898 921,1897 973,1895 1025,1894 1077,1892 1129,1891 1181,1889 1234,1888"
+                         HEIGHT="63"
+                         WIDTH="1042"
+                         VPOS="1863"
+                         HPOS="192">
+                  <String ID="string_r1l33"
+                          HEIGHT="63"
+                          WIDTH="1042"
+                          VPOS="1863"
+                          HPOS="192"
+                          CONTENT="kennt das Welperiſche Kalenderhaus nichts als die guten Wei⸗"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="185,1968 237,1967 289,1966 342,1965 394,1964 447,1963 499,1961 551,1960 604,1959 656,1957 709,1956 761,1954 813,1953 866,1951 918,1950 971,1949 1023,1947 1075,1946 1128,1945 1180,1944 1233,1943"
+                         HEIGHT="62"
+                         WIDTH="1048"
+                         VPOS="1918"
+                         HPOS="185">
+                  <String ID="string_r1l34"
+                          HEIGHT="62"
+                          WIDTH="1048"
+                          VPOS="1918"
+                          HPOS="185"
+                          CONTENT="ne, — ſelbſt von Boͤhmen!! — Die Preußen werden,"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="195,2021 247,2021 299,2020 352,2020 404,2019 457,2017 509,2016 561,2015 614,2014 666,2012 719,2010 771,2009 823,2007 876,2005 928,2004 981,2002 1033,2000 1085,1999 1138,1997 1190,1995 1243,1994"
+                         HEIGHT="64"
+                         WIDTH="1048"
+                         VPOS="1969"
+                         HPOS="195">
+                  <String ID="string_r1l35"
+                          HEIGHT="64"
+                          WIDTH="1048"
+                          VPOS="1969"
+                          HPOS="195"
+                          CONTENT="was mich hoͤchſt wundert, ſehr hoͤhniſch mit zwei Strichpunkten"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="190,2076 241,2076 293,2076 345,2075 397,2074 449,2073 501,2072 553,2071 605,2069 657,2067 709,2066 760,2064 812,2062 864,2061 916,2059 968,2057 1020,2055 1072,2053 1124,2052 1176,2051 1228,2049"
+                         HEIGHT="66"
+                         WIDTH="1038"
+                         VPOS="2023"
+                         HPOS="190">
+                  <String ID="string_r1l36"
+                          HEIGHT="66"
+                          WIDTH="1038"
+                          VPOS="2023"
+                          HPOS="190"
+                          CONTENT="abgethan, wie folgt: „Viel Sand, viel Wind, gelehrte Leute.“"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

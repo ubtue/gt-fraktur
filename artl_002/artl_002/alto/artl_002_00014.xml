@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:46:46.269+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2454" WIDTH="1342">
+         <TopMargin HEIGHT="0" WIDTH="1342" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="1342"/>
+         <BottomMargin HEIGHT="0" WIDTH="1342" VPOS="2454" HPOS="0"/>
+         <PrintSpace HEIGHT="2454" WIDTH="1342" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2176" WIDTH="1205" VPOS="92" HPOS="33">
+               <Shape>
+                  <Polygon POINTS="33,92 33,2268 1238,2268 1238,92"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="34,121 62,119 90,117"
+                         HEIGHT="41"
+                         WIDTH="56"
+                         VPOS="92"
+                         HPOS="34">
+                  <String ID="string_r1l1"
+                          HEIGHT="41"
+                          WIDTH="56"
+                          VPOS="92"
+                          HPOS="34"
+                          CONTENT="10"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="483,233 509,233 536,233 562,233 589,233 616,232 642,232 669,232 695,232 722,232 749,232 775,233 802,233 829,234"
+                         HEIGHT="39"
+                         WIDTH="346"
+                         VPOS="207"
+                         HPOS="483">
+                  <String ID="string_r1l2"
+                          HEIGHT="39"
+                          WIDTH="346"
+                          VPOS="207"
+                          HPOS="483"
+                          CONTENT="Zeitschriften."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="69,294 126,293 184,292 242,291 300,290 358,290 416,290 473,290 531,290 589,290 647,290 705,290 763,290 821,290 878,290 936,289 994,289 1052,288 1110,287 1168,286 1226,284"
+                         HEIGHT="43"
+                         WIDTH="1157"
+                         VPOS="262"
+                         HPOS="69">
+                  <String ID="string_r1l3"
+                          HEIGHT="43"
+                          WIDTH="1157"
+                          VPOS="262"
+                          HPOS="69"
+                          CONTENT="Zeitſchrift für Philoſophie und katholiſche Theologie. Heraus⸗"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="111,338 166,337 221,336 277,336 332,335 388,335 443,335 499,334 554,334 610,335 665,335 720,335 776,335 831,335 887,335 942,334 998,334 1053,333 1109,332 1164,331 1220,330"
+                         HEIGHT="38"
+                         WIDTH="1109"
+                         VPOS="310"
+                         HPOS="111">
+                  <String ID="string_r1l4"
+                          HEIGHT="38"
+                          WIDTH="1109"
+                          VPOS="310"
+                          HPOS="111"
+                          CONTENT="gegeben von DD. Achterfeld, Braun, Scholz, Vogelſang. Fünf⸗"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="111,380 136,380 162,379 188,379 213,379 239,379 265,379 291,379 316,379 342,379 368,379 393,379 419,380 445,380 471,380 496,380 522,380 548,381 574,381"
+                         HEIGHT="32"
+                         WIDTH="463"
+                         VPOS="359"
+                         HPOS="111">
+                  <String ID="string_r1l5"
+                          HEIGHT="32"
+                          WIDTH="463"
+                          VPOS="359"
+                          HPOS="111"
+                          CONTENT="tes Heft. Cöln 1833. 1 rtl."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="95,435 151,435 207,436 264,436 320,436 376,436 433,436 489,436 545,436 602,435 658,435 714,435 771,434 827,434 883,434 940,433 996,433 1052,432 1109,432 1165,431 1222,431"
+                         HEIGHT="41"
+                         WIDTH="1127"
+                         VPOS="407"
+                         HPOS="95">
+                  <String ID="string_r1l6"
+                          HEIGHT="41"
+                          WIDTH="1127"
+                          VPOS="407"
+                          HPOS="95"
+                          CONTENT="Das fünfte Heft, zugleich das erſte des zweiten Jahrgangs, enthält"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="33,485 92,485 152,485 211,485 271,485 331,485 390,485 450,485 509,485 569,484 629,484 688,484 748,483 807,483 867,483 927,482 986,482 1046,482 1105,481 1165,481 1225,481"
+                         HEIGHT="38"
+                         WIDTH="1192"
+                         VPOS="458"
+                         HPOS="33">
+                  <String ID="string_r1l7"
+                          HEIGHT="38"
+                          WIDTH="1192"
+                          VPOS="458"
+                          HPOS="33"
+                          CONTENT="au Abhandlungen: 1) Philoſophiſche Unterſuchung über die Freiheit des"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="33,535 92,535 152,535 211,535 271,535 331,535 390,535 450,534 509,534 569,534 629,533 688,533 748,532 807,532 867,532 927,531 986,531 1046,530 1105,530 1165,530 1225,529"
+                         HEIGHT="40"
+                         WIDTH="1192"
+                         VPOS="506"
+                         HPOS="33">
+                  <String ID="string_r1l8"
+                          HEIGHT="40"
+                          WIDTH="1192"
+                          VPOS="506"
+                          HPOS="33"
+                          CONTENT="menſchlichen Willens, von Prof. Dr. Baltzer in Breslau. 2) Chriſtliche"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="39,584 98,584 157,584 216,584 275,584 334,584 393,584 452,584 511,583 570,583 630,583 689,582 748,582 807,582 866,581 925,581 984,580 1043,579 1102,579 1161,578 1221,577"
+                         HEIGHT="41"
+                         WIDTH="1182"
+                         VPOS="554"
+                         HPOS="39">
+                  <String ID="string_r1l9"
+                          HEIGHT="41"
+                          WIDTH="1182"
+                          VPOS="554"
+                          HPOS="39"
+                          CONTENT="Sophiſtik aus helleniſcher, von Kreuſer in Cöln (Schluß). 3) Naturrecht⸗"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="42,634 101,634 160,634 220,633 279,633 339,633 398,632 458,632 517,631 577,631 636,630 695,630 755,629 814,629 874,628 933,628 993,628 1052,628 1112,628 1171,628 1231,628"
+                         HEIGHT="40"
+                         WIDTH="1189"
+                         VPOS="605"
+                         HPOS="42">
+                  <String ID="string_r1l10"
+                          HEIGHT="40"
+                          WIDTH="1189"
+                          VPOS="605"
+                          HPOS="42"
+                          CONTENT="liche Erörterung über die Pflicht und das Recht der Eltern, ihre Kinder"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="39,684 98,683 157,683 216,682 276,682 335,682 394,681 454,681 513,680 572,680 632,679 691,679 750,679 809,678 869,678 928,678 987,678 1047,678 1106,678 1165,678 1225,678"
+                         HEIGHT="40"
+                         WIDTH="1186"
+                         VPOS="655"
+                         HPOS="39">
+                  <String ID="string_r1l11"
+                          HEIGHT="40"
+                          WIDTH="1186"
+                          VPOS="655"
+                          HPOS="39"
+                          CONTENT="zu erhalten und zu erziehen, mit beſonderer Rückſicht auf gemiſchte Ehen,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="42,732 101,732 160,732 219,731 278,731 337,731 396,730 455,730 514,729 573,729 632,728 691,728 750,728 809,727 868,727 927,727 986,726 1045,726 1104,726 1163,726 1222,726"
+                         HEIGHT="40"
+                         WIDTH="1180"
+                         VPOS="703"
+                         HPOS="42">
+                  <String ID="string_r1l12"
+                          HEIGHT="40"
+                          WIDTH="1180"
+                          VPOS="703"
+                          HPOS="42"
+                          CONTENT="von Saling, in Osnabrück. 4) Ueber den Werth des Textes, welchen die"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="43,781 102,781 162,780 221,780 281,780 340,779 400,779 459,778 519,778 578,777 638,777 697,777 757,776 816,776 876,776 935,776 995,776 1054,776 1114,776 1173,777 1233,777"
+                         HEIGHT="39"
+                         WIDTH="1190"
+                         VPOS="753"
+                         HPOS="43">
+                  <String ID="string_r1l13"
+                          HEIGHT="39"
+                          WIDTH="1190"
+                          VPOS="753"
+                          HPOS="43"
+                          CONTENT="alexandriniſch. Handſchriften des N. T. enthalten, von Dr. Scholz. (Die"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="46,830 105,829 164,829 223,829 282,828 341,828 400,827 460,827 519,826 578,826 637,825 696,825 755,825 814,824 874,824 933,824 992,824 1051,824 1110,824 1169,824 1229,825"
+                         HEIGHT="40"
+                         WIDTH="1183"
+                         VPOS="801"
+                         HPOS="46">
+                  <String ID="string_r1l14"
+                          HEIGHT="40"
+                          WIDTH="1183"
+                          VPOS="801"
+                          HPOS="46"
+                          CONTENT="Unterſuchung wurde zunächſt veranlaßt durch Lachmann’s Ausgabe des N."/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="45,879 104,879 163,878 222,878 281,877 340,877 399,876 459,876 518,875 577,875 636,874 695,874 754,874 813,874 873,873 932,873 991,873 1050,873 1109,873 1168,873 1228,874"
+                         HEIGHT="40"
+                         WIDTH="1183"
+                         VPOS="850"
+                         HPOS="45">
+                  <String ID="string_r1l15"
+                          HEIGHT="40"
+                          WIDTH="1183"
+                          VPOS="850"
+                          HPOS="45"
+                          CONTENT="T., der die alexandriniſchen Handſchriften zum Grunde legte, während die"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="45,927 104,927 163,927 223,927 282,926 341,926 401,925 460,925 519,925 579,924 638,923 697,923 757,922 816,922 875,922 935,921 994,921 1053,921 1113,921 1172,922 1232,922"
+                         HEIGHT="40"
+                         WIDTH="1187"
+                         VPOS="898"
+                         HPOS="45">
+                  <String ID="string_r1l16"
+                          HEIGHT="40"
+                          WIDTH="1187"
+                          VPOS="898"
+                          HPOS="45"
+                          CONTENT="früheren Herausgeber, indem ſie dem textus receptus folgten, eo ipso"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="42,976 101,976 161,976 220,976 280,976 339,976 399,975 458,975 518,974 577,973 637,972 696,972 756,971 815,971 875,970 934,970 994,970 1053,970 1113,971 1172,971 1232,972"
+                         HEIGHT="40"
+                         WIDTH="1190"
+                         VPOS="947"
+                         HPOS="42">
+                  <String ID="string_r1l17"
+                          HEIGHT="40"
+                          WIDTH="1190"
+                          VPOS="947"
+                          HPOS="42"
+                          CONTENT="die konſtantinopolit. Codd. für die richtigeren erklärten. — Der Vf. ge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="51,1025 110,1025 169,1025 228,1025 287,1025 346,1025 405,1025 464,1024 523,1024 582,1023 641,1023 700,1022 759,1022 818,1021 877,1021 936,1020 995,1020 1054,1019 1113,1019 1172,1019 1231,1019"
+                         HEIGHT="40"
+                         WIDTH="1180"
+                         VPOS="996"
+                         HPOS="51">
+                  <String ID="string_r1l18"
+                          HEIGHT="40"
+                          WIDTH="1180"
+                          VPOS="996"
+                          HPOS="51"
+                          CONTENT="genwärtiger Abhandlung ſucht zu erweiſen, daß die Handſchriften A B C"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="47,1073 106,1074 165,1074 224,1074 283,1074 342,1074 401,1074 460,1073 519,1073 578,1072 638,1072 697,1071 756,1071 815,1070 874,1070 933,1070 992,1069 1051,1069 1110,1069 1169,1070 1229,1070"
+                         HEIGHT="39"
+                         WIDTH="1182"
+                         VPOS="1046"
+                         HPOS="47">
+                  <String ID="string_r1l19"
+                          HEIGHT="39"
+                          WIDTH="1182"
+                          VPOS="1046"
+                          HPOS="47"
+                          CONTENT="D K. ꝛc. für die Evangelien, A B C D G. ꝛc. für die Apoſtelgeſch.,"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="49,1122 108,1122 167,1122 226,1123 286,1122 345,1122 404,1122 464,1122 523,1121 582,1121 642,1120 701,1120 760,1119 819,1119 879,1119 938,1118 997,1118 1057,1118 1116,1117 1175,1117 1235,1117"
+                         HEIGHT="40"
+                         WIDTH="1186"
+                         VPOS="1094"
+                         HPOS="49">
+                  <String ID="string_r1l20"
+                          HEIGHT="40"
+                          WIDTH="1186"
+                          VPOS="1094"
+                          HPOS="49"
+                          CONTENT="A B C D F G. ꝛc. für die Paulin. Briefe; von den Ueberſetzungen die"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="42,1173 101,1172 161,1172 220,1172 280,1172 339,1171 399,1171 458,1171 518,1170 577,1170 637,1170 697,1169 756,1169 816,1168 875,1168 935,1167 994,1167 1054,1166 1113,1166 1173,1165 1233,1165"
+                         HEIGHT="42"
+                         WIDTH="1191"
+                         VPOS="1142"
+                         HPOS="42">
+                  <String ID="string_r1l21"
+                          HEIGHT="42"
+                          WIDTH="1191"
+                          VPOS="1142"
+                          HPOS="42"
+                          CONTENT="ägyptiſchen, die lateiniſchen, die armen. und ſyriſch-jeruſalem. ꝛc. die Ci⸗"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="47,1221 106,1221 165,1221 224,1220 284,1220 343,1220 402,1219 461,1219 521,1219 580,1218 639,1218 698,1217 758,1217 817,1216 876,1216 935,1215 995,1215 1054,1215 1113,1215 1172,1214 1232,1214"
+                         HEIGHT="41"
+                         WIDTH="1185"
+                         VPOS="1191"
+                         HPOS="47">
+                  <String ID="string_r1l22"
+                          HEIGHT="41"
+                          WIDTH="1185"
+                          VPOS="1191"
+                          HPOS="47"
+                          CONTENT="tate des N. T. bei den alexandriniſchen patres, Hieronymus und den la⸗"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="45,1270 103,1270 162,1270 221,1270 280,1269 339,1269 398,1268 456,1268 515,1267 574,1267 633,1266 692,1266 751,1265 810,1265 868,1265 927,1264 986,1264 1045,1264 1104,1264 1163,1265 1222,1265"
+                         HEIGHT="40"
+                         WIDTH="1177"
+                         VPOS="1241"
+                         HPOS="45">
+                  <String ID="string_r1l23"
+                          HEIGHT="40"
+                          WIDTH="1177"
+                          VPOS="1241"
+                          HPOS="45"
+                          CONTENT="teiniſchen patres ihren Text faſt bloß von Aegypten ableiten, und daß die⸗"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="50,1320 108,1319 167,1319 226,1318 285,1318 344,1318 402,1317 461,1317 520,1316 579,1316 638,1315 696,1315 755,1315 814,1314 873,1314 932,1314 990,1314 1049,1314 1108,1314 1167,1314 1226,1314"
+                         HEIGHT="40"
+                         WIDTH="1176"
+                         VPOS="1291"
+                         HPOS="50">
+                  <String ID="string_r1l24"
+                          HEIGHT="40"
+                          WIDTH="1176"
+                          VPOS="1291"
+                          HPOS="50"
+                          CONTENT="ſer Text — im Vergleiche mit den konſtantinopolitaniſchen H. — der un⸗"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="51,1369 113,1369 175,1369 237,1369 299,1368 361,1368 423,1368 485,1367 547,1367 609,1366 671,1365 733,1365 795,1364 857,1364 919,1363 981,1363 1043,1362 1105,1362 1167,1362 1230,1362"
+                         HEIGHT="41"
+                         WIDTH="1179"
+                         VPOS="1339"
+                         HPOS="51">
+                  <String ID="string_r1l25"
+                          HEIGHT="41"
+                          WIDTH="1179"
+                          VPOS="1339"
+                          HPOS="51"
+                          CONTENT="richtigere ſey. Zugleich ſetzt er den Werth, welchen die alexandriniſchen Hand⸗"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="49,1419 107,1418 166,1418 225,1418 284,1417 342,1417 401,1417 460,1416 519,1416 577,1416 636,1416 695,1415 754,1415 812,1414 871,1414 930,1413 989,1413 1047,1412 1106,1411 1165,1410 1224,1409"
+                         HEIGHT="44"
+                         WIDTH="1175"
+                         VPOS="1386"
+                         HPOS="49">
+                  <String ID="string_r1l26"
+                          HEIGHT="44"
+                          WIDTH="1175"
+                          VPOS="1386"
+                          HPOS="49"
+                          CONTENT="ſchriften überhaupt in der Kritik haben, in's Licht.) 5) Ueber Jusſtins Apo⸗"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="50,1468 109,1468 168,1468 227,1468 287,1467 346,1467 405,1466 465,1466 524,1466 583,1465 643,1465 702,1464 761,1464 820,1463 880,1462 939,1462 998,1461 1058,1461 1117,1460 1176,1460 1236,1459"
+                         HEIGHT="43"
+                         WIDTH="1186"
+                         VPOS="1436"
+                         HPOS="50">
+                  <String ID="string_r1l27"
+                          HEIGHT="43"
+                          WIDTH="1186"
+                          VPOS="1436"
+                          HPOS="50"
+                          CONTENT="logie. 1, 6. (Zuſätzliche Bemerkungen grammatiſch-kritiſcher Art zu Möh⸗"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="49,1516 107,1516 166,1516 224,1516 283,1515 342,1515 400,1515 459,1514 517,1514 576,1514 635,1513 693,1513 752,1513 810,1512 869,1512 928,1512 986,1512 1045,1512 1103,1511 1162,1511 1221,1511"
+                         HEIGHT="39"
+                         WIDTH="1172"
+                         VPOS="1488"
+                         HPOS="49">
+                  <String ID="string_r1l28"
+                          HEIGHT="39"
+                          WIDTH="1172"
+                          VPOS="1488"
+                          HPOS="49"
+                          CONTENT="ler’s Prüfung der Neanderſchen Erklärung obengenannter Stelle im Juſtin.)"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="130,1564 184,1564 239,1565 294,1565 349,1565 404,1565 459,1564 513,1564 568,1564 623,1564 678,1563 733,1563 788,1562 843,1562 897,1561 952,1561 1007,1560 1062,1560 1117,1559 1172,1559 1227,1558"
+                         HEIGHT="41"
+                         WIDTH="1097"
+                         VPOS="1535"
+                         HPOS="130">
+                  <String ID="string_r1l29"
+                          HEIGHT="41"
+                          WIDTH="1097"
+                          VPOS="1535"
+                          HPOS="130"
+                          CONTENT="Recenſionen: Hirſcher, Katechetik (Schluß). Marheineke,"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="41,1615 100,1614 160,1614 220,1613 280,1613 340,1613 400,1613 459,1613 519,1612 579,1612 639,1612 699,1612 759,1612 819,1611 878,1611 938,1610 998,1610 1058,1609 1118,1608 1178,1607 1238,1605"
+                         HEIGHT="44"
+                         WIDTH="1197"
+                         VPOS="1582"
+                         HPOS="41">
+                  <String ID="string_r1l30"
+                          HEIGHT="44"
+                          WIDTH="1197"
+                          VPOS="1582"
+                          HPOS="41"
+                          CONTENT="Reformations⸗Geſchichte. 1831. Unterz. Chev. (Zuerſt Kritik der Vor⸗"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="50,1665 109,1665 168,1665 227,1664 286,1664 345,1663 404,1663 463,1662 522,1662 581,1661 640,1661 699,1660 758,1660 817,1659 876,1659 935,1658 994,1658 1053,1657 1112,1656 1171,1656 1230,1655"
+                         HEIGHT="44"
+                         WIDTH="1180"
+                         VPOS="1632"
+                         HPOS="50">
+                  <String ID="string_r1l31"
+                          HEIGHT="44"
+                          WIDTH="1180"
+                          VPOS="1632"
+                          HPOS="50"
+                          CONTENT="reden. Sodann geht Rec. die einzelnen Capitel bis Nr. 4 durch, und be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="52,1714 110,1714 169,1714 228,1714 287,1713 346,1713 404,1713 463,1712 522,1712 581,1711 640,1711 698,1710 757,1710 816,1709 875,1708 934,1708 992,1707 1051,1707 1110,1706 1169,1706 1228,1705"
+                         HEIGHT="43"
+                         WIDTH="1176"
+                         VPOS="1682"
+                         HPOS="52">
+                  <String ID="string_r1l32"
+                          HEIGHT="43"
+                          WIDTH="1176"
+                          VPOS="1682"
+                          HPOS="52"
+                          CONTENT="merkt zuletzt,, daß an Allem, was M. über Eck’s Betragen in der Leip⸗"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="45,1764 107,1763 169,1763 231,1762 293,1762 355,1761 417,1761 479,1761 541,1761 603,1760 665,1760 727,1760 789,1759 851,1759 913,1758 975,1757 1037,1756 1099,1755 1161,1753 1224,1752"
+                         HEIGHT="46"
+                         WIDTH="1179"
+                         VPOS="1729"
+                         HPOS="45">
+                  <String ID="string_r1l33"
+                          HEIGHT="46"
+                          WIDTH="1179"
+                          VPOS="1729"
+                          HPOS="45"
+                          CONTENT="ziger Disputation ſage, auch nicht ein Titelchen Wahres ſey,“ eine Be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="50,1812 109,1812 168,1811 227,1810 286,1810 345,1810 404,1810 463,1810 522,1810 581,1810 640,1810 699,1810 758,1810 817,1809 876,1809 935,1808 994,1807 1053,1806 1112,1805 1171,1803 1230,1801"
+                         HEIGHT="45"
+                         WIDTH="1180"
+                         VPOS="1778"
+                         HPOS="50">
+                  <String ID="string_r1l34"
+                          HEIGHT="45"
+                          WIDTH="1180"
+                          VPOS="1778"
+                          HPOS="50"
+                          CONTENT="hauptung, welche vom Hörenſagen hergenommen zu ſeyn ſcheint, da die"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="46,1861 105,1860 165,1860 224,1860 284,1859 343,1859 403,1859 462,1859 522,1859 581,1859 641,1859 700,1858 760,1858 819,1858 879,1857 938,1856 998,1855 1057,1854 1117,1853 1176,1851 1236,1849"
+                         HEIGHT="46"
+                         WIDTH="1190"
+                         VPOS="1826"
+                         HPOS="46">
+                  <String ID="string_r1l35"
+                          HEIGHT="46"
+                          WIDTH="1190"
+                          VPOS="1826"
+                          HPOS="46"
+                          CONTENT="vom Rec. citirte Quelle — Luther’s Werke Band 15. — die M. Schil⸗"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="46,1911 105,1910 164,1909 223,1909 282,1908 342,1908 401,1907 460,1907 519,1907 578,1907 638,1907 697,1907 756,1906 815,1906 874,1906 934,1905 993,1905 1052,1904 1111,1903 1170,1902 1230,1901"
+                         HEIGHT="44"
+                         WIDTH="1184"
+                         VPOS="1878"
+                         HPOS="46">
+                  <String ID="string_r1l36"
+                          HEIGHT="44"
+                          WIDTH="1184"
+                          VPOS="1878"
+                          HPOS="46"
+                          CONTENT="derung vollkommen beſtätigt. — Gleich darauf kann Rec. nicht begreifen,"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="48,1960 106,1960 165,1959 224,1959 283,1959 342,1959 400,1959 459,1959 518,1959 577,1958 636,1958 694,1958 753,1957 812,1957 871,1956 930,1956 988,1955 1047,1954 1106,1953 1165,1952 1224,1950"
+                         HEIGHT="44"
+                         WIDTH="1176"
+                         VPOS="1927"
+                         HPOS="48">
+                  <String ID="string_r1l37"
+                          HEIGHT="44"
+                          WIDTH="1176"
+                          VPOS="1927"
+                          HPOS="48"
+                          CONTENT="wia Marh. „Carlſtadt einen verlegenen Mann habe nennen können,"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="44,2009 103,2008 162,2008 222,2007 281,2007 341,2007 400,2007 459,2008 519,2008 578,2008 638,2008 697,2008 756,2008 816,2007 875,2007 935,2006 994,2005 1053,2003 1113,2001 1172,1999 1232,1996"
+                         HEIGHT="47"
+                         WIDTH="1188"
+                         VPOS="1973"
+                         HPOS="44">
+                  <String ID="string_r1l38"
+                          HEIGHT="47"
+                          WIDTH="1188"
+                          VPOS="1973"
+                          HPOS="44"
+                          CONTENT="der doch bald darauf ſo frech in Wittenberg ꝛc. gegen Luther aufgetreten"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="49,2061 108,2059 167,2058 226,2057 286,2057 345,2056 404,2056 463,2056 523,2056 582,2056 641,2056 700,2056 760,2056 819,2056 878,2055 937,2055 997,2053 1056,2052 1115,2050 1174,2048 1234,2045"
+                         HEIGHT="50"
+                         WIDTH="1185"
+                         VPOS="2022"
+                         HPOS="49">
+                  <String ID="string_r1l39"
+                          HEIGHT="50"
+                          WIDTH="1185"
+                          VPOS="2022"
+                          HPOS="49"
+                          CONTENT="ſey.“ Sollten ſich denn dieſe beiden Eigenſchaften ſo ganz excluſio gegen"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="54,2109 112,2108 171,2106 230,2105 289,2105 348,2105 407,2104 466,2105 525,2105 584,2105 643,2105 701,2105 760,2105 819,2105 878,2104 937,2103 996,2102 1055,2100 1114,2098 1173,2095 1232,2092"
+                         HEIGHT="51"
+                         WIDTH="1178"
+                         VPOS="2069"
+                         HPOS="54">
+                  <String ID="string_r1l40"
+                          HEIGHT="51"
+                          WIDTH="1178"
+                          VPOS="2069"
+                          HPOS="54"
+                          CONTENT="einander verhalten, und nicht in einem und demſelben Subject neben einan⸗"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="50,2158 108,2156 167,2155 226,2154 284,2154 343,2154 402,2154 460,2154 519,2154 578,2155 637,2155 695,2155 754,2155 813,2155 871,2155 930,2154 989,2153 1047,2151 1106,2149 1165,2146 1224,2143"
+                         HEIGHT="49"
+                         WIDTH="1174"
+                         VPOS="2120"
+                         HPOS="50">
+                  <String ID="string_r1l41"
+                          HEIGHT="49"
+                          WIDTH="1174"
+                          VPOS="2120"
+                          HPOS="50"
+                          CONTENT="der ſeyn können? — Uebrigens bemerkt Rec. zuletzt: „Nein, ein Buch,"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="54,2208 113,2206 172,2205 231,2204 290,2203 349,2203 408,2204 467,2204 526,2205 585,2205 645,2206 704,2206 763,2206 822,2206 881,2205 940,2204 999,2202 1058,2200 1117,2197 1176,2193 1236,2188"
+                         HEIGHT="54"
+                         WIDTH="1182"
+                         VPOS="2165"
+                         HPOS="54">
+                  <String ID="string_r1l42"
+                          HEIGHT="54"
+                          WIDTH="1182"
+                          VPOS="2165"
+                          HPOS="54"
+                          CONTENT="das alle hiſtoriſche Wahrheit ſo mit Füßen tritt, verdient nicht, daß wir"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="50,2255 79,2256 108,2256 138,2257 167,2257 197,2257 226,2257 255,2257 285,2257 314,2256 344,2256 373,2255 403,2255 432,2254 461,2254 491,2253 520,2253 550,2252 579,2252 683,2251"
+                         HEIGHT="39"
+                         WIDTH="559"
+                         VPOS="2229"
+                         HPOS="50">
+                  <String ID="string_r1l43"
+                          HEIGHT="39"
+                          WIDTH="559"
+                          VPOS="2229"
+                          HPOS="50"
+                          CONTENT="noch eine Seite weiter recenſiren!“) —"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

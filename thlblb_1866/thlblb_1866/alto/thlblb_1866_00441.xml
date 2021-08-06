@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:42:56.287+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3156" WIDTH="2188">
+         <TopMargin HEIGHT="0" WIDTH="2188" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3156" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3156" WIDTH="0" VPOS="0" HPOS="2188"/>
+         <BottomMargin HEIGHT="0" WIDTH="2188" VPOS="3156" HPOS="0"/>
+         <PrintSpace HEIGHT="3156" WIDTH="2188" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1619598650824_568"
+                       HEIGHT="65"
+                       WIDTH="2100"
+                       VPOS="68"
+                       HPOS="29">
+               <Shape>
+                  <Polygon POINTS="29,68 2129,68 2129,133 29,133"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="59,90 87,90 115,92 144,92"
+                         HEIGHT="35"
+                         WIDTH="85"
+                         VPOS="68"
+                         HPOS="59">
+                  <String ID="string_r1l1"
+                          HEIGHT="35"
+                          WIDTH="85"
+                          VPOS="68"
+                          HPOS="59"
+                          CONTENT="863"/>
+               </TextLine>
+               <TextLine ID="line_1619598672986_581"
+                         BASELINE="618,95 643,96 668,96 694,98 719,99 744,99 770,99 795,99 820,99 846,99 871,99 897,99 922,99 947,99 973,99 998,99 1023,99 1049,99 1074,99 1100,99 1128,98 1154,98 1180,99 1206,99 1232,99 1258,99 1285,99 1311,99 1337,99 1363,99 1389,99 1415,99 1442,99 1468,99 1494,99 1520,101 1546,101 1572,101 1599,102"
+                         HEIGHT="40"
+                         WIDTH="981"
+                         VPOS="73"
+                         HPOS="618">
+                  <String ID="string_line_1619598672986_581"
+                          HEIGHT="40"
+                          WIDTH="981"
+                          VPOS="73"
+                          HPOS="618"
+                          CONTENT="Nr. 26 — Theologiſches Literaturblatt — 1866."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="2043,105 2070,105 2097,105 2124,105"
+                         HEIGHT="33"
+                         WIDTH="81"
+                         VPOS="83"
+                         HPOS="2043">
+                  <String ID="string_r1l4"
+                          HEIGHT="33"
+                          WIDTH="81"
+                          VPOS="83"
+                          HPOS="2043"
+                          CONTENT="864"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1619598665499_577"
+                       HEIGHT="1524"
+                       WIDTH="1069"
+                       VPOS="133"
+                       HPOS="29">
+               <Shape>
+                  <Polygon POINTS="29,133 1098,133 1098,1657 29,1657"/>
+               </Shape>
+               <TextLine ID="r1l6"
+                         BASELINE="299,230 324,230 349,230 374,230 399,231 424,231 449,231 474,231 499,231 524,231 550,231 575,231 600,231 625,231 650,231 675,233 700,233 725,233 750,234 775,234 801,236"
+                         HEIGHT="39"
+                         WIDTH="502"
+                         VPOS="208"
+                         HPOS="299">
+                  <String ID="string_r1l6"
+                          HEIGHT="39"
+                          WIDTH="502"
+                          VPOS="208"
+                          HPOS="299"
+                          CONTENT="Literariſche Notizen."/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="168,315 212,317 257,318 302,320 346,320 391,321 436,321 480,321 525,321 570,321 615,321 659,321 704,321 749,320 793,320 838,320 883,320 927,320 972,318 1017,318 1062,318"
+                         HEIGHT="36"
+                         WIDTH="894"
+                         VPOS="295"
+                         HPOS="168">
+                  <String ID="string_r1l9"
+                          HEIGHT="36"
+                          WIDTH="894"
+                          VPOS="295"
+                          HPOS="168"
+                          CONTENT="— Berichtigung. In Folge der in Nr. 24 d. Bl."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="63,359 112,360 161,360 210,362 259,362 309,362 358,362 407,363 456,363 505,363 555,363 604,363 653,363 702,363 751,362 801,362 850,362 899,362 948,362 997,362 1073,362"
+                         HEIGHT="34"
+                         WIDTH="1006"
+                         VPOS="339"
+                         HPOS="63">
+                  <String ID="string_r1l11"
+                          HEIGHT="34"
+                          WIDTH="1006"
+                          VPOS="339"
+                          HPOS="63"
+                          CONTENT="[Sp. 788] ausgeſprochenen Rüge wird der in Wolfs Fortbil⸗"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="65,404 114,404 164,404 214,404 263,405 313,405 363,405 412,405 462,405 512,405 562,405 611,405 661,405 711,405 760,405 810,405 860,405 909,405 959,405 1009,404 1059,404"
+                         HEIGHT="31"
+                         WIDTH="994"
+                         VPOS="384"
+                         HPOS="65">
+                  <String ID="string_r1l13"
+                          HEIGHT="31"
+                          WIDTH="994"
+                          VPOS="384"
+                          HPOS="65"
+                          CONTENT="dungsſchule Jahrg. 1866, Bd. I, Heft 1 über Peſtalozzi’s Grund⸗"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="65,447 114,447 163,447 212,447 261,447 311,447 360,447 409,447 458,447 507,449 557,449 606,449 655,449 704,449 753,449 803,449 852,449 901,447 950,447 999,446 1049,444"
+                         HEIGHT="35"
+                         WIDTH="984"
+                         VPOS="424"
+                         HPOS="65">
+                  <String ID="string_r1l15"
+                          HEIGHT="35"
+                          WIDTH="984"
+                          VPOS="424"
+                          HPOS="65"
+                          CONTENT="ſätze S. 37 u. 38 enthaltene und durch ein ſinnſtörendes Druck⸗"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="65,488 114,488 164,489 214,489 263,489 313,490 363,491 412,491 462,491 512,492 562,492 611,492 661,492 711,492 760,492 810,492 860,492 909,492 959,491 1009,491 1059,489"
+                         HEIGHT="34"
+                         WIDTH="994"
+                         VPOS="468"
+                         HPOS="65">
+                  <String ID="string_r1l17"
+                          HEIGHT="34"
+                          WIDTH="994"
+                          VPOS="468"
+                          HPOS="65"
+                          CONTENT="verſehen entſtellte Paſſus dahin berichtigt, daß ſtatt „der Geiſt⸗"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="63,533 112,533 162,533 211,533 261,534 310,534 360,534 409,534 459,534 508,534 558,535 607,536 657,536 706,536 756,536 805,536 855,535 904,534 954,534 1003,534 1053,533"
+                         HEIGHT="33"
+                         WIDTH="990"
+                         VPOS="513"
+                         HPOS="63">
+                  <String ID="string_r1l19"
+                          HEIGHT="33"
+                          WIDTH="990"
+                          VPOS="513"
+                          HPOS="63"
+                          CONTENT="liche Lienhard” u. ſ. w., zu leſen iſt: „der Geiſtliche in"/>
+               </TextLine>
+               <TextLine ID="line_1619598677983_585"
+                         BASELINE="59,576 84,576 109,576 135,576 160,576 186,578 211,578 237,578 252,579 281,575 311,575 357,575 392,576 427,577 462,578 497,578 532,578 567,578 602,578 637,578 672,578 707,578 742,576 777,576 812,576 847,576 882,576 917,575 952,575 987,575 1022,576 1058,576"
+                         HEIGHT="34"
+                         WIDTH="999"
+                         VPOS="555"
+                         HPOS="59">
+                  <String ID="string_line_1619598677983_585"
+                          HEIGHT="34"
+                          WIDTH="999"
+                          VPOS="555"
+                          HPOS="59"
+                          CONTENT="Lienhard”. — Die Redaction der Fortbildungsſchule iſt von"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="66,618 115,618 164,619 213,620 262,620 311,620 360,620 409,620 458,620 507,620 556,620 605,620 654,620 703,620 752,620 801,620 850,620 899,620 948,620 997,620 1067,620"
+                         HEIGHT="32"
+                         WIDTH="1006"
+                         VPOS="598"
+                         HPOS="66">
+                  <String ID="string_r1l25"
+                          HEIGHT="32"
+                          WIDTH="1006"
+                          VPOS="598"
+                          HPOS="66"
+                          CONTENT="mir unter dem 20. Nov. l. J. erſucht worden, die Emendation"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="50,663 88,663 127,662 166,662 205,662 244,662 283,662 322,662 361,662 400,662 439,663 477,663 516,663 555,663 594,663 633,663 672,663 711,663 750,663 789,663 853,663"
+                         HEIGHT="33"
+                         WIDTH="803"
+                         VPOS="640"
+                         HPOS="50">
+                  <String ID="string_r1l27"
+                          HEIGHT="33"
+                          WIDTH="803"
+                          VPOS="640"
+                          HPOS="50"
+                          CONTENT="dieſes Druckfehlers im nächſten Hefte zu bewirken."/>
+               </TextLine>
+               <TextLine ID="line_1619598684265_589"
+                         BASELINE="147,704 172,705 198,705 224,707 250,707 275,707 301,707 327,707 353,707 378,707 404,705 430,705 456,705 481,705 507,705 533,705 559,706 585,707 765,704 792,706 819,707 846,708 873,708 900,707 927,707 954,708 981,710"
+                         HEIGHT="37"
+                         WIDTH="834"
+                         VPOS="683"
+                         HPOS="147">
+                  <String ID="string_line_1619598684265_589"
+                          HEIGHT="37"
+                          WIDTH="834"
+                          VPOS="683"
+                          HPOS="147"
+                          CONTENT="Würzburg 24. Nov. 1866. Dr. Huller."/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="103,770 211,765 255,764 299,764 343,764 387,764 431,764 475,764 519,765 563,765 608,765 652,765 696,765 740,765 784,767 828,767 872,767 916,767 960,767 1004,768 1049,768"
+                         HEIGHT="34"
+                         WIDTH="954"
+                         VPOS="744"
+                         HPOS="95">
+                  <String ID="string_r1l35"
+                          HEIGHT="34"
+                          WIDTH="954"
+                          VPOS="744"
+                          HPOS="95"
+                          CONTENT="— Von der Sp. 565 beſprochenen Wiener Ausgabe der la⸗"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="63,812 112,810 162,809 211,809 261,809 311,807 360,807 410,807 460,809 509,809 559,809 609,809 658,809 708,810 758,810 807,810 857,810 907,810 956,810 1006,810 1056,810"
+                         HEIGHT="35"
+                         WIDTH="993"
+                         VPOS="787"
+                         HPOS="63">
+                  <String ID="string_r1l37"
+                          HEIGHT="35"
+                          WIDTH="993"
+                          VPOS="787"
+                          HPOS="63"
+                          CONTENT="teiniſchen Kirchenväter wird der erſte Band, Sulpicii"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="53,852 94,852 136,851 178,851 220,851 262,851 304,851 345,851 387,851 429,851 471,852 513,852 555,852 597,852 638,852 680,852 722,854 764,854 806,854 848,855 890,855"
+                         HEIGHT="34"
+                         WIDTH="837"
+                         VPOS="831"
+                         HPOS="53">
+                  <String ID="string_r1l39"
+                          HEIGHT="34"
+                          WIDTH="837"
+                          VPOS="831"
+                          HPOS="53"
+                          CONTENT="Severi Chronicon, rec. Halm, in kurzem erſcheinen."/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="173,903 217,903 261,902 305,902 350,902 394,902 438,902 483,902 527,903 571,903 616,903 660,903 704,904 748,905 793,905 837,905 881,905 926,905 970,905 1014,905 1059,905"
+                         HEIGHT="34"
+                         WIDTH="886"
+                         VPOS="881"
+                         HPOS="173">
+                  <String ID="string_r1l41"
+                          HEIGHT="34"
+                          WIDTH="886"
+                          VPOS="881"
+                          HPOS="173"
+                          CONTENT="— Von Levy’s Chaldäiſchem Wörterbuch (Sp. 223) iſt die"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="56,947 105,945 155,945 205,945 254,945 304,945 354,945 403,947 453,947 503,947 553,947 602,947 652,947 702,948 751,948 801,948 851,948 900,948 950,948 1000,947 1050,947"
+                         HEIGHT="34"
+                         WIDTH="994"
+                         VPOS="924"
+                         HPOS="56">
+                  <String ID="string_r1l43"
+                          HEIGHT="34"
+                          WIDTH="994"
+                          VPOS="924"
+                          HPOS="56"
+                          CONTENT="5. Lieferung erſchienen, welche den Schluß des erſten Bandes"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="59,990 108,989 158,989 208,990 258,990 308,990 358,990 407,990 457,990 507,990 557,990 607,990 657,992 707,992 756,992 806,992 856,992 906,992 956,993 1006,993 1056,993"
+                         HEIGHT="34"
+                         WIDTH="997"
+                         VPOS="969"
+                         HPOS="59">
+                  <String ID="string_r1l45"
+                          HEIGHT="34"
+                          WIDTH="997"
+                          VPOS="969"
+                          HPOS="59"
+                          CONTENT="(א bis ל) mit Nachträgen von Prof. Fleiſcher und den Anfang"/>
+               </TextLine>
+               <TextLine ID="r1l47"
+                         BASELINE="59,1032 108,1032 158,1032 207,1032 257,1032 307,1032 356,1034 406,1034 456,1034 505,1034 555,1034 605,1034 654,1034 704,1034 754,1034 803,1035 853,1035 903,1035 952,1035 1002,1035 1052,1035"
+                         HEIGHT="33"
+                         WIDTH="993"
+                         VPOS="1012"
+                         HPOS="59">
+                  <String ID="string_r1l47"
+                          HEIGHT="33"
+                          WIDTH="993"
+                          VPOS="1012"
+                          HPOS="59"
+                          CONTENT="des zweiten enthält. Manche beachtenswerthe Berichtigungen"/>
+               </TextLine>
+               <TextLine ID="r1l49"
+                         BASELINE="59,1077 108,1077 158,1076 207,1076 257,1076 307,1076 356,1076 406,1076 456,1076 505,1076 555,1076 605,1077 654,1077 704,1077 754,1077 803,1077 853,1077 903,1077 952,1077 1002,1076 1052,1076"
+                         HEIGHT="31"
+                         WIDTH="993"
+                         VPOS="1056"
+                         HPOS="59">
+                  <String ID="string_r1l49"
+                          HEIGHT="31"
+                          WIDTH="993"
+                          VPOS="1056"
+                          HPOS="59"
+                          CONTENT="geben Zarncke’s Lit. Centralblatt 1866, Sp. 565. 971."/>
+               </TextLine>
+               <TextLine ID="line_1619598696771_599"
+                         BASELINE="51,1118 89,1119 128,1119 167,1119 205,1118 244,1118 283,1118 321,1118 360,1118 399,1118 438,1118 476,1118 515,1118 554,1118 592,1119 631,1119 670,1119 708,1119 747,1121 786,1121 825,1121 842,1121 867,1120 892,1117 917,1118 932,1119 957,1119 983,1119 1009,1120 1035,1121 1061,1122"
+                         HEIGHT="36"
+                         WIDTH="1010"
+                         VPOS="1096"
+                         HPOS="51">
+                  <String ID="string_line_1619598696771_599"
+                          HEIGHT="36"
+                          WIDTH="1010"
+                          VPOS="1096"
+                          HPOS="51"
+                          CONTENT="und Frankels Monatsſchrift 1866, S. 73. 148. — Von der"/>
+               </TextLine>
+               <TextLine ID="r1l55"
+                         BASELINE="60,1161 112,1161 165,1161 217,1160 270,1160 322,1160 375,1161 428,1161 480,1161 533,1161 585,1163 638,1163 690,1163 743,1163 796,1163 848,1164 901,1164 953,1164 1006,1163 1059,1163"
+                         HEIGHT="34"
+                         WIDTH="999"
+                         VPOS="1140"
+                         HPOS="60">
+                  <String ID="string_r1l55"
+                          HEIGHT="34"
+                          WIDTH="999"
+                          VPOS="1140"
+                          HPOS="60"
+                          CONTENT="neuen Ausgabe des Buxtorf’ſchen Lexikons (Sp. 223) iſt erſt"/>
+               </TextLine>
+               <TextLine ID="r1l57"
+                         BASELINE="45,1206 95,1206 145,1206 196,1206 246,1206 297,1206 347,1206 397,1206 448,1206 498,1206 549,1206 599,1206 649,1206 700,1206 750,1206 801,1206 851,1206 901,1206 952,1206 1002,1206 1053,1206"
+                         HEIGHT="31"
+                         WIDTH="1008"
+                         VPOS="1185"
+                         HPOS="45">
+                  <String ID="string_r1l57"
+                          HEIGHT="31"
+                          WIDTH="1008"
+                          VPOS="1185"
+                          HPOS="45"
+                          CONTENT="die dritte Lieferung erſchienen, und zwar unter dem Namen des"/>
+               </TextLine>
+               <TextLine ID="r1l59"
+                         BASELINE="59,1248 108,1248 158,1248 208,1248 257,1248 307,1248 357,1248 406,1248 456,1248 506,1248 556,1250 605,1250 655,1250 705,1250 754,1250 804,1250 854,1250 903,1250 953,1250 1003,1251 1053,1250"
+                         HEIGHT="33"
+                         WIDTH="994"
+                         VPOS="1228"
+                         HPOS="59">
+                  <String ID="string_r1l59"
+                          HEIGHT="33"
+                          WIDTH="994"
+                          VPOS="1228"
+                          HPOS="59"
+                          CONTENT="jüdiſchen Herausgebers Fiſcher allein; der chriſtliche Herausgeber,"/>
+               </TextLine>
+               <TextLine ID="r1l61"
+                         BASELINE="48,1290 97,1290 147,1290 197,1290 247,1290 297,1290 346,1290 396,1290 446,1291 496,1292 546,1292 595,1292 645,1292 695,1292 745,1292 795,1292 844,1292 894,1292 944,1292 994,1293 1044,1293"
+                         HEIGHT="34"
+                         WIDTH="996"
+                         VPOS="1269"
+                         HPOS="48">
+                  <String ID="string_r1l61"
+                          HEIGHT="34"
+                          WIDTH="996"
+                          VPOS="1269"
+                          HPOS="48"
+                          CONTENT="Gelbe, iſt zurückgetreten. Das Werk wird ſehr ungünſtig be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l63"
+                         BASELINE="56,1334 106,1334 156,1334 206,1334 257,1334 307,1334 357,1334 408,1334 458,1334 508,1334 559,1334 609,1334 659,1334 709,1334 760,1334 810,1334 860,1335 911,1335 961,1335 1011,1335 1062,1335"
+                         HEIGHT="31"
+                         WIDTH="1006"
+                         VPOS="1314"
+                         HPOS="56">
+                  <String ID="string_r1l63"
+                          HEIGHT="31"
+                          WIDTH="1006"
+                          VPOS="1314"
+                          HPOS="56"
+                          CONTENT="urtheilt in Zarncke’s Lit. Centralbl. 1866, Sp. 619 und in"/>
+               </TextLine>
+               <TextLine ID="line_1619598700855_603"
+                         BASELINE="56,1376 94,1376 132,1376 170,1376 209,1376 247,1376 285,1376 323,1376 362,1376 400,1376 438,1376 476,1376 515,1376 553,1376 591,1376 629,1376 668,1377 706,1377 744,1377 782,1377 821,1377 855,1376 880,1377 906,1377 932,1377 958,1377 983,1376 1009,1377 1035,1378 1061,1380"
+                         HEIGHT="34"
+                         WIDTH="1005"
+                         VPOS="1356"
+                         HPOS="56">
+                  <String ID="string_line_1619598700855_603"
+                          HEIGHT="34"
+                          WIDTH="1005"
+                          VPOS="1356"
+                          HPOS="56"
+                          CONTENT="Frankels Monatsſchrift 1866, S. 190. 233. — Ueber die von"/>
+               </TextLine>
+               <TextLine ID="r1l67"
+                         BASELINE="60,1419 112,1419 165,1419 217,1419 270,1419 322,1419 375,1419 428,1419 480,1419 533,1421 585,1421 638,1421 690,1421 743,1421 796,1422 848,1422 901,1422 953,1421 1006,1421 1059,1421"
+                         HEIGHT="33"
+                         WIDTH="999"
+                         VPOS="1399"
+                         HPOS="60">
+                  <String ID="string_r1l67"
+                          HEIGHT="33"
+                          WIDTH="999"
+                          VPOS="1399"
+                          HPOS="60"
+                          CONTENT="Wright und Phillips herausgegebenen Syriaca (Sp. 563) han⸗"/>
+               </TextLine>
+               <TextLine ID="r1l72"
+                         BASELINE="53,1463 105,1463 158,1463 210,1463 263,1462 315,1463 368,1463 421,1463 473,1463 526,1463 578,1463 631,1464 683,1464 736,1464 789,1464 841,1464 894,1464 946,1464 999,1463 1052,1463"
+                         HEIGHT="32"
+                         WIDTH="999"
+                         VPOS="1442"
+                         HPOS="53">
+                  <String ID="string_r1l72"
+                          HEIGHT="32"
+                          WIDTH="999"
+                          VPOS="1442"
+                          HPOS="53"
+                          CONTENT="deln ausführlich Geiger in der Ztf. der D. M. G. 1866, 460"/>
+               </TextLine>
+               <TextLine ID="r1l74"
+                         BASELINE="54,1505 104,1506 154,1506 204,1506 255,1506 305,1506 355,1506 405,1506 456,1506 506,1506 556,1505 606,1505 657,1505 707,1505 757,1505 807,1505 858,1505 908,1506 958,1506 1008,1506 1059,1506"
+                         HEIGHT="31"
+                         WIDTH="1005"
+                         VPOS="1485"
+                         HPOS="54">
+                  <String ID="string_r1l74"
+                          HEIGHT="31"
+                          WIDTH="1005"
+                          VPOS="1485"
+                          HPOS="54"
+                          CONTENT="und Bickell in der Tüb. Quartalſchr. 1866, 465, über die von"/>
+               </TextLine>
+               <TextLine ID="r1l76"
+                         BASELINE="62,1548 111,1548 160,1548 210,1548 259,1548 309,1548 358,1548 407,1548 457,1548 506,1548 556,1547 605,1547 654,1547 704,1547 753,1547 803,1547 852,1548 901,1548 951,1548 1000,1550 1050,1550"
+                         HEIGHT="33"
+                         WIDTH="988"
+                         VPOS="1527"
+                         HPOS="62">
+                  <String ID="string_r1l76"
+                          HEIGHT="33"
+                          WIDTH="988"
+                          VPOS="1527"
+                          HPOS="62"
+                          CONTENT="Bickell und Overbeck edirten Schriften von Ephräm (Sp. 564),"/>
+               </TextLine>
+               <TextLine ID="r1l78"
+                         BASELINE="56,1593 105,1593 155,1593 204,1593 254,1593 303,1592 353,1592 402,1592 452,1592 501,1590 551,1590 600,1590 650,1590 699,1590 749,1590 798,1590 848,1590 897,1591 947,1592 996,1593 1046,1593"
+                         HEIGHT="33"
+                         WIDTH="990"
+                         VPOS="1570"
+                         HPOS="56">
+                  <String ID="string_r1l78"
+                          HEIGHT="33"
+                          WIDTH="990"
+                          VPOS="1570"
+                          HPOS="56"
+                          CONTENT="Zarncke’s Lit. Centralbl. 1866, 992. 1018. Eine Beſprechung"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1619598665498_576"
+                       HEIGHT="1524"
+                       WIDTH="1031"
+                       VPOS="133"
+                       HPOS="1098">
+               <Shape>
+                  <Polygon POINTS="1098,133 2129,133 2129,1657 1098,1657"/>
+               </Shape>
+               <TextLine ID="r1l5"
+                         BASELINE="1119,194 1168,195 1218,195 1268,195 1318,197 1367,197 1417,198 1467,198 1517,199 1566,200 1616,200 1666,201 1716,201 1765,201 1815,203 1865,203 1915,203 1964,203 2014,204 2064,204 2114,204"
+                         HEIGHT="40"
+                         WIDTH="995"
+                         VPOS="174"
+                         HPOS="1119">
+                  <String ID="string_r1l5"
+                          HEIGHT="40"
+                          WIDTH="995"
+                          VPOS="174"
+                          HPOS="1119"
+                          CONTENT="derſelben von P. Zingerle bringen wir in einer der nächſten"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="1118,237 1145,239 1172,237 1199,237 1226,237 1253,239 1280,243"
+                         HEIGHT="36"
+                         WIDTH="162"
+                         VPOS="217"
+                         HPOS="1118">
+                  <String ID="string_r1l7"
+                          HEIGHT="36"
+                          WIDTH="162"
+                          VPOS="217"
+                          HPOS="1118"
+                          CONTENT="Nummern."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="1153,280 1274,282 1321,282 1368,284 1416,284 1463,284 1510,285 1558,285 1605,286 1652,287 1700,287 1747,287 1794,287 1842,288 1889,288 1936,288 1984,288 2031,288 2078,288 2126,288"
+                         HEIGHT="37"
+                         WIDTH="979"
+                         VPOS="261"
+                         HPOS="1147">
+                  <String ID="string_r1l8"
+                          HEIGHT="37"
+                          WIDTH="979"
+                          VPOS="261"
+                          HPOS="1147"
+                          CONTENT="— „Eine literariſche Haſenjagd oder Methode, wie ein"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="1125,324 1177,324 1230,326 1282,326 1335,326 1387,326 1440,326 1493,327 1545,327 1598,327 1650,327 1703,329 1755,329 1808,330 1861,330 1913,330 1966,332 2018,332 2071,333 2124,333"
+                         HEIGHT="39"
+                         WIDTH="999"
+                         VPOS="304"
+                         HPOS="1125">
+                  <String ID="string_r1l10"
+                          HEIGHT="39"
+                          WIDTH="999"
+                          VPOS="304"
+                          HPOS="1125"
+                          CONTENT="gewiſſenhafter Polemiker wider die katholiſche Kirche Heiligenbilder"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="1128,366 1177,366 1226,366 1275,368 1324,368 1373,368 1422,368 1472,369 1521,369 1570,371 1619,371 1668,372 1717,372 1766,372 1816,374 1865,374 1914,374 1963,374 2012,375 2061,375 2111,375"
+                         HEIGHT="39"
+                         WIDTH="983"
+                         VPOS="346"
+                         HPOS="1128">
+                  <String ID="string_r1l12"
+                          HEIGHT="39"
+                          WIDTH="983"
+                          VPOS="346"
+                          HPOS="1128"
+                          CONTENT="zurecht macht, verrathen durch Ludwig Clarus” (Paderborn,"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="1127,408 1176,408 1226,410 1275,410 1325,410 1374,411 1424,411 1473,411 1523,413 1572,413 1622,414 1672,414 1721,414 1771,416 1820,416 1870,416 1919,417 1969,417 2018,417 2068,419 2118,419"
+                         HEIGHT="41"
+                         WIDTH="991"
+                         VPOS="388"
+                         HPOS="1127">
+                  <String ID="string_r1l14"
+                          HEIGHT="41"
+                          WIDTH="991"
+                          VPOS="388"
+                          HPOS="1127"
+                          CONTENT="Junfermann 1866. 124 S. kl. 8. 10 Sgr.) iſt eine Kritik des"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="1121,450 1171,450 1221,452 1271,452 1321,453 1371,453 1421,455 1471,455 1521,455 1571,456 1621,456 1671,458 1721,458 1771,458 1821,459 1871,459 1921,461 1971,461 2021,461 2071,461 2121,462"
+                         HEIGHT="42"
+                         WIDTH="1000"
+                         VPOS="430"
+                         HPOS="1121">
+                  <String ID="string_r1l16"
+                          HEIGHT="42"
+                          WIDTH="1000"
+                          VPOS="430"
+                          HPOS="1121"
+                          CONTENT="ſchon 1856 erſchienenen Schriftchens „Franz von Aſſiſi, ein"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="1127,492 1176,492 1225,493 1275,494 1324,494 1374,495 1423,496 1472,497 1522,498 1571,498 1621,500 1670,500 1719,501 1769,501 1818,502 1868,503 1917,503 1966,503 2016,503 2065,503 2115,503"
+                         HEIGHT="41"
+                         WIDTH="988"
+                         VPOS="472"
+                         HPOS="1127">
+                  <String ID="string_r1l18"
+                          HEIGHT="41"
+                          WIDTH="988"
+                          VPOS="472"
+                          HPOS="1127"
+                          CONTENT="Heiligenbild von Karl Haſe.” Haſe’s „Handbuch der Pole⸗"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="1118,537 1168,537 1218,536 1268,536 1319,536 1369,537 1419,537 1470,539 1520,539 1570,540 1621,541 1671,542 1721,543 1771,543 1822,545 1872,545 1922,546 1973,546 2023,546 2073,545 2124,545"
+                         HEIGHT="40"
+                         WIDTH="1006"
+                         VPOS="516"
+                         HPOS="1118">
+                  <String ID="string_r1l20"
+                          HEIGHT="40"
+                          WIDTH="1006"
+                          VPOS="516"
+                          HPOS="1118"
+                          CONTENT="mik” iſt mit Veranlaſſung dazu geweſen, daß Clarus das ältere"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="1128,581 1177,581 1227,581 1276,581 1326,581 1375,581 1425,581 1474,582 1524,582 1573,584 1623,584 1672,585 1722,585 1771,587 1821,587 1870,588 1920,588 1969,590 2019,590 2068,590 2118,590"
+                         HEIGHT="39"
+                         WIDTH="990"
+                         VPOS="561"
+                         HPOS="1128">
+                  <String ID="string_r1l24"
+                          HEIGHT="39"
+                          WIDTH="990"
+                          VPOS="561"
+                          HPOS="1128"
+                          CONTENT="Schriftchen — nebenbei auch die „Polemik” — kritiſirt. Die Kritik"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="1127,624 1176,624 1225,624 1274,624 1323,624 1373,624 1422,626 1471,626 1520,626 1569,627 1619,627 1668,629 1717,629 1766,630 1815,630 1865,631 1914,632 1963,632 2012,632 2061,633 2111,633"
+                         HEIGHT="39"
+                         WIDTH="984"
+                         VPOS="604"
+                         HPOS="1127">
+                  <String ID="string_r1l26"
+                          HEIGHT="39"
+                          WIDTH="984"
+                          VPOS="604"
+                          HPOS="1127"
+                          CONTENT="war urſprünglich beſtimmt, als Anhang zu der von Clarus"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="1112,668 1162,668 1212,668 1262,668 1312,668 1362,668 1412,668 1462,669 1512,669 1562,669 1613,669 1663,670 1713,671 1763,671 1813,672 1863,672 1913,674 1963,675 2013,675 2063,677 2114,678"
+                         HEIGHT="40"
+                         WIDTH="1002"
+                         VPOS="648"
+                         HPOS="1112">
+                  <String ID="string_r1l28"
+                          HEIGHT="40"
+                          WIDTH="1002"
+                          VPOS="648"
+                          HPOS="1112"
+                          CONTENT="überſetzten Geſchichte des h. Franz von Dauxignac gedruckt zu"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="1121,710 1171,711 1221,711 1271,711 1322,712 1372,713 1422,713 1472,713 1523,713 1573,713 1623,713 1673,713 1724,713 1774,713 1824,714 1874,714 1925,714 1975,716 2025,717 2075,719 2126,720"
+                         HEIGHT="40"
+                         WIDTH="1005"
+                         VPOS="690"
+                         HPOS="1121">
+                  <String ID="string_r1l32"
+                          HEIGHT="40"
+                          WIDTH="1005"
+                          VPOS="690"
+                          HPOS="1121"
+                          CONTENT="werden. Da ſie nicht in Verbindung mit einer Biographie des"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="1125,755 1174,755 1224,755 1274,755 1324,755 1374,755 1424,755 1474,755 1524,756 1574,756 1624,756 1673,756 1723,756 1773,756 1823,758 1873,758 1923,759 1973,759 2023,761 2073,761 2123,762"
+                         HEIGHT="37"
+                         WIDTH="998"
+                         VPOS="735"
+                         HPOS="1125">
+                  <String ID="string_r1l34"
+                          HEIGHT="37"
+                          WIDTH="998"
+                          VPOS="735"
+                          HPOS="1125"
+                          CONTENT="Heiligen erſcheint, hätten die einzelnen Punkte ſeines Lebens, um"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="1122,797 1171,797 1221,798 1271,798 1321,798 1371,800 1420,800 1470,800 1520,800 1570,800 1620,800 1669,800 1719,800 1769,800 1819,800 1869,800 1918,801 1968,801 2018,803 2068,804 2118,804"
+                         HEIGHT="37"
+                         WIDTH="996"
+                         VPOS="777"
+                         HPOS="1122">
+                  <String ID="string_r1l36"
+                          HEIGHT="37"
+                          WIDTH="996"
+                          VPOS="777"
+                          HPOS="1122"
+                          CONTENT="welche es ſich bei Haſe handelt, in der Volemik gegen ihn voll⸗"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="1134,839 1183,840 1232,840 1282,842 1331,842 1380,842 1430,843 1479,843 1528,843 1578,843 1627,843 1676,842 1726,842 1775,842 1824,843 1874,843 1923,843 1972,844 2022,845 2071,846 2121,848"
+                         HEIGHT="39"
+                         WIDTH="987"
+                         VPOS="819"
+                         HPOS="1134">
+                  <String ID="string_r1l38"
+                          HEIGHT="39"
+                          WIDTH="987"
+                          VPOS="819"
+                          HPOS="1134"
+                          CONTENT="ſtändiger angegeben werden müſſen, zumal dieſe in der Form"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="1115,882 1165,884 1216,884 1266,884 1317,884 1367,884 1418,885 1468,885 1519,885 1569,885 1620,885 1671,885 1721,885 1772,885 1822,885 1873,885 1923,885 1974,887 2024,887 2075,888 2126,888"
+                         HEIGHT="36"
+                         WIDTH="1011"
+                         VPOS="862"
+                         HPOS="1115">
+                  <String ID="string_r1l40"
+                          HEIGHT="36"
+                          WIDTH="1011"
+                          VPOS="862"
+                          HPOS="1115"
+                          CONTENT="eines fortlaufenden polemiſchen Commentars zu der Haſe’ſchen"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="1125,926 1174,927 1223,927 1273,927 1322,927 1371,929 1421,929 1470,929 1519,929 1569,929 1618,929 1667,929 1717,930 1766,930 1815,930 1865,930 1914,930 1963,930 2013,930 2062,930 2112,932"
+                         HEIGHT="36"
+                         WIDTH="987"
+                         VPOS="906"
+                         HPOS="1125">
+                  <String ID="string_r1l42"
+                          HEIGHT="36"
+                          WIDTH="987"
+                          VPOS="906"
+                          HPOS="1125"
+                          CONTENT="Schrift geführt wird. Am eingehendſten wird die Stigmatiſation"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="1112,969 1164,969 1217,970 1269,971 1322,971 1374,971 1427,972 1480,972 1532,972 1585,972 1637,974 1690,974 1742,974 1795,974 1848,974 1900,974 1953,975 2005,975 2058,975 2111,975"
+                         HEIGHT="36"
+                         WIDTH="999"
+                         VPOS="949"
+                         HPOS="1112">
+                  <String ID="string_r1l44"
+                          HEIGHT="36"
+                          WIDTH="999"
+                          VPOS="949"
+                          HPOS="1112"
+                          CONTENT="des h. Franz behandelt. Der Titel und der damit harmonirende"/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="1115,1013 1164,1013 1214,1013 1264,1014 1314,1014 1364,1014 1413,1016 1463,1016 1513,1016 1563,1017 1613,1017 1662,1017 1712,1018 1762,1019 1812,1019 1862,1019 1911,1019 1961,1019 2011,1019 2061,1019 2111,1019"
+                         HEIGHT="37"
+                         WIDTH="996"
+                         VPOS="992"
+                         HPOS="1115">
+                  <String ID="string_r1l46"
+                          HEIGHT="37"
+                          WIDTH="996"
+                          VPOS="992"
+                          HPOS="1115"
+                          CONTENT="Ton vieler Partieen des Schriftchens iſt nicht nach dem Ge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l48"
+                         BASELINE="1115,1062 1142,1059 1169,1057 1197,1056 1224,1055 1252,1055 1279,1055 1307,1056 1334,1058 1362,1061"
+                         HEIGHT="37"
+                         WIDTH="247"
+                         VPOS="1035"
+                         HPOS="1115">
+                  <String ID="string_r1l48"
+                          HEIGHT="37"
+                          WIDTH="247"
+                          VPOS="1035"
+                          HPOS="1115"
+                          CONTENT="ſchmacke des Ref."/>
+               </TextLine>
+               <TextLine ID="r1l50"
+                         BASELINE="1162,1110 1258,1107 1303,1109 1348,1109 1392,1109 1437,1110 1482,1110 1526,1110 1571,1110 1616,1110 1661,1110 1705,1110 1750,1110 1795,1110 1839,1111 1884,1112 1929,1112 1973,1112 2018,1112 2063,1113 2108,1113"
+                         HEIGHT="36"
+                         WIDTH="954"
+                         VPOS="1087"
+                         HPOS="1154">
+                  <String ID="string_r1l50"
+                          HEIGHT="36"
+                          WIDTH="954"
+                          VPOS="1087"
+                          HPOS="1154"
+                          CONTENT="— Von den Gelehrten, welche dem ‚Literaturblatte’ ihre Un⸗"/>
+               </TextLine>
+               <TextLine ID="r1l54"
+                         BASELINE="1109,1149 1159,1151 1209,1152 1259,1152 1309,1154 1359,1154 1409,1154 1459,1154 1509,1154 1559,1154 1609,1154 1659,1154 1709,1154 1759,1154 1809,1154 1859,1154 1909,1154 1959,1154 2009,1155 2059,1155 2109,1155"
+                         HEIGHT="36"
+                         WIDTH="1000"
+                         VPOS="1129"
+                         HPOS="1109">
+                  <String ID="string_r1l54"
+                          HEIGHT="36"
+                          WIDTH="1000"
+                          VPOS="1129"
+                          HPOS="1109"
+                          CONTENT="terſtützung zugeſagt hatten, ſind im Laufe dieſes Jahres ge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l56"
+                         BASELINE="1122,1193 1171,1194 1220,1194 1270,1196 1319,1196 1369,1196 1418,1196 1468,1196 1517,1196 1567,1196 1616,1196 1665,1196 1715,1196 1764,1196 1814,1196 1863,1196 1913,1196 1962,1196 2012,1196 2061,1197 2111,1197"
+                         HEIGHT="34"
+                         WIDTH="989"
+                         VPOS="1173"
+                         HPOS="1122">
+                  <String ID="string_r1l56"
+                          HEIGHT="34"
+                          WIDTH="989"
+                          VPOS="1173"
+                          HPOS="1122"
+                          CONTENT="ſtorben: der Dompropſt Dr. Franz Werner zu St. Pölten"/>
+               </TextLine>
+               <TextLine ID="r1l58"
+                         BASELINE="1124,1241 1173,1239 1223,1239 1272,1239 1322,1239 1371,1239 1421,1239 1470,1239 1520,1239 1569,1239 1619,1239 1668,1238 1718,1238 1767,1238 1817,1238 1866,1238 1916,1239 1965,1239 2015,1239 2064,1239 2114,1238"
+                         HEIGHT="33"
+                         WIDTH="990"
+                         VPOS="1218"
+                         HPOS="1124">
+                  <String ID="string_r1l58"
+                          HEIGHT="33"
+                          WIDTH="990"
+                          VPOS="1218"
+                          HPOS="1124"
+                          CONTENT="(geſt. 17. Febr., vgl. Sp. 181) und die Profeſſoren der Mün⸗"/>
+               </TextLine>
+               <TextLine ID="r1l60"
+                         BASELINE="1112,1280 1162,1280 1212,1280 1262,1280 1312,1281 1362,1281 1412,1281 1463,1281 1513,1281 1563,1282 1613,1283 1663,1283 1713,1283 1763,1283 1814,1283 1864,1283 1914,1283 1964,1284 2014,1284 2064,1284 2115,1283"
+                         HEIGHT="34"
+                         WIDTH="1003"
+                         VPOS="1260"
+                         HPOS="1112">
+                  <String ID="string_r1l60"
+                          HEIGHT="34"
+                          WIDTH="1003"
+                          VPOS="1260"
+                          HPOS="1112"
+                          CONTENT="chener theologiſchen Facultät Dr. Max von Stadlbaur (geſt."/>
+               </TextLine>
+               <TextLine ID="r1l62"
+                         BASELINE="1112,1325 1162,1325 1212,1325 1262,1325 1312,1325 1362,1326 1412,1326 1462,1326 1512,1326 1562,1328 1612,1328 1662,1328 1712,1328 1762,1328 1812,1328 1862,1328 1912,1328 1962,1328 2012,1328 2062,1326 2112,1326"
+                         HEIGHT="34"
+                         WIDTH="1000"
+                         VPOS="1304"
+                         HPOS="1112">
+                  <String ID="string_r1l62"
+                          HEIGHT="34"
+                          WIDTH="1000"
+                          VPOS="1304"
+                          HPOS="1112"
+                          CONTENT="5. Sept.) und Dr. Anton Rietter (geſt. 6. Nov.) R. I. P."/>
+               </TextLine>
+               <TextLine ID="r1l66"
+                         BASELINE="1149,1395 1197,1395 1245,1395 1294,1397 1342,1397 1391,1397 1439,1398 1488,1398 1536,1398 1585,1398 1633,1398 1681,1398 1730,1400 1778,1400 1827,1398 1875,1398 1924,1398 1972,1398 2021,1397 2069,1397 2118,1395"
+                         HEIGHT="35"
+                         WIDTH="969"
+                         VPOS="1375"
+                         HPOS="1149">
+                  <String ID="string_r1l66"
+                          HEIGHT="35"
+                          WIDTH="969"
+                          VPOS="1375"
+                          HPOS="1149"
+                          CONTENT="Correſpondenz der Redaction. No. 24: Der Art. iſt willkom⸗"/>
+               </TextLine>
+               <TextLine ID="line_1619598707697_607"
+                         BASELINE="1119,1431 1164,1431 1199,1434 1224,1433 1249,1433 1274,1433 1299,1434 1325,1434 1350,1434 1375,1434 1400,1434 1426,1434 1451,1435 1476,1436 1501,1436 1526,1436 1552,1437 1577,1437 1602,1437 1627,1437 1653,1437 1668,1440 1716,1440 1749,1440 1775,1439 1802,1437 1828,1437 1855,1437 1881,1436 1908,1436 1934,1436 1961,1436 1987,1436 2014,1437 2040,1437 2067,1437 2093,1437 2120,1436"
+                         HEIGHT="40"
+                         WIDTH="1001"
+                         VPOS="1411"
+                         HPOS="1119">
+                  <String ID="string_line_1619598707697_607"
+                          HEIGHT="40"
+                          WIDTH="1001"
+                          VPOS="1411"
+                          HPOS="1119"
+                          CONTENT="men. — No. 82: Dankend erhalten. — P. G. in M. (50): Zwei"/>
+               </TextLine>
+               <TextLine ID="r1l73"
+                         BASELINE="1109,1470 1134,1470 1160,1470 1185,1470 1211,1470 1236,1470 1262,1470 1287,1470 1313,1470 1338,1470 1364,1470 1389,1470 1415,1469"
+                         HEIGHT="31"
+                         WIDTH="306"
+                         VPOS="1449"
+                         HPOS="1109">
+                  <String ID="string_r1l73"
+                          HEIGHT="31"
+                          WIDTH="306"
+                          VPOS="1449"
+                          HPOS="1109"
+                          CONTENT="Zuſendungen erhalten"/>
+               </TextLine>
+               <TextLine ID="r1l75"
+                         BASELINE="1139,1520 1187,1521 1236,1521 1285,1523 1334,1523 1382,1524 1431,1524 1480,1524 1529,1524 1577,1524 1626,1524 1675,1524 1724,1524 1772,1524 1821,1524 1870,1524 1919,1524 1967,1524 2016,1526 2065,1526 2114,1526"
+                         HEIGHT="36"
+                         WIDTH="975"
+                         VPOS="1500"
+                         HPOS="1139">
+                  <String ID="string_r1l75"
+                          HEIGHT="36"
+                          WIDTH="975"
+                          VPOS="1500"
+                          HPOS="1139"
+                          CONTENT="Dieſer Nummer liegen Titel und Regiſter des Jahrgangs"/>
+               </TextLine>
+               <TextLine ID="r1l77"
+                         BASELINE="1116,1557 1165,1557 1215,1557 1265,1557 1315,1559 1364,1559 1414,1559 1464,1560 1514,1560 1563,1560 1613,1562 1663,1562 1713,1562 1762,1563 1812,1563 1862,1563 1912,1563 1961,1562 2011,1562 2061,1560 2111,1560"
+                         HEIGHT="36"
+                         WIDTH="995"
+                         VPOS="1537"
+                         HPOS="1116">
+                  <String ID="string_r1l77"
+                          HEIGHT="36"
+                          WIDTH="995"
+                          VPOS="1537"
+                          HPOS="1116"
+                          CONTENT="1866 bei. Es wird um baldige Anmeldung des Abonnements"/>
+               </TextLine>
+               <TextLine ID="r1l79"
+                         BASELINE="1110,1593 1136,1593 1162,1595 1189,1595 1215,1596 1242,1596 1268,1596 1294,1598 1321,1598 1347,1598 1374,1598 1400,1599 1426,1599 1453,1599 1479,1599 1506,1599 1532,1599 1558,1599 1585,1598 1611,1598 1638,1598"
+                         HEIGHT="36"
+                         WIDTH="528"
+                         VPOS="1573"
+                         HPOS="1110">
+                  <String ID="string_r1l79"
+                          HEIGHT="36"
+                          WIDTH="528"
+                          VPOS="1573"
+                          HPOS="1110"
+                          CONTENT="für den Jahrgang 1867 gebeten."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1619598657291_572"
+                       HEIGHT="1332"
+                       WIDTH="2100"
+                       VPOS="1657"
+                       HPOS="29">
+               <Shape>
+                  <Polygon POINTS="29,1657 2129,1657 2129,2989 29,2989"/>
+               </Shape>
+               <TextLine ID="r1l81"
+                         BASELINE="870,1814 896,1816 922,1819 948,1820 975,1821 1001,1821 1027,1823 1054,1823 1080,1823 1106,1823 1132,1823 1159,1823 1185,1823 1211,1823 1238,1823 1264,1823 1290,1824 1317,1824"
+                         HEIGHT="43"
+                         WIDTH="447"
+                         VPOS="1792"
+                         HPOS="870">
+                  <String ID="string_r1l81"
+                          HEIGHT="43"
+                          WIDTH="447"
+                          VPOS="1792"
+                          HPOS="870"
+                          CONTENT="Anzeigen."/>
+               </TextLine>
+               <TextLine ID="r1l82"
+                         BASELINE="153,1917 221,1917 290,1917 358,1917 427,1917 495,1919 564,1919 632,1920 701,1920 769,1920 838,1922 906,1922 975,1922 1043,1922 1112,1922 1180,1922 1249,1922 1317,1922 1386,1920 1454,1919 1523,1917"
+                         HEIGHT="38"
+                         WIDTH="1370"
+                         VPOS="1895"
+                         HPOS="153">
+                  <String ID="string_r1l82"
+                          HEIGHT="38"
+                          WIDTH="1370"
+                          VPOS="1895"
+                          HPOS="153"
+                          CONTENT="In der Junfermann’ſchen Buchhandlung in Paderborn ſind erſchienen:"/>
+               </TextLine>
+               <TextLine ID="line_1619598724644_616"
+                         BASELINE="44,2012 143,2013 242,2015 341,2016 440,2018 539,2018 638,2019 737,2019 766,2019 776,1985 843,1986 910,1985 977,1985 1044,1985 1111,1985 1178,1985 1245,1985 1312,1985 1379,1985 1447,1983 1514,1983 1581,1983 1648,1983 1715,1983 1782,1985 1849,1985 1916,1985 1983,1986 2050,1986 2118,1988"
+                         HEIGHT="66"
+                         WIDTH="2074"
+                         VPOS="1963"
+                         HPOS="44">
+                  <String ID="string_line_1619598724644_616"
+                          HEIGHT="66"
+                          WIDTH="2074"
+                          VPOS="1963"
+                          HPOS="44"
+                          CONTENT="Eine literariſche Haſenjagd oder Methode, wie ein gewiſſenhafter Polemiker wider die katholiſche Kirche Heiligenbilder"/>
+               </TextLine>
+               <TextLine ID="line_1619598719870_611"
+                         BASELINE="766,2019 836,2021 935,2021 1034,2022 1133,2022 1232,2022 1331,2022 1430,2022 1529,2022 1628,2022 1727,2022 1826,2022 1925,2022 2025,2022"
+                         HEIGHT="33"
+                         WIDTH="1259"
+                         VPOS="1999"
+                         HPOS="766">
+                  <String ID="string_line_1619598719870_611"
+                          HEIGHT="33"
+                          WIDTH="1259"
+                          VPOS="1999"
+                          HPOS="766"
+                          CONTENT="zurecht macht, verrathen durch Ludwig Clarus. 8⁰. 124 Seiten. Geh. 10 Sgr."/>
+               </TextLine>
+               <TextLine ID="line_1619599767249_754"
+                         BASELINE="45,2103 148,2104 252,2105 356,2106 460,2108 533,2108 558,2075 628,2075 699,2076 770,2076 841,2076 911,2076 982,2076 1053,2076 1124,2075 1194,2075 1265,2075 1336,2075 1407,2075 1477,2075 1548,2075 1619,2075 1690,2075 1760,2075 1831,2076 1902,2076 1973,2078 2004,2075 2031,2076 2059,2077 2086,2078 2114,2079"
+                         HEIGHT="63"
+                         WIDTH="2069"
+                         VPOS="2055"
+                         HPOS="45">
+                  <String ID="string_line_1619599767249_754"
+                          HEIGHT="63"
+                          WIDTH="2069"
+                          VPOS="2055"
+                          HPOS="45"
+                          CONTENT="Die Standeswahl. Ein Handbuch für Prieſter, chriſtliche Eltern und die reifere Jugend von P. Damanet, S. J. Auf Er⸗"/>
+               </TextLine>
+               <TextLine ID="line_1619598729541_620"
+                         BASELINE="533,2108 564,2109 667,2109 771,2111 875,2111 979,2112 1083,2112 1186,2114 1290,2114 1394,2114 1498,2115 1602,2115 1705,2115 1809,2115 1913,2115 2017,2114 2121,2114"
+                         HEIGHT="37"
+                         WIDTH="1588"
+                         VPOS="2088"
+                         HPOS="533">
+                  <String ID="string_line_1619598729541_620"
+                          HEIGHT="37"
+                          WIDTH="1588"
+                          VPOS="2088"
+                          HPOS="533"
+                          CONTENT="ſuchen des Verfaſſers in deutſcher Sprache bearbeitet von Hermann Joſeph von Fugger⸗Glött, Prieſter"/>
+               </TextLine>
+               <TextLine ID="r1l88"
+                         BASELINE="194,2148 240,2148 286,2148 332,2148 378,2148 425,2148 471,2148 517,2148 563,2148 609,2148 656,2148 702,2148 748,2148 794,2148 840,2148 887,2150 933,2150 979,2150 1025,2150 1071,2151 1118,2151"
+                         HEIGHT="33"
+                         WIDTH="924"
+                         VPOS="2128"
+                         HPOS="194">
+                  <String ID="string_r1l88"
+                          HEIGHT="33"
+                          WIDTH="924"
+                          VPOS="2128"
+                          HPOS="194"
+                          CONTENT="der Geſellſchaft Jeſu. 8⁰. XI u. 368 Seiten. Geh. 25 Sgr."/>
+               </TextLine>
+               <TextLine ID="line_1619598744684_629"
+                         BASELINE="29,2232 86,2232 143,2232 200,2232 258,2232 315,2232 372,2232 430,2231 487,2231 544,2231 602,2231 659,2231 716,2231 773,2231 831,2231 888,2232 945,2232 1003,2232 1060,2234 1117,2235 1175,2235 1190,2232 1215,2231 1241,2231 1267,2231 1293,2231 1319,2232 1345,2232 1371,2232 1396,2232 1422,2232 1448,2232 1474,2234 1500,2234 1526,2234 1552,2234 1578,2234 1626,2201 1652,2201 1678,2202 1704,2202 1730,2202 1757,2202 1783,2202 1809,2202 1835,2202 1861,2202 1888,2202 1914,2202 1940,2202 1966,2202 1992,2202 2019,2201 2045,2201 2071,2201 2097,2201 2124,2201"
+                         HEIGHT="64"
+                         WIDTH="2095"
+                         VPOS="2181"
+                         HPOS="29">
+                  <String ID="string_line_1619598744684_629"
+                          HEIGHT="64"
+                          WIDTH="2095"
+                          VPOS="2181"
+                          HPOS="29"
+                          CONTENT="Beiträge zur Geſchichte und Erklärung der Kirchenhymnen. Mit beſonderer Rückſicht auf das"/>
+               </TextLine>
+               <TextLine ID="r1l92"
+                         BASELINE="1617,2237 1643,2237 1669,2238 1695,2238 1721,2238 1747,2238 1773,2238 1799,2238 1825,2238 1851,2237 1877,2237 1903,2237 1929,2237 1955,2237 1981,2237 2007,2238 2033,2238 2059,2238 2085,2240 2111,2241"
+                         HEIGHT="34"
+                         WIDTH="494"
+                         VPOS="2217"
+                         HPOS="1617">
+                  <String ID="string_r1l92"
+                          HEIGHT="34"
+                          WIDTH="494"
+                          VPOS="2217"
+                          HPOS="1617"
+                          CONTENT="römiſche Brevier. Von Dr. Joh."/>
+               </TextLine>
+               <TextLine ID="line_1619598749392_633"
+                         BASELINE="189,2277 259,2277 329,2276 399,2276 469,2276 539,2276 609,2276 679,2276 749,2276 819,2276 889,2276 959,2276 1029,2276 1099,2276 1169,2276 1239,2276 1309,2276 1379,2276 1449,2276 1519,2276 1589,2276 1619,2274 1644,2276 1669,2276 1694,2277 1720,2277 1745,2277 1770,2277 1795,2276 1821,2276 1846,2276 1871,2276 1896,2274 1922,2274 1947,2274 1972,2276 1997,2276 2023,2277 2048,2277 2073,2280 2098,2282 2124,2285"
+                         HEIGHT="41"
+                         WIDTH="1935"
+                         VPOS="2254"
+                         HPOS="189">
+                  <String ID="string_line_1619598749392_633"
+                          HEIGHT="41"
+                          WIDTH="1935"
+                          VPOS="2254"
+                          HPOS="189"
+                          CONTENT="Kayſer, Profeſſor an der philoſ.⸗theol. Lehranſtalt zu Paderborn. Erſtes Heft. Gr. 8⁰. VIII u. 160 S. Geh. 17½ Sgr."/>
+               </TextLine>
+               <TextLine ID="r1l96"
+                         BASELINE="468,2415 529,2417 590,2418 651,2418 712,2418 773,2418 834,2418 895,2418 956,2418 1017,2418 1078,2417 1139,2417 1200,2417 1261,2417 1322,2417 1383,2417 1444,2417 1505,2418 1566,2418 1627,2420 1688,2421"
+                         HEIGHT="39"
+                         WIDTH="1220"
+                         VPOS="2393"
+                         HPOS="468">
+                  <String ID="string_r1l96"
+                          HEIGHT="39"
+                          WIDTH="1220"
+                          VPOS="2393"
+                          HPOS="468"
+                          CONTENT="Verlag der Fr. Hurter’ſchen Buchhandlung in Schaffhauſen."/>
+               </TextLine>
+               <TextLine ID="line_1619598764440_643"
+                         BASELINE="50,2514 75,2514 100,2513 125,2512 150,2511 175,2511 200,2511 225,2511 251,2511 276,2511 301,2511 326,2511 351,2511 376,2511 401,2511 426,2512 452,2513 477,2513 510,2513 544,2513 578,2513 611,2513 645,2513 679,2513 712,2513 746,2513 780,2513 814,2513 847,2513 881,2511 915,2511 948,2511 982,2511 1016,2511 1049,2510 1083,2510 1117,2510 1151,2510 1203,2480 1248,2480 1294,2481 1339,2481 1385,2481 1430,2481 1476,2481 1521,2481 1567,2481 1612,2481 1658,2481 1704,2481 1749,2481 1795,2483 1840,2483 1886,2483 1931,2483 1977,2483 2022,2483 2068,2484 2114,2484"
+                         HEIGHT="64"
+                         WIDTH="2064"
+                         VPOS="2460"
+                         HPOS="50">
+                  <String ID="string_line_1619598764440_643"
+                          HEIGHT="64"
+                          WIDTH="2064"
+                          VPOS="2460"
+                          HPOS="50"
+                          CONTENT="Die katholiſchen Kanzelredner Deutſchlands ſeit den letzten drei Jahrhunderten. Als Beitrag zur Geſchichte"/>
+               </TextLine>
+               <TextLine ID="r1l100"
+                         BASELINE="1181,2516 1227,2516 1274,2517 1320,2517 1367,2519 1414,2519 1460,2519 1507,2519 1554,2519 1600,2520 1647,2520 1694,2520 1740,2520 1787,2520 1834,2520 1880,2520 1927,2520 1974,2520 2020,2519 2067,2519 2114,2519"
+                         HEIGHT="34"
+                         WIDTH="933"
+                         VPOS="2496"
+                         HPOS="1181">
+                  <String ID="string_r1l100"
+                          HEIGHT="34"
+                          WIDTH="933"
+                          VPOS="2496"
+                          HPOS="1181"
+                          CONTENT="der deutſchen Kanzelberedſamkeit, ſowie als Material zur prak⸗"/>
+               </TextLine>
+               <TextLine ID="r1l101"
+                         BASELINE="200,2555 295,2555 391,2553 487,2553 582,2555 678,2555 774,2555 869,2555 965,2555 1061,2555 1157,2555 1252,2556 1348,2556 1444,2556 1539,2556 1635,2556 1731,2557 1826,2558 1922,2558 2018,2558 2114,2558"
+                         HEIGHT="35"
+                         WIDTH="1914"
+                         VPOS="2533"
+                         HPOS="200">
+                  <String ID="string_r1l101"
+                          HEIGHT="35"
+                          WIDTH="1914"
+                          VPOS="2533"
+                          HPOS="200"
+                          CONTENT="tiſchen Benutzung für Prediger. Von Dr. Joh. Nep. Briſchar. Erſter Band. Die Kanzelredner des 16. Jahrhun⸗"/>
+               </TextLine>
+               <TextLine ID="r1l102"
+                         BASELINE="201,2592 234,2592 268,2591 301,2591 335,2591 369,2591 402,2591 436,2591 470,2592 503,2592 537,2592 570,2592 604,2592 638,2592 671,2592 705,2592 739,2592 772,2592 806,2592 840,2592"
+                         HEIGHT="31"
+                         WIDTH="639"
+                         VPOS="2571"
+                         HPOS="201">
+                  <String ID="string_r1l102"
+                          HEIGHT="31"
+                          WIDTH="639"
+                          VPOS="2571"
+                          HPOS="201"
+                          CONTENT="derts. fl. 4. 48. Rthlr. 2. 24. Fr. 10."/>
+               </TextLine>
+               <TextLine ID="r1l103"
+                         BASELINE="147,2643 246,2643 345,2643 444,2642 543,2642 642,2642 741,2642 840,2642 939,2643 1038,2643 1137,2643 1236,2643 1335,2643 1434,2645 1533,2645 1632,2645 1731,2645 1830,2645 1929,2645 2028,2645 2127,2645"
+                         HEIGHT="33"
+                         WIDTH="1980"
+                         VPOS="2622"
+                         HPOS="147">
+                  <String ID="string_r1l103"
+                          HEIGHT="33"
+                          WIDTH="1980"
+                          VPOS="2622"
+                          HPOS="147"
+                          CONTENT="In erſter Linie iſt dieſes Werk ganz entſchieden ein Bibliothekswerk, da es zum erſten Male eine Geſchichte der deutſchen katholiſchen"/>
+               </TextLine>
+               <TextLine ID="r1l104"
+                         BASELINE="48,2681 125,2681 203,2681 280,2681 358,2679 436,2679 513,2679 591,2679 669,2679 746,2679 824,2679 902,2679 979,2679 1057,2679 1135,2679 1212,2679 1290,2679 1368,2679 1445,2679 1523,2679 1601,2679"
+                         HEIGHT="32"
+                         WIDTH="1553"
+                         VPOS="2659"
+                         HPOS="48">
+                  <String ID="string_r1l104"
+                          HEIGHT="32"
+                          WIDTH="1553"
+                          VPOS="2659"
+                          HPOS="48"
+                          CONTENT="Kanzelberedſamkeit giebt, die bisher ein völlig unbekanntes Feld, deren Träger durchaus ignorirt waren."/>
+               </TextLine>
+               <TextLine ID="r1l105"
+                         BASELINE="155,2718 253,2717 351,2717 449,2717 547,2717 645,2717 743,2717 842,2717 940,2717 1038,2715 1136,2715 1234,2715 1332,2715 1430,2715 1529,2715 1627,2715 1725,2715 1823,2715 1921,2715 2019,2715 2118,2715"
+                         HEIGHT="33"
+                         WIDTH="1963"
+                         VPOS="2695"
+                         HPOS="155">
+                  <String ID="string_r1l105"
+                          HEIGHT="33"
+                          WIDTH="1963"
+                          VPOS="2695"
+                          HPOS="155"
+                          CONTENT="Damit verbindet der Verfaſſer einen weitern ganz praktiſchen Zweck, indem er aus dieſem reichen Schatze der deutſchen Predigt der"/>
+               </TextLine>
+               <TextLine ID="r1l106"
+                         BASELINE="44,2753 146,2753 249,2753 351,2753 454,2753 557,2753 659,2753 762,2753 865,2751 967,2751 1070,2751 1173,2753 1275,2753 1378,2753 1481,2753 1583,2753 1686,2753 1789,2753 1891,2753 1994,2753 2097,2753"
+                         HEIGHT="32"
+                         WIDTH="2053"
+                         VPOS="2731"
+                         HPOS="44">
+                  <String ID="string_r1l106"
+                          HEIGHT="32"
+                          WIDTH="2053"
+                          VPOS="2731"
+                          HPOS="44"
+                          CONTENT="drei letzten Jahrhunderte das Werthvollſte und Bedeutendſte heraushebt und zu einer homiletiſchen Fundgrube für die Gegenwart macht."/>
+               </TextLine>
+               <TextLine ID="r1l107"
+                         BASELINE="155,2790 240,2790 325,2790 410,2790 495,2789 581,2789 666,2789 751,2789 836,2789 921,2789 1007,2789 1092,2789 1177,2789 1262,2787 1347,2787 1433,2787 1518,2789 1603,2789 1688,2789 1773,2789 1859,2790"
+                         HEIGHT="33"
+                         WIDTH="1704"
+                         VPOS="2767"
+                         HPOS="155">
+                  <String ID="string_r1l107"
+                          HEIGHT="33"
+                          WIDTH="1704"
+                          VPOS="2767"
+                          HPOS="155"
+                          CONTENT="Ein reicherer Schatz alter gediegener Predigten, paſſend für alle Bedürfniſſe der Gegenwart, iſt gar nicht denkbar."/>
+               </TextLine>
+               <TextLine ID="r1l108"
+                         BASELINE="164,2826 261,2825 359,2825 457,2825 555,2825 653,2825 751,2825 848,2825 946,2825 1044,2826 1142,2826 1240,2826 1338,2826 1436,2826 1533,2826 1631,2826 1729,2826 1827,2826 1925,2826 2023,2826 2121,2825"
+                         HEIGHT="31"
+                         WIDTH="1957"
+                         VPOS="2805"
+                         HPOS="164">
+                  <String ID="string_r1l108"
+                          HEIGHT="31"
+                          WIDTH="1957"
+                          VPOS="2805"
+                          HPOS="164"
+                          CONTENT="Somit empfehlen wir dieſes Werk der Theilnahme der geſammten Geiſtlichkeit recht angelegentlichſt, deren Unterſtützung allein die"/>
+               </TextLine>
+               <TextLine ID="r1l109"
+                         BASELINE="45,2861 101,2862 157,2862 213,2864 269,2864 326,2864 382,2864 438,2864 494,2864 550,2864 607,2864 663,2864 719,2864 775,2864 831,2864 888,2862 944,2862 1000,2862 1056,2862 1112,2861 1169,2861"
+                         HEIGHT="33"
+                         WIDTH="1124"
+                         VPOS="2841"
+                         HPOS="45">
+                  <String ID="string_r1l109"
+                          HEIGHT="33"
+                          WIDTH="1124"
+                          VPOS="2841"
+                          HPOS="45"
+                          CONTENT="Durchführung des von dem Herausgeber angeſtrebten Zieles möglich macht."/>
+               </TextLine>
+               <TextLine ID="r1l110"
+                         BASELINE="200,2973 288,2975 377,2976 465,2976 554,2978 642,2978 731,2978 819,2978 908,2978 996,2978 1085,2978 1174,2978 1262,2978 1351,2978 1439,2978 1528,2978 1616,2976 1705,2976 1793,2976 1882,2976 1971,2976"
+                         HEIGHT="38"
+                         WIDTH="1771"
+                         VPOS="2951"
+                         HPOS="200">
+                  <String ID="string_r1l110"
+                          HEIGHT="38"
+                          WIDTH="1771"
+                          VPOS="2951"
+                          HPOS="200"
+                          CONTENT="Verantw. Redacteur Prof. Reuſch. —Verlag von A. Henry in Bonn. — Druck von Carl Georgi in Bonn."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:40:07.48+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2339" WIDTH="1420">
+         <TopMargin HEIGHT="0" WIDTH="1420" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="1420"/>
+         <BottomMargin HEIGHT="0" WIDTH="1420" VPOS="2339" HPOS="0"/>
+         <PrintSpace HEIGHT="2339" WIDTH="1420" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2074" WIDTH="1290" VPOS="162" HPOS="69">
+               <Shape>
+                  <Polygon POINTS="69,162 69,2236 1359,2236 1359,162"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="331,190 369,190 408,190 446,189 485,189 524,189 562,189 601,189 640,189 678,189 717,189 756,189 794,190 833,190 872,190 910,190 949,190 988,190 1026,190 1065,189 1104,189"
+                         HEIGHT="41"
+                         WIDTH="773"
+                         VPOS="162"
+                         HPOS="331">
+                  <String ID="string_r1l1"
+                          HEIGHT="41"
+                          WIDTH="773"
+                          VPOS="162"
+                          HPOS="331"
+                          CONTENT="Die zwei vorausgehenden Serien"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="700,270 736,270"
+                         HEIGHT="40"
+                         WIDTH="36"
+                         VPOS="243"
+                         HPOS="700">
+                  <String ID="string_r1l2"
+                          HEIGHT="40"
+                          WIDTH="36"
+                          VPOS="243"
+                          HPOS="700"
+                          CONTENT="der"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="239,362 286,364 334,366 382,368 430,369 477,370 525,371 573,372 621,372 668,372 716,373 764,373 812,373 859,373 907,373 955,373 1003,373 1050,372 1098,372 1146,373 1194,373"
+                         HEIGHT="51"
+                         WIDTH="955"
+                         VPOS="335"
+                         HPOS="239">
+                  <String ID="string_r1l3"
+                          HEIGHT="51"
+                          WIDTH="955"
+                          VPOS="335"
+                          HPOS="239"
+                          CONTENT="Stimmen aus Maria⸗Laach."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="148,538 208,537 268,537 328,537 388,537 448,537 508,537 568,538 628,538 688,538 748,539 808,539 868,539 928,540 988,540 1048,540 1108,539 1168,539 1228,538 1288,537 1349,536"
+                         HEIGHT="44"
+                         WIDTH="1201"
+                         VPOS="509"
+                         HPOS="148">
+                  <String ID="string_r1l4"
+                          HEIGHT="44"
+                          WIDTH="1201"
+                          VPOS="509"
+                          HPOS="148"
+                          CONTENT="In der Unterzeichneten iſt erſchienen und durch alle Buchhandlungen zu beziehen:"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="85,641 148,641 211,641 274,641 337,642 400,642 463,642 527,643 590,643 653,643 716,644 779,644 842,644 905,644 969,645 1032,645 1095,644 1158,644 1221,644 1284,643 1348,643"
+                         HEIGHT="44"
+                         WIDTH="1263"
+                         VPOS="614"
+                         HPOS="85">
+                  <String ID="string_r1l5"
+                          HEIGHT="44"
+                          WIDTH="1263"
+                          VPOS="614"
+                          HPOS="85"
+                          CONTENT="Encyclica, die, Papſt Pius’ IX. vom 8. Dezember 1864."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="164,703 223,703 282,703 342,704 401,704 461,705 520,705 580,706 639,707 699,708 758,709 817,709 877,710 936,711 996,711 1055,711 1115,711 1174,711 1234,710 1293,709 1353,708"
+                         HEIGHT="45"
+                         WIDTH="1189"
+                         VPOS="678"
+                         HPOS="164">
+                  <String ID="string_r1l6"
+                          HEIGHT="45"
+                          WIDTH="1189"
+                          VPOS="678"
+                          HPOS="164"
+                          CONTENT="Stimmen aus Maria-Laach. 12 Hefte. gr. 8⁰. (1945 S.) Voll⸗"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="171,757 221,758 272,759 323,760 374,760 425,760 476,761 527,761 578,761 629,761 680,761 730,761 781,761 832,761 883,761 934,761 985,761 1036,761 1087,761 1138,761 1189,762"
+                         HEIGHT="42"
+                         WIDTH="1018"
+                         VPOS="732"
+                         HPOS="171">
+                  <String ID="string_r1l7"
+                          HEIGHT="42"
+                          WIDTH="1018"
+                          VPOS="732"
+                          HPOS="171"
+                          CONTENT="ſtändig Thlr. 6. 16 ſgr. — fl. 10. 55 kr. — fr. 24. 50."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="78,834 141,834 205,834 269,834 333,834 397,835 460,835 524,835 588,835 652,836 716,836 779,836 843,837 907,837 971,838 1035,838 1098,838 1162,839 1226,839 1290,839 1354,840"
+                         HEIGHT="36"
+                         WIDTH="1276"
+                         VPOS="814"
+                         HPOS="78">
+                  <String ID="string_r1l8"
+                          HEIGHT="36"
+                          WIDTH="1276"
+                          VPOS="814"
+                          HPOS="78"
+                          CONTENT="I. Heft: Eine Vorfrage über die Verpflichtung. Von Fl. Rieß. Zweite"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="156,875 200,875 245,875 289,875 334,875 379,875 423,875 468,875 513,875 557,876 602,876 647,876 691,876 736,876 781,876 825,877 870,877 915,877 959,877 1004,877 1049,876"
+                         HEIGHT="32"
+                         WIDTH="893"
+                         VPOS="855"
+                         HPOS="156">
+                  <String ID="string_r1l9"
+                          HEIGHT="32"
+                          WIDTH="893"
+                          VPOS="855"
+                          HPOS="156"
+                          CONTENT="Auflage. (119 S.) 12 ſgr. — 40 kr. — fr. 1. 50."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="75,939 138,939 202,940 266,940 329,941 393,941 457,941 520,942 584,942 648,943 712,943 775,944 839,944 903,945 966,945 1030,945 1094,945 1157,946 1221,946 1285,946 1349,945"
+                         HEIGHT="37"
+                         WIDTH="1274"
+                         VPOS="919"
+                         HPOS="75">
+                  <String ID="string_r1l10"
+                          HEIGHT="37"
+                          WIDTH="1274"
+                          VPOS="919"
+                          HPOS="75"
+                          CONTENT="II. Heft: Die Grundirrthümer unſerer Zeit. Von P. Roh. Dritte Auf⸗"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="165,980 203,980 242,980 281,980 320,980 359,980 398,980 437,980 476,980 515,980 553,980 592,981 631,981 670,981 709,981 748,981 787,982 826,982 865,983 904,983"
+                         HEIGHT="33"
+                         WIDTH="739"
+                         VPOS="960"
+                         HPOS="165">
+                  <String ID="string_r1l11"
+                          HEIGHT="33"
+                          WIDTH="739"
+                          VPOS="960"
+                          HPOS="165"
+                          CONTENT="lage. (68 S.) 6 ſgr. — 20 kr. — 75 cts."/>
+               </TextLine>
+               <TextLine ID="line_1617094196290_102"
+                         BASELINE="75,1042 104,1042 133,1044 161,1043 195,1044 230,1045 265,1045 300,1046 335,1046 369,1047 404,1047 439,1047 474,1047 509,1047 543,1047 578,1047 613,1047 648,1047 683,1048 717,1048 752,1048 787,1048 822,1049 857,1050 868,1047 893,1048 919,1049 944,1049 970,1049 995,1049 1021,1049 1046,1050 1072,1050 1097,1050 1123,1050 1148,1050 1174,1050 1199,1050 1225,1050 1250,1050 1276,1050 1301,1050 1327,1050 1353,1051"
+                         HEIGHT="46"
+                         WIDTH="1278"
+                         VPOS="1015"
+                         HPOS="75">
+                  <String ID="string_line_1617094196290_102"
+                          HEIGHT="46"
+                          WIDTH="1278"
+                          VPOS="1015"
+                          HPOS="75"
+                          CONTENT="III. Heft: Irrthümer über die Ehe. Von G. Schneemann. Zweite"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="167,1084 210,1085 254,1085 298,1086 342,1086 386,1086 430,1087 474,1087 518,1087 562,1087 606,1087 649,1087 693,1087 737,1087 781,1087 825,1087 869,1088 913,1088 957,1088 1001,1089 1045,1090"
+                         HEIGHT="36"
+                         WIDTH="878"
+                         VPOS="1064"
+                         HPOS="167">
+                  <String ID="string_r1l15"
+                          HEIGHT="36"
+                          WIDTH="878"
+                          VPOS="1064"
+                          HPOS="167"
+                          CONTENT="Auflage. (124 S.) 12 ſgr. — 40 tr. — fr. I. 50."/>
+               </TextLine>
+               <TextLine ID="line_1617094236289_108"
+                         BASELINE="75,1148 105,1147 135,1148 147,1149 207,1150 267,1150 328,1151 388,1151 449,1152 509,1152 569,1153 630,1153 690,1153 751,1154 811,1154 871,1154 932,1155 992,1155 1053,1155 1113,1156 1173,1156 1234,1156 1294,1157 1355,1157"
+                         HEIGHT="47"
+                         WIDTH="1280"
+                         VPOS="1120"
+                         HPOS="75">
+                  <String ID="string_line_1617094236289_108"
+                          HEIGHT="47"
+                          WIDTH="1280"
+                          VPOS="1120"
+                          HPOS="75"
+                          CONTENT="IV. Heft: Der Papſt und der Kirchenſtaat. Von D. Rattinger. Zweite"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="163,1188 203,1189 243,1190 283,1191 324,1191 364,1192 404,1192 444,1192 485,1192 525,1192 565,1192 605,1192 646,1192 686,1192 726,1192 766,1192 807,1192 847,1192 887,1193 927,1194 968,1195"
+                         HEIGHT="37"
+                         WIDTH="805"
+                         VPOS="1168"
+                         HPOS="163">
+                  <String ID="string_r1l18"
+                          HEIGHT="37"
+                          WIDTH="805"
+                          VPOS="1168"
+                          HPOS="163"
+                          CONTENT="Auflage. (179 S.) 16 ſgr. — 54 kr. — fr. 2."/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="83,1253 146,1254 209,1254 272,1255 335,1255 399,1256 462,1257 525,1257 588,1258 651,1258 715,1258 778,1259 841,1259 904,1259 967,1259 1031,1259 1094,1259 1157,1259 1220,1259 1283,1259 1347,1259"
+                         HEIGHT="36"
+                         WIDTH="1264"
+                         VPOS="1233"
+                         HPOS="83">
+                  <String ID="string_r1l19"
+                          HEIGHT="36"
+                          WIDTH="1264"
+                          VPOS="1233"
+                          HPOS="83"
+                          CONTENT="V. Heft: Die moderne Irrlehre oder der Liberalismus und ſeine Ver-"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="152,1296 211,1296 271,1296 331,1296 391,1297 450,1297 510,1297 570,1297 630,1298 689,1298 749,1299 809,1299 869,1299 928,1300 988,1300 1048,1300 1108,1301 1167,1301 1227,1301 1287,1301 1347,1301"
+                         HEIGHT="35"
+                         WIDTH="1195"
+                         VPOS="1276"
+                         HPOS="152">
+                  <String ID="string_r1l20"
+                          HEIGHT="35"
+                          WIDTH="1195"
+                          VPOS="1276"
+                          HPOS="152"
+                          CONTENT="zweigungen im Lichte der Offenbarung. Von Fl. Rieß. Zweite"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="161,1333 205,1333 250,1334 294,1335 339,1335 383,1335 428,1336 472,1336 517,1336 561,1336 606,1336 651,1336 695,1336 740,1336 784,1336 829,1336 873,1336 918,1337 962,1337 1007,1338 1052,1339"
+                         HEIGHT="36"
+                         WIDTH="891"
+                         VPOS="1313"
+                         HPOS="161">
+                  <String ID="string_r1l21"
+                          HEIGHT="36"
+                          WIDTH="891"
+                          VPOS="1313"
+                          HPOS="161"
+                          CONTENT="Auflage. (1O7 S.) 12 ſgr. — 40 tr. — fr. 1. 50."/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="79,1397 142,1398 206,1399 270,1400 333,1401 397,1401 461,1402 524,1402 588,1402 652,1403 716,1403 779,1403 843,1403 907,1403 970,1404 1034,1404 1098,1404 1161,1404 1225,1405 1289,1405 1353,1406"
+                         HEIGHT="39"
+                         WIDTH="1274"
+                         VPOS="1377"
+                         HPOS="79">
+                  <String ID="string_r1l22"
+                          HEIGHT="39"
+                          WIDTH="1274"
+                          VPOS="1377"
+                          HPOS="79"
+                          CONTENT="VI. Heft: Die Freiheit und Unabhängigkeit der Kirche. Von G. Schnee⸗"/>
+               </TextLine>
+               <TextLine ID="line_1617094397740_125"
+                         BASELINE="157,1439 204,1439 251,1439 299,1440 346,1440 394,1441 441,1441 488,1441 536,1441 583,1442 631,1442 678,1442 725,1443 773,1443 820,1443 868,1444 915,1444 962,1444 1010,1445 1057,1445 1105,1446 1119,1444 1144,1442 1170,1442 1196,1443 1222,1443 1248,1445 1274,1446 1352,1447"
+                         HEIGHT="37"
+                         WIDTH="1143"
+                         VPOS="1419"
+                         HPOS="157">
+                  <String ID="string_line_1617094397740_125"
+                          HEIGHT="37"
+                          WIDTH="1143"
+                          VPOS="1419"
+                          HPOS="157"
+                          CONTENT="mann. Erſte und zweite Auflage. (118 S.) 12 ſgr. — 40 kr. —"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="162,1475 191,1478 220,1479 250,1478 279,1478 309,1480"
+                         HEIGHT="35"
+                         WIDTH="147"
+                         VPOS="1455"
+                         HPOS="162">
+                  <String ID="string_r1l25"
+                          HEIGHT="35"
+                          WIDTH="147"
+                          VPOS="1455"
+                          HPOS="162"
+                          CONTENT="fr. 1. 50."/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="79,1540 142,1542 205,1543 269,1544 332,1545 396,1546 459,1546 522,1547 586,1547 649,1547 713,1547 776,1548 839,1548 903,1548 966,1548 1030,1549 1093,1549 1156,1550 1220,1551 1283,1552 1347,1554"
+                         HEIGHT="44"
+                         WIDTH="1268"
+                         VPOS="1520"
+                         HPOS="79">
+                  <String ID="string_r1l26"
+                          HEIGHT="44"
+                          WIDTH="1268"
+                          VPOS="1520"
+                          HPOS="79"
+                          CONTENT="VII. Heft: Die Kirchliche Gewalt und ihre Träger. Von G. Schnee⸗"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="157,1584 200,1585 243,1585 287,1586 330,1586 374,1587 417,1587 461,1587 504,1587 548,1587 591,1587 634,1587 678,1587 721,1587 765,1587 808,1587 852,1588 895,1588 939,1589 982,1589 1026,1590"
+                         HEIGHT="36"
+                         WIDTH="869"
+                         VPOS="1564"
+                         HPOS="157">
+                  <String ID="string_r1l27"
+                          HEIGHT="36"
+                          WIDTH="869"
+                          VPOS="1564"
+                          HPOS="157"
+                          CONTENT="mann. (112 S.) 12 ſgr. — 40 kr. — fr. 1. 50."/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="77,1646 141,1647 205,1649 269,1650 333,1651 397,1652 461,1653 525,1654 589,1654 653,1654 718,1655 782,1655 846,1655 910,1655 974,1655 1038,1656 1102,1656 1166,1656 1230,1657 1294,1657 1359,1658"
+                         HEIGHT="42"
+                         WIDTH="1282"
+                         VPOS="1626"
+                         HPOS="77">
+                  <String ID="string_r1l28"
+                          HEIGHT="42"
+                          WIDTH="1282"
+                          VPOS="1626"
+                          HPOS="77"
+                          CONTENT="VIII. Heft: Der Papſt, das Oberhaupt der Geſammtkirche. Von G. Schnee⸗"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="163,1690 206,1691 249,1691 293,1692 336,1692 380,1693 423,1693 466,1693 510,1693 553,1693 597,1693 640,1693 683,1693 727,1694 770,1694 814,1694 857,1694 900,1695 944,1695 987,1696 1031,1697"
+                         HEIGHT="37"
+                         WIDTH="868"
+                         VPOS="1670"
+                         HPOS="163">
+                  <String ID="string_r1l29"
+                          HEIGHT="37"
+                          WIDTH="868"
+                          VPOS="1670"
+                          HPOS="163"
+                          CONTENT="mann. (152 S.) 14 ſgr. — 45 kr. — fr. 1. 70."/>
+               </TextLine>
+               <TextLine ID="line_1617094479174_144"
+                         BASELINE="69,1746 100,1752 131,1754 155,1754 214,1755 274,1755 334,1756 394,1756 454,1757 514,1758 573,1758 633,1759 693,1759 753,1760 813,1760 873,1760 933,1761 992,1761 1052,1761 1112,1761 1172,1761 1232,1762 1292,1761 1352,1761"
+                         HEIGHT="53"
+                         WIDTH="1283"
+                         VPOS="1719"
+                         HPOS="69">
+                  <String ID="string_line_1617094479174_144"
+                          HEIGHT="53"
+                          WIDTH="1283"
+                          VPOS="1719"
+                          HPOS="69"
+                          CONTENT="IX. Heft: Die Grundſätze der Sittlichkeit und des Rechts. Nach Maßgabe"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="164,1794 223,1795 283,1795 342,1796 402,1796 461,1797 521,1797 580,1798 640,1798 699,1799 759,1799 819,1800 878,1800 938,1800 997,1801 1057,1801 1116,1801 1176,1801 1235,1801 1295,1801 1355,1801"
+                         HEIGHT="37"
+                         WIDTH="1191"
+                         VPOS="1774"
+                         HPOS="164">
+                  <String ID="string_r1l32"
+                          HEIGHT="37"
+                          WIDTH="1191"
+                          VPOS="1774"
+                          HPOS="164"
+                          CONTENT="der im Syllabus §. VII. verzeichneten Irrthümer beleuchtet. Von"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="157,1834 213,1834 270,1835 327,1836 384,1836 440,1837 497,1837 554,1837 611,1838 668,1838 724,1839 781,1839 838,1839 895,1840 952,1840 1008,1840 1065,1840 1122,1840 1179,1840 1236,1840"
+                         HEIGHT="36"
+                         WIDTH="1079"
+                         VPOS="1814"
+                         HPOS="157">
+                  <String ID="string_r1l33"
+                          HEIGHT="36"
+                          WIDTH="1079"
+                          VPOS="1814"
+                          HPOS="157"
+                          CONTENT="Th. Meyer. (282 S.) 28 ſgr. — fl. 1. 36 kr. — fr. 3. 60."/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="81,1897 144,1898 208,1899 271,1900 335,1901 399,1901 462,1902 526,1903 590,1903 653,1904 717,1904 781,1905 844,1905 908,1906 972,1906 1035,1907 1099,1907 1163,1908 1226,1909 1290,1909 1354,1910"
+                         HEIGHT="43"
+                         WIDTH="1273"
+                         VPOS="1877"
+                         HPOS="81">
+                  <String ID="string_r1l34"
+                          HEIGHT="43"
+                          WIDTH="1273"
+                          VPOS="1877"
+                          HPOS="81"
+                          CONTENT="X. Heft: Die kirchliche Lehrgewalt. Von G. Schneemann. (228 S.)"/>
+               </TextLine>
+               <TextLine ID="line_1617094718500_151"
+                         BASELINE="157,1940 186,1939 216,1939 245,1941 275,1944 286,1939 311,1940 336,1940 361,1941 386,1941 411,1941 436,1941 461,1941 486,1941 511,1941 536,1942 561,1942 586,1942 611,1942 636,1942 661,1943 686,1943 712,1944"
+                         HEIGHT="35"
+                         WIDTH="555"
+                         VPOS="1919"
+                         HPOS="157">
+                  <String ID="string_line_1617094718500_151"
+                          HEIGHT="35"
+                          WIDTH="555"
+                          VPOS="1919"
+                          HPOS="157"
+                          CONTENT="24 ſgr. — fl. 1. 20 kr. — fr. 3."/>
+               </TextLine>
+               <TextLine ID="line_1617094729201_155"
+                         BASELINE="79,1994 106,1999 133,2002 143,2004 203,2004 264,2005 324,2005 385,2006 445,2007 506,2007 566,2008 627,2008 687,2009 748,2010 809,2010 869,2011 930,2011 990,2012 1051,2012 1111,2013 1172,2013 1232,2014 1293,2014 1354,2014"
+                         HEIGHT="57"
+                         WIDTH="1275"
+                         VPOS="1967"
+                         HPOS="79">
+                  <String ID="string_line_1617094729201_155"
+                          HEIGHT="57"
+                          WIDTH="1275"
+                          VPOS="1967"
+                          HPOS="79"
+                          CONTENT="XI. Heft: Der moderne Staat und die chriſtliche Schule. Von Fl. Rieß."/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="164,2041 201,2043 239,2044 277,2045 314,2046 352,2046 390,2047 427,2047 465,2047 503,2048 541,2048 578,2048 616,2048 654,2048 691,2048 729,2048 767,2049 804,2049 842,2050 880,2050 918,2051"
+                         HEIGHT="40"
+                         WIDTH="754"
+                         VPOS="2021"
+                         HPOS="164">
+                  <String ID="string_r1l39"
+                          HEIGHT="40"
+                          WIDTH="754"
+                          VPOS="2021"
+                          HPOS="164"
+                          CONTENT="(216 6.) 24 ſgr. — fl. 1. 20 tr. — fr. 3."/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="81,2104 144,2106 208,2108 271,2109 335,2111 399,2112 462,2113 526,2114 589,2115 653,2116 717,2117 780,2117 844,2118 907,2118 971,2118 1035,2119 1098,2119 1162,2119 1225,2119 1289,2120 1353,2120"
+                         HEIGHT="46"
+                         WIDTH="1272"
+                         VPOS="2084"
+                         HPOS="81">
+                  <String ID="string_r1l40"
+                          HEIGHT="46"
+                          WIDTH="1272"
+                          VPOS="2084"
+                          HPOS="81"
+                          CONTENT="XII. Heft: Staat und Kirche. Von FI. Rieß. (240 S.) 24 ſgr. — fl. 1."/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="156,2145 183,2146 210,2147 237,2148 265,2149 292,2149 319,2150 347,2151 374,2151 401,2152 429,2153"
+                         HEIGHT="38"
+                         WIDTH="273"
+                         VPOS="2125"
+                         HPOS="156">
+                  <String ID="string_r1l41"
+                          HEIGHT="38"
+                          WIDTH="273"
+                          VPOS="2125"
+                          HPOS="156"
+                          CONTENT="20 kr. — fr. 3."/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="393,2221 425,2220 457,2220 489,2220 522,2220 554,2220 586,2221 618,2221 651,2221 683,2221 715,2221 747,2221 780,2222 812,2222 844,2222 876,2222 909,2223 941,2223 973,2223 1005,2223 1038,2223"
+                         HEIGHT="43"
+                         WIDTH="645"
+                         VPOS="2193"
+                         HPOS="393">
+                  <String ID="string_r1l42"
+                          HEIGHT="43"
+                          WIDTH="645"
+                          VPOS="2193"
+                          HPOS="393"
+                          CONTENT="Jedes Heft wird auch einzeln abgegeben."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

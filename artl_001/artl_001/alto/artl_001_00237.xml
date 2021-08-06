@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:48:02.377+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2456" WIDTH="1383">
+         <TopMargin HEIGHT="0" WIDTH="1383" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2456" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2456" WIDTH="0" VPOS="0" HPOS="1383"/>
+         <BottomMargin HEIGHT="0" WIDTH="1383" VPOS="2456" HPOS="0"/>
+         <PrintSpace HEIGHT="2456" WIDTH="1383" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2188" WIDTH="1212" VPOS="51" HPOS="99">
+               <Shape>
+                  <Polygon POINTS="99,51 99,2239 1311,2239 1311,51"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="550,78 576,77 602,77 628,77 654,77 680,77 706,76 732,76 758,76 784,75 810,75 837,74"
+                         HEIGHT="38"
+                         WIDTH="287"
+                         VPOS="51"
+                         HPOS="550">
+                  <String ID="string_r1l1"
+                          HEIGHT="38"
+                          WIDTH="287"
+                          VPOS="51"
+                          HPOS="550"
+                          CONTENT="Kirchliche Statiſtik."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="1191,79 1219,79 1248,80 1277,79"
+                         HEIGHT="35"
+                         WIDTH="86"
+                         VPOS="56"
+                         HPOS="1191">
+                  <String ID="string_r1l2"
+                          HEIGHT="35"
+                          WIDTH="86"
+                          VPOS="56"
+                          HPOS="1191"
+                          CONTENT="223"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="108,160 166,161 225,161 283,162 342,162 401,162 459,162 518,162 577,162 635,161 694,160 753,160 811,159 870,158 929,157 987,156 1046,156 1105,155 1163,154 1222,154 1281,153"
+                         HEIGHT="43"
+                         WIDTH="1173"
+                         VPOS="130"
+                         HPOS="108">
+                  <String ID="string_r1l3"
+                          HEIGHT="43"
+                          WIDTH="1173"
+                          VPOS="130"
+                          HPOS="108"
+                          CONTENT="ſteher und den älteſten Gemeinderäthen, üben die Kirchen⸗ und Sittenpolizei,"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="102,209 164,210 226,211 288,211 350,212 412,212 474,212 536,211 598,211 660,211 722,210 784,209 846,208 908,208 970,207 1032,206 1094,204 1156,203 1218,202 1281,201"
+                         HEIGHT="45"
+                         WIDTH="1179"
+                         VPOS="178"
+                         HPOS="102">
+                  <String ID="string_r1l4"
+                          HEIGHT="45"
+                          WIDTH="1179"
+                          VPOS="178"
+                          HPOS="102"
+                          CONTENT="jedoch ohne Kirchenſtrafen; vielmehr iſt ihre Strafgewalt rein weltlich, nur"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="108,258 166,259 225,259 283,260 342,260 400,260 459,261 517,261 576,260 634,260 693,260 752,259 810,259 869,258 927,257 986,256 1044,255 1103,254 1161,252 1220,251 1279,249"
+                         HEIGHT="46"
+                         WIDTH="1171"
+                         VPOS="226"
+                         HPOS="108">
+                  <String ID="string_r1l5"
+                          HEIGHT="46"
+                          WIDTH="1171"
+                          VPOS="226"
+                          HPOS="108"
+                          CONTENT="daß die Geldſtrafen in die Armenkaſſe fallen. Ihre Wirkſamkeit iſt natür⸗"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="99,306 158,307 217,308 276,309 335,309 394,309 453,309 512,309 571,309 630,308 689,308 748,307 807,306 866,306 925,305 984,305 1043,304 1102,303 1161,303 1220,303 1279,303"
+                         HEIGHT="40"
+                         WIDTH="1180"
+                         VPOS="280"
+                         HPOS="99">
+                  <String ID="string_r1l6"
+                          HEIGHT="40"
+                          WIDTH="1180"
+                          VPOS="280"
+                          HPOS="99"
+                          CONTENT="lich auf dem Lande bedeutender als in Städten, wo ſie ſich faſt bloß auf"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="107,356 165,357 224,358 282,358 341,359 400,359 458,358 517,358 575,357 634,357 693,356 751,355 810,355 868,354 927,353 986,353 1044,352 1103,352 1161,352 1220,353 1279,353"
+                         HEIGHT="41"
+                         WIDTH="1172"
+                         VPOS="329"
+                         HPOS="107">
+                  <String ID="string_r1l7"
+                          HEIGHT="41"
+                          WIDTH="1172"
+                          VPOS="329"
+                          HPOS="107"
+                          CONTENT="die Armen⸗Verſorgung und die Schulangelegenheiten bezieht, doch iſt Letz⸗"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="100,403 159,405 218,406 277,407 337,407 396,407 455,407 515,407 574,407 633,406 693,405 752,404 811,404 870,403 930,402 989,401 1048,401 1108,401 1167,401 1226,401 1286,401"
+                         HEIGHT="40"
+                         WIDTH="1186"
+                         VPOS="378"
+                         HPOS="100">
+                  <String ID="string_r1l8"
+                          HEIGHT="40"
+                          WIDTH="1186"
+                          VPOS="378"
+                          HPOS="100"
+                          CONTENT="teres immer noch wichtig genug, ſofern die Pflicht zum Beſuch der Sonn⸗"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="112,454 170,455 229,456 287,456 346,456 405,456 463,456 522,455 580,455 639,454 698,453 756,452 815,452 873,451 932,450 991,450 1049,450 1108,450 1166,450 1225,450 1284,451"
+                         HEIGHT="40"
+                         WIDTH="1172"
+                         VPOS="427"
+                         HPOS="112">
+                  <String ID="string_r1l9"
+                          HEIGHT="40"
+                          WIDTH="1172"
+                          VPOS="427"
+                          HPOS="112"
+                          CONTENT="tagsſchule und der kirchlichen Nachmittags⸗Katechiſation den Söhnen und"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="115,502 173,503 231,504 290,505 348,505 406,505 465,504 523,504 581,503 640,503 698,502 756,501 815,501 873,500 931,500 990,500 1048,500 1106,500 1165,500 1223,501 1282,503"
+                         HEIGHT="39"
+                         WIDTH="1167"
+                         VPOS="477"
+                         HPOS="115">
+                  <String ID="string_r1l10"
+                          HEIGHT="39"
+                          WIDTH="1167"
+                          VPOS="477"
+                          HPOS="115"
+                          CONTENT="Töchtern bis ins 18te Jahr obliegt, und es nie an Veranlaſſung fehlt,"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="113,551 171,552 230,553 289,554 348,554 407,554 465,554 524,553 583,553 642,552 701,551 759,551 818,550 877,549 936,549 995,549 1053,549 1112,549 1171,550 1230,550 1289,552"
+                         HEIGHT="39"
+                         WIDTH="1176"
+                         VPOS="526"
+                         HPOS="113">
+                  <String ID="string_r1l11"
+                          HEIGHT="39"
+                          WIDTH="1176"
+                          VPOS="526"
+                          HPOS="113"
+                          CONTENT="Säumige durch Ermahnung oder Strafe zu dieſer Pflicht anzuhalten In"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="105,599 164,600 223,602 282,603 341,603 400,603 459,603 518,603 577,602 636,602 695,601 754,600 813,599 872,598 931,598 990,597 1049,597 1108,597 1167,597 1226,598 1285,599"
+                         HEIGHT="40"
+                         WIDTH="1180"
+                         VPOS="574"
+                         HPOS="105">
+                  <String ID="string_r1l12"
+                          HEIGHT="40"
+                          WIDTH="1180"
+                          VPOS="574"
+                          HPOS="105"
+                          CONTENT="Betreff der Sonntags⸗Polizei dürfte die Wirkſamkeit der Kirchenconvente bald"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="107,648 166,649 225,650 284,651 343,652 402,652 461,652 520,652 579,652 638,651 697,651 756,650 815,650 874,649 933,649 992,648 1051,648 1110,647 1169,647 1228,647 1287,648"
+                         HEIGHT="39"
+                         WIDTH="1180"
+                         VPOS="624"
+                         HPOS="107">
+                  <String ID="string_r1l13"
+                          HEIGHT="39"
+                          WIDTH="1180"
+                          VPOS="624"
+                          HPOS="107"
+                          CONTENT="eine erhöhte werden, da zu hoffen ſteht, daß bei dem gegenwärtigen Land⸗"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="109,696 167,698 226,699 285,700 344,700 403,701 462,701 521,701 580,700 639,700 698,700 756,699 815,699 874,698 933,698 992,697 1051,697 1110,697 1169,696 1228,697 1287,697"
+                         HEIGHT="39"
+                         WIDTH="1178"
+                         VPOS="673"
+                         HPOS="109">
+                  <String ID="string_r1l14"
+                          HEIGHT="39"
+                          WIDTH="1178"
+                          VPOS="673"
+                          HPOS="109"
+                          CONTENT="tag ein neues Sonntagsgeſetz verabſchiedet werde. Schon im Jahre 1823"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="106,743 164,745 223,746 282,748 341,749 400,749 459,750 517,750 576,749 635,749 694,749 753,748 812,748 871,747 929,747 988,746 1047,746 1106,745 1165,745 1224,745 1283,746"
+                         HEIGHT="41"
+                         WIDTH="1177"
+                         VPOS="720"
+                         HPOS="106">
+                  <String ID="string_r1l15"
+                          HEIGHT="41"
+                          WIDTH="1177"
+                          VPOS="720"
+                          HPOS="106"
+                          CONTENT="wurde dießfalls ein Antrag geſtellt von dem nun verewigten Prälaten von"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="106,792 165,794 224,795 283,796 342,797 401,797 460,798 520,798 579,798 638,798 697,798 756,798 815,798 874,797 934,797 993,796 1052,796 1111,796 1170,795 1229,795 1289,795"
+                         HEIGHT="40"
+                         WIDTH="1183"
+                         VPOS="769"
+                         HPOS="106">
+                  <String ID="string_r1l16"
+                          HEIGHT="40"
+                          WIDTH="1183"
+                          VPOS="769"
+                          HPOS="106"
+                          CONTENT="Abel, und kürzlich hat der wackere katholiſche Decan Herr Münch wie⸗"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="110,840 172,842 234,843 296,844 358,845 420,846 482,847 544,847 606,848 668,848 730,848 792,848 854,848 916,848 978,848 1040,848 1102,847 1164,847 1226,847 1289,847"
+                         HEIGHT="42"
+                         WIDTH="1179"
+                         VPOS="817"
+                         HPOS="110">
+                  <String ID="string_r1l17"
+                          HEIGHT="42"
+                          WIDTH="1179"
+                          VPOS="817"
+                          HPOS="110"
+                          CONTENT="derholt und dringend in einer ſchönen (auch gedruckten) Motion die Sache"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="106,888 132,889 158,891 184,892 210,893 236,893 262,893 288,893 314,893 340,893 366,893 392,894 418,894 444,894 470,895 496,897"
+                         HEIGHT="43"
+                         WIDTH="390"
+                         VPOS="865"
+                         HPOS="106">
+                  <String ID="string_r1l18"
+                          HEIGHT="43"
+                          WIDTH="390"
+                          VPOS="865"
+                          HPOS="106"
+                          CONTENT="in Anregung gebracht *)."/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="547,943 573,942 599,942 625,941 652,941 678,941 704,941 730,941 757,941 783,941 809,942 836,942"
+                         HEIGHT="36"
+                         WIDTH="289"
+                         VPOS="918"
+                         HPOS="547">
+                  <String ID="string_r1l19"
+                          HEIGHT="36"
+                          WIDTH="289"
+                          VPOS="918"
+                          HPOS="547"
+                          CONTENT="(Fortſetzung folgt.)"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="578,1087 605,1086 633,1084 660,1084 688,1085 715,1085 743,1085 770,1086 798,1086 826,1086"
+                         HEIGHT="37"
+                         WIDTH="248"
+                         VPOS="1061"
+                         HPOS="578">
+                  <String ID="string_r1l20"
+                          HEIGHT="37"
+                          WIDTH="248"
+                          VPOS="1061"
+                          HPOS="578"
+                          CONTENT="Miscellen."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="223,1136 271,1135 319,1135 367,1134 416,1134 464,1134 512,1134 561,1134 609,1134 657,1135 706,1135 754,1135 802,1135 850,1136 899,1136 947,1136 995,1136 1044,1136 1092,1135 1140,1135 1189,1134"
+                         HEIGHT="36"
+                         WIDTH="966"
+                         VPOS="1111"
+                         HPOS="223">
+                  <String ID="string_r1l21"
+                          HEIGHT="36"
+                          WIDTH="966"
+                          VPOS="1111"
+                          HPOS="223"
+                          CONTENT="Beförderungen. Ehrenbez. Vocationen. Jubiläen."/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="188,1192 243,1191 298,1191 353,1190 409,1190 464,1190 519,1190 574,1190 630,1190 685,1190 740,1190 795,1190 851,1190 906,1190 961,1191 1016,1191 1072,1191 1127,1191 1182,1191 1237,1191 1293,1191"
+                         HEIGHT="35"
+                         WIDTH="1105"
+                         VPOS="1168"
+                         HPOS="188">
+                  <String ID="string_r1l22"
+                          HEIGHT="35"
+                          WIDTH="1105"
+                          VPOS="1168"
+                          HPOS="188"
+                          CONTENT="Der bisherige Dompfarrer zu Mainz, Dotzheimer, iſt zum Mitgliede"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="117,1234 175,1235 234,1236 293,1237 352,1237 411,1238 470,1238 529,1238 588,1238 647,1238 706,1237 764,1237 823,1237 882,1237 941,1237 1000,1237 1059,1237 1118,1237 1177,1237 1236,1238 1295,1239"
+                         HEIGHT="38"
+                         WIDTH="1178"
+                         VPOS="1212"
+                         HPOS="117">
+                  <String ID="string_r1l23"
+                          HEIGHT="38"
+                          WIDTH="1178"
+                          VPOS="1212"
+                          HPOS="117"
+                          CONTENT="des Domcapitels ernannt, und an ſeine Stelle Herr M. A. Nickel, Lehrer"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="113,1278 150,1279 188,1281 226,1281 264,1282 302,1283 340,1283 377,1283 415,1284 453,1284 491,1283 529,1283 567,1283 604,1283 642,1283 680,1282 718,1282 756,1282 794,1282 832,1282"
+                         HEIGHT="39"
+                         WIDTH="719"
+                         VPOS="1256"
+                         HPOS="113">
+                  <String ID="string_r1l24"
+                          HEIGHT="39"
+                          WIDTH="719"
+                          VPOS="1256"
+                          HPOS="113"
+                          CONTENT="der Moral am biſch. Seminar, beſtellt worden."/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="188,1328 243,1328 298,1328 353,1328 408,1328 463,1328 518,1328 573,1329 628,1329 683,1329 739,1329 794,1329 849,1329 904,1329 959,1329 1014,1329 1069,1329 1124,1329 1179,1328 1234,1328 1290,1327"
+                         HEIGHT="35"
+                         WIDTH="1102"
+                         VPOS="1305"
+                         HPOS="188">
+                  <String ID="string_r1l25"
+                          HEIGHT="35"
+                          WIDTH="1102"
+                          VPOS="1305"
+                          HPOS="188"
+                          CONTENT="Der bish. Subregens bes Klerikal⸗Seminars zu Würzburg, Dr. Ben⸗"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="113,1369 171,1370 230,1371 289,1372 348,1373 407,1373 465,1374 524,1374 583,1374 642,1374 701,1374 759,1374 818,1374 877,1373 936,1373 995,1373 1053,1373 1112,1373 1171,1372 1230,1372 1289,1372"
+                         HEIGHT="36"
+                         WIDTH="1176"
+                         VPOS="1348"
+                         HPOS="113">
+                  <String ID="string_r1l26"
+                          HEIGHT="36"
+                          WIDTH="1176"
+                          VPOS="1348"
+                          HPOS="113"
+                          CONTENT="kert, iſt zum Regens des Seminars vorgerückt, und der Prof. der Kirchen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="116,1413 174,1414 233,1416 292,1417 351,1418 410,1418 469,1419 527,1419 586,1420 645,1420 704,1420 763,1420 822,1420 881,1420 939,1420 998,1420 1057,1419 1116,1419 1175,1418 1234,1418 1293,1417"
+                         HEIGHT="38"
+                         WIDTH="1177"
+                         VPOS="1392"
+                         HPOS="116">
+                  <String ID="string_r1l27"
+                          HEIGHT="38"
+                          WIDTH="1177"
+                          VPOS="1392"
+                          HPOS="116"
+                          CONTENT="geſchichte am Lyceum zu Salzburg, Joſeph von Rauſcher, zum Director"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="119,1454 144,1456 169,1459 194,1460 220,1462 245,1463 270,1464 295,1464 321,1464 346,1464 371,1464 396,1463 422,1463 447,1463 472,1462 497,1462 523,1462 548,1463 573,1463 598,1465 624,1466"
+                         HEIGHT="42"
+                         WIDTH="505"
+                         VPOS="1434"
+                         HPOS="119">
+                  <String ID="string_r1l28"
+                          HEIGHT="42"
+                          WIDTH="505"
+                          VPOS="1434"
+                          HPOS="119"
+                          CONTENT="an dieſer Anſtalt beſtellt worden."/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="177,1507 232,1508 288,1508 344,1509 399,1509 455,1509 511,1509 566,1509 622,1509 678,1509 734,1508 789,1508 845,1508 901,1507 956,1507 1012,1507 1068,1506 1123,1506 1179,1506 1235,1506 1291,1507"
+                         HEIGHT="34"
+                         WIDTH="1114"
+                         VPOS="1485"
+                         HPOS="177">
+                  <String ID="string_r1l29"
+                          HEIGHT="34"
+                          WIDTH="1114"
+                          VPOS="1485"
+                          HPOS="177"
+                          CONTENT="Der königl. geiſtliche Rath und Domcapitular Dr. R. München iſt zum"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="121,1546 179,1549 237,1551 295,1552 354,1554 412,1554 470,1555 529,1555 587,1555 645,1555 704,1555 762,1554 820,1554 878,1553 937,1553 995,1552 1053,1552 1112,1552 1170,1551 1228,1551 1287,1552"
+                         HEIGHT="39"
+                         WIDTH="1166"
+                         VPOS="1526"
+                         HPOS="121">
+                  <String ID="string_r1l30"
+                          HEIGHT="39"
+                          WIDTH="1166"
+                          VPOS="1526"
+                          HPOS="121"
+                          CONTENT="General⸗Vicariatsrathe zu Cöln; Herr Oberpfarrer Klein zu Bonn zum"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="119,1591 177,1594 235,1596 294,1598 352,1599 411,1600 469,1600 527,1600 586,1600 644,1600 703,1600 761,1599 819,1598 878,1598 936,1597 995,1597 1053,1596 1111,1596 1170,1596 1228,1596 1287,1596"
+                         HEIGHT="40"
+                         WIDTH="1168"
+                         VPOS="1570"
+                         HPOS="119">
+                  <String ID="string_r1l31"
+                          HEIGHT="40"
+                          WIDTH="1168"
+                          VPOS="1570"
+                          HPOS="119"
+                          CONTENT="Landdechant des Dec. Bonn; und Herr J. Th. Mürkens, bish. Pfarrer an"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="119,1635 177,1638 236,1640 295,1642 354,1643 413,1644 471,1644 530,1645 589,1645 648,1644 707,1644 765,1644 824,1643 883,1643 942,1642 1001,1642 1059,1641 1118,1641 1177,1641 1236,1642 1295,1643"
+                         HEIGHT="40"
+                         WIDTH="1176"
+                         VPOS="1615"
+                         HPOS="119">
+                  <String ID="string_r1l32"
+                          HEIGHT="40"
+                          WIDTH="1176"
+                          VPOS="1615"
+                          HPOS="119"
+                          CONTENT="der Jacobikirche zu Aachen, zum Pfarrer in St. Foilan und Ehrencapitular"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="115,1675 148,1678 182,1681 216,1684 250,1686 284,1688 318,1689 351,1690 385,1690 419,1690 453,1690 487,1689 521,1689 555,1689 588,1688 622,1688 656,1687 690,1687 724,1687 758,1688 792,1689"
+                         HEIGHT="45"
+                         WIDTH="677"
+                         VPOS="1655"
+                         HPOS="115">
+                  <String ID="string_r1l33"
+                          HEIGHT="45"
+                          WIDTH="677"
+                          VPOS="1655"
+                          HPOS="115"
+                          CONTENT="des Aachner Gollegiatſtiftes ernannt worden."/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="187,1730 242,1732 297,1733 352,1733 408,1734 463,1734 518,1734 573,1734 629,1734 684,1733 739,1733 794,1733 850,1733 905,1732 960,1732 1015,1732 1071,1733 1126,1733 1181,1734 1236,1735 1292,1736"
+                         HEIGHT="37"
+                         WIDTH="1105"
+                         VPOS="1709"
+                         HPOS="187">
+                  <String ID="string_r1l34"
+                          HEIGHT="37"
+                          WIDTH="1105"
+                          VPOS="1709"
+                          HPOS="187"
+                          CONTENT="Herr Dr. Bökel, bish. Hauptpaſtor an der Jacobikirche zu Hamburg,"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="121,1768 178,1772 236,1775 293,1776 351,1778 409,1779 466,1780 524,1780 581,1780 639,1779 697,1779 754,1778 812,1778 869,1777 927,1777 985,1776 1042,1776 1100,1777 1157,1778 1215,1779 1273,1781"
+                         HEIGHT="44"
+                         WIDTH="1152"
+                         VPOS="1747"
+                         HPOS="121">
+                  <String ID="string_r1l35"
+                          HEIGHT="44"
+                          WIDTH="1152"
+                          VPOS="1747"
+                          HPOS="121"
+                          CONTENT="hat den Ruf zum Prediger an der Ansgariikirche zu Bremen angenommen."/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="189,1821 243,1822 298,1822 353,1823 408,1823 463,1823 518,1823 573,1823 628,1823 683,1823 738,1823 792,1823 847,1823 902,1823 957,1823 1012,1823 1067,1823 1122,1823 1177,1823 1232,1823 1287,1823"
+                         HEIGHT="33"
+                         WIDTH="1098"
+                         VPOS="1800"
+                         HPOS="189">
+                  <String ID="string_r1l36"
+                          HEIGHT="33"
+                          WIDTH="1098"
+                          VPOS="1800"
+                          HPOS="189"
+                          CONTENT="Der bish. Paſtor Primarius zu Zittau, M. G. E. Petri, iſt Kirchen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="125,1853 173,1858 222,1862 271,1865 320,1867 369,1869 418,1869 467,1870 516,1870 565,1869 614,1869 662,1868 711,1867 760,1867 809,1866 858,1866 907,1866 956,1867 1005,1868 1054,1871 1103,1873"
+                         HEIGHT="51"
+                         WIDTH="978"
+                         VPOS="1832"
+                         HPOS="125">
+                  <String ID="string_r1l37"
+                          HEIGHT="51"
+                          WIDTH="978"
+                          VPOS="1832"
+                          HPOS="125"
+                          CONTENT="und Schulrath bei der Oberamtsregierung zu Bautzen geworden."/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="185,1908 240,1909 296,1911 351,1912 407,1913 463,1913 518,1914 574,1914 629,1914 685,1914 741,1914 796,1914 852,1914 907,1913 963,1913 1019,1913 1074,1912 1130,1912 1185,1912 1241,1912 1297,1912"
+                         HEIGHT="36"
+                         WIDTH="1112"
+                         VPOS="1888"
+                         HPOS="185">
+                  <String ID="string_r1l38"
+                          HEIGHT="36"
+                          WIDTH="1112"
+                          VPOS="1888"
+                          HPOS="185"
+                          CONTENT="Der Prediger Thiele zu Tiezow hat von Sr. Maj. dem König von"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="122,1939 162,1945 202,1950 242,1953 282,1956 322,1958 362,1959 403,1960 443,1960 483,1959 523,1959 563,1958 603,1957 643,1956 684,1956 724,1955 764,1955 804,1956 844,1957 884,1959 925,1961"
+                         HEIGHT="52"
+                         WIDTH="803"
+                         VPOS="1919"
+                         HPOS="122">
+                  <String ID="string_r1l39"
+                          HEIGHT="52"
+                          WIDTH="803"
+                          VPOS="1919"
+                          HPOS="122"
+                          CONTENT="Preußen den rothen Adler⸗Orden 4. Klaſſe erhalten."/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="189,1998 244,2000 299,2002 355,2003 410,2003 466,2004 521,2004 577,2004 632,2004 688,2004 743,2004 798,2003 854,2003 909,2002 965,2002 1020,2002 1076,2002 1131,2002 1187,2002 1242,2003 1298,2004"
+                         HEIGHT="36"
+                         WIDTH="1109"
+                         VPOS="1978"
+                         HPOS="189">
+                  <String ID="string_r1l40"
+                          HEIGHT="36"
+                          WIDTH="1109"
+                          VPOS="1978"
+                          HPOS="189"
+                          CONTENT="Der bish. Diaconus zu Waiblingen im Würtembergiſchen, M. E. F."/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="121,2036 179,2039 238,2042 297,2045 355,2046 414,2048 473,2049 531,2049 590,2049 649,2049 708,2049 766,2049 825,2048 884,2048 942,2047 1001,2047 1060,2046 1118,2046 1177,2046 1236,2046 1295,2046"
+                         HEIGHT="43"
+                         WIDTH="1174"
+                         VPOS="2016"
+                         HPOS="121">
+                  <String ID="string_r1l41"
+                          HEIGHT="43"
+                          WIDTH="1174"
+                          VPOS="2016"
+                          HPOS="121"
+                          CONTENT="Kling, iſt zum ordentl. Profeſſor der Theologie an der K. Heſſiſchen Uni⸗"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="125,2081 183,2085 242,2087 301,2090 360,2091 419,2093 477,2094 536,2094 595,2094 654,2094 713,2094 771,2094 830,2093 889,2093 948,2092 1007,2092 1065,2092 1124,2092 1183,2092 1242,2092 1301,2092"
+                         HEIGHT="46"
+                         WIDTH="1176"
+                         VPOS="2059"
+                         HPOS="125">
+                  <String ID="string_r1l42"
+                          HEIGHT="46"
+                          WIDTH="1176"
+                          VPOS="2059"
+                          HPOS="125"
+                          CONTENT="verſität zu Marburg berufen, und der bish. Privatdocent zu Leipzig, Predi⸗"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="191,2176 247,2178 303,2179 359,2180 415,2181 471,2182 527,2183 583,2183 639,2184 695,2184 751,2184 807,2184 863,2184 919,2184 975,2184 1031,2184 1087,2184 1143,2184 1199,2183 1255,2183 1311,2183"
+                         HEIGHT="39"
+                         WIDTH="1120"
+                         VPOS="2155"
+                         HPOS="191">
+                  <String ID="string_r1l43"
+                          HEIGHT="39"
+                          WIDTH="1120"
+                          VPOS="2155"
+                          HPOS="191"
+                          CONTENT="*) Von der Wirkſamkeit der ſtändiſchen Kirchencommiſſion im"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="118,2206 143,2211 168,2215 193,2219 218,2222 244,2224 269,2225 294,2227 319,2228 344,2229 370,2229"
+                         HEIGHT="54"
+                         WIDTH="252"
+                         VPOS="2185"
+                         HPOS="118">
+                  <String ID="string_r1l44"
+                          HEIGHT="54"
+                          WIDTH="252"
+                          VPOS="2185"
+                          HPOS="118"
+                          CONTENT="nächſten Bericht."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

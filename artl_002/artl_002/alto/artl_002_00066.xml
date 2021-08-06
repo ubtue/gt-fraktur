@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:46:51.518+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2446" WIDTH="1324">
+         <TopMargin HEIGHT="0" WIDTH="1324" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2446" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2446" WIDTH="0" VPOS="0" HPOS="1324"/>
+         <BottomMargin HEIGHT="0" WIDTH="1324" VPOS="2446" HPOS="0"/>
+         <PrintSpace HEIGHT="2446" WIDTH="1324" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2191" WIDTH="1199" VPOS="70" HPOS="77">
+               <Shape>
+                  <Polygon POINTS="77,70 77,2261 1276,2261 1276,70"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="464,98 489,98 515,98 541,97 567,97 592,97 618,97 644,97 670,96 695,96 721,96 747,95 773,95 798,95 824,94 850,94 876,94"
+                         HEIGHT="40"
+                         WIDTH="412"
+                         VPOS="70"
+                         HPOS="464">
+                  <String ID="string_r1l1"
+                          HEIGHT="40"
+                          WIDTH="412"
+                          VPOS="70"
+                          HPOS="464"
+                          CONTENT="Evangeliſches Kirchenrecht."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="77,117 110,116 143,115"
+                         HEIGHT="38"
+                         WIDTH="66"
+                         VPOS="91"
+                         HPOS="77">
+                  <String ID="string_r1l2"
+                          HEIGHT="38"
+                          WIDTH="66"
+                          VPOS="91"
+                          HPOS="77"
+                          CONTENT="62"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="88,190 147,187 206,186 265,184 324,183 384,182 443,181 502,181 561,180 620,180 680,180 739,179 798,179 857,178 916,177 976,176 1035,175 1094,173 1153,170 1212,168 1272,164"
+                         HEIGHT="60"
+                         WIDTH="1184"
+                         VPOS="141"
+                         HPOS="88">
+                  <String ID="string_r1l3"
+                          HEIGHT="60"
+                          WIDTH="1184"
+                          VPOS="141"
+                          HPOS="88"
+                          CONTENT="ſchenswerth iſt, beſonders da nur durch Zuſammenſtehen mehrerer Gemein⸗"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="83,237 145,235 207,234 269,233 331,232 393,231 455,231 517,230 579,230 641,229 703,229 765,228 827,228 889,227 951,226 1013,225 1075,223 1137,221 1199,219 1262,216"
+                         HEIGHT="55"
+                         WIDTH="1179"
+                         VPOS="193"
+                         HPOS="83">
+                  <String ID="string_r1l4"
+                          HEIGHT="55"
+                          WIDTH="1179"
+                          VPOS="193"
+                          HPOS="83"
+                          CONTENT="den die Aufwendung von Mitteln möglich iſt, welche die Kräfte der ein⸗"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="83,288 141,286 200,284 259,282 318,281 376,280 435,279 494,278 553,278 611,277 670,277 729,277 788,276 846,276 905,275 964,274 1023,273 1081,272 1140,270 1199,269 1258,266"
+                         HEIGHT="56"
+                         WIDTH="1175"
+                         VPOS="243"
+                         HPOS="83">
+                  <String ID="string_r1l5"
+                          HEIGHT="56"
+                          WIDTH="1175"
+                          VPOS="243"
+                          HPOS="83"
+                          CONTENT="zelnen überſteigen und doch vom Geſellſchaftszwecke gefordert werden, verei⸗"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="93,335 151,334 209,332 267,331 325,330 383,330 441,329 499,329 557,328 615,327 673,327 731,326 789,326 847,325 905,324 963,323 1021,322 1079,321 1137,320 1195,318 1254,316"
+                         HEIGHT="53"
+                         WIDTH="1161"
+                         VPOS="293"
+                         HPOS="93">
+                  <String ID="string_r1l6"
+                          HEIGHT="53"
+                          WIDTH="1161"
+                          VPOS="293"
+                          HPOS="93"
+                          CONTENT="nigen ſich nun einzelne Gemeinden zu einer Samtgemeinde (Synode)."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="81,382 140,381 199,381 258,380 317,379 376,379 435,378 494,378 553,377 612,377 671,376 730,375 789,375 848,374 907,373 966,372 1025,371 1084,369 1143,368 1202,366 1262,364"
+                         HEIGHT="54"
+                         WIDTH="1181"
+                         VPOS="340"
+                         HPOS="81">
+                  <String ID="string_r1l7"
+                          HEIGHT="54"
+                          WIDTH="1181"
+                          VPOS="340"
+                          HPOS="81"
+                          CONTENT="Dieß vornehmlich zum Schutz gegen den Staat, zur letzten Entſcheidung"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="89,433 147,431 206,430 265,429 324,428 382,427 441,426 500,426 559,426 617,425 676,425 735,424 794,424 852,423 911,422 970,421 1029,420 1087,418 1146,416 1205,414 1264,412"
+                         HEIGHT="55"
+                         WIDTH="1175"
+                         VPOS="389"
+                         HPOS="89">
+                  <String ID="string_r1l8"
+                          HEIGHT="55"
+                          WIDTH="1175"
+                          VPOS="389"
+                          HPOS="89"
+                          CONTENT="über Amtsverletzungen der Kirchendiener, ſo wie zur Prüfung dieſer ſelbſt."/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="88,484 146,482 205,480 264,478 323,477 382,476 440,476 499,475 558,474 617,474 676,474 734,473 793,473 852,472 911,471 970,470 1028,469 1087,468 1146,466 1205,463 1264,461"
+                         HEIGHT="57"
+                         WIDTH="1176"
+                         VPOS="438"
+                         HPOS="88">
+                  <String ID="string_r1l9"
+                          HEIGHT="57"
+                          WIDTH="1176"
+                          VPOS="438"
+                          HPOS="88"
+                          CONTENT="Denn für Liturgie, für Bildung und Anſtellung der Kirchendiener braucht"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="87,531 149,530 211,529 273,527 335,527 397,526 459,525 521,525 583,524 645,523 707,523 769,522 831,521 893,521 955,519 1017,518 1079,517 1141,515 1203,513 1266,511"
+                         HEIGHT="54"
+                         WIDTH="1179"
+                         VPOS="488"
+                         HPOS="87">
+                  <String ID="string_r1l10"
+                          HEIGHT="54"
+                          WIDTH="1179"
+                          VPOS="488"
+                          HPOS="87"
+                          CONTENT="die Kirche nicht zu ſorgen. Jene, die Bildung der Religionslehrer, iſt am"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="96,581 154,579 213,577 272,576 330,575 389,574 448,574 506,573 565,572 624,572 683,572 741,571 800,571 859,570 917,569 976,568 1035,567 1093,565 1152,563 1211,561 1270,558"
+                         HEIGHT="57"
+                         WIDTH="1174"
+                         VPOS="535"
+                         HPOS="96">
+                  <String ID="string_r1l11"
+                          HEIGHT="57"
+                          WIDTH="1174"
+                          VPOS="535"
+                          HPOS="96"
+                          CONTENT="beſten der Privatbetriebſamkeit zu überlaſſen, auf keinen Fall können der,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="92,630 150,628 209,626 268,625 326,624 385,623 444,622 502,621 561,621 620,621 679,620 737,620 796,619 855,618 913,618 972,617 1031,615 1089,613 1148,612 1207,609 1266,607"
+                         HEIGHT="57"
+                         WIDTH="1174"
+                         VPOS="584"
+                         HPOS="92">
+                  <String ID="string_r1l12"
+                          HEIGHT="57"
+                          WIDTH="1174"
+                          VPOS="584"
+                          HPOS="92"
+                          CONTENT="Kirche geordnete Anſtalten dafür zugemuthet werden. Da meint doch die"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="96,678 154,677 212,675 270,674 329,673 387,672 445,672 504,671 562,670 620,670 679,669 737,669 795,668 853,667 912,667 970,666 1028,664 1087,663 1145,661 1203,659 1262,657"
+                         HEIGHT="55"
+                         WIDTH="1166"
+                         VPOS="634"
+                         HPOS="96">
+                  <String ID="string_r1l13"
+                          HEIGHT="55"
+                          WIDTH="1166"
+                          VPOS="634"
+                          HPOS="96"
+                          CONTENT="freie Kirche in Amerika, es wären theologiſche Seminarien wünſchenswer⸗"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="96,728 154,725 212,724 270,722 329,721 387,721 445,720 504,720 562,719 620,719 679,719 737,718 795,718 853,717 912,716 970,715 1028,714 1087,712 1145,710 1203,708 1262,704"
+                         HEIGHT="58"
+                         WIDTH="1166"
+                         VPOS="681"
+                         HPOS="96">
+                  <String ID="string_r1l14"
+                          HEIGHT="58"
+                          WIDTH="1166"
+                          VPOS="681"
+                          HPOS="96"
+                          CONTENT="ther, als ihre Geiſtlichen von andern praktiſch zurichten zu laſſen. Mit"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="96,776 154,774 212,773 270,771 328,770 387,770 445,769 503,768 561,768 619,768 678,767 736,767 794,766 852,766 910,765 969,764 1027,762 1085,761 1143,759 1201,757 1260,755"
+                         HEIGHT="55"
+                         WIDTH="1164"
+                         VPOS="732"
+                         HPOS="96">
+                  <String ID="string_r1l15"
+                          HEIGHT="55"
+                          WIDTH="1164"
+                          VPOS="732"
+                          HPOS="96"
+                          CONTENT="welchem Rechte die freie Kirche ihrer Prüfungscommiſſion, unter der auch"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="95,825 153,823 211,822 269,821 328,820 386,819 444,818 502,818 561,817 619,817 677,816 735,816 794,815 852,815 910,814 968,813 1027,812 1085,810 1143,808 1201,806 1260,804"
+                         HEIGHT="55"
+                         WIDTH="1165"
+                         VPOS="781"
+                         HPOS="95">
+                  <String ID="string_r1l16"
+                          HEIGHT="55"
+                          WIDTH="1165"
+                          VPOS="781"
+                          HPOS="95"
+                          CONTENT="Layen ſeyn ſollen, vorſchreibt, ihr Tüchtigkeitszeugniß von einem Zeugniß einer"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="100,872 158,871 216,869 274,868 332,868 390,867 448,867 506,866 564,866 622,865 680,865 738,865 796,864 854,864 912,863 970,862 1028,860 1086,859 1144,857 1202,855 1260,852"
+                         HEIGHT="54"
+                         WIDTH="1160"
+                         VPOS="829"
+                         HPOS="100">
+                  <String ID="string_r1l17"
+                          HEIGHT="54"
+                          WIDTH="1160"
+                          VPOS="829"
+                          HPOS="100"
+                          CONTENT="Staatsbehörde, daß der Candidat die für jeden Staatsdiener nöthigen Kennt⸗"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="96,923 154,922 213,920 271,919 330,918 389,917 447,916 506,916 564,915 623,915 682,914 740,914 799,913 857,912 916,912 975,911 1033,910 1092,908 1150,906 1209,904 1268,902"
+                         HEIGHT="55"
+                         WIDTH="1172"
+                         VPOS="879"
+                         HPOS="96">
+                  <String ID="string_r1l18"
+                          HEIGHT="55"
+                          WIDTH="1172"
+                          VPOS="879"
+                          HPOS="96"
+                          CONTENT="niſſe in allgemein wiſſenſchaftlicher Beziehung beſitze, abhängig zu machen, leuch⸗"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="94,973 153,971 212,969 271,968 330,967 389,966 448,965 507,965 566,964 625,964 684,963 743,963 802,962 861,962 920,960 979,959 1038,958 1097,956 1156,954 1215,951 1274,948"
+                         HEIGHT="59"
+                         WIDTH="1180"
+                         VPOS="925"
+                         HPOS="94">
+                  <String ID="string_r1l19"
+                          HEIGHT="59"
+                          WIDTH="1180"
+                          VPOS="925"
+                          HPOS="94"
+                          CONTENT="tet nicht ein. Wenn eine freie Gemeinde nun keinen ſtudirten Geiſtlichen ha⸗"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="94,1020 152,1019 211,1017 269,1016 328,1015 386,1014 445,1013 503,1013 562,1012 620,1012 679,1012 737,1011 796,1011 854,1010 913,1009 971,1008 1030,1007 1088,1005 1147,1004 1205,1001 1264,999"
+                         HEIGHT="55"
+                         WIDTH="1170"
+                         VPOS="976"
+                         HPOS="94">
+                  <String ID="string_r1l20"
+                          HEIGHT="55"
+                          WIDTH="1170"
+                          VPOS="976"
+                          HPOS="94"
+                          CONTENT="ben will, wer hat ihr darein zu reden? Es iſt (S. 140.) ein freier Aci"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="100,1070 158,1068 217,1067 275,1066 334,1065 393,1064 451,1063 510,1063 568,1062 627,1062 686,1061 744,1061 803,1060 861,1059 920,1059 979,1057 1037,1056 1096,1054 1154,1052 1213,1050 1272,1047"
+                         HEIGHT="57"
+                         WIDTH="1172"
+                         VPOS="1024"
+                         HPOS="100">
+                  <String ID="string_r1l21"
+                          HEIGHT="57"
+                          WIDTH="1172"
+                          VPOS="1024"
+                          HPOS="100"
+                          CONTENT="der Gemeinde, die den Mißgriff ſich ſelbſt zuzuſchreiben hat. — Wenn"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="102,1120 160,1117 218,1116 276,1114 334,1113 393,1112 451,1111 509,1111 567,1110 625,1110 684,1110 742,1109 800,1109 858,1108 916,1107 975,1106 1033,1105 1091,1104 1149,1102 1207,1099 1266,1096"
+                         HEIGHT="58"
+                         WIDTH="1164"
+                         VPOS="1073"
+                         HPOS="102">
+                  <String ID="string_r1l22"
+                          HEIGHT="58"
+                          WIDTH="1164"
+                          VPOS="1073"
+                          HPOS="102"
+                          CONTENT="es übrigens einer Samtfreikirche einfallen ſollte, eine theologiſche Bil⸗"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="100,1169 158,1167 216,1166 275,1164 333,1163 392,1163 450,1162 508,1161 567,1161 625,1160 684,1159 742,1159 800,1158 859,1157 917,1157 976,1156 1034,1154 1092,1153 1151,1151 1209,1149 1268,1147"
+                         HEIGHT="55"
+                         WIDTH="1168"
+                         VPOS="1125"
+                         HPOS="100">
+                  <String ID="string_r1l23"
+                          HEIGHT="55"
+                          WIDTH="1168"
+                          VPOS="1125"
+                          HPOS="100"
+                          CONTENT="dungsanſtalt zu gründen, ſo kommt glücklicher Weiſe, aber wie zufällig,"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="100,1218 158,1216 217,1214 275,1212 334,1211 392,1210 451,1209 509,1209 568,1208 626,1208 685,1208 743,1207 802,1207 860,1206 919,1205 977,1204 1036,1203 1094,1201 1153,1198 1211,1196 1270,1192"
+                         HEIGHT="59"
+                         WIDTH="1170"
+                         VPOS="1170"
+                         HPOS="100">
+                  <String ID="string_r1l24"
+                          HEIGHT="59"
+                          WIDTH="1170"
+                          VPOS="1170"
+                          HPOS="100"
+                          CONTENT="dem Verf. die Erinnerung an das alte Gut der Kirche, welches die Staa⸗"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="104,1267 162,1265 220,1263 278,1262 336,1261 395,1260 453,1259 511,1259 569,1258 627,1258 686,1257 744,1257 802,1257 860,1256 918,1255 977,1254 1035,1252 1093,1251 1151,1249 1209,1246 1268,1243"
+                         HEIGHT="58"
+                         WIDTH="1164"
+                         VPOS="1220"
+                         HPOS="104">
+                  <String ID="string_r1l25"
+                          HEIGHT="58"
+                          WIDTH="1164"
+                          VPOS="1220"
+                          HPOS="104"
+                          CONTENT="ten durch Seculariſationen, d. h. Sacrilegien, eingezogen haben. Er"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="102,1316 160,1314 218,1312 276,1311 335,1310 393,1309 451,1308 510,1308 568,1307 626,1307 685,1306 743,1306 801,1305 859,1304 918,1304 976,1302 1034,1301 1093,1299 1151,1297 1209,1294 1268,1291"
+                         HEIGHT="59"
+                         WIDTH="1166"
+                         VPOS="1268"
+                         HPOS="102">
+                  <String ID="string_r1l26"
+                          HEIGHT="59"
+                          WIDTH="1166"
+                          VPOS="1268"
+                          HPOS="102"
+                          CONTENT="droht ganz kapuzinermäßig mit dem Fluche, wenn der Staat nicht alles"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="105,1365 163,1363 221,1361 279,1360 337,1359 395,1358 453,1357 511,1357 569,1356 627,1356 685,1356 743,1355 801,1355 859,1354 917,1353 975,1352 1033,1350 1091,1349 1149,1346 1207,1343 1266,1340"
+                         HEIGHT="59"
+                         WIDTH="1161"
+                         VPOS="1317"
+                         HPOS="105">
+                  <String ID="string_r1l27"
+                          HEIGHT="59"
+                          WIDTH="1161"
+                          VPOS="1317"
+                          HPOS="105"
+                          CONTENT="herausgiebt (S. 268.). Ref. möchte wiſſen, ob, wenn man einmal die"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="107,1413 164,1412 222,1410 280,1409 338,1408 396,1407 454,1407 511,1406 569,1406 627,1405 685,1405 743,1404 801,1403 859,1403 916,1402 974,1401 1032,1400 1090,1398 1148,1396 1206,1394 1264,1392"
+                         HEIGHT="55"
+                         WIDTH="1157"
+                         VPOS="1369"
+                         HPOS="107">
+                  <String ID="string_r1l28"
+                          HEIGHT="55"
+                          WIDTH="1157"
+                          VPOS="1369"
+                          HPOS="107"
+                          CONTENT="Einwohner der reſpectiven Staaten nach den Vorſchlägen der freien Kirche"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="108,1462 165,1461 223,1459 281,1458 338,1458 396,1457 454,1456 511,1456 569,1455 627,1455 685,1454 742,1454 800,1453 858,1452 915,1451 973,1450 1031,1448 1088,1447 1146,1445 1204,1443 1262,1440"
+                         HEIGHT="56"
+                         WIDTH="1154"
+                         VPOS="1417"
+                         HPOS="108">
+                  <String ID="string_r1l29"
+                          HEIGHT="56"
+                          WIDTH="1154"
+                          VPOS="1417"
+                          HPOS="108"
+                          CONTENT="als Glieder einer ſolchen darüber kopfweiſe abſtimmen ließe, ob ſie den"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="108,1512 166,1510 224,1508 282,1507 340,1506 399,1505 457,1505 515,1504 573,1504 631,1504 690,1503 748,1503 806,1502 864,1501 922,1500 981,1499 1039,1498 1097,1495 1155,1493 1213,1490 1272,1487"
+                         HEIGHT="59"
+                         WIDTH="1164"
+                         VPOS="1464"
+                         HPOS="108">
+                  <String ID="string_r1l30"
+                          HEIGHT="59"
+                          WIDTH="1164"
+                          VPOS="1464"
+                          HPOS="108"
+                          CONTENT="Ausfall in den Staatseinkünften, welcher durch Ausſcheidung der Kirchen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="103,1563 161,1560 219,1559 277,1557 335,1556 393,1555 451,1554 509,1553 567,1553 625,1553 683,1552 741,1552 799,1551 857,1551 915,1550 973,1549 1031,1547 1089,1545 1147,1543 1205,1540 1264,1536"
+                         HEIGHT="60"
+                         WIDTH="1161"
+                         VPOS="1514"
+                         HPOS="103">
+                  <String ID="string_r1l31"
+                          HEIGHT="60"
+                          WIDTH="1161"
+                          VPOS="1514"
+                          HPOS="103"
+                          CONTENT="güter entſtehen würde, durch Steuern decken wollten, das Rettigſche Re"/>
+               </TextLine>
+               <TextLine ID="line_1620890119974_519"
+                         BASELINE="113,1609 144,1608 175,1608 207,1607 238,1606 269,1606 301,1605 332,1605 363,1604 395,1604 426,1603 457,1603 489,1602 520,1602 551,1602 583,1601 614,1601 645,1601 677,1600 708,1600 740,1600 752,1603 777,1601 803,1600 829,1599 855,1598 881,1598 906,1597 932,1597 958,1597 984,1597 1010,1597 1035,1597 1061,1597 1087,1596 1113,1595 1139,1594 1164,1592 1190,1589 1216,1587 1242,1584 1268,1580"
+                         HEIGHT="62"
+                         WIDTH="1155"
+                         VPOS="1558"
+                         HPOS="113">
+                  <String ID="string_line_1620890119974_519"
+                          HEIGHT="62"
+                          WIDTH="1155"
+                          VPOS="1558"
+                          HPOS="113"
+                          CONTENT="ſtitutionsedict viel Beifall finden würde. — Die freie Kirche ſchließt mit"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="104,1660 162,1658 220,1656 278,1655 336,1654 395,1653 453,1652 511,1652 569,1651 627,1651 686,1650 744,1650 802,1649 860,1648 918,1647 977,1646 1035,1645 1093,1643 1151,1640 1209,1637 1268,1634"
+                         HEIGHT="60"
+                         WIDTH="1164"
+                         VPOS="1611"
+                         HPOS="104">
+                  <String ID="string_r1l34"
+                          HEIGHT="60"
+                          WIDTH="1164"
+                          VPOS="1611"
+                          HPOS="104"
+                          CONTENT="einem prophetiſchen Lehrſtück, der Generalſynode als Darſtellung der äuße⸗"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="108,1709 166,1707 224,1705 282,1704 340,1703 398,1702 456,1701 514,1701 572,1701 630,1700 689,1700 747,1699 805,1699 863,1698 921,1697 979,1696 1037,1694 1095,1692 1153,1689 1211,1686 1270,1682"
+                         HEIGHT="63"
+                         WIDTH="1162"
+                         VPOS="1658"
+                         HPOS="108">
+                  <String ID="string_r1l35"
+                          HEIGHT="63"
+                          WIDTH="1162"
+                          VPOS="1658"
+                          HPOS="108"
+                          CONTENT="ren Einheit der proteſtantiſchen Kirche. Dieſe, welche S. 101. unmöglich"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="102,1759 160,1757 218,1755 276,1753 334,1752 393,1751 451,1750 509,1750 567,1750 625,1749 684,1749 742,1749 800,1748 858,1747 916,1746 975,1745 1033,1743 1091,1741 1149,1739 1207,1736 1266,1732"
+                         HEIGHT="61"
+                         WIDTH="1164"
+                         VPOS="1709"
+                         HPOS="102">
+                  <String ID="string_r1l36"
+                          HEIGHT="61"
+                          WIDTH="1164"
+                          VPOS="1709"
+                          HPOS="102"
+                          CONTENT="geweſen, wird S. 331. wenigſtens noch weit hinausgeſchoben, da der Vf."/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="110,1806 167,1805 225,1803 283,1802 341,1802 399,1801 457,1800 515,1800 573,1800 631,1799 689,1799 746,1798 804,1797 862,1796 920,1795 978,1794 1036,1792 1094,1790 1152,1787 1210,1784 1268,1780"
+                         HEIGHT="60"
+                         WIDTH="1158"
+                         VPOS="1757"
+                         HPOS="110">
+                  <String ID="string_r1l37"
+                          HEIGHT="60"
+                          WIDTH="1158"
+                          VPOS="1757"
+                          HPOS="110"
+                          CONTENT="vermuthet, ſogar die Organiſation einer Landeskirche, wie ſie von ihm ver⸗"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="105,1855 163,1853 221,1852 280,1851 338,1850 397,1849 455,1849 514,1849 572,1849 631,1849 689,1848 747,1848 806,1847 864,1846 923,1845 981,1844 1040,1842 1098,1839 1157,1835 1215,1832 1274,1827"
+                         HEIGHT="62"
+                         WIDTH="1169"
+                         VPOS="1804"
+                         HPOS="105">
+                  <String ID="string_r1l38"
+                          HEIGHT="62"
+                          WIDTH="1169"
+                          VPOS="1804"
+                          HPOS="105"
+                          CONTENT="handelt wurde, werde noch fern liegen. Uns ſcheint ſie in der That auch"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="112,1906 170,1903 228,1902 286,1900 344,1899 402,1899 460,1898 518,1898 576,1898 634,1897 692,1897 750,1897 808,1896 866,1896 924,1894 982,1893 1040,1891 1098,1888 1156,1885 1214,1881 1272,1877"
+                         HEIGHT="62"
+                         WIDTH="1160"
+                         VPOS="1855"
+                         HPOS="112">
+                  <String ID="string_r1l39"
+                          HEIGHT="62"
+                          WIDTH="1160"
+                          VPOS="1855"
+                          HPOS="112"
+                          CONTENT="ſo fern zu liegen, daß ſie nur mit dem Aufhören aller menſchlichen Kir⸗"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="111,1952 156,1952 201,1951 247,1950 292,1950 338,1949 383,1948 428,1948 474,1947 519,1947 565,1947 610,1946 655,1946 701,1945 746,1945 792,1944 837,1943 882,1942 928,1942 973,1941 1019,1940"
+                         HEIGHT="45"
+                         WIDTH="908"
+                         VPOS="1918"
+                         HPOS="111">
+                  <String ID="string_r1l40"
+                          HEIGHT="45"
+                          WIDTH="908"
+                          VPOS="1918"
+                          HPOS="111"
+                          CONTENT="chen und aller geſunden Begriffe ins Leben treten kann."/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="186,2004 240,2001 295,1999 349,1998 404,1997 458,1996 513,1996 567,1996 622,1995 676,1995 731,1995 785,1995 840,1994 894,1993 949,1992 1003,1990 1058,1988 1112,1985 1167,1981 1221,1977 1276,1971"
+                         HEIGHT="67"
+                         WIDTH="1090"
+                         VPOS="1948"
+                         HPOS="186">
+                  <String ID="string_r1l41"
+                          HEIGHT="67"
+                          WIDTH="1090"
+                          VPOS="1948"
+                          HPOS="186"
+                          CONTENT="Zum Schluſſe ſtehe noch eine Charakteriſtik der proteſtantiſchen Kirche"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="102,2053 160,2050 219,2049 277,2048 336,2047 395,2046 453,2046 512,2046 570,2046 629,2045 688,2045 746,2045 805,2044 863,2043 922,2041 981,2039 1039,2037 1098,2033 1156,2030 1215,2025 1274,2020"
+                         HEIGHT="67"
+                         WIDTH="1172"
+                         VPOS="1997"
+                         HPOS="102">
+                  <String ID="string_r1l42"
+                          HEIGHT="67"
+                          WIDTH="1172"
+                          VPOS="1997"
+                          HPOS="102"
+                          CONTENT="von dem Verf. hier, welche ihn ſelbſt und den Geiſt des Standpunkts der"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="106,2103 164,2100 223,2098 281,2097 340,2096 398,2095 457,2094 515,2094 574,2094 632,2094 691,2094 749,2094 808,2093 866,2092 925,2091 983,2089 1042,2087 1100,2084 1159,2079 1217,2075 1276,2069"
+                         HEIGHT="70"
+                         WIDTH="1170"
+                         VPOS="2045"
+                         HPOS="106">
+                  <String ID="string_r1l43"
+                          HEIGHT="70"
+                          WIDTH="1170"
+                          VPOS="2045"
+                          HPOS="106"
+                          CONTENT="freien Kirche bezeichnend charakteriſirt. S. 274. „Jetzt iſt die proteſtanti⸗"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="112,2151 170,2149 228,2147 286,2146 344,2145 403,2144 461,2144 519,2144 577,2144 635,2143 694,2143 752,2143 810,2142 868,2141 926,2140 985,2138 1043,2135 1101,2133 1159,2129 1217,2125 1276,2119"
+                         HEIGHT="66"
+                         WIDTH="1164"
+                         VPOS="2096"
+                         HPOS="112">
+                  <String ID="string_r1l44"
+                          HEIGHT="66"
+                          WIDTH="1164"
+                          VPOS="2096"
+                          HPOS="112"
+                          CONTENT="ſche Kirche eine faulende, ſumpfige Maſſe, auf der die Theologen, gleich"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="108,2202 165,2199 223,2197 280,2195 338,2194 396,2193 453,2193 511,2192 568,2192 626,2192 684,2192 741,2191 799,2191 856,2190 914,2189 972,2187 1029,2185 1087,2182 1144,2179 1202,2174 1260,2169"
+                         HEIGHT="67"
+                         WIDTH="1152"
+                         VPOS="2146"
+                         HPOS="108">
+                  <String ID="string_r1l45"
+                          HEIGHT="67"
+                          WIDTH="1152"
+                          VPOS="2146"
+                          HPOS="108"
+                          CONTENT="jenen Waſſerſpinnen, ſich hin und her bewegen und einander verjagen und"/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="106,2250 164,2247 222,2245 280,2243 338,2242 397,2241 455,2241 513,2241 571,2241 629,2241 688,2241 746,2241 804,2240 862,2240 920,2238 979,2237 1037,2234 1095,2231 1153,2227 1211,2223 1270,2217"
+                         HEIGHT="67"
+                         WIDTH="1164"
+                         VPOS="2194"
+                         HPOS="106">
+                  <String ID="string_r1l46"
+                          HEIGHT="67"
+                          WIDTH="1164"
+                          VPOS="2194"
+                          HPOS="106"
+                          CONTENT="befehden, während das ganze Element, auf dem ſie ſchwimmen, kaum auf"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

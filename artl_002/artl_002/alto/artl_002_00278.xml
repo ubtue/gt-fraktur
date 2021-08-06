@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:46:55.833+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2446" WIDTH="1360">
+         <TopMargin HEIGHT="0" WIDTH="1360" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2446" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2446" WIDTH="0" VPOS="0" HPOS="1360"/>
+         <BottomMargin HEIGHT="0" WIDTH="1360" VPOS="2446" HPOS="0"/>
+         <PrintSpace HEIGHT="2446" WIDTH="1360" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2210" WIDTH="1209" VPOS="76" HPOS="103">
+               <Shape>
+                  <Polygon POINTS="103,76 103,2286 1312,2286 1312,76"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="483,106 509,106 535,106 561,106 587,106 613,105 639,105 665,105 691,105 717,104 743,104 769,103 795,103 821,102 847,102 873,101 900,100"
+                         HEIGHT="42"
+                         WIDTH="417"
+                         VPOS="76"
+                         HPOS="483">
+                  <String ID="string_r1l1"
+                          HEIGHT="42"
+                          WIDTH="417"
+                          VPOS="76"
+                          HPOS="483"
+                          CONTENT="Evangeliſches Kirchenrecht."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="103,125 130,125 157,124 184,124"
+                         HEIGHT="37"
+                         WIDTH="81"
+                         VPOS="100"
+                         HPOS="103">
+                  <String ID="string_r1l2"
+                          HEIGHT="37"
+                          WIDTH="81"
+                          VPOS="100"
+                          HPOS="103"
+                          CONTENT="276"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="108,202 167,198 226,196 285,194 344,192 404,191 463,190 522,189 581,189 640,188 700,188 759,187 818,187 877,186 936,184 996,183 1055,180 1114,178 1173,174 1232,169 1292,164"
+                         HEIGHT="72"
+                         WIDTH="1184"
+                         VPOS="141"
+                         HPOS="108">
+                  <String ID="string_r1l3"
+                          HEIGHT="72"
+                          WIDTH="1184"
+                          VPOS="141"
+                          HPOS="108"
+                          CONTENT="oben zur Folge ꝛc. Um nun vielſeitigen Klagen abzuhelfen, hat der Groß⸗"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="116,251 174,247 232,245 291,243 349,242 408,240 466,239 524,238 583,238 641,237 700,236 758,236 816,235 875,233 933,232 992,231 1050,229 1108,226 1167,223 1225,219 1284,215"
+                         HEIGHT="69"
+                         WIDTH="1168"
+                         VPOS="193"
+                         HPOS="116">
+                  <String ID="string_r1l4"
+                          HEIGHT="69"
+                          WIDTH="1168"
+                          VPOS="193"
+                          HPOS="116"
+                          CONTENT="herzog, theils kraft ſeiner landesherrlichen Machtvollkommenheit theils des"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="114,297 172,294 230,292 289,291 347,290 406,289 464,288 522,287 581,287 639,286 698,286 756,285 814,284 873,283 931,282 990,280 1048,278 1106,275 1165,272 1223,268 1282,264"
+                         HEIGHT="66"
+                         WIDTH="1168"
+                         VPOS="242"
+                         HPOS="114">
+                  <String ID="string_r1l5"
+                          HEIGHT="66"
+                          WIDTH="1168"
+                          VPOS="242"
+                          HPOS="114"
+                          CONTENT="ihm adhärirenden Episcopatsrechts, eine neue Organiſation der Behörden"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="116,346 174,343 233,341 292,340 350,339 409,338 468,337 526,336 585,335 644,335 703,334 761,333 820,333 879,331 937,330 996,329 1055,327 1113,324 1172,321 1231,318 1290,314"
+                         HEIGHT="66"
+                         WIDTH="1174"
+                         VPOS="291"
+                         HPOS="116">
+                  <String ID="string_r1l6"
+                          HEIGHT="66"
+                          WIDTH="1174"
+                          VPOS="291"
+                          HPOS="116"
+                          CONTENT="für die evangeliſchen Kirchenangelegenheiten verfügt, und die dadurch noth⸗"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="114,394 172,392 231,390 289,389 348,387 407,387 465,386 524,385 582,384 641,384 700,383 758,382 817,381 875,380 934,379 993,377 1051,375 1110,373 1168,370 1227,366 1286,362"
+                         HEIGHT="66"
+                         WIDTH="1172"
+                         VPOS="339"
+                         HPOS="114">
+                  <String ID="string_r1l7"
+                          HEIGHT="66"
+                          WIDTH="1172"
+                          VPOS="339"
+                          HPOS="114"
+                          CONTENT="wendig gewordenen Amtsinſtructionen erlaſſen. Durch ſie ſoll der Grund"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="114,443 172,441 231,439 289,438 348,437 407,436 465,435 524,434 582,433 641,432 700,432 758,431 817,430 875,429 934,427 993,426 1051,424 1110,421 1168,419 1227,415 1286,412"
+                         HEIGHT="65"
+                         WIDTH="1172"
+                         VPOS="389"
+                         HPOS="114">
+                  <String ID="string_r1l8"
+                          HEIGHT="65"
+                          WIDTH="1172"
+                          VPOS="389"
+                          HPOS="114"
+                          CONTENT="zu durchgreifenden Verbeſſerungen gelegt werden, welche die neuen Kirchen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="119,491 177,489 235,488 294,486 352,485 411,484 469,483 528,483 586,482 645,481 703,480 761,480 820,478 878,477 937,476 995,474 1054,472 1112,470 1171,467 1229,464 1288,460"
+                         HEIGHT="67"
+                         WIDTH="1169"
+                         VPOS="436"
+                         HPOS="119">
+                  <String ID="string_r1l9"
+                          HEIGHT="67"
+                          WIDTH="1169"
+                          VPOS="436"
+                          HPOS="119"
+                          CONTENT="behörden ſelbſt einzuleiten haben. Nach dem erſten Edict iſt die Verwal⸗"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="118,541 176,539 235,538 293,537 352,536 410,535 469,534 527,533 586,532 644,531 703,530 761,529 820,527 878,526 937,525 995,523 1054,522 1112,520 1171,517 1229,515 1288,513"
+                         HEIGHT="62"
+                         WIDTH="1170"
+                         VPOS="490"
+                         HPOS="118">
+                  <String ID="string_r1l10"
+                          HEIGHT="62"
+                          WIDTH="1170"
+                          VPOS="490"
+                          HPOS="118"
+                          CONTENT="tung der geſammten evangeliſchen Kirche (mit Einſchluß der reformirten),"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="118,590 176,587 235,586 294,584 352,583 411,582 470,581 528,580 587,579 646,578 705,577 763,576 822,575 881,574 939,573 998,571 1057,570 1115,567 1174,565 1233,562 1292,559"
+                         HEIGHT="65"
+                         WIDTH="1174"
+                         VPOS="536"
+                         HPOS="118">
+                  <String ID="string_r1l11"
+                          HEIGHT="65"
+                          WIDTH="1174"
+                          VPOS="536"
+                          HPOS="118"
+                          CONTENT="unter Oberleitung des Miniſteriums des Innern und der Juſtiz, folgenden"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="114,639 172,637 231,635 290,633 349,631 408,630 467,629 526,628 585,628 644,627 703,626 761,625 820,624 879,623 938,622 997,620 1056,618 1115,616 1174,613 1233,610 1292,606"
+                         HEIGHT="67"
+                         WIDTH="1178"
+                         VPOS="583"
+                         HPOS="114">
+                  <String ID="string_r1l12"
+                          HEIGHT="67"
+                          WIDTH="1178"
+                          VPOS="583"
+                          HPOS="114"
+                          CONTENT="Behörden übertragen: einem Oberconſiſt., drei Superint., den Kreisräthen,"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="120,689 178,686 237,683 296,682 354,680 413,679 472,677 530,677 589,676 648,675 707,674 765,673 824,673 883,671 941,670 1000,669 1059,666 1117,664 1176,661 1235,658 1294,654"
+                         HEIGHT="69"
+                         WIDTH="1174"
+                         VPOS="631"
+                         HPOS="120">
+                  <String ID="string_r1l13"
+                          HEIGHT="69"
+                          WIDTH="1174"
+                          VPOS="631"
+                          HPOS="120"
+                          CONTENT="den Decanen, den Pfarrern und den Kirchenvorſtänden; nur in den ſtandes⸗"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="116,737 174,734 233,732 292,730 351,728 410,727 469,726 528,725 587,725 646,724 705,724 763,723 822,722 881,721 940,720 999,718 1058,716 1117,713 1176,710 1235,706 1294,702"
+                         HEIGHT="68"
+                         WIDTH="1178"
+                         VPOS="680"
+                         HPOS="116">
+                  <String ID="string_r1l14"
+                          HEIGHT="68"
+                          WIDTH="1178"
+                          VPOS="680"
+                          HPOS="116"
+                          CONTENT="herrlichen Bezirken bilden die beſtehenden Conſiſt. die Mittelbehörden zwiſchen"/>
+               </TextLine>
+               <TextLine ID="line_1618742356238_91"
+                         BASELINE="115,783 142,782 170,781 197,780 225,779 252,779 280,778 307,778 335,777 362,777 390,776 418,776 445,775 473,775 500,775 528,774 555,774 583,773 610,772 638,771 666,770 858,775 883,772 908,770 934,768 959,767 985,766 1010,766 1035,766 1061,765 1086,765 1112,765 1137,764 1162,762 1188,760 1213,758 1239,755 1264,752 1290,747"
+                         HEIGHT="69"
+                         WIDTH="1175"
+                         VPOS="725"
+                         HPOS="115">
+                  <String ID="string_line_1618742356238_91"
+                          HEIGHT="69"
+                          WIDTH="1175"
+                          VPOS="725"
+                          HPOS="115"
+                          CONTENT="dem Oberconſiſt. und den Decanen. — — — — *) Auf das allgem. Orga⸗"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="120,834 178,831 237,829 295,827 354,825 412,824 471,823 529,822 588,822 646,821 705,821 763,820 822,819 880,818 939,817 997,816 1056,814 1114,811 1173,808 1231,804 1290,800"
+                         HEIGHT="67"
+                         WIDTH="1170"
+                         VPOS="778"
+                         HPOS="120">
+                  <String ID="string_r1l17"
+                          HEIGHT="67"
+                          WIDTH="1170"
+                          VPOS="778"
+                          HPOS="120"
+                          CONTENT="niſations⸗Edict folgt die Amtsinſtruction für die Superint., ſodann die für"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="118,884 176,881 235,879 294,877 352,875 411,874 470,874 528,873 587,872 646,872 705,871 763,870 822,869 881,868 939,867 998,865 1057,863 1115,860 1174,856 1233,853 1292,847"
+                         HEIGHT="71"
+                         WIDTH="1174"
+                         VPOS="824"
+                         HPOS="118">
+                  <String ID="string_r1l18"
+                          HEIGHT="71"
+                          WIDTH="1174"
+                          VPOS="824"
+                          HPOS="118"
+                          CONTENT="die Decane. Vor das Edict über die Organiſation der Kirchenvorſtände"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="124,933 182,930 241,928 299,925 358,924 416,923 475,922 533,921 592,921 650,920 709,920 767,919 826,919 884,917 943,916 1001,915 1060,912 1118,909 1177,906 1235,902 1294,897"
+                         HEIGHT="70"
+                         WIDTH="1170"
+                         VPOS="874"
+                         HPOS="124">
+                  <String ID="string_r1l19"
+                          HEIGHT="70"
+                          WIDTH="1170"
+                          VPOS="874"
+                          HPOS="124"
+                          CONTENT="in den evangeliſchen und katholiſchen Gemeinden iſt das Edict geſtellt, welches"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="126,981 184,979 242,976 301,975 359,973 418,973 476,972 534,971 593,970 651,970 710,969 768,968 826,967 885,966 943,965 1002,963 1060,961 1118,958 1177,955 1235,951 1294,947"
+                         HEIGHT="68"
+                         WIDTH="1168"
+                         VPOS="924"
+                         HPOS="126">
+                  <String ID="string_r1l20"
+                          HEIGHT="68"
+                          WIDTH="1168"
+                          VPOS="924"
+                          HPOS="126"
+                          CONTENT="die Aufhebung des katholiſchen Kirchen⸗ und Schulrathes verfügt und die"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="124,1030 182,1028 241,1026 300,1024 358,1023 417,1022 476,1021 534,1020 593,1020 652,1019 711,1018 769,1018 828,1016 887,1015 945,1013 1004,1011 1063,1009 1121,1006 1180,1002 1239,998 1298,993"
+                         HEIGHT="71"
+                         WIDTH="1174"
+                         VPOS="970"
+                         HPOS="124">
+                  <String ID="string_r1l21"
+                          HEIGHT="71"
+                          WIDTH="1174"
+                          VPOS="970"
+                          HPOS="124"
+                          CONTENT="katholiſchen Kirchenangelegenheiten „vertrauensvoll“ (möchte dieß Vertrauen"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="124,1080 182,1077 240,1075 299,1073 357,1071 416,1070 474,1069 532,1068 591,1068 649,1067 708,1067 766,1066 824,1065 883,1064 941,1063 1000,1062 1058,1059 1116,1056 1175,1054 1233,1050 1292,1045"
+                         HEIGHT="69"
+                         WIDTH="1168"
+                         VPOS="1022"
+                         HPOS="124">
+                  <String ID="string_r1l22"
+                          HEIGHT="69"
+                          WIDTH="1168"
+                          VPOS="1022"
+                          HPOS="124"
+                          CONTENT="gerechtfertigt werden!) in die Hand der biſchöflichen Behörden legt. Wei⸗"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="128,1128 186,1125 244,1123 302,1121 360,1120 419,1118 477,1118 535,1117 593,1116 651,1116 710,1115 768,1114 826,1113 884,1112 942,1111 1001,1110 1059,1107 1117,1105 1175,1101 1233,1098 1292,1093"
+                         HEIGHT="69"
+                         WIDTH="1164"
+                         VPOS="1070"
+                         HPOS="128">
+                  <String ID="string_r1l23"
+                          HEIGHT="69"
+                          WIDTH="1164"
+                          VPOS="1070"
+                          HPOS="128"
+                          CONTENT="ter folgt eine Verordnung über die Verwaltung des Kirchenvermögens,"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="124,1178 182,1175 240,1172 298,1170 356,1169 415,1167 473,1166 531,1166 589,1165 647,1165 706,1164 764,1163 822,1163 880,1162 938,1160 997,1158 1055,1156 1113,1154 1171,1150 1229,1147 1288,1141"
+                         HEIGHT="71"
+                         WIDTH="1164"
+                         VPOS="1118"
+                         HPOS="124">
+                  <String ID="string_r1l24"
+                          HEIGHT="71"
+                          WIDTH="1164"
+                          VPOS="1118"
+                          HPOS="124"
+                          CONTENT="eine weitere über Reviſion der Local⸗, Kirchen⸗, Stiftungs⸗ und Schul⸗"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="128,1226 186,1223 244,1221 302,1219 360,1218 418,1217 476,1216 534,1215 592,1214 650,1214 709,1213 767,1212 825,1211 883,1210 941,1209 999,1207 1057,1204 1115,1202 1173,1198 1231,1195 1290,1190"
+                         HEIGHT="72"
+                         WIDTH="1162"
+                         VPOS="1166"
+                         HPOS="128">
+                  <String ID="string_r1l25"
+                          HEIGHT="72"
+                          WIDTH="1162"
+                          VPOS="1166"
+                          HPOS="128"
+                          CONTENT="rechnungen. Endlich ſchließt ſich an ein Organiſationsedict über das Volks⸗"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="140,1275 198,1271 256,1269 314,1267 372,1265 431,1264 489,1262 547,1262 605,1261 663,1261 722,1261 780,1260 838,1259 896,1258 954,1257 1013,1255 1071,1253 1129,1251 1187,1247 1245,1243 1304,1237"
+                         HEIGHT="72"
+                         WIDTH="1164"
+                         VPOS="1214"
+                         HPOS="140">
+                  <String ID="string_r1l26"
+                          HEIGHT="72"
+                          WIDTH="1164"
+                          VPOS="1214"
+                          HPOS="140"
+                          CONTENT="ſchulweſen nebſt Inſtructionen für die Orts⸗ und Bezirks⸗Schulvorſtände"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="134,1323 192,1319 250,1317 308,1315 366,1313 424,1312 482,1311 540,1311 598,1310 656,1310 714,1310 772,1309 830,1309 888,1308 946,1307 1004,1305 1062,1303 1120,1300 1178,1297 1236,1292 1294,1287"
+                         HEIGHT="70"
+                         WIDTH="1160"
+                         VPOS="1264"
+                         HPOS="134">
+                  <String ID="string_r1l27"
+                          HEIGHT="70"
+                          WIDTH="1160"
+                          VPOS="1264"
+                          HPOS="134"
+                          CONTENT="und den Oberſchulrath. Das kritiſche Sendſchreiben hebt mit Glück die"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="134,1371 191,1368 249,1366 307,1364 365,1363 423,1362 481,1361 539,1361 597,1361 655,1360 713,1360 770,1359 828,1359 886,1357 944,1356 1002,1354 1060,1352 1118,1349 1176,1346 1234,1342 1292,1337"
+                         HEIGHT="68"
+                         WIDTH="1158"
+                         VPOS="1314"
+                         HPOS="134">
+                  <String ID="string_r1l28"
+                          HEIGHT="68"
+                          WIDTH="1158"
+                          VPOS="1314"
+                          HPOS="134"
+                          CONTENT="Vorzüge dieſer — von ſeinem Verfaſſer ſelbſt mit bearbeiteten Kirchen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="132,1420 190,1418 248,1415 306,1414 364,1412 422,1411 480,1411 538,1410 596,1409 654,1409 713,1408 771,1408 829,1407 887,1406 945,1404 1003,1402 1061,1400 1119,1397 1177,1394 1235,1390 1294,1385"
+                         HEIGHT="69"
+                         WIDTH="1162"
+                         VPOS="1362"
+                         HPOS="132">
+                  <String ID="string_r1l29"
+                          HEIGHT="69"
+                          WIDTH="1162"
+                          VPOS="1362"
+                          HPOS="132"
+                          CONTENT="und Schulordnung hervor, indem es in Briefform die Einwendungen eines"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="140,1470 198,1466 256,1464 314,1463 372,1461 430,1461 488,1460 546,1459 604,1459 662,1459 720,1458 778,1458 836,1457 894,1456 952,1454 1010,1452 1068,1450 1126,1447 1184,1443 1242,1438 1300,1433"
+                         HEIGHT="73"
+                         WIDTH="1160"
+                         VPOS="1409"
+                         HPOS="140">
+                  <String ID="string_r1l30"
+                          HEIGHT="73"
+                          WIDTH="1160"
+                          VPOS="1409"
+                          HPOS="140"
+                          CONTENT="befreundeten Gegners entkräftet. Zuerſt ſtellt es die Vorzüge einer kirch⸗"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="136,1519 193,1517 251,1515 309,1513 367,1512 425,1511 483,1510 541,1509 599,1509 657,1508 715,1508 772,1507 830,1506 888,1505 946,1503 1004,1501 1062,1499 1120,1496 1178,1493 1236,1488 1294,1484"
+                         HEIGHT="71"
+                         WIDTH="1158"
+                         VPOS="1460"
+                         HPOS="136">
+                  <String ID="string_r1l31"
+                          HEIGHT="71"
+                          WIDTH="1158"
+                          VPOS="1460"
+                          HPOS="136"
+                          CONTENT="lichen Landesbehörde gegen die früheren Provinzialconſiſtorien ins Licht"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="140,1571 198,1568 256,1564 315,1562 373,1561 432,1559 490,1558 548,1558 607,1558 665,1557 724,1557 782,1557 840,1556 899,1555 957,1553 1016,1551 1074,1548 1132,1545 1191,1540 1249,1535 1308,1528"
+                         HEIGHT="77"
+                         WIDTH="1168"
+                         VPOS="1505"
+                         HPOS="140">
+                  <String ID="string_r1l32"
+                          HEIGHT="77"
+                          WIDTH="1168"
+                          VPOS="1505"
+                          HPOS="140"
+                          CONTENT="zeigt ſodann die kirchlichere Zuſammenſetzung der erſteren, rechtfertigt die"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="133,1621 191,1617 250,1614 308,1612 367,1610 426,1609 484,1608 543,1608 602,1607 660,1607 719,1607 778,1606 836,1605 895,1604 954,1603 1012,1600 1071,1598 1130,1593 1188,1589 1247,1583 1306,1577"
+                         HEIGHT="78"
+                         WIDTH="1173"
+                         VPOS="1554"
+                         HPOS="133">
+                  <String ID="string_r1l33"
+                          HEIGHT="78"
+                          WIDTH="1173"
+                          VPOS="1554"
+                          HPOS="133"
+                          CONTENT="Zuziehung von Juriſten und ihr Zahlenverhältniß zu den Geiſtlichen, die"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="140,1669 198,1665 256,1662 314,1660 372,1659 430,1658 488,1657 546,1657 604,1656 662,1656 720,1656 778,1655 836,1655 894,1654 952,1652 1010,1649 1068,1647 1126,1643 1184,1638 1242,1632 1300,1625"
+                         HEIGHT="78"
+                         WIDTH="1160"
+                         VPOS="1602"
+                         HPOS="140">
+                  <String ID="string_r1l34"
+                          HEIGHT="78"
+                          WIDTH="1160"
+                          VPOS="1602"
+                          HPOS="140"
+                          CONTENT="treffliche Einrichtung der Anwohnung beider Superintendenten bei beſonde⸗"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="146,1716 204,1713 262,1711 320,1710 378,1708 436,1708 494,1707 552,1707 610,1706 668,1706 726,1706 784,1705 842,1704 900,1703 958,1701 1016,1698 1074,1695 1132,1691 1190,1686 1248,1680 1306,1673"
+                         HEIGHT="77"
+                         WIDTH="1160"
+                         VPOS="1650"
+                         HPOS="146">
+                  <String ID="string_r1l35"
+                          HEIGHT="77"
+                          WIDTH="1160"
+                          VPOS="1650"
+                          HPOS="146"
+                          CONTENT="ren Verhandlungen, welche eine vielſeitige Beleuchtung vom theologiſchen"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="140,1766 198,1763 257,1761 315,1759 374,1758 432,1757 491,1756 549,1756 608,1756 666,1756 725,1755 783,1755 842,1754 900,1752 959,1751 1017,1748 1076,1744 1134,1740 1193,1735 1251,1729 1310,1721"
+                         HEIGHT="79"
+                         WIDTH="1170"
+                         VPOS="1698"
+                         HPOS="140">
+                  <String ID="string_r1l36"
+                          HEIGHT="79"
+                          WIDTH="1170"
+                          VPOS="1698"
+                          HPOS="140"
+                          CONTENT="Geſichtspunkt aus nöthig machen. Gebührende Berückſichtigung erhält das"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="144,1814 201,1811 259,1809 317,1807 374,1806 432,1806 490,1805 547,1805 605,1805 663,1805 721,1804 778,1804 836,1803 894,1801 951,1800 1009,1797 1067,1794 1124,1791 1182,1786 1240,1780 1298,1773"
+                         HEIGHT="74"
+                         WIDTH="1154"
+                         VPOS="1751"
+                         HPOS="144">
+                  <String ID="string_r1l37"
+                          HEIGHT="74"
+                          WIDTH="1154"
+                          VPOS="1751"
+                          HPOS="144"
+                          CONTENT="Amt der Superintendenten mit ſeinem auf das eigentlich Geiſtige allein"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="146,1862 204,1859 262,1857 320,1855 378,1854 436,1854 494,1854 552,1853 610,1853 668,1853 727,1853 785,1852 843,1851 901,1850 959,1848 1017,1845 1075,1842 1133,1837 1191,1831 1249,1825 1308,1817"
+                         HEIGHT="78"
+                         WIDTH="1162"
+                         VPOS="1795"
+                         HPOS="146">
+                  <String ID="string_r1l38"
+                          HEIGHT="78"
+                          WIDTH="1162"
+                          VPOS="1795"
+                          HPOS="146"
+                          CONTENT="beſchränkten Geſchäftskreiſe, während die Superintendenten anderer Länder"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="150,1911 207,1908 265,1906 323,1904 381,1904 439,1903 496,1903 554,1903 612,1903 670,1903 728,1902 785,1902 843,1901 901,1900 959,1898 1017,1895 1074,1892 1132,1887 1190,1882 1248,1875 1306,1867"
+                         HEIGHT="78"
+                         WIDTH="1156"
+                         VPOS="1844"
+                         HPOS="150">
+                  <String ID="string_r1l39"
+                          HEIGHT="78"
+                          WIDTH="1156"
+                          VPOS="1844"
+                          HPOS="150"
+                          CONTENT="meiſt neben der Schulinſpection noch viele andere zerſplitterndere Geſchäfte"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="146,1961 204,1957 262,1955 320,1953 378,1952 436,1952 494,1951 552,1951 610,1951 668,1951 727,1951 785,1951 843,1950 901,1949 959,1947 1017,1944 1075,1940 1133,1936 1191,1930 1249,1922 1308,1914"
+                         HEIGHT="81"
+                         WIDTH="1162"
+                         VPOS="1891"
+                         HPOS="146">
+                  <String ID="string_r1l40"
+                          HEIGHT="81"
+                          WIDTH="1162"
+                          VPOS="1891"
+                          HPOS="146"
+                          CONTENT="der Adminiſtration zu beſorgen haben. Hier haben ſie gleichſam allein die"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="144,2010 202,2006 260,2004 318,2002 376,2001 434,2000 492,2000 550,1999 608,2000 666,2000 724,1999 782,1999 840,1998 898,1997 956,1995 1014,1993 1072,1989 1130,1985 1188,1979 1246,1972 1304,1964"
+                         HEIGHT="80"
+                         WIDTH="1160"
+                         VPOS="1941"
+                         HPOS="144">
+                  <String ID="string_r1l41"
+                          HEIGHT="80"
+                          WIDTH="1160"
+                          VPOS="1941"
+                          HPOS="144"
+                          CONTENT="höhere Seelſorge über die Geiſtlichkeit zu üben. Darum aber iſt die Be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="144,2060 202,2056 260,2053 318,2052 377,2050 435,2049 493,2049 552,2049 610,2049 668,2049 727,2049 785,2048 843,2048 901,2046 960,2045 1018,2041 1076,2038 1135,2034 1193,2028 1251,2021 1310,2012"
+                         HEIGHT="84"
+                         WIDTH="1166"
+                         VPOS="1988"
+                         HPOS="144">
+                  <String ID="string_r1l42"
+                          HEIGHT="84"
+                          WIDTH="1166"
+                          VPOS="1988"
+                          HPOS="144"
+                          CONTENT="ſetzung dieſer Stellen eine höchſt wichtige Aufgabe für die Staatsregierung"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="148,2110 205,2106 263,2102 321,2100 379,2099 437,2098 495,2098 553,2098 611,2098 669,2098 727,2098 784,2098 842,2098 900,2097 958,2095 1016,2092 1074,2089 1132,2083 1190,2078 1248,2070 1306,2060"
+                         HEIGHT="84"
+                         WIDTH="1158"
+                         VPOS="2037"
+                         HPOS="148">
+                  <String ID="string_r1l43"
+                          HEIGHT="84"
+                          WIDTH="1158"
+                          VPOS="2037"
+                          HPOS="148"
+                          CONTENT="Sofort werden die Forderungen, welche die neue Organiſation an die"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="148,2158 205,2155 263,2152 321,2150 379,2149 437,2148 495,2148 553,2148 611,2148 669,2149 727,2149 784,2148 842,2148 900,2146 958,2144 1016,2141 1074,2137 1132,2132 1190,2125 1248,2117 1306,2108"
+                         HEIGHT="84"
+                         WIDTH="1158"
+                         VPOS="2085"
+                         HPOS="148">
+                  <String ID="string_r1l44"
+                          HEIGHT="84"
+                          WIDTH="1158"
+                          VPOS="2085"
+                          HPOS="148"
+                          CONTENT="Geiſtlichen macht, beſprochen, und gezeigt, wie dieſe nothwendig ſind, um"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="148,2210 206,2205 264,2202 322,2200 380,2198 439,2197 497,2197 555,2197 613,2197 671,2198 730,2198 788,2198 846,2197 904,2196 962,2194 1021,2190 1079,2187 1137,2181 1195,2174 1253,2166 1312,2155"
+                         HEIGHT="89"
+                         WIDTH="1164"
+                         VPOS="2132"
+                         HPOS="148">
+                  <String ID="string_r1l45"
+                          HEIGHT="89"
+                          WIDTH="1164"
+                          VPOS="2132"
+                          HPOS="148"
+                          CONTENT="dem geiſtlichen Stande ſeine würdige Stellung und ſegensvolle Wirkſam⸗"/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="219,2274 250,2273 281,2272 312,2271 344,2270 375,2269 406,2269 438,2268 469,2267 500,2267 532,2266 563,2266 594,2265 625,2265 657,2264 688,2264 719,2264 751,2263 782,2263 813,2262 845,2261"
+                         HEIGHT="49"
+                         WIDTH="626"
+                         VPOS="2237"
+                         HPOS="219">
+                  <String ID="string_r1l46"
+                          HEIGHT="49"
+                          WIDTH="626"
+                          VPOS="2237"
+                          HPOS="219"
+                          CONTENT="*) Das Nähere hierüber oben II. Nr. 3."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

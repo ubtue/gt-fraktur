@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:10.876+01:00</Created>
+        <LastChange>2021-05-11T13:39:59.446+02:00</LastChange>
+        <TranskribusMetadata docId="543222" pageId="22808907" pageNr="1" tsid="57732774" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=YDVZDRTSGDYHOYXUEHZQIODT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DNSRSTEFGPTFLWAVOUNLNSXU" imageId="17784585"/>
+    </Metadata>
+    <Page imageFilename="drey1834_0001.tif" imageWidth="1354" imageHeight="2331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327936333" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="108,89 108,2062 1112,2062 1112,89"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="540,147 570,148 601,147 631,146 662,147 662,90 631,89 601,90 570,91 540,90"/>
+                <Baseline points="540,128 570,129 601,128 631,127 662,128"/>
+                <TextEquiv>
+                    <Unicode>Was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="279,259 310,260 341,260 372,261 404,261 435,261 466,262 498,263 529,263 560,264 592,264 623,264 654,265 685,265 717,265 748,265 779,265 811,264 842,264 873,263 905,262 905,205 873,206 842,207 811,207 779,208 748,208 717,208 685,208 654,208 623,207 592,207 560,207 529,206 498,206 466,205 435,204 404,204 372,204 341,203 310,203 279,202"/>
+                <Baseline points="279,240 310,241 341,241 372,242 404,242 435,242 466,243 498,244 529,244 560,245 592,245 623,245 654,246 685,246 717,246 748,246 779,246 811,245 842,245 873,244 905,243"/>
+                <TextEquiv>
+                    <Unicode>iſt in unſerer Zeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="564,361 589,363 615,362 641,360 641,303 615,305 589,306 564,304"/>
+                <Baseline points="564,342 589,344 615,343 641,341"/>
+                <TextEquiv>
+                    <Unicode>von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="80,507 313,510 355,507 397,505 439,504 481,504 523,504 565,504 607,504 649,504 691,505 733,506 775,507 817,508 859,508 901,509 943,509 985,509 1027,509 1069,508 1112,506 1112,449 1069,451 1027,452 985,452 943,452 901,452 859,451 817,451 775,450 733,449 691,448 649,447 607,447 565,447 523,447 481,447 439,447 397,448 355,450 313,453 78,413"/>
+                <Baseline points="75,498 313,491 355,488 397,486 439,485 481,485 523,485 565,485 607,485 649,485 691,486 733,487 775,488 817,489 859,489 901,490 943,490 985,490 1027,490 1069,489 1112,487"/>
+                <TextEquiv>
+                    <Unicode>Synoden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="371,626 396,625 422,623 448,622 474,622 500,622 526,622 552,622 578,623 604,623 630,624 656,624 682,624 708,625 734,624 760,624 786,622 812,621 812,564 786,565 760,567 734,567 708,568 682,567 656,567 630,567 604,566 578,566 552,565 526,565 500,565 474,565 448,565 422,566 396,568 371,569"/>
+                <Baseline points="371,607 396,606 422,604 448,603 474,603 500,603 526,603 552,603 578,604 604,604 630,605 656,605 682,605 708,606 734,605 760,605 786,603 812,602"/>
+                <TextEquiv>
+                    <Unicode>zu erwarten?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="552,875 583,875 614,873 646,873 646,816 614,816 583,818 552,818"/>
+                <Baseline points="552,856 583,856 614,854 646,854"/>
+                <TextEquiv>
+                    <Unicode>Von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="183,962 224,962 265,961 307,961 348,960 390,960 431,959 472,959 514,958 555,958 597,958 638,958 679,957 721,957 762,957 804,957 845,958 886,958 928,958 969,959 1011,959 1011,902 969,902 928,901 886,901 845,901 804,900 762,900 721,900 679,900 638,901 597,901 555,901 514,901 472,902 431,902 390,903 348,903 307,904 265,904 224,905 183,905"/>
+                <Baseline points="183,943 224,943 265,942 307,942 348,941 390,941 431,940 472,940 514,939 555,939 597,939 638,939 679,938 721,938 762,938 804,938 845,939 886,939 928,939 969,940 1011,940"/>
+                <TextEquiv>
+                    <Unicode>Dr. Johann Sebastian v. Drey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="108,1053 157,1052 206,1051 255,1050 304,1050 354,1050 403,1049 452,1049 501,1049 550,1050 600,1050 649,1050 698,1050 747,1051 796,1051 846,1051 895,1051 944,1052 993,1052 1042,1052 1092,1052 1092,1012 1042,1012 993,1012 944,1012 895,1011 846,1011 796,1011 747,1011 698,1010 649,1010 600,1010 550,1010 501,1009 452,1009 403,1009 354,1010 304,1010 255,1010 206,1011 157,1012 108,1013"/>
+                <Baseline points="108,1040 157,1039 206,1038 255,1037 304,1037 354,1037 403,1036 452,1036 501,1036 550,1037 600,1037 649,1037 698,1037 747,1038 796,1038 846,1038 895,1038 944,1039 993,1039 1042,1039 1092,1039"/>
+                <TextEquiv>
+                    <Unicode>ordentl. Profeſſor an der katholiſch⸗theologiſchen Fakultaͤt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="486,1109 511,1108 536,1107 562,1106 587,1106 612,1105 638,1105 663,1105 688,1106 714,1106 714,1063 688,1063 663,1062 638,1062 612,1062 587,1063 562,1063 536,1064 511,1065 486,1066"/>
+                <Baseline points="486,1095 511,1094 536,1093 562,1092 587,1092 612,1091 638,1091 663,1091 688,1092 714,1092"/>
+                <TextEquiv>
+                    <Unicode>zu Tuͤbingen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="142,1554 188,1553 234,1553 280,1552 326,1552 372,1552 418,1552 464,1552 510,1552 556,1551 603,1551 649,1551 695,1551 741,1551 787,1552 833,1552 879,1552 925,1552 971,1552 1017,1552 1064,1552 1064,1522 1017,1522 971,1522 925,1522 879,1522 833,1522 787,1522 741,1521 695,1521 649,1521 603,1521 556,1521 510,1522 464,1522 418,1522 372,1522 326,1522 280,1522 234,1523 188,1523 142,1524"/>
+                <Baseline points="142,1544 188,1543 234,1543 280,1542 326,1542 372,1542 418,1542 464,1542 510,1542 556,1541 603,1541 649,1541 695,1541 741,1541 787,1542 833,1542 879,1542 925,1542 971,1542 1017,1542 1064,1542"/>
+                <TextEquiv>
+                    <Unicode>(Aus der theologiſchen Quartalſchrift 1834 2tes Heft, beſonders</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="517,1589 545,1590 573,1590 601,1590 629,1589 657,1590 686,1592 686,1562 657,1560 629,1559 601,1560 573,1560 545,1560 517,1559"/>
+                <Baseline points="517,1579 545,1580 573,1580 601,1580 629,1579 657,1580 686,1582"/>
+                <TextEquiv>
+                    <Unicode>abgedruckt.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="421,1842 447,1842 473,1843 499,1843 525,1844 552,1845 578,1846 604,1847 630,1847 656,1848 683,1848 709,1848 735,1848 761,1847 788,1846 788,1789 761,1790 735,1791 709,1791 683,1791 656,1791 630,1790 604,1790 578,1789 552,1788 525,1787 499,1786 473,1786 447,1785 421,1785"/>
+                <Baseline points="421,1823 447,1823 473,1824 499,1824 525,1825 552,1826 578,1827 604,1828 630,1828 656,1829 683,1829 709,1829 735,1829 761,1828 788,1827"/>
+                <TextEquiv>
+                    <Unicode>Tübingen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="283,1919 315,1920 347,1920 380,1920 412,1921 445,1921 477,1922 510,1923 542,1923 575,1924 607,1924 639,1925 672,1925 704,1925 737,1926 769,1926 802,1926 834,1926 867,1926 899,1926 932,1926 932,1872 899,1872 867,1872 834,1872 802,1872 769,1872 737,1872 704,1871 672,1871 639,1871 607,1870 575,1870 542,1869 510,1869 477,1868 445,1867 412,1867 380,1866 347,1866 315,1866 283,1865"/>
+                <Baseline points="283,1901 315,1902 347,1902 380,1902 412,1903 445,1903 477,1904 510,1905 542,1905 575,1906 607,1906 639,1907 672,1907 704,1907 737,1908 769,1908 802,1908 834,1908 867,1908 899,1908 932,1908"/>
+                <TextEquiv>
+                    <Unicode>bei Heinrich Laupp.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="509,1993 535,1995 562,1996 588,1995 615,1995 641,1995 668,1995 695,1997 695,1951 668,1949 641,1949 615,1949 588,1949 562,1950 535,1949 509,1947"/>
+                <Baseline points="509,1978 535,1980 562,1981 588,1980 615,1980 641,1980 668,1980 695,1982"/>
+                <TextEquiv>
+                    <Unicode>1834.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Was
+iſt in unſerer Zeit
+von
+Synoden
+zu erwarten?
+Von
+Dr. Johann Sebastian v. Drey.
+ordentl. Profeſſor an der katholiſch⸗theologiſchen Fakultaͤt
+zu Tuͤbingen.
+(Aus der theologiſchen Quartalſchrift 1834 2tes Heft, beſonders
+abgedruckt.)
+Tübingen,
+bei Heinrich Laupp.
+1834.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

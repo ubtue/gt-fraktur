@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:47:53.619+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2454" WIDTH="1327">
+         <TopMargin HEIGHT="0" WIDTH="1327" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="1327"/>
+         <BottomMargin HEIGHT="0" WIDTH="1327" VPOS="2454" HPOS="0"/>
+         <PrintSpace HEIGHT="2454" WIDTH="1327" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2037" WIDTH="1260" VPOS="90" HPOS="35">
+               <Shape>
+                  <Polygon POINTS="35,90 35,2127 1295,2127 1295,90"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="35,120 79,120"
+                         HEIGHT="45"
+                         WIDTH="44"
+                         VPOS="90"
+                         HPOS="35">
+                  <String ID="string_r1l1"
+                          HEIGHT="45"
+                          WIDTH="44"
+                          VPOS="90"
+                          HPOS="35"
+                          CONTENT="IV"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="1157,141 1185,141 1213,139"
+                         HEIGHT="32"
+                         WIDTH="56"
+                         VPOS="119"
+                         HPOS="1157">
+                  <String ID="string_r1l2"
+                          HEIGHT="32"
+                          WIDTH="56"
+                          VPOS="119"
+                          HPOS="1157"
+                          CONTENT="Seite"/>
+               </TextLine>
+               <TextLine ID="line_1615364104112_1006"
+                         BASELINE="50,220 91,218 133,216 174,214 216,212 257,210 299,208 340,206 382,205 423,203 465,201 507,200 548,198 590,197 631,195 673,194 714,192 756,191 797,189 839,188 881,186 1160,174 1192,172 1224,170"
+                         HEIGHT="81"
+                         WIDTH="1174"
+                         VPOS="150"
+                         HPOS="50">
+                  <String ID="string_line_1615364104112_1006"
+                          HEIGHT="81"
+                          WIDTH="1174"
+                          VPOS="150"
+                          HPOS="50"
+                          CONTENT="Rheiniſche Provinzialblätter, 1. 2. Jahrg. 1832. 1833. . . . 248"/>
+               </TextLine>
+               <TextLine ID="line_1615364287354_1103"
+                         BASELINE="40,268 75,266 110,263 146,262 181,260 217,258 252,256 288,255 323,253 359,252 394,250 429,249 465,247 500,246 536,245 571,244 607,242 642,240 678,239 713,238 749,236 1161,219 1195,217 1229,215"
+                         HEIGHT="86"
+                         WIDTH="1189"
+                         VPOS="193"
+                         HPOS="40">
+                  <String ID="string_line_1615364287354_1103"
+                          HEIGHT="86"
+                          WIDTH="1189"
+                          VPOS="193"
+                          HPOS="40"
+                          CONTENT="Jahrbuch der kathol. Kirche, 1r Jahrg. 1833. . . . . . 248"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="415,325 440,325 466,324 491,323 517,322 543,322 568,321 594,320 620,319 645,318 671,318 697,317 722,316 748,315 774,313 799,312 825,311 851,309"
+                         HEIGHT="58"
+                         WIDTH="436"
+                         VPOS="281"
+                         HPOS="415">
+                  <String ID="string_r1l7"
+                          HEIGHT="58"
+                          WIDTH="436"
+                          VPOS="281"
+                          HPOS="415"
+                          CONTENT="2. Auslaͤndiſche Literatur."/>
+               </TextLine>
+               <TextLine ID="line_1615364117738_1012"
+                         BASELINE="54,399 91,397 129,395 166,393 204,392 242,390 279,389 317,388 355,386 392,385 430,384 468,383 505,382 543,381 581,379 618,378 656,377 694,375 731,373 769,371 807,368 1164,358 1200,353 1237,351"
+                         HEIGHT="92"
+                         WIDTH="1183"
+                         VPOS="321"
+                         HPOS="54">
+                  <String ID="string_line_1615364117738_1012"
+                          HEIGHT="92"
+                          WIDTH="1183"
+                          VPOS="321"
+                          HPOS="54"
+                          CONTENT="Essai sur la vie de Jean Gerson, p. M. L’Ecuy . . . . 154"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="373,489 400,488 427,487 455,486 482,485 509,484 537,483 564,482 591,481 619,480 646,479 673,478 701,477 728,476 755,475 783,475 810,474 837,473 865,472 892,471 920,470"
+                         HEIGHT="61"
+                         WIDTH="547"
+                         VPOS="442"
+                         HPOS="373">
+                  <String ID="string_r1l10"
+                          HEIGHT="61"
+                          WIDTH="547"
+                          VPOS="442"
+                          HPOS="373"
+                          CONTENT="II. Kirchliche Statistik."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="204,556 248,555 292,552 336,551 381,549 425,547 469,545 513,543 558,542 602,540 646,538 690,537 735,535 779,533 823,532 867,531 912,529 956,528 1000,527 1044,526 1089,525"
+                         HEIGHT="71"
+                         WIDTH="885"
+                         VPOS="498"
+                         HPOS="204">
+                  <String ID="string_r1l11"
+                          HEIGHT="71"
+                          WIDTH="885"
+                          VPOS="498"
+                          HPOS="204"
+                          CONTENT="1. Theologiſche Facultäten und Lehranſtalten."/>
+               </TextLine>
+               <TextLine ID="line_1615364126568_1017"
+                         BASELINE="58,620 95,618 133,615 171,614 209,612 247,610 284,608 322,607 360,606 398,604 436,602 473,601 511,599 549,598 587,596 625,595 662,593 700,592 738,590 776,589 814,588 1191,573 1233,569"
+                         HEIGHT="94"
+                         WIDTH="1175"
+                         VPOS="539"
+                         HPOS="58">
+                  <String ID="string_line_1615364126568_1017"
+                          HEIGHT="94"
+                          WIDTH="1175"
+                          VPOS="539"
+                          HPOS="58"
+                          CONTENT="Jahresbericht der theologiſchen Facultät zu Bonn . . . . 45"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="482,675 507,674 533,673 558,672 584,671 610,670 635,670 661,669 686,668 712,667 738,667 763,665 789,665 815,663"
+                         HEIGHT="57"
+                         WIDTH="333"
+                         VPOS="633"
+                         HPOS="482">
+                  <String ID="string_r1l14"
+                          HEIGHT="57"
+                          WIDTH="333"
+                          VPOS="633"
+                          HPOS="482"
+                          CONTENT="2. Landeskirchen."/>
+               </TextLine>
+               <TextLine ID="line_1615364133983_1021"
+                         BASELINE="69,749 97,746 126,745 155,745 184,744 213,741 820,721 846,721 873,721 899,721 926,721 1068,713 1078,713 1208,701 1238,701"
+                         HEIGHT="81"
+                         WIDTH="1169"
+                         VPOS="678"
+                         HPOS="69">
+                  <String ID="string_line_1615364133983_1021"
+                          HEIGHT="81"
+                          WIDTH="1169"
+                          VPOS="678"
+                          HPOS="69"
+                          CONTENT="Dänemark . . . . . . . . . . . 75"/>
+               </TextLine>
+               <TextLine ID="line_1615364139200_1025"
+                         BASELINE="69,793 102,791 135,790 168,788 581,775 606,775 632,775 658,774 684,774 710,773 736,772 762,771 788,770 814,768 839,768 865,766 891,765 917,764 943,763 969,762 995,762 1021,761 1047,761 1073,761 1183,748 1212,747 1242,747"
+                         HEIGHT="78"
+                         WIDTH="1173"
+                         VPOS="725"
+                         HPOS="69">
+                  <String ID="string_line_1615364139200_1025"
+                          HEIGHT="78"
+                          WIDTH="1173"
+                          VPOS="725"
+                          HPOS="69"
+                          CONTENT="Island . . . . . . . . . . . . 157"/>
+               </TextLine>
+               <TextLine ID="line_1615364145976_1029"
+                         BASELINE="70,836 96,836 123,835 150,834 176,834 203,833 230,834 257,835 736,813 746,813 1138,797 1176,795 1185,795 1214,794 1243,791"
+                         HEIGHT="81"
+                         WIDTH="1173"
+                         VPOS="765"
+                         HPOS="70">
+                  <String ID="string_line_1615364145976_1029"
+                          HEIGHT="81"
+                          WIDTH="1173"
+                          VPOS="765"
+                          HPOS="70"
+                          CONTENT="Würtemberg . . . . . . . . . . .220"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="477,926 502,925 528,924 553,923 579,922 605,921 630,920 656,919 682,918 707,917 733,916 759,915 784,914 810,913 836,912"
+                         HEIGHT="57"
+                         WIDTH="359"
+                         VPOS="883"
+                         HPOS="477">
+                  <String ID="string_r1l27"
+                          HEIGHT="57"
+                          WIDTH="359"
+                          VPOS="883"
+                          HPOS="477"
+                          CONTENT="III. Miscellen."/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="74,1003 132,1001 191,997 249,995 308,992 367,990 425,988 484,986 542,983 601,981 660,979 718,977 777,975 835,973 894,971 953,969 1011,967 1070,965 1128,963 1187,961 1246,958"
+                         HEIGHT="76"
+                         WIDTH="1172"
+                         VPOS="937"
+                         HPOS="74">
+                  <String ID="string_r1l28"
+                          HEIGHT="76"
+                          WIDTH="1172"
+                          VPOS="937"
+                          HPOS="74"
+                          CONTENT="1. Beförderungen, Ehrenbezeigungen, Bocationen, Jubiläen."/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="1098,1008 1126,1007 1154,1006 1182,1005 1210,1004 1239,1003"
+                         HEIGHT="36"
+                         WIDTH="141"
+                         VPOS="982"
+                         HPOS="1098">
+                  <String ID="string_r1l29"
+                          HEIGHT="36"
+                          WIDTH="141"
+                          VPOS="982"
+                          HPOS="1098"
+                          CONTENT="208. 223."/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="516,1103 541,1102 566,1102 591,1101 616,1100 641,1100 667,1099 692,1098 717,1097 742,1096 767,1095 793,1093"
+                         HEIGHT="55"
+                         WIDTH="277"
+                         VPOS="1063"
+                         HPOS="516">
+                  <String ID="string_r1l30"
+                          HEIGHT="55"
+                          WIDTH="277"
+                          VPOS="1063"
+                          HPOS="516"
+                          CONTENT="2. Todesfälle."/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="1181,1117 1214,1116 1247,1117"
+                         HEIGHT="46"
+                         WIDTH="66"
+                         VPOS="1086"
+                         HPOS="1181">
+                  <String ID="string_r1l31"
+                          HEIGHT="46"
+                          WIDTH="66"
+                          VPOS="1086"
+                          HPOS="1181"
+                          CONTENT="160."/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="383,1219 411,1219 439,1218 467,1217 496,1216 524,1214 552,1213 580,1212 609,1211 637,1209 665,1208 693,1206 722,1205 750,1204 778,1203 806,1202 835,1202 863,1201 891,1201 919,1201 948,1201"
+                         HEIGHT="63"
+                         WIDTH="565"
+                         VPOS="1171"
+                         HPOS="383">
+                  <String ID="string_r1l32"
+                          HEIGHT="63"
+                          WIDTH="565"
+                          VPOS="1171"
+                          HPOS="383"
+                          CONTENT="3. Theologiſche Vorleſungen."/>
+               </TextLine>
+               <TextLine ID="line_1615364158830_1038"
+                         BASELINE="82,1290 113,1289 144,1288 175,1287 1222,1242 1258,1242"
+                         HEIGHT="80"
+                         WIDTH="1176"
+                         VPOS="1220"
+                         HPOS="82">
+                  <String ID="string_line_1615364158830_1038"
+                          HEIGHT="80"
+                          WIDTH="1176"
+                          VPOS="1220"
+                          HPOS="82"
+                          CONTENT="Bonn . . . . . . . . . . . . 16"/>
+               </TextLine>
+               <TextLine ID="line_1615364163457_1042"
+                         BASELINE="88,1334 118,1331 148,1330 178,1330 1228,1286 1256,1286"
+                         HEIGHT="80"
+                         WIDTH="1168"
+                         VPOS="1264"
+                         HPOS="88">
+                  <String ID="string_line_1615364163457_1042"
+                          HEIGHT="80"
+                          WIDTH="1168"
+                          VPOS="1264"
+                          HPOS="88"
+                          CONTENT="Berlin . . . . . . . . . . . . 48"/>
+               </TextLine>
+               <TextLine ID="line_1615364168970_1046"
+                         BASELINE="90,1380 117,1378 145,1376 172,1375 200,1373 228,1372 1226,1330 1256,1330"
+                         HEIGHT="82"
+                         WIDTH="1166"
+                         VPOS="1308"
+                         HPOS="90">
+                  <String ID="string_line_1615364168970_1046"
+                          HEIGHT="82"
+                          WIDTH="1166"
+                          VPOS="1308"
+                          HPOS="90"
+                          CONTENT="Tübingen . . . . . . . . . . . . 64"/>
+               </TextLine>
+               <TextLine ID="line_1615364172759_1050"
+                         BASELINE="89,1423 114,1422 140,1420 166,1419 192,1418 218,1418 244,1420 1234,1374 1254,1374"
+                         HEIGHT="81"
+                         WIDTH="1165"
+                         VPOS="1352"
+                         HPOS="89">
+                  <String ID="string_line_1615364172759_1050"
+                          HEIGHT="81"
+                          WIDTH="1165"
+                          VPOS="1352"
+                          HPOS="89"
+                          CONTENT="Heidelberg . . . . . . . . . . . . 80"/>
+               </TextLine>
+               <TextLine ID="line_1615364177164_1054"
+                         BASELINE="93,1467 121,1466 149,1464 177,1462 205,1461 233,1464 1216,1420 1256,1418"
+                         HEIGHT="81"
+                         WIDTH="1163"
+                         VPOS="1396"
+                         HPOS="93">
+                  <String ID="string_line_1615364177164_1054"
+                          HEIGHT="81"
+                          WIDTH="1163"
+                          VPOS="1396"
+                          HPOS="93"
+                          CONTENT="Würzburg . . . . . . . . . . . . 128"/>
+               </TextLine>
+               <TextLine ID="line_1615364182470_1059"
+                         BASELINE="89,1513 119,1509 149,1509 179,1509 1221,1465 1269,1463"
+                         HEIGHT="82"
+                         WIDTH="1180"
+                         VPOS="1441"
+                         HPOS="89">
+                  <String ID="string_line_1615364182470_1059"
+                          HEIGHT="82"
+                          WIDTH="1180"
+                          VPOS="1441"
+                          HPOS="89"
+                          CONTENT="Zürich  . . . . . . . . . . . . 144"/>
+               </TextLine>
+               <TextLine ID="line_1615364188591_1063"
+                         BASELINE="99,1557 129,1555 160,1553 190,1552 221,1554 272,1549 284,1551 1214,1510 1239,1506 1264,1506"
+                         HEIGHT="82"
+                         WIDTH="1165"
+                         VPOS="1485"
+                         HPOS="99">
+                  <String ID="string_line_1615364188591_1063"
+                          HEIGHT="82"
+                          WIDTH="1165"
+                          VPOS="1485"
+                          HPOS="99"
+                          CONTENT="Freiburg . . . . . . . . . . . . 176"/>
+               </TextLine>
+               <TextLine ID="line_1615364195759_1067"
+                         BASELINE="98,1601 125,1599 153,1598 180,1598 208,1597 236,1596 1086,1561 1096,1561 1172,1559 1182,1561 1214,1554 1242,1552 1270,1552"
+                         HEIGHT="82"
+                         WIDTH="1172"
+                         VPOS="1529"
+                         HPOS="98">
+                  <String ID="string_line_1615364195759_1067"
+                          HEIGHT="82"
+                          WIDTH="1172"
+                          VPOS="1529"
+                          HPOS="98"
+                          CONTENT="Erlangen . . . . . . . . . . . . 224"/>
+               </TextLine>
+               <TextLine ID="line_1615364199633_1071"
+                         BASELINE="105,1643 132,1644 159,1642 186,1640 213,1641 1218,1600 1243,1596 1268,1594"
+                         HEIGHT="80"
+                         WIDTH="1163"
+                         VPOS="1574"
+                         HPOS="105">
+                  <String ID="string_line_1615364199633_1071"
+                          HEIGHT="80"
+                          WIDTH="1163"
+                          VPOS="1574"
+                          HPOS="105"
+                          CONTENT="Breslau . . . . . . . . . . . . 256"/>
+               </TextLine>
+               <TextLine ID="line_1615364205496_1075"
+                         BASELINE="104,1691 131,1689 158,1687 186,1685 213,1684 240,1685 268,1689 1222,1642 1270,1638"
+                         HEIGHT="84"
+                         WIDTH="1166"
+                         VPOS="1617"
+                         HPOS="104">
+                  <String ID="string_line_1615364205496_1075"
+                          HEIGHT="84"
+                          WIDTH="1166"
+                          VPOS="1617"
+                          HPOS="104"
+                          CONTENT="Königsberg . . . . . . . . . . . 256"/>
+               </TextLine>
+               <TextLine ID="line_1615364211175_1079"
+                         BASELINE="105,1731 130,1732 156,1732 182,1732 208,1730 527,1723 537,1717 1180,1692 1200,1691 1218,1688 1245,1686 1272,1684"
+                         HEIGHT="81"
+                         WIDTH="1167"
+                         VPOS="1661"
+                         HPOS="105">
+                  <String ID="string_line_1615364211175_1079"
+                          HEIGHT="81"
+                          WIDTH="1167"
+                          VPOS="1661"
+                          HPOS="105"
+                          CONTENT="Gieſſen . . . . . . . . . . . . 272"/>
+               </TextLine>
+               <TextLine ID="line_1615364218238_1083"
+                         BASELINE="98,1780 124,1778 151,1777 178,1778 192,1777 202,1777 1218,1732 1250,1730 1282,1728"
+                         HEIGHT="84"
+                         WIDTH="1184"
+                         VPOS="1707"
+                         HPOS="98">
+                  <String ID="string_line_1615364218238_1083"
+                          HEIGHT="84"
+                          WIDTH="1184"
+                          VPOS="1707"
+                          HPOS="98"
+                          CONTENT="Jena . . . . . . . . . . . . . 272"/>
+               </TextLine>
+               <TextLine ID="line_1615364235620_1088"
+                         BASELINE="109,1821 137,1822 166,1822 194,1821 223,1820 252,1818 448,1824 458,1818 1180,1781 1190,1781 1222,1776 1250,1776 1278,1774"
+                         HEIGHT="88"
+                         WIDTH="1169"
+                         VPOS="1751"
+                         HPOS="109">
+                  <String ID="string_line_1615364235620_1088"
+                          HEIGHT="88"
+                          WIDTH="1169"
+                          VPOS="1751"
+                          HPOS="109"
+                          CONTENT="Göttingen . . . . . . . . . . . . 272"/>
+               </TextLine>
+               <TextLine ID="r1l67"
+                         BASELINE="162,1897 215,1894 268,1892 321,1890 374,1888 427,1886 480,1884 533,1881 586,1879 639,1877 693,1875 746,1873 799,1870 852,1868 905,1866 958,1864 1011,1862 1064,1859 1117,1857 1170,1855 1224,1852"
+                         HEIGHT="79"
+                         WIDTH="1062"
+                         VPOS="1829"
+                         HPOS="162">
+                  <String ID="string_r1l67"
+                          HEIGHT="79"
+                          WIDTH="1062"
+                          VPOS="1829"
+                          HPOS="162"
+                          CONTENT="4. Neuere liter. Unternehmungen auf theolog. Gebiete."/>
+               </TextLine>
+               <TextLine ID="r1l68"
+                         BASELINE="977,1907 1002,1907 1027,1907 1053,1907 1078,1906 1103,1905 1129,1904 1154,1902 1179,1901 1205,1900 1230,1899 1255,1898 1281,1898"
+                         HEIGHT="43"
+                         WIDTH="304"
+                         VPOS="1875"
+                         HPOS="977">
+                  <String ID="string_r1l68"
+                          HEIGHT="43"
+                          WIDTH="304"
+                          VPOS="1875"
+                          HPOS="977"
+                          CONTENT="112. 191. 208. 256."/>
+               </TextLine>
+               <TextLine ID="r1l69"
+                         BASELINE="433,2005 459,2004 485,2004 511,2003 537,2002 563,2001 589,2001 615,2000 641,1999 667,1998 693,1997 719,1996 745,1995 771,1994 797,1993 823,1992 849,1990 875,1989 901,1988 927,1986 954,1984"
+                         HEIGHT="66"
+                         WIDTH="521"
+                         VPOS="1954"
+                         HPOS="433">
+                  <String ID="string_r1l69"
+                          HEIGHT="66"
+                          WIDTH="521"
+                          VPOS="1954"
+                          HPOS="433"
+                          CONTENT="5. Vermiſchte Nachrichten."/>
+               </TextLine>
+               <TextLine ID="line_1615364676463_1144"
+                         BASELINE="978,2028 1008,2028 1038,2028 1057,2024 1083,2024 1109,2023 1135,2022 1161,2021 1187,2020 1213,2018 1239,2017 1265,2017 1292,2016"
+                         HEIGHT="48"
+                         WIDTH="314"
+                         VPOS="1995"
+                         HPOS="978">
+                  <String ID="string_line_1615364676463_1144"
+                          HEIGHT="48"
+                          WIDTH="314"
+                          VPOS="1995"
+                          HPOS="978"
+                          CONTENT="128. 160. 176. 191."/>
+               </TextLine>
+               <TextLine ID="line_1615364241458_1092"
+                         BASELINE="105,2112 140,2111 176,2110 212,2108 247,2107 283,2106 319,2104 354,2103 390,2101 426,2100 462,2099 497,2097 533,2096 569,2094 604,2093 640,2091 676,2089 711,2088 747,2086 783,2084 819,2082 1227,2058 1261,2061 1295,2062"
+                         HEIGHT="89"
+                         WIDTH="1190"
+                         VPOS="2038"
+                         HPOS="105">
+                  <String ID="string_line_1615364241458_1092"
+                          HEIGHT="89"
+                          WIDTH="1190"
+                          VPOS="2038"
+                          HPOS="105"
+                          CONTENT="Correſpondenz und eingegangene Geldbeiträge . . . . . 192"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

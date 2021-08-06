@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:47:57.684+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2454" WIDTH="1351">
+         <TopMargin HEIGHT="0" WIDTH="1351" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="1351"/>
+         <BottomMargin HEIGHT="0" WIDTH="1351" VPOS="2454" HPOS="0"/>
+         <PrintSpace HEIGHT="2454" WIDTH="1351" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2209" WIDTH="1194" VPOS="45" HPOS="96">
+               <Shape>
+                  <Polygon POINTS="96,45 96,2254 1290,2254 1290,45"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="492,72 517,72 542,71 567,71 592,71 618,70 643,70 668,70 693,70 718,70 744,69 769,69 794,69 819,69 844,69 870,70"
+                         HEIGHT="39"
+                         WIDTH="378"
+                         VPOS="45"
+                         HPOS="492">
+                  <String ID="string_r1l1"
+                          HEIGHT="39"
+                          WIDTH="378"
+                          VPOS="45"
+                          HPOS="492"
+                          CONTENT="Neander Kirchengeſchichte."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="98,86 128,86 158,86"
+                         HEIGHT="36"
+                         WIDTH="60"
+                         VPOS="62"
+                         HPOS="98">
+                  <String ID="string_r1l2"
+                          HEIGHT="36"
+                          WIDTH="60"
+                          VPOS="62"
+                          HPOS="98"
+                          CONTENT="58"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="102,160 160,158 219,157 277,156 336,155 394,154 453,154 511,154 570,154 628,154 687,154 745,154 804,154 862,153 921,153 979,153 1038,152 1096,151 1155,150 1213,148 1272,146"
+                         HEIGHT="48"
+                         WIDTH="1170"
+                         VPOS="123"
+                         HPOS="102">
+                  <String ID="string_r1l3"
+                          HEIGHT="48"
+                          WIDTH="1170"
+                          VPOS="123"
+                          HPOS="102"
+                          CONTENT="wo es heißt: Gott achte Einige σωτηρίας ἀξίους, εἰρηνικοὺς μὲν τὸ"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="98,211 156,209 215,208 273,207 332,206 391,205 449,205 508,204 566,203 625,203 684,202 742,202 801,201 859,201 918,201 977,200 1035,200 1094,199 1152,199 1211,198 1270,198"
+                         HEIGHT="47"
+                         WIDTH="1172"
+                         VPOS="175"
+                         HPOS="98">
+                  <String ID="string_r1l4"
+                          HEIGHT="47"
+                          WIDTH="1172"
+                          VPOS="175"
+                          HPOS="98"
+                          CONTENT="ἦθος, ὁμοφροσύνην δὲ καὶ κοινωνίαν ἀσπαζομένους, οἷς φθόνος"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="98,263 156,261 215,260 273,259 332,258 391,258 449,257 508,257 566,256 625,256 684,256 742,256 801,256 859,255 918,255 977,254 1035,253 1094,252 1152,251 1211,250 1270,248"
+                         HEIGHT="51"
+                         WIDTH="1172"
+                         VPOS="224"
+                         HPOS="98">
+                  <String ID="string_r1l5"
+                          HEIGHT="51"
+                          WIDTH="1172"
+                          VPOS="224"
+                          HPOS="98"
+                          CONTENT="ἢ συνόλως οὐ συνῴκησεν ἢ τάχιστα μετανέστη, τὰ ἴδια προφέ-"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="100,318 158,316 217,315 275,313 334,312 393,311 451,311 510,310 568,310 627,309 686,309 744,309 803,308 861,308 920,307 979,307 1037,306 1096,305 1154,304 1213,303 1272,302"
+                         HEIGHT="52"
+                         WIDTH="1172"
+                         VPOS="278"
+                         HPOS="100">
+                  <String ID="string_r1l6"
+                          HEIGHT="52"
+                          WIDTH="1172"
+                          VPOS="278"
+                          HPOS="100"
+                          CONTENT="ρειν εἰς μέσον ἀγαθὰ διεγνωκόσιν εἰς κοινὴν μετου-"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="103,369 161,368 219,367 277,366 335,365 393,364 451,364 509,363 567,363 625,362 684,362 742,361 800,361 858,360 916,360 974,359 1032,359 1090,358 1148,357 1206,357 1265,356"
+                         HEIGHT="46"
+                         WIDTH="1162"
+                         VPOS="334"
+                         HPOS="103">
+                  <String ID="string_r1l7"
+                          HEIGHT="46"
+                          WIDTH="1162"
+                          VPOS="334"
+                          HPOS="103"
+                          CONTENT="σίαν καὶ ἀπόλαυσιν. — Die äußeren Schickſale der Gemeinde,"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="97,416 155,414 214,413 273,412 332,411 391,410 450,410 508,410 567,410 626,410 685,410 744,410 803,409 862,409 920,409 979,408 1038,408 1097,407 1156,405 1215,404 1274,402"
+                         HEIGHT="47"
+                         WIDTH="1177"
+                         VPOS="380"
+                         HPOS="97">
+                  <String ID="string_r1l8"
+                          HEIGHT="47"
+                          WIDTH="1177"
+                          VPOS="380"
+                          HPOS="97"
+                          CONTENT="der Tod des Stephanus und deſſen Folgen, werden nun anſchaulich und"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="101,467 159,465 218,463 277,462 336,461 394,460 453,460 512,459 571,459 629,459 688,458 747,458 806,458 864,458 923,458 982,457 1041,457 1099,456 1158,455 1217,454 1276,453"
+                         HEIGHT="50"
+                         WIDTH="1175"
+                         VPOS="429"
+                         HPOS="101">
+                  <String ID="string_r1l9"
+                          HEIGHT="50"
+                          WIDTH="1175"
+                          VPOS="429"
+                          HPOS="101"
+                          CONTENT="gründlich geſchildert. In der Auffaſſung des Stephanus, als Vorgängers"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="107,515 165,514 224,512 282,511 341,510 400,510 458,509 517,509 575,509 634,508 693,508 751,508 810,508 868,508 927,507 986,507 1044,506 1103,505 1161,504 1220,503 1279,501"
+                         HEIGHT="48"
+                         WIDTH="1172"
+                         VPOS="478"
+                         HPOS="107">
+                  <String ID="string_r1l10"
+                          HEIGHT="48"
+                          WIDTH="1172"
+                          VPOS="478"
+                          HPOS="107"
+                          CONTENT="Pauli in der relativen Entgegenſetzung des Evang. gegen das Geſetz, ſomit"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="105,563 163,562 221,561 279,560 338,559 396,559 454,558 512,558 571,558 629,558 687,557 745,557 804,557 862,556 920,556 978,555 1037,555 1095,554 1153,553 1211,552 1270,550"
+                         HEIGHT="47"
+                         WIDTH="1165"
+                         VPOS="527"
+                         HPOS="105">
+                  <String ID="string_r1l11"
+                          HEIGHT="47"
+                          WIDTH="1165"
+                          VPOS="527"
+                          HPOS="105"
+                          CONTENT="als Repräſentanten der erſten Entwicklung einer neuen Secte des Chriſten⸗"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="98,613 156,612 215,611 274,610 333,609 392,609 451,608 510,608 569,607 628,607 687,606 745,606 804,606 863,605 922,605 981,604 1040,604 1099,603 1158,602 1217,601 1276,600"
+                         HEIGHT="49"
+                         WIDTH="1178"
+                         VPOS="576"
+                         HPOS="98">
+                  <String ID="string_r1l12"
+                          HEIGHT="49"
+                          WIDTH="1178"
+                          VPOS="576"
+                          HPOS="98"
+                          CONTENT="thums, welche aber im Keime untergehen mußte, um kräftiger zu erſtehen"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="101,661 159,660 218,659 276,659 335,658 394,658 452,657 511,657 570,657 628,656 687,656 746,655 804,655 863,655 922,654 980,654 1039,653 1098,652 1156,651 1215,650 1274,649"
+                         HEIGHT="46"
+                         WIDTH="1173"
+                         VPOS="626"
+                         HPOS="101">
+                  <String ID="string_r1l13"
+                          HEIGHT="46"
+                          WIDTH="1173"
+                          VPOS="626"
+                          HPOS="101"
+                          CONTENT="und um die äußern Verhältniſſe ſo umzugeſtalten, daß auch die übrigen Ver⸗"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="101,711 159,710 218,709 276,708 335,707 394,707 452,706 511,706 569,706 628,705 687,705 745,705 804,704 862,704 921,703 980,703 1038,702 1097,701 1155,700 1214,699 1273,697"
+                         HEIGHT="48"
+                         WIDTH="1172"
+                         VPOS="674"
+                         HPOS="101">
+                  <String ID="string_r1l14"
+                          HEIGHT="48"
+                          WIDTH="1172"
+                          VPOS="674"
+                          HPOS="101"
+                          CONTENT="kündiger auf naturgemäßem Wege dazu gebildet werden konnten (Verbrei⸗"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="102,760 160,759 218,758 277,757 335,756 393,756 452,755 510,755 568,754 627,754 685,754 743,754 802,754 860,753 918,753 977,752 1035,752 1093,751 1152,751 1210,750 1269,749"
+                         HEIGHT="45"
+                         WIDTH="1167"
+                         VPOS="726"
+                         HPOS="102">
+                  <String ID="string_r1l15"
+                          HEIGHT="45"
+                          WIDTH="1167"
+                          VPOS="726"
+                          HPOS="102"
+                          CONTENT="tung des Christenthums unter den Heiden aus Veranlaſſung der Zerſtreuung"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="100,810 158,809 216,808 275,807 333,806 392,806 450,805 509,805 567,804 626,804 684,804 742,803 801,803 859,802 918,802 976,801 1035,800 1093,800 1152,799 1210,798 1269,797"
+                         HEIGHT="47"
+                         WIDTH="1169"
+                         VPOS="774"
+                         HPOS="100">
+                  <String ID="string_r1l16"
+                          HEIGHT="47"
+                          WIDTH="1169"
+                          VPOS="774"
+                          HPOS="100"
+                          CONTENT="nach Stephani Tod), hierin folgt N. hauptſächlich dem trefflichen Programm"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="96,858 154,857 213,857 272,856 330,855 389,855 448,854 506,854 565,853 624,852 683,852 741,851 800,851 859,850 917,850 976,849 1035,849 1093,848 1152,847 1211,847 1270,846"
+                         HEIGHT="46"
+                         WIDTH="1174"
+                         VPOS="823"
+                         HPOS="96">
+                  <String ID="string_r1l17"
+                          HEIGHT="46"
+                          WIDTH="1174"
+                          VPOS="823"
+                          HPOS="96"
+                          CONTENT="Baurs, in Tübingen, 1829, welches eigentlich zuerſt das Verſtändniß des"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="103,907 161,906 219,905 277,904 336,903 394,903 452,902 511,902 569,901 627,901 686,901 744,900 802,900 860,899 919,899 977,899 1035,898 1094,897 1152,897 1210,896 1269,895"
+                         HEIGHT="46"
+                         WIDTH="1166"
+                         VPOS="872"
+                         HPOS="103">
+                  <String ID="string_r1l18"
+                          HEIGHT="46"
+                          WIDTH="1166"
+                          VPOS="872"
+                          HPOS="103"
+                          CONTENT="oft (neueſtens auch noch von Hebel in ſeinen ſonſt ſchätzbaren bibliſchen"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="102,956 160,955 218,954 276,953 335,952 393,951 451,951 509,950 568,950 626,949 684,949 742,948 801,948 859,947 917,947 975,947 1034,947 1092,946 1150,946 1208,946 1267,945"
+                         HEIGHT="45"
+                         WIDTH="1165"
+                         VPOS="922"
+                         HPOS="102">
+                  <String ID="string_r1l19"
+                          HEIGHT="45"
+                          WIDTH="1165"
+                          VPOS="922"
+                          HPOS="102"
+                          CONTENT="Aufſätzen) gemißhandelten Schwanengeſangs des erſten Blutzeugen eröffnete."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="105,1004 163,1003 221,1002 279,1001 338,1001 396,1000 454,1000 512,999 571,999 629,999 687,998 745,998 804,998 862,998 920,997 978,997 1037,996 1095,996 1153,995 1211,994 1270,994"
+                         HEIGHT="46"
+                         WIDTH="1165"
+                         VPOS="970"
+                         HPOS="105">
+                  <String ID="string_r1l20"
+                          HEIGHT="46"
+                          WIDTH="1165"
+                          VPOS="970"
+                          HPOS="105"
+                          CONTENT="Mit Recht ſieht N. in dieſer Verfolgung die Grenze eines neuen Abſchnitts"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="107,1055 156,1054 205,1053 254,1052 303,1051 352,1050 401,1050 450,1049 499,1049 548,1048 597,1048 646,1047 695,1047 744,1047 793,1047 842,1046 891,1046 940,1046 989,1045 1038,1045 1087,1044"
+                         HEIGHT="45"
+                         WIDTH="980"
+                         VPOS="1021"
+                         HPOS="107">
+                  <String ID="string_r1l21"
+                          HEIGHT="45"
+                          WIDTH="980"
+                          VPOS="1021"
+                          HPOS="107"
+                          CONTENT="für die ertenſive und intenſive Entwicklung des Chriſtenthums."/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="178,1104 233,1103 288,1102 343,1101 398,1100 453,1099 508,1099 563,1098 618,1098 673,1097 729,1097 784,1096 839,1096 894,1095 949,1095 1004,1094 1059,1094 1114,1093 1169,1093 1224,1092 1280,1091"
+                         HEIGHT="49"
+                         WIDTH="1102"
+                         VPOS="1067"
+                         HPOS="178">
+                  <String ID="string_r1l22"
+                          HEIGHT="49"
+                          WIDTH="1102"
+                          VPOS="1067"
+                          HPOS="178"
+                          CONTENT="Den Uebergang zur Verbreitung des Chriſtenthums unter den Heiden"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="106,1154 164,1153 223,1152 281,1151 340,1150 398,1149 457,1148 515,1147 574,1146 632,1145 691,1145 749,1144 808,1144 866,1144 925,1143 983,1143 1042,1142 1100,1142 1159,1142 1217,1142 1276,1142"
+                         HEIGHT="45"
+                         WIDTH="1170"
+                         VPOS="1120"
+                         HPOS="106">
+                  <String ID="string_r1l23"
+                          HEIGHT="45"
+                          WIDTH="1170"
+                          VPOS="1120"
+                          HPOS="106"
+                          CONTENT="bildet die Predigt zu Samaria und die Bekehrung des Cornelius. Zu"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="105,1203 163,1201 222,1200 280,1199 339,1197 397,1196 456,1195 514,1195 573,1194 631,1194 690,1193 749,1193 807,1193 866,1192 924,1192 983,1192 1041,1191 1100,1190 1158,1190 1217,1189 1276,1188"
+                         HEIGHT="48"
+                         WIDTH="1171"
+                         VPOS="1166"
+                         HPOS="105">
+                  <String ID="string_r1l24"
+                          HEIGHT="48"
+                          WIDTH="1171"
+                          VPOS="1166"
+                          HPOS="105"
+                          CONTENT="Samarien Empfänglichkeit für poetiſche Wirkſamkeit, daher auch die Pre⸗"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="97,1251 156,1250 215,1248 274,1247 333,1246 392,1245 451,1245 510,1244 569,1244 628,1243 688,1243 747,1242 806,1242 865,1242 924,1241 983,1241 1042,1240 1101,1240 1160,1239 1219,1238 1279,1237"
+                         HEIGHT="48"
+                         WIDTH="1182"
+                         VPOS="1214"
+                         HPOS="97">
+                  <String ID="string_r1l25"
+                          HEIGHT="48"
+                          WIDTH="1182"
+                          VPOS="1214"
+                          HPOS="97"
+                          CONTENT="digt des Philippus nur wegen ihrer großen ſinnlichen Beglaubigung durch"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="101,1300 159,1299 218,1298 277,1297 336,1296 395,1296 454,1295 512,1294 571,1294 630,1293 689,1293 748,1292 807,1292 866,1291 924,1291 983,1290 1042,1289 1101,1289 1160,1288 1219,1287 1278,1286"
+                         HEIGHT="48"
+                         WIDTH="1177"
+                         VPOS="1263"
+                         HPOS="101">
+                  <String ID="string_r1l26"
+                          HEIGHT="48"
+                          WIDTH="1177"
+                          VPOS="1263"
+                          HPOS="101"
+                          CONTENT="Wunder Glauben fand, ohne den h. Geiſt, d. h. ohne das Bewußtſeyn"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="105,1350 163,1349 222,1348 280,1347 339,1346 397,1345 456,1344 514,1344 573,1343 631,1342 690,1342 749,1341 807,1340 866,1340 924,1339 983,1339 1041,1338 1100,1338 1158,1337 1217,1336 1276,1336"
+                         HEIGHT="48"
+                         WIDTH="1171"
+                         VPOS="1313"
+                         HPOS="105">
+                  <String ID="string_r1l27"
+                          HEIGHT="48"
+                          WIDTH="1171"
+                          VPOS="1313"
+                          HPOS="105"
+                          CONTENT="einer von der Perſon des Wunderthäters unabhängigen ſelbſtſtändigen Le⸗"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="106,1400 164,1398 223,1397 282,1396 341,1395 400,1394 458,1394 517,1393 576,1392 635,1392 694,1391 752,1390 811,1390 870,1389 929,1389 988,1388 1046,1387 1105,1387 1164,1386 1223,1385 1282,1384"
+                         HEIGHT="52"
+                         WIDTH="1176"
+                         VPOS="1360"
+                         HPOS="106">
+                  <String ID="string_r1l28"
+                          HEIGHT="52"
+                          WIDTH="1176"
+                          VPOS="1360"
+                          HPOS="106"
+                          CONTENT="bensgemeinſchaft mit Chriſtus. Aus Veranlaſſung der Geſchichte mit Cor⸗"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="110,1450 168,1448 226,1446 284,1445 343,1444 401,1443 459,1442 517,1442 576,1441 634,1441 692,1440 750,1440 809,1439 867,1439 925,1439 983,1438 1042,1437 1100,1437 1158,1436 1216,1435 1275,1433"
+                         HEIGHT="53"
+                         WIDTH="1165"
+                         VPOS="1409"
+                         HPOS="110">
+                  <String ID="string_r1l29"
+                          HEIGHT="53"
+                          WIDTH="1165"
+                          VPOS="1409"
+                          HPOS="110"
+                          CONTENT="nelius erhalten die Apoſtel theils durch Offenbarung, theils durch äußere"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="111,1499 169,1498 227,1496 286,1495 344,1494 403,1493 461,1492 519,1491 578,1491 636,1490 695,1489 753,1489 811,1488 870,1488 928,1487 987,1487 1045,1486 1103,1486 1162,1485 1220,1484 1279,1483"
+                         HEIGHT="52"
+                         WIDTH="1168"
+                         VPOS="1459"
+                         HPOS="111">
+                  <String ID="string_r1l30"
+                          HEIGHT="52"
+                          WIDTH="1168"
+                          VPOS="1459"
+                          HPOS="111"
+                          CONTENT="Umſtände, nehmlich die erfahrungsmäßige Wirkſamkeit der Predigt unter"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="108,1548 166,1547 224,1545 283,1544 341,1543 400,1542 458,1541 516,1541 575,1540 633,1539 692,1539 750,1538 808,1538 867,1537 925,1537 984,1537 1042,1536 1100,1536 1159,1535 1217,1535 1276,1534"
+                         HEIGHT="50"
+                         WIDTH="1168"
+                         VPOS="1510"
+                         HPOS="108">
+                  <String ID="string_r1l31"
+                          HEIGHT="50"
+                          WIDTH="1168"
+                          VPOS="1510"
+                          HPOS="108"
+                          CONTENT="den Heiden zur Erweckung frommer Begeiſterung, klarere Einſicht in die"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="110,1598 168,1596 226,1594 284,1593 343,1591 401,1590 459,1590 518,1589 576,1588 634,1588 693,1587 751,1587 809,1587 867,1586 926,1586 984,1586 1042,1585 1101,1585 1159,1584 1217,1584 1276,1583"
+                         HEIGHT="51"
+                         WIDTH="1166"
+                         VPOS="1559"
+                         HPOS="110">
+                  <String ID="string_r1l32"
+                          HEIGHT="51"
+                          WIDTH="1166"
+                          VPOS="1559"
+                          HPOS="110"
+                          CONTENT="Unabhängigkeit des Chriſtenthums von dem Judenthum. — Der dritte Ab⸗"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="115,1648 173,1646 231,1645 289,1643 348,1642 406,1641 464,1640 523,1639 581,1638 639,1637 698,1637 756,1636 814,1636 872,1635 931,1635 989,1635 1047,1635 1106,1634 1164,1634 1222,1634 1281,1634"
+                         HEIGHT="50"
+                         WIDTH="1166"
+                         VPOS="1610"
+                         HPOS="115">
+                  <String ID="string_r1l33"
+                          HEIGHT="50"
+                          WIDTH="1166"
+                          VPOS="1610"
+                          HPOS="115"
+                          CONTENT="ſchnitt beginnt mit der Bildungs⸗ und Berufungsgeſchichte des Paulus;"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="105,1697 163,1695 221,1694 280,1692 338,1691 397,1690 455,1689 513,1688 572,1687 630,1687 689,1686 747,1686 805,1686 864,1685 922,1685 981,1685 1039,1685 1097,1684 1156,1684 1214,1684 1273,1683"
+                         HEIGHT="50"
+                         WIDTH="1168"
+                         VPOS="1659"
+                         HPOS="105">
+                  <String ID="string_r1l34"
+                          HEIGHT="50"
+                          WIDTH="1168"
+                          VPOS="1659"
+                          HPOS="105"
+                          CONTENT="bei letzterer wird die rein pſychologiſche Erklärung unbefangen gewürdigt,"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="109,1747 167,1744 226,1743 285,1741 344,1740 403,1739 462,1738 520,1738 579,1737 638,1736 697,1736 756,1736 815,1735 874,1735 932,1734 991,1734 1050,1733 1109,1733 1168,1732 1227,1731 1286,1730"
+                         HEIGHT="53"
+                         WIDTH="1177"
+                         VPOS="1706"
+                         HPOS="109">
+                  <String ID="string_r1l35"
+                          HEIGHT="53"
+                          WIDTH="1177"
+                          VPOS="1706"
+                          HPOS="109"
+                          CONTENT="und ihr Ungenügendes bündig dargelegt. Sehr lichtvoll für die Chronolo⸗"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="105,1797 164,1795 223,1793 282,1791 341,1790 400,1788 459,1787 519,1787 578,1786 637,1786 696,1785 755,1785 814,1785 873,1784 933,1784 992,1784 1051,1783 1110,1783 1169,1782 1228,1781 1288,1780"
+                         HEIGHT="51"
+                         WIDTH="1183"
+                         VPOS="1757"
+                         HPOS="105">
+                  <String ID="string_r1l36"
+                          HEIGHT="51"
+                          WIDTH="1183"
+                          VPOS="1757"
+                          HPOS="105"
+                          CONTENT="gie iſt die genauere Erklärung der ήμέραι ἱκαναὶ Act. 9, 23, welche"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="113,1844 171,1842 230,1841 288,1840 347,1839 405,1839 464,1838 522,1838 581,1837 639,1837 698,1836 757,1836 815,1836 874,1835 932,1835 991,1834 1049,1833 1108,1832 1166,1832 1225,1830 1284,1829"
+                         HEIGHT="49"
+                         WIDTH="1171"
+                         VPOS="1806"
+                         HPOS="113">
+                  <String ID="string_r1l37"
+                          HEIGHT="49"
+                          WIDTH="1171"
+                          VPOS="1806"
+                          HPOS="113"
+                          CONTENT="nicht nur die ἡμέραι τινὲς v. 19, ſondern auch den ganzen folgenden"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="113,1891 171,1890 230,1890 289,1890 347,1889 406,1889 465,1889 523,1888 582,1887 641,1887 700,1886 758,1886 817,1885 876,1884 934,1883 993,1883 1052,1882 1110,1881 1169,1880 1228,1880 1287,1879"
+                         HEIGHT="46"
+                         WIDTH="1174"
+                         VPOS="1856"
+                         HPOS="113">
+                  <String ID="string_r1l38"
+                          HEIGHT="46"
+                          WIDTH="1174"
+                          VPOS="1856"
+                          HPOS="113"
+                          CONTENT="Aufenthalt Pauli zu Damascus nach ſeiner arabiſchen Reiſe in ſich befaſſen."/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="109,1942 167,1941 226,1940 284,1940 343,1939 402,1938 460,1938 519,1937 578,1937 636,1936 695,1936 754,1935 812,1935 871,1934 930,1933 988,1933 1047,1932 1106,1931 1164,1930 1223,1929 1282,1928"
+                         HEIGHT="50"
+                         WIDTH="1173"
+                         VPOS="1904"
+                         HPOS="109">
+                  <String ID="string_r1l39"
+                          HEIGHT="50"
+                          WIDTH="1173"
+                          VPOS="1904"
+                          HPOS="109"
+                          CONTENT="Die Schraderſche Deutung der letzteren (= ſtille Vorbereitung in der Wüſte"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="115,1993 173,1992 231,1991 290,1990 348,1989 406,1989 465,1988 523,1987 581,1987 640,1986 698,1985 756,1985 815,1984 873,1984 931,1983 990,1982 1048,1981 1106,1981 1165,1980 1223,1979 1282,1978"
+                         HEIGHT="49"
+                         WIDTH="1167"
+                         VPOS="1955"
+                         HPOS="115">
+                  <String ID="string_r1l40"
+                          HEIGHT="49"
+                          WIDTH="1167"
+                          VPOS="1955"
+                          HPOS="115"
+                          CONTENT="Arabiens) findet ihre genügende Berichtigung. Nachdem die Geſchichte"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="108,2042 167,2041 226,2040 285,2039 344,2038 403,2037 462,2037 521,2036 580,2036 639,2035 698,2035 757,2034 816,2034 875,2033 934,2033 993,2032 1052,2031 1111,2030 1170,2029 1229,2028 1288,2027"
+                         HEIGHT="49"
+                         WIDTH="1180"
+                         VPOS="2004"
+                         HPOS="108">
+                  <String ID="string_r1l41"
+                          HEIGHT="49"
+                          WIDTH="1180"
+                          VPOS="2004"
+                          HPOS="108"
+                          CONTENT="des P. bis auf die ihm zu Jeruſalem gewordene Ueberzeugung, daß er"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="112,2092 170,2090 229,2089 288,2087 347,2087 406,2086 465,2085 524,2085 583,2084 642,2084 701,2084 759,2083 818,2083 877,2082 936,2082 995,2081 1054,2080 1113,2079 1172,2078 1231,2076 1290,2074"
+                         HEIGHT="52"
+                         WIDTH="1178"
+                         VPOS="2051"
+                         HPOS="112">
+                  <String ID="string_r1l42"
+                          HEIGHT="52"
+                          WIDTH="1178"
+                          VPOS="2051"
+                          HPOS="112"
+                          CONTENT="für die Predigt unter den Heiden beſtimmt ſey, fortgeführt iſt, wird der"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="115,2141 173,2140 232,2139 290,2138 349,2137 407,2136 466,2136 524,2135 583,2134 641,2134 700,2133 759,2133 817,2132 876,2132 934,2131 993,2131 1051,2130 1110,2130 1168,2129 1227,2128 1286,2128"
+                         HEIGHT="47"
+                         WIDTH="1171"
+                         VPOS="2105"
+                         HPOS="115">
+                  <String ID="string_r1l43"
+                          HEIGHT="47"
+                          WIDTH="1171"
+                          VPOS="2105"
+                          HPOS="115"
+                          CONTENT="Uebergang auf Antiochien, die Mutterkirche heidniſcher Gemeinden, gemacht,"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="109,2190 167,2188 226,2188 285,2187 344,2186 403,2186 462,2185 520,2185 579,2184 638,2184 697,2183 756,2183 815,2182 874,2182 932,2181 991,2181 1050,2180 1109,2179 1168,2178 1227,2177 1286,2175"
+                         HEIGHT="49"
+                         WIDTH="1177"
+                         VPOS="2152"
+                         HPOS="109">
+                  <String ID="string_r1l44"
+                          HEIGHT="49"
+                          WIDTH="1177"
+                          VPOS="2152"
+                          HPOS="109"
+                          CONTENT="und wird ihr Verhältniß zur jüdiſchen Mutterkirche dargethan. Unterſuchung"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="106,2242 165,2241 224,2239 283,2238 342,2238 401,2237 460,2236 519,2236 578,2236 637,2235 696,2235 755,2234 814,2234 873,2234 932,2233 991,2232 1050,2231 1109,2230 1168,2229 1227,2227 1286,2226"
+                         HEIGHT="52"
+                         WIDTH="1180"
+                         VPOS="2202"
+                         HPOS="106">
+                  <String ID="string_r1l45"
+                          HEIGHT="52"
+                          WIDTH="1180"
+                          VPOS="2202"
+                          HPOS="106"
+                          CONTENT="der Frage, ob die Reiſe des Barnabas und Paulus nach Jeruſalem die"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-23T11:54:16.048+01:00</Created>
+        <LastChange>2021-05-13T09:43:30.171+02:00</LastChange>
+        <TranskribusMetadata docId="543221" pageId="22808931" pageNr="17" tsid="57821982" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=TJAZDGGPEKVILVWBKZSQHYZA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JKJOCYFOFHXEOQNGJSDBPBVE" imageId="17784609"/>
+    </Metadata>
+    <Page imageFilename="artl_002_00288.tif" imageWidth="1360" imageHeight="2446">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328016192" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1620891364271_863"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1620891364271_863" custom="readingOrder {index:0;}">
+            <Coords points="84,293 1276,301 1282,600 1282,2223 1199,2252 84,2252"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="372,323 404,323 436,323 468,323 500,323 532,323 564,323 596,323 628,323 660,323 693,323 725,323 757,323 789,323 821,323 853,323 885,323 917,323 949,323 981,323 1014,323 1014,293 981,293 949,293 917,293 885,293 853,293 821,293 789,293 757,293 725,293 693,293 660,293 628,293 596,293 564,293 532,293 500,293 468,293 436,293 404,293 372,293"/>
+                <Baseline points="372,313 404,313 436,313 468,313 500,313 532,313 564,313 596,313 628,313 660,313 693,313 725,313 757,313 789,313 821,313 853,313 885,313 917,313 949,313 981,313 1014,313"/>
+                <TextEquiv>
+                    <Unicode>Inhalt des zweiten Bandes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="406,463 433,464 461,465 489,465 517,465 545,465 572,465 600,465 628,465 656,464 684,464 711,463 739,463 767,463 795,463 823,463 850,463 878,464 906,465 934,466 962,468 962,438 934,436 906,435 878,434 850,433 823,433 795,433 767,433 739,433 711,433 684,434 656,434 628,435 600,435 572,435 545,435 517,435 489,435 461,435 433,434 406,433"/>
+                <Baseline points="406,453 433,454 461,455 489,455 517,455 545,455 572,455 600,455 628,455 656,454 684,454 711,453 739,453 767,453 795,453 823,453 850,453 878,454 906,455 934,456 962,458"/>
+                <TextEquiv>
+                    <Unicode>1. Theologiſche Kritik,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="562,523 588,524 615,525 642,525 668,524 695,524 722,524 748,523 775,523 802,523 829,524 829,494 802,493 775,493 748,493 722,494 695,494 668,494 642,495 615,495 588,494 562,493"/>
+                <Baseline points="562,513 588,514 615,515 642,515 668,514 695,514 722,514 748,513 775,513 802,513 829,514"/>
+                <TextEquiv>
+                    <Unicode>A. Bücher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="333,602 368,602 404,601 440,601 475,601 511,601 547,600 582,600 618,600 654,601 690,601 725,601 761,601 797,601 832,601 868,601 904,602 939,602 975,602 1011,602 1047,602 1047,572 1011,572 975,572 939,572 904,572 868,571 832,571 797,571 761,571 725,571 690,571 654,571 618,570 582,570 547,570 511,571 475,571 440,571 404,571 368,572 333,572"/>
+                <Baseline points="333,592 368,592 404,591 440,591 475,591 511,591 547,590 582,590 618,590 654,591 690,591 725,591 761,591 797,591 832,591 868,591 904,592 939,592 975,592 1011,592 1047,592"/>
+                <TextEquiv>
+                    <Unicode>Exegetiſche Theologie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:4;}">
+                <Coords points="1215,633 1248,634 1282,630 1282,600 1248,604 1215,603"/>
+                <Baseline points="1215,623 1248,624 1282,620"/>
+                <TextEquiv>
+                    <Unicode>Seite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891386915_871" custom="readingOrder {index:5;}">
+                <Coords points="98,641 727,641 1279,643 1281,693 1256,694 98,671"/>
+                <Baseline points="98,661 137,661 176,662 216,662 255,662 294,662 334,662 373,662 412,662 452,661 491,661 530,661 570,661 609,661 648,661 688,661 727,661 766,662 806,662 845,663 885,664 1006,665 1031,666 1057,666 1083,665 1108,665 1134,665 1160,664 1186,663 1279,648 1254,649"/>
+                <TextEquiv>
+                    <Unicode>Maurer, Commentar. grammatic. critic. in v. T. . . . . . . 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891390920_875" custom="readingOrder {index:6;}">
+                <Coords points="100,677 1257,638 1278,638 1278,688 1193,712 997,712 390,710 125,708 100,707"/>
+                <Baseline points="100,697 125,698 150,698 175,698 200,698 226,698 251,698 276,697 301,697 326,696 352,696 390,700 412,700 997,702 1025,702 1053,701 1081,701 1109,700 1137,701 1165,701 1193,702 1257,683 1278,683"/>
+                <TextEquiv>
+                    <Unicode>Meyer, Judaica . . . . . . . . . . . . . . . . . . 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891395777_879" custom="readingOrder {index:7;}">
+                <Coords points="111,714 1274,698 1274,728 1252,734 1173,750 919,749 111,744"/>
+                <Baseline points="111,734 151,734 191,733 232,733 272,733 313,733 353,732 393,732 434,732 474,731 515,731 555,731 595,731 636,731 676,731 717,732 757,733 797,734 838,735 878,737 919,739 1085,736 1114,738 1143,737 1187,735 1252,724 1274,718"/>
+                <TextEquiv>
+                    <Unicode>Gredner Beiträge z. Einleit. in d. bibl. S. . . . . . . . . 17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891399460_883" custom="readingOrder {index:8;}">
+                <Coords points="108,748 1279,735 1279,765 1195,781 1137,783 134,779 108,778"/>
+                <Baseline points="108,768 134,769 161,769 187,768 214,768 240,768 267,768 293,767 320,767 346,767 373,766 399,766 426,766 452,766 479,766 505,766 532,766 558,767 585,767 611,768 638,769 1137,773 1166,772 1195,771 1247,759 1279,755"/>
+                <TextEquiv>
+                    <Unicode>Thilo, Codex Apocryphus N. T. . . . . . . . . . . . . 33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891405343_887" custom="readingOrder {index:9;}">
+                <Coords points="102,785 150,784 1278,772 1278,802 1199,817 1167,819 1135,819 102,815"/>
+                <Baseline points="102,805 150,804 199,804 248,804 297,803 346,803 395,803 443,803 492,803 541,803 590,803 639,803 688,803 737,804 785,804 834,804 883,804 932,804 981,804 1030,804 1079,804 1135,809 1167,809 1199,807 1256,794 1278,792"/>
+                <TextEquiv>
+                    <Unicode>Klener Recentiores de authentia evang. Matthaei quaestiones . . 49</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891411674_891" custom="readingOrder {index:10;}">
+                <Coords points="105,821 1274,806 1274,836 1191,851 1139,855 130,852 105,851"/>
+                <Baseline points="105,841 130,842 155,842 180,842 206,842 231,842 256,842 282,842 307,841 332,841 357,841 383,841 408,840 433,840 459,840 484,840 509,839 535,839 1139,845 1165,842 1191,841 1254,828 1274,826"/>
+                <TextEquiv>
+                    <Unicode>Lisco, Das neue Teſtament . . . . . . . . . . . . . . 65</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891416580_895" custom="readingOrder {index:11;}">
+                <Coords points="99,858 1280,844 1280,874 1250,876 799,888 309,889 134,889 99,888"/>
+                <Baseline points="99,878 134,879 169,879 204,879 239,879 274,879 309,879 344,878 379,878 414,877 449,877 484,876 519,876 554,875 589,875 624,875 659,875 694,876 729,876 764,877 1189,881 1250,866 1280,864"/>
+                <TextEquiv>
+                    <Unicode>Olshauſen, Echtheit d. Schriften d. N. T. . . . . . . . . 81</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891420387_899" custom="readingOrder {index:12;}">
+                <Coords points="99,897 142,896 1278,876 1278,906 1057,921 987,925 99,927"/>
+                <Baseline points="99,917 142,916 185,916 228,915 271,915 314,914 357,914 401,914 444,913 487,913 530,913 573,913 616,913 659,913 703,913 746,913 789,913 832,913 875,913 918,913 962,914 987,915 1022,910 1194,913 1248,898 1278,896"/>
+                <TextEquiv>
+                    <Unicode>Feldhof, Ueber die Jahre d. Geburt und Auferſtehung Jeſu . . . 97</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891424107_903" custom="readingOrder {index:13;}">
+                <Coords points="108,934 155,933 347,929 1275,913 1275,943 1244,948 1064,961 108,964"/>
+                <Baseline points="108,954 155,953 203,952 251,951 299,950 347,949 394,949 442,948 490,948 538,948 586,948 633,948 681,948 729,948 777,948 825,948 872,949 920,949 968,950 1152,948 1200,949 1244,938 1275,933"/>
+                <TextEquiv>
+                    <Unicode>Wurm, Die Zeitbeſtimmungen im Leben des Apoſtels Paulus . . . 97</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891427539_907" custom="readingOrder {index:14;}">
+                <Coords points="103,969 1274,952 1274,982 1228,988 942,997 147,999 103,999"/>
+                <Baseline points="103,989 147,989 191,988 235,988 279,988 323,987 367,987 412,986 456,986 500,986 544,985 588,985 632,985 677,985 721,985 765,985 809,985 853,985 897,986 1193,985 1228,978 1274,972"/>
+                <TextEquiv>
+                    <Unicode>Schleiermacher, Ueber die Zeugniſſe des Papias ꝛc. . . . . . 209</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891431620_911" custom="readingOrder {index:15;}">
+                <Coords points="101,1006 1270,988 1270,1018 1226,1024 1000,1035 139,1036 101,1036"/>
+                <Baseline points="101,1026 139,1026 177,1025 216,1025 254,1024 293,1024 331,1023 370,1023 408,1022 447,1022 485,1022 523,1021 562,1021 600,1021 639,1021 677,1021 716,1022 754,1022 793,1023 831,1023 870,1024 990,1025 1196,1022 1226,1014 1270,1008"/>
+                <TextEquiv>
+                    <Unicode>Tholuck, Joannis Calvini in N. T. Comment. . . . . . . . . 273</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:16;}">
+                <Coords points="345,1102 378,1101 412,1100 446,1099 480,1098 514,1098 548,1098 581,1098 615,1098 649,1098 683,1099 717,1099 751,1099 785,1099 818,1100 852,1100 886,1100 920,1100 954,1099 988,1099 1022,1098 1022,1068 988,1069 954,1069 920,1070 886,1070 852,1070 818,1070 785,1069 751,1069 717,1069 683,1069 649,1068 615,1068 581,1068 548,1068 514,1068 480,1068 446,1069 412,1070 378,1071 345,1072"/>
+                <Baseline points="345,1092 378,1091 412,1090 446,1089 480,1088 514,1088 548,1088 581,1088 615,1088 649,1088 683,1089 717,1089 751,1089 785,1089 818,1090 852,1090 886,1090 920,1090 954,1089 988,1089 1022,1088"/>
+                <TextEquiv>
+                    <Unicode>Hiſtoriſche Theologie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891435768_915" custom="readingOrder {index:17;}">
+                <Coords points="91,1126 1266,1106 1266,1136 1240,1140 968,1157 939,1157 91,1156"/>
+                <Baseline points="91,1146 120,1146 150,1146 179,1145 209,1145 238,1145 268,1144 297,1144 327,1144 356,1143 386,1143 416,1142 445,1142 475,1142 504,1142 534,1141 563,1141 593,1141 622,1141 652,1141 682,1142 853,1145 881,1146 910,1146 939,1147 968,1147 1190,1146 1240,1130 1266,1126"/>
+                <TextEquiv>
+                    <Unicode>Weidemann, Die Pietiſten in Halle . . . . . . . . . . . . 36</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891439052_919" custom="readingOrder {index:18;}">
+                <Coords points="96,1166 167,1163 202,1162 238,1161 1238,1141 1250,1141 1250,1171 996,1191 887,1192 96,1196"/>
+                <Baseline points="96,1186 131,1185 167,1183 202,1182 238,1181 274,1181 309,1180 345,1179 380,1179 416,1178 452,1178 487,1178 523,1178 558,1177 594,1177 630,1177 665,1177 701,1178 736,1178 772,1178 808,1178 833,1180 860,1181 887,1182 914,1181 941,1181 968,1181 1199,1185 1238,1161 1272,1161"/>
+                <TextEquiv>
+                    <Unicode>Leo, Geſchichte d. chriſtl. Religion und Kirche . . . . . . . . 71</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891442408_923" custom="readingOrder {index:19;}">
+                <Coords points="98,1199 125,1198 1273,1177 1273,1207 1240,1210 950,1224 875,1227 98,1229"/>
+                <Baseline points="98,1219 125,1218 153,1218 180,1218 208,1217 235,1217 263,1216 290,1216 318,1215 345,1215 373,1214 400,1214 428,1214 455,1213 483,1213 510,1213 538,1213 565,1213 593,1213 620,1214 648,1214 875,1217 900,1214 925,1214 950,1214 1190,1212 1240,1200 1273,1197"/>
+                <TextEquiv>
+                    <Unicode>Genthe, De impostura religionum . . . . . . . . . . . . 72</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891446956_927" custom="readingOrder {index:20;}">
+                <Coords points="98,1234 128,1233 1271,1213 1271,1243 1239,1247 722,1259 98,1264"/>
+                <Baseline points="98,1254 128,1253 158,1253 188,1252 218,1252 248,1251 278,1251 309,1250 339,1250 369,1250 399,1249 429,1249 459,1249 489,1249 520,1248 550,1248 580,1248 610,1248 640,1247 670,1247 701,1246 712,1249 1183,1248 1239,1237 1271,1233"/>
+                <TextEquiv>
+                    <Unicode>Maximiliani, Diurnale Monasteriense. . . . . . . . . . . 84</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891452221_931" custom="readingOrder {index:21;}">
+                <Coords points="95,1270 149,1269 204,1268 1263,1249 1263,1279 1239,1283 1134,1296 95,1300"/>
+                <Baseline points="95,1290 149,1289 204,1288 259,1288 313,1287 368,1286 423,1286 477,1285 532,1285 587,1285 641,1284 696,1284 751,1284 805,1284 860,1284 915,1284 969,1285 1024,1285 1079,1286 1187,1282 1239,1273 1263,1269"/>
+                <TextEquiv>
+                    <Unicode>Eiſenſchmid, Vergleichende Darſt. aller Kirchenſatz. d. kath. K. . . 85</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891456301_935" custom="readingOrder {index:22;}">
+                <Coords points="92,1308 125,1307 290,1303 1272,1282 1272,1312 1226,1322 754,1332 92,1338"/>
+                <Baseline points="92,1328 125,1327 158,1327 191,1326 224,1325 257,1324 290,1323 323,1323 356,1322 389,1322 423,1321 456,1321 489,1320 522,1320 555,1320 588,1320 621,1320 654,1320 687,1321 720,1321 1190,1325 1226,1312 1272,1302"/>
+                <TextEquiv>
+                    <Unicode>Lang, Denkmal der Achtung und Liebe ꝛc. . . . . . . . . . . 105</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891459464_939" custom="readingOrder {index:23;}">
+                <Coords points="94,1342 140,1341 1266,1320 1266,1350 1228,1358 1025,1366 94,1372"/>
+                <Baseline points="94,1362 140,1361 187,1361 233,1360 280,1360 326,1359 373,1359 419,1358 466,1358 512,1357 559,1357 606,1357 652,1356 699,1356 745,1356 792,1356 838,1356 885,1356 931,1356 978,1356 1183,1359 1228,1348 1266,1340"/>
+                <TextEquiv>
+                    <Unicode>Der St. Simonismus nach ſeinen wicht. Bearbeit. in D. . . . 146</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891465631_943" custom="readingOrder {index:24;}">
+                <Coords points="96,1380 143,1378 237,1376 1263,1355 1263,1385 1227,1391 1041,1403 96,1410"/>
+                <Baseline points="96,1400 143,1398 190,1397 237,1396 285,1396 332,1395 379,1394 426,1394 474,1394 521,1393 568,1393 615,1393 663,1393 710,1393 757,1393 804,1393 852,1393 899,1393 946,1393 993,1393 1196,1392 1227,1381 1263,1375"/>
+                <TextEquiv>
+                    <Unicode>v. Drey, Ueber die Conſtitutionen und Kanones d. Apoſtel. . . . 177</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891468973_947" custom="readingOrder {index:25;}">
+                <Coords points="92,1415 142,1414 243,1412 294,1411 1266,1392 1266,1422 1230,1428 1103,1440 92,1445"/>
+                <Baseline points="92,1435 142,1434 193,1433 243,1432 294,1431 344,1431 395,1430 445,1430 496,1429 546,1429 597,1429 648,1429 698,1428 749,1428 799,1428 850,1428 900,1429 951,1429 1001,1429 1052,1430 1182,1428 1230,1418 1266,1412"/>
+                <TextEquiv>
+                    <Unicode>Friedlaender, Index librorum ad celebr. sacr. sec. conf. Aug. . . 199</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891472313_951" custom="readingOrder {index:26;}">
+                <Coords points="92,1450 1259,1429 1259,1459 1227,1463 993,1482 92,1480"/>
+                <Baseline points="92,1470 124,1470 156,1470 188,1470 220,1469 252,1469 284,1468 316,1468 348,1468 380,1467 412,1467 444,1466 476,1466 508,1466 540,1465 572,1465 604,1465 636,1465 668,1465 700,1466 732,1466 746,1466 774,1468 791,1468 816,1469 841,1469 866,1469 892,1470 917,1470 942,1471 967,1471 1190,1469 1227,1453 1259,1449"/>
+                <TextEquiv>
+                    <Unicode>Ricker, Nicephori chronographia brevis . . . . . . . . . . 215</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:27;}">
+                <Coords points="299,1545 337,1544 375,1544 414,1544 452,1543 490,1543 529,1543 567,1543 605,1543 644,1542 682,1542 720,1542 759,1542 797,1542 835,1542 874,1542 912,1542 950,1542 989,1543 1027,1543 1066,1543 1066,1513 1027,1513 989,1513 950,1512 912,1512 874,1512 835,1512 797,1512 759,1512 720,1512 682,1512 644,1512 605,1513 567,1513 529,1513 490,1513 452,1513 414,1514 375,1514 337,1514 299,1515"/>
+                <Baseline points="299,1535 337,1534 375,1534 414,1534 452,1533 490,1533 529,1533 567,1533 605,1533 644,1532 682,1532 720,1532 759,1532 797,1532 835,1532 874,1532 912,1532 950,1532 989,1533 1027,1533 1066,1533"/>
+                <TextEquiv>
+                    <Unicode>Syſtematiſche Theologie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891476770_955" custom="readingOrder {index:28;}">
+                <Coords points="92,1572 1248,1521 1269,1521 1269,1571 1001,1600 92,1602"/>
+                <Baseline points="92,1592 133,1591 174,1590 215,1590 256,1589 298,1589 339,1588 380,1588 421,1588 462,1587 504,1587 545,1587 586,1587 627,1587 668,1586 710,1586 751,1586 792,1586 833,1586 874,1586 916,1586 925,1588 950,1589 975,1589 1185,1585 1248,1566 1269,1566"/>
+                <TextEquiv>
+                    <Unicode>Gau, De valore manuum impositionis in sacramento . . . . . . 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891482009_959" custom="readingOrder {index:29;}">
+                <Coords points="96,1609 144,1608 241,1606 1270,1594 1274,1644 1237,1647 96,1639"/>
+                <Baseline points="96,1629 144,1628 193,1627 241,1626 290,1626 339,1625 387,1625 436,1625 484,1625 533,1625 582,1625 630,1625 679,1625 727,1625 776,1626 825,1626 873,1627 922,1627 970,1628 1019,1628 1180,1622 1270,1599 1233,1602"/>
+                <TextEquiv>
+                    <Unicode>Fritzſche, Ueber Myſticismus und Pietismus . . . . . . . . .  55</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891485590_963" custom="readingOrder {index:30;}">
+                <Coords points="86,1643 1237,1592 1269,1592 1269,1642 544,1670 213,1673 86,1673"/>
+                <Baseline points="86,1663 111,1663 136,1663 162,1663 187,1663 213,1663 238,1662 264,1662 289,1661 315,1661 340,1661 365,1660 391,1660 416,1660 442,1660 467,1660 493,1660 518,1660 1185,1658 1237,1637 1269,1637"/>
+                <TextEquiv>
+                    <Unicode>Koester, De fidei modestia . . . . . . . . . . . . . . . 57</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891491437_967" custom="readingOrder {index:31;}">
+                <Coords points="96,1680 1258,1647 1258,1677 1235,1683 950,1702 907,1703 821,1704 266,1709 138,1710 96,1710"/>
+                <Baseline points="87,1700 129,1700 172,1699 215,1699 257,1699 300,1698 343,1698 385,1697 428,1697 471,1697 514,1696 556,1696 599,1695 642,1695 684,1695 727,1694 770,1694 812,1694 855,1693 898,1693 1185,1695 1235,1673 1258,1667"/>
+                <TextEquiv>
+                    <Unicode>Sartorius, Vertheidigung der luth. Abendmahlslehre . . . . . 75</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891495584_971" custom="readingOrder {index:32;}">
+                <Coords points="321,1713 1260,1690 1260,1720 1240,1724 1157,1739 1073,1740 906,1741 404,1743 321,1743"/>
+                <Baseline points="96,1735 362,1733 404,1733 446,1732 488,1732 530,1732 571,1732 613,1732 655,1732 697,1731 739,1731 780,1731 822,1731 864,1731 906,1731 948,1730 989,1730 1031,1730 1073,1730 1115,1729 1183,1728 1240,1714 1260,1710"/>
+                <TextEquiv>
+                    <Unicode> — Ueber die Eigenſchaften der beiden Naturen in Chriſto . 75</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891500686_975" custom="readingOrder {index:33;}">
+                <Coords points="89,1749 1276,1724 1276,1754 1228,1760 652,1778 314,1780 117,1780 89,1779"/>
+                <Baseline points="89,1769 117,1770 145,1770 173,1770 201,1770 229,1770 257,1770 286,1770 314,1770 342,1769 370,1769 398,1769 426,1769 454,1768 483,1768 511,1768 539,1768 567,1768 595,1767 623,1767 1183,1763 1228,1750 1276,1744"/>
+                <TextEquiv>
+                    <Unicode>Höpfner, Die Zeichen vom Himmel . . . . . . . . . . 100</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891504205_979" custom="readingOrder {index:34;}">
+                <Coords points="93,1788 126,1787 1264,1762 1264,1792 1220,1800 1113,1816 93,1818"/>
+                <Baseline points="93,1808 126,1807 159,1807 192,1806 226,1806 259,1805 292,1805 326,1805 359,1805 392,1805 426,1805 459,1805 492,1805 525,1805 559,1804 592,1804 625,1804 659,1803 692,1803 725,1802 759,1801 981,1804 1007,1804 1033,1804 1060,1805 1086,1805 1187,1795 1220,1790 1264,1782"/>
+                <TextEquiv>
+                    <Unicode>Der Menſch als Bürger im Reiche Gottes . . . . . . . . . 102</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891510291_983" custom="readingOrder {index:35;}">
+                <Coords points="89,1825 170,1822 1272,1792 1272,1822 1226,1832 902,1846 780,1849 739,1850 658,1851 89,1855"/>
+                <Baseline points="89,1845 129,1844 170,1842 210,1842 251,1841 292,1841 332,1840 373,1840 414,1840 454,1840 495,1840 536,1841 576,1841 617,1841 658,1841 698,1840 739,1840 780,1839 820,1838 1141,1835 1182,1834 1226,1822 1272,1812"/>
+                <TextEquiv>
+                    <Unicode>Rätze, Beilage zu Herrn Dr. Hahn’s Sendſchreiben . . . . . . 103</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891513748_987" custom="readingOrder {index:36;}">
+                <Coords points="219,1854 1264,1832 1264,1862 1174,1880 1065,1885 592,1886 426,1886 302,1885 219,1884"/>
+                <Baseline points="93,1875 260,1874 302,1875 343,1875 385,1875 426,1876 468,1876 509,1876 551,1876 592,1876 634,1875 675,1875 717,1875 758,1875 800,1875 841,1875 883,1875 924,1875 966,1875 1007,1875 1049,1875 1065,1875 1092,1873 1119,1872 1146,1871 1174,1870 1220,1860 1264,1852"/>
+                <TextEquiv>
+                    <Unicode> — Chriſtl. Religionsphiloſophie über d. göttl. Verehrung Jeſu ꝛc. 103</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891520998_992" custom="readingOrder {index:37;}">
+                <Coords points="92,1897 127,1895 198,1893 1264,1866 1264,1896 1224,1902 803,1919 731,1921 660,1922 92,1927"/>
+                <Baseline points="92,1917 127,1915 163,1914 198,1913 234,1913 269,1912 305,1912 340,1912 376,1912 411,1912 447,1912 483,1912 518,1912 554,1912 589,1912 625,1912 660,1912 696,1911 731,1911 767,1910 1183,1904 1224,1892 1264,1886"/>
+                <TextEquiv>
+                    <Unicode>Haſt, Ueber das Fürwahrhalten der Vernunft . . . . . . . . . 105</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891557244_996" custom="readingOrder {index:38;}">
+                <Coords points="94,1933 176,1931 1246,1905 1246,1935 1234,1937 923,1954 840,1956 798,1957 715,1958 94,1963"/>
+                <Baseline points="94,1953 135,1952 176,1951 218,1950 259,1949 301,1949 342,1948 384,1948 425,1948 467,1948 508,1948 549,1948 591,1948 632,1948 674,1948 715,1948 757,1947 798,1947 840,1946 881,1945 1191,1941 1215,1929 1265,1923"/>
+                <TextEquiv>
+                    <Unicode>Roſenkranz, Encyclopädie der theol. Wiſſenſchaften . . . . . . 113</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891560448_1000" custom="readingOrder {index:39;}">
+                <Coords points="86,1969 186,1966 1261,1937 1261,1967 1226,1974 1088,1992 1037,1993 937,1994 86,1999"/>
+                <Baseline points="86,1989 136,1988 186,1986 236,1985 286,1985 336,1984 386,1984 436,1983 486,1983 536,1983 587,1983 637,1983 687,1984 737,1984 787,1984 837,1984 887,1984 937,1984 987,1983 1037,1983 1181,1980 1226,1964 1261,1957"/>
+                <TextEquiv>
+                    <Unicode>Danz, Encyclopädie und Methodologie der theol. Wiſſenſchaft. . . 113</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891563500_1004" custom="readingOrder {index:40;}">
+                <Coords points="90,2008 160,2004 195,2003 301,2000 1267,1973 1267,2003 1223,2009 796,2028 90,2038"/>
+                <Baseline points="90,2028 125,2026 160,2024 195,2023 231,2022 266,2021 301,2020 337,2020 372,2020 407,2020 443,2019 478,2019 513,2019 548,2019 584,2019 619,2019 654,2019 690,2019 725,2019 760,2018 1181,2014 1223,1999 1267,1993"/>
+                <TextEquiv>
+                    <Unicode>Ritzſch, Ueber den Religionsbegriff der Alten . . . . . . . . 129</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891567595_1008" custom="readingOrder {index:41;}">
+                <Coords points="94,2040 1258,2006 1258,2036 1228,2043 887,2063 847,2064 768,2065 94,2070"/>
+                <Baseline points="94,2060 133,2059 173,2058 212,2057 252,2057 292,2056 331,2056 371,2056 411,2055 450,2055 490,2055 530,2055 569,2055 609,2055 649,2055 688,2055 728,2055 768,2055 807,2054 847,2054 1178,2049 1228,2033 1258,2026"/>
+                <TextEquiv>
+                    <Unicode>Puſey, Aufkommen und Sinken des Rationalismus . . . . . . 130</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891570974_1012" custom="readingOrder {index:42;}">
+                <Coords points="87,2076 1259,2041 1259,2071 1223,2077 990,2102 87,2106"/>
+                <Baseline points="87,2096 132,2095 177,2095 222,2094 267,2093 312,2093 357,2092 403,2092 448,2092 493,2091 538,2091 583,2091 628,2091 673,2091 719,2091 764,2091 809,2091 854,2091 899,2091 944,2092 1178,2088 1223,2067 1259,2061"/>
+                <TextEquiv>
+                    <Unicode>Pätſch, Chriſtenthum, Gnoſticismus und Scholaſticismus . . . . . 145</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891574325_1016" custom="readingOrder {index:43;}">
+                <Coords points="92,2112 1265,2079 1265,2109 1223,2113 749,2137 157,2142 92,2142"/>
+                <Baseline points="92,2132 124,2132 157,2132 190,2131 223,2131 256,2131 289,2130 321,2130 354,2129 387,2129 420,2129 453,2128 486,2128 519,2128 551,2127 584,2127 617,2127 650,2127 683,2127 716,2127 1187,2122 1223,2103 1265,2099"/>
+                <TextEquiv>
+                    <Unicode>Auguſti, Einleitung in die heilige Schrift . . . . . . . . . 162</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891578081_1020" custom="readingOrder {index:44;}">
+                <Coords points="88,2150 1262,2116 1262,2146 1220,2152 832,2173 125,2180 88,2180"/>
+                <Baseline points="88,2170 125,2170 162,2169 199,2168 236,2168 274,2167 311,2167 348,2166 385,2165 422,2165 460,2164 497,2164 534,2163 571,2163 608,2163 646,2162 683,2162 720,2162 757,2163 794,2163 1176,2159 1220,2142 1262,2136"/>
+                <TextEquiv>
+                    <Unicode>Meyer, Inbegriff der chriſtlichen Glaubenslehre . . . . . . . 193</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891581306_1024" custom="readingOrder {index:45;}">
+                <Coords points="84,2185 1259,2149 1259,2179 1084,2208 1062,2209 1013,2210 84,2215"/>
+                <Baseline points="84,2205 132,2204 181,2204 230,2203 279,2202 328,2202 377,2202 426,2201 475,2201 524,2201 573,2201 621,2201 670,2201 719,2201 768,2200 817,2200 866,2200 915,2200 964,2200 1013,2200 1062,2199 1074,2198 1181,2196 1219,2175 1259,2169"/>
+                <TextEquiv>
+                    <Unicode>Gregor, Ein Geſpräch über das Papſtthum und die Monarchie . . . 241</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1620891584915_1028" custom="readingOrder {index:46;}">
+                <Coords points="87,2221 1267,2187 1267,2217 1215,2223 860,2250 280,2252 164,2252 87,2251"/>
+                <Baseline points="87,2241 125,2241 164,2242 202,2242 241,2242 280,2242 318,2241 357,2241 396,2240 434,2239 473,2239 512,2238 550,2237 589,2237 628,2237 666,2236 705,2237 744,2237 782,2238 821,2239 1174,2233 1215,2213 1241,2208 1267,2207"/>
+                <TextEquiv>
+                    <Unicode>Gieſſe, Die Rechtfertigung durch den Glauben . . . . . . . . . 257</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Inhalt des zweiten Bandes.
+1. Theologiſche Kritik,
+A. Bücher.
+Exegetiſche Theologie.
+Seite
+Maurer, Commentar. grammatic. critic. in v. T. . . . . . . 1
+Meyer, Judaica . . . . . . . . . . . . . . . . . . 2
+Gredner Beiträge z. Einleit. in d. bibl. S. . . . . . . . . 17
+Thilo, Codex Apocryphus N. T. . . . . . . . . . . . . 33
+Klener Recentiores de authentia evang. Matthaei quaestiones . . 49
+Lisco, Das neue Teſtament . . . . . . . . . . . . . . 65
+Olshauſen, Echtheit d. Schriften d. N. T. . . . . . . . . 81
+Feldhof, Ueber die Jahre d. Geburt und Auferſtehung Jeſu . . . 97
+Wurm, Die Zeitbeſtimmungen im Leben des Apoſtels Paulus . . . 97
+Schleiermacher, Ueber die Zeugniſſe des Papias ꝛc. . . . . . 209
+Tholuck, Joannis Calvini in N. T. Comment. . . . . . . . . 273
+Hiſtoriſche Theologie.
+Weidemann, Die Pietiſten in Halle . . . . . . . . . . . . 36
+Leo, Geſchichte d. chriſtl. Religion und Kirche . . . . . . . . 71
+Genthe, De impostura religionum . . . . . . . . . . . . 72
+Maximiliani, Diurnale Monasteriense. . . . . . . . . . . 84
+Eiſenſchmid, Vergleichende Darſt. aller Kirchenſatz. d. kath. K. . . 85
+Lang, Denkmal der Achtung und Liebe ꝛc. . . . . . . . . . . 105
+Der St. Simonismus nach ſeinen wicht. Bearbeit. in D. . . . 146
+v. Drey, Ueber die Conſtitutionen und Kanones d. Apoſtel. . . . 177
+Friedlaender, Index librorum ad celebr. sacr. sec. conf. Aug. . . 199
+Ricker, Nicephori chronographia brevis . . . . . . . . . . 215
+Syſtematiſche Theologie.
+Gau, De valore manuum impositionis in sacramento . . . . . . 2
+Fritzſche, Ueber Myſticismus und Pietismus . . . . . . . . .  55
+Koester, De fidei modestia . . . . . . . . . . . . . . . 57
+Sartorius, Vertheidigung der luth. Abendmahlslehre . . . . . 75
+ — Ueber die Eigenſchaften der beiden Naturen in Chriſto . 75
+Höpfner, Die Zeichen vom Himmel . . . . . . . . . . 100
+Der Menſch als Bürger im Reiche Gottes . . . . . . . . . 102
+Rätze, Beilage zu Herrn Dr. Hahn’s Sendſchreiben . . . . . . 103
+ — Chriſtl. Religionsphiloſophie über d. göttl. Verehrung Jeſu ꝛc. 103
+Haſt, Ueber das Fürwahrhalten der Vernunft . . . . . . . . . 105
+Roſenkranz, Encyclopädie der theol. Wiſſenſchaften . . . . . . 113
+Danz, Encyclopädie und Methodologie der theol. Wiſſenſchaft. . . 113
+Ritzſch, Ueber den Religionsbegriff der Alten . . . . . . . . 129
+Puſey, Aufkommen und Sinken des Rationalismus . . . . . . 130
+Pätſch, Chriſtenthum, Gnoſticismus und Scholaſticismus . . . . . 145
+Auguſti, Einleitung in die heilige Schrift . . . . . . . . . 162
+Meyer, Inbegriff der chriſtlichen Glaubenslehre . . . . . . . 193
+Gregor, Ein Geſpräch über das Papſtthum und die Monarchie . . . 241
+Gieſſe, Die Rechtfertigung durch den Glauben . . . . . . . . . 257</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

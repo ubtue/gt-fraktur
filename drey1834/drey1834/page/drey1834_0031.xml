@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:10.925+01:00</Created>
+        <LastChange>2021-05-11T13:43:23.917+02:00</LastChange>
+        <TranskribusMetadata docId="543222" pageId="22808909" pageNr="2" tsid="57732961" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=TORONPUIVQZREOHWPSNQFQBY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UZGZRNKMZPBEVPYQKFFLBVSX" imageId="17784587"/>
+    </Metadata>
+    <Page imageFilename="drey1834_0031.tif" imageWidth="1354" imageHeight="2331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327939151" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="26,72 26,1962 1105,1962 1105,72"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="425,119 493,119 520,121 547,122 574,123 601,123 628,122 685,124 684,78 628,77 601,78 574,78 547,77 520,76 493,74 425,74"/>
+                <Baseline points="429,103 493,104 520,106 547,107 574,108 601,108 628,107 680,106"/>
+                <TextEquiv>
+                    <Unicode>— 31 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="26,203 78,205 131,207 183,209 236,210 288,211 341,212 393,213 446,214 498,214 551,214 604,214 656,214 709,214 761,213 814,213 866,212 919,211 971,211 1024,210 1077,209 1077,166 1024,167 971,168 919,168 866,169 814,170 761,170 709,171 656,171 604,171 551,171 498,171 446,171 393,170 341,169 288,168 236,167 183,166 131,164 78,162 26,160"/>
+                <Baseline points="26,189 78,191 131,193 183,195 236,196 288,197 341,198 393,199 446,200 498,200 551,200 604,200 656,200 709,200 761,199 814,199 866,198 919,197 971,197 1024,196 1077,195"/>
+                <TextEquiv>
+                    <Unicode>nicht zu entſchuldigende Benehmen der Biſchoͤfe, welche die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="26,262 78,266 130,270 182,272 235,274 287,276 339,277 391,278 444,278 496,278 548,277 600,277 653,276 705,275 757,274 809,274 862,273 914,273 966,272 1018,272 1071,273 1071,230 1018,229 966,229 914,230 862,230 809,231 757,231 705,232 653,233 600,234 548,234 496,235 444,235 391,235 339,234 287,233 235,231 182,229 130,227 78,223 26,219"/>
+                <Baseline points="26,248 78,252 130,256 182,258 235,260 287,262 339,263 391,264 444,264 496,264 548,263 600,263 653,262 705,261 757,260 809,260 862,259 914,259 966,258 1018,258 1071,259"/>
+                <TextEquiv>
+                    <Unicode>letzten Reichsfuͤrſten waren, die, nachdem ſie als Fuͤrſten pen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="34,328 85,332 137,335 188,337 240,339 291,340 343,341 394,341 446,341 497,341 549,341 601,340 652,339 704,338 755,338 807,337 858,337 910,336 961,337 1013,337 1065,338 1065,293 1013,292 961,292 910,291 858,292 807,292 755,293 704,293 652,294 601,295 549,296 497,296 446,296 394,296 343,296 291,295 240,294 188,292 137,290 85,287 34,283"/>
+                <Baseline points="34,313 85,317 137,320 188,322 240,324 291,325 343,326 394,326 446,326 497,326 549,326 601,325 652,324 704,323 755,323 807,322 858,322 910,321 961,322 1013,322 1065,323"/>
+                <TextEquiv>
+                    <Unicode>ſionirt worden, ſich auch als Biſchoͤfe fuͤr penſionirt anſahen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="26,392 80,395 135,397 190,399 244,401 299,402 354,402 408,403 463,403 518,402 572,402 627,401 682,400 736,400 791,399 846,398 900,398 955,398 1010,398 1065,399 1065,356 1010,355 955,355 900,355 846,355 791,356 736,357 682,357 627,358 572,359 518,359 463,360 408,360 354,359 299,359 244,358 190,356 135,354 80,352 26,349"/>
+                <Baseline points="26,378 80,381 135,383 190,385 244,387 299,388 354,388 408,389 463,389 518,388 572,388 627,387 682,386 736,386 791,385 846,384 900,384 955,384 1010,384 1065,385"/>
+                <TextEquiv>
+                    <Unicode>hierauf die lange Erledigung der biſchoͤflichen Stuͤhle, und die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="27,457 79,459 131,461 183,463 235,464 287,464 339,464 392,464 444,464 496,464 548,463 600,462 652,462 704,461 757,460 809,460 861,459 913,459 965,459 1017,459 1070,460 1070,415 1017,414 965,414 913,414 861,414 809,415 757,415 704,416 652,417 600,417 548,418 496,419 444,419 392,419 339,419 287,419 235,419 183,418 131,416 79,414 27,412"/>
+                <Baseline points="27,442 79,444 131,446 183,448 235,449 287,449 339,449 392,449 444,449 496,449 548,448 600,447 652,447 704,446 757,445 809,445 861,444 913,444 965,444 1017,444 1070,445"/>
+                <TextEquiv>
+                    <Unicode>Zerſplitterung der biſchoͤflichen Rechte unter Generalvicare und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="27,519 79,521 132,522 184,524 237,525 289,525 342,525 394,525 447,525 499,525 552,524 605,524 657,523 710,522 762,522 815,522 867,522 920,522 972,523 1025,523 1078,524 1078,481 1025,480 972,480 920,479 867,479 815,479 762,479 710,479 657,480 605,481 552,481 499,482 447,482 394,482 342,482 289,482 237,482 184,481 132,479 79,478 27,476"/>
+                <Baseline points="27,505 79,507 132,508 184,510 237,511 289,511 342,511 394,511 447,511 499,511 552,510 605,510 657,509 710,508 762,508 815,508 867,508 920,508 972,509 1025,509 1078,510"/>
+                <TextEquiv>
+                    <Unicode>weltliche Behoͤrden, wobei man, beſonders die Staatsgewalt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="37,583 88,583 140,584 192,585 244,585 296,585 347,585 399,586 451,586 503,585 555,585 606,585 658,585 710,584 762,584 814,583 865,583 917,583 969,582 1021,582 1073,581 1073,539 1021,540 969,540 917,541 865,541 814,541 762,542 710,542 658,543 606,543 555,543 503,543 451,544 399,544 347,543 296,543 244,543 192,543 140,542 88,541 37,541"/>
+                <Baseline points="37,569 88,569 140,570 192,571 244,571 296,571 347,571 399,572 451,572 503,571 555,571 606,571 658,571 710,570 762,570 814,569 865,569 917,569 969,568 1021,568 1073,567"/>
+                <TextEquiv>
+                    <Unicode>ſich gewoͤhnte, Biſchoͤfe fuͤr uͤberfluͤßig zu erachten; alsdann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="31,644 85,644 140,645 195,646 249,646 304,647 359,647 413,647 468,648 523,648 577,648 632,647 687,647 741,647 796,646 851,645 905,645 960,644 1015,643 1070,641 1070,598 1015,600 960,601 905,602 851,602 796,603 741,604 687,604 632,604 577,605 523,605 468,605 413,604 359,604 304,604 249,603 195,603 140,602 85,601 31,601"/>
+                <Baseline points="31,630 85,630 140,631 195,632 249,632 304,633 359,633 413,633 468,634 523,634 577,634 632,633 687,633 741,633 796,632 851,631 905,631 960,630 1015,629 1070,627"/>
+                <TextEquiv>
+                    <Unicode>bei der endlichen Beſetzung der Bisthuͤmer, neben ehrenvollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="29,706 80,706 132,707 184,708 236,709 287,710 339,710 391,711 443,711 494,712 546,712 598,712 650,713 701,713 753,712 805,712 857,712 908,711 960,710 1012,709 1064,708 1064,665 1012,666 960,667 908,668 857,669 805,669 753,669 701,670 650,670 598,669 546,669 494,669 443,668 391,668 339,667 287,667 236,666 184,665 132,664 80,663 29,663"/>
+                <Baseline points="29,692 80,692 132,693 184,694 236,695 287,696 339,696 391,697 443,697 494,698 546,698 598,698 650,699 701,699 753,698 805,698 857,698 908,697 960,696 1012,695 1064,694"/>
+                <TextEquiv>
+                    <Unicode>Ausnahmen nicht immer die beſten Wahlen, mitunter darum,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="37,771 88,771 140,770 192,770 244,770 296,771 347,771 399,771 451,771 503,771 555,772 606,772 658,772 710,773 762,773 814,773 865,774 917,774 969,774 1021,774 1073,775 1073,732 1021,731 969,731 917,731 865,731 814,730 762,730 710,730 658,729 606,729 555,729 503,728 451,728 399,728 347,728 296,728 244,727 192,727 140,727 88,728 37,728"/>
+                <Baseline points="37,757 88,757 140,756 192,756 244,756 296,757 347,757 399,757 451,757 503,757 555,758 606,758 658,758 710,759 762,759 814,759 865,760 917,760 969,760 1021,760 1073,761"/>
+                <TextEquiv>
+                    <Unicode>daß bei aller Achtbarkeit der Perſonen theilweiſe betagte oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="37,835 89,834 141,833 193,833 246,832 298,832 350,832 403,832 455,832 507,832 560,832 612,833 664,833 716,834 769,834 821,835 873,836 926,836 978,837 1030,838 1083,839 1083,796 1030,795 978,794 926,793 873,793 821,792 769,791 716,791 664,790 612,790 560,789 507,789 455,789 403,789 350,789 298,789 246,789 193,790 141,790 89,791 37,792"/>
+                <Baseline points="37,821 89,820 141,819 193,819 246,818 298,818 350,818 403,818 455,818 507,818 560,818 612,819 664,819 716,820 769,820 821,821 873,822 926,822 978,823 1030,824 1083,825"/>
+                <TextEquiv>
+                    <Unicode>hochbetagte Herren auf die biſchoͤflichen Stuͤhle kamen, denen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="33,896 85,896 138,897 190,897 243,898 295,897 348,897 400,897 453,897 505,896 558,896 610,895 663,895 715,895 768,894 820,894 873,895 925,895 978,896 1030,897 1083,898 1083,855 1030,854 978,853 925,852 873,852 820,851 768,851 715,852 663,852 610,852 558,853 505,853 453,854 400,854 348,854 295,854 243,855 190,854 138,854 85,853 33,853"/>
+                <Baseline points="33,882 85,882 138,883 190,883 243,884 295,883 348,883 400,883 453,883 505,882 558,882 610,881 663,881 715,881 768,880 820,880 873,881 925,881 978,882 1030,883 1083,884"/>
+                <TextEquiv>
+                    <Unicode>das Alter die Kraft verſagte, und Kraft iſt eine weſentliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="34,958 86,960 138,960 191,961 243,962 295,962 348,962 400,962 452,962 505,961 557,961 609,961 662,960 714,960 766,959 819,959 871,959 923,959 976,959 1028,959 1081,960 1081,915 1028,914 976,914 923,914 871,914 819,914 766,914 714,915 662,915 609,916 557,916 505,916 452,917 400,917 348,917 295,917 243,917 191,916 138,915 86,915 34,913"/>
+                <Baseline points="34,943 86,945 138,945 191,946 243,947 295,947 348,947 400,947 452,947 505,946 557,946 609,946 662,945 714,945 766,944 819,944 871,944 923,944 976,944 1028,944 1081,945"/>
+                <TextEquiv>
+                    <Unicode>Bedingung der Achtung, oder auch ſolche, die bisdahin kirch⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="35,1022 87,1023 139,1024 191,1024 244,1025 296,1025 348,1025 400,1025 453,1025 505,1025 557,1025 609,1024 662,1024 714,1024 766,1024 818,1023 871,1023 923,1023 975,1024 1027,1024 1080,1024 1080,979 1027,979 975,979 923,978 871,978 818,978 766,979 714,979 662,979 609,979 557,980 505,980 453,980 400,980 348,980 296,980 244,980 191,979 139,979 87,978 35,977"/>
+                <Baseline points="35,1007 87,1008 139,1009 191,1009 244,1010 296,1010 348,1010 400,1010 453,1010 505,1010 557,1010 609,1009 662,1009 714,1009 766,1009 818,1008 871,1008 923,1008 975,1009 1027,1009 1080,1009"/>
+                <TextEquiv>
+                    <Unicode>lichen Geſchaͤften fremd geweſen waren. Nach Beſetzung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="48,1086 99,1086 151,1087 203,1087 255,1087 307,1088 359,1088 411,1088 463,1088 515,1088 567,1087 618,1087 670,1087 722,1087 774,1087 826,1087 878,1087 930,1088 982,1088 1034,1088 1086,1089 1086,1044 1034,1043 982,1043 930,1043 878,1042 826,1042 774,1042 722,1042 670,1042 618,1042 567,1042 515,1043 463,1043 411,1043 359,1043 307,1043 255,1042 203,1042 151,1042 99,1041 48,1041"/>
+                <Baseline points="48,1071 99,1071 151,1072 203,1072 255,1072 307,1073 359,1073 411,1073 463,1073 515,1073 567,1072 618,1072 670,1072 722,1072 774,1072 826,1072 878,1072 930,1073 982,1073 1034,1073 1086,1074"/>
+                <TextEquiv>
+                    <Unicode>Bisthuͤmer die Fortdauer jener Beſchraͤnkungen der Ordina⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="41,1147 93,1147 145,1147 197,1148 249,1148 302,1148 354,1148 406,1148 458,1148 510,1148 563,1148 615,1148 667,1148 719,1149 771,1149 824,1149 876,1149 928,1149 980,1149 1032,1149 1085,1149 1085,1107 1032,1107 980,1107 928,1107 876,1107 824,1107 771,1107 719,1107 667,1106 615,1106 563,1106 510,1106 458,1106 406,1106 354,1106 302,1106 249,1106 197,1106 145,1105 93,1105 41,1105"/>
+                <Baseline points="41,1133 93,1133 145,1133 197,1134 249,1134 302,1134 354,1134 406,1134 458,1134 510,1134 563,1134 615,1134 667,1134 719,1135 771,1135 824,1135 876,1135 928,1135 980,1135 1032,1135 1085,1135"/>
+                <TextEquiv>
+                    <Unicode>riate durch weltliche Behoͤrden, welche ſich waͤhrend der lan⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="41,1207 93,1207 146,1208 198,1208 251,1208 304,1208 356,1208 409,1208 462,1208 514,1208 567,1208 620,1208 672,1208 725,1207 778,1207 830,1207 883,1207 936,1207 988,1207 1041,1208 1094,1208 1094,1165 1041,1165 988,1164 936,1164 883,1164 830,1164 778,1164 725,1164 672,1165 620,1165 567,1165 514,1165 462,1165 409,1165 356,1165 304,1165 251,1165 198,1165 146,1165 93,1164 41,1164"/>
+                <Baseline points="41,1193 93,1193 146,1194 198,1194 251,1194 304,1194 356,1194 409,1194 462,1194 514,1194 567,1194 620,1194 672,1194 725,1193 778,1193 830,1193 883,1193 936,1193 988,1193 1041,1194 1094,1194"/>
+                <TextEquiv>
+                    <Unicode>gen Sedisvakanzen gebildet hatten. Endlich, was auch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="54,1264 105,1265 157,1265 209,1266 260,1266 312,1267 364,1267 415,1267 467,1267 519,1267 571,1267 622,1267 674,1267 726,1267 777,1267 829,1267 881,1267 932,1267 984,1267 1036,1267 1088,1268 1088,1226 1036,1225 984,1225 932,1225 881,1225 829,1225 777,1225 726,1225 674,1225 622,1225 571,1225 519,1225 467,1225 415,1225 364,1225 312,1225 260,1224 209,1224 157,1223 105,1223 54,1222"/>
+                <Baseline points="54,1250 105,1251 157,1251 209,1252 260,1252 312,1253 364,1253 415,1253 467,1253 519,1253 571,1253 622,1253 674,1253 726,1253 777,1253 829,1253 881,1253 932,1253 984,1253 1036,1253 1088,1254"/>
+                <TextEquiv>
+                    <Unicode>beſcheidenſten Verehrer des Episkopats ſich nicht verhehlen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="45,1328 97,1328 150,1328 202,1328 255,1328 307,1328 360,1328 412,1328 465,1328 517,1328 570,1328 622,1327 675,1327 727,1327 780,1328 832,1328 885,1328 937,1329 990,1330 1042,1331 1095,1332 1095,1289 1042,1288 990,1287 937,1286 885,1285 832,1285 780,1285 727,1284 675,1284 622,1284 570,1285 517,1285 465,1285 412,1285 360,1285 307,1285 255,1285 202,1285 150,1285 97,1285 45,1285"/>
+                <Baseline points="45,1314 97,1314 150,1314 202,1314 255,1314 307,1314 360,1314 412,1314 465,1314 517,1314 570,1314 622,1313 675,1313 727,1313 780,1314 832,1314 885,1314 937,1315 990,1316 1042,1317 1095,1318"/>
+                <TextEquiv>
+                    <Unicode>ein unſicheres, ſchwankendes, furchtſames Auftreten mancher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="41,1395 93,1395 146,1395 199,1395 251,1395 304,1395 357,1395 409,1395 462,1395 515,1395 568,1395 620,1395 673,1395 726,1395 778,1396 831,1396 884,1396 936,1397 989,1397 1042,1398 1095,1399 1095,1354 1042,1353 989,1352 936,1352 884,1351 831,1351 778,1351 726,1350 673,1350 620,1350 568,1350 515,1350 462,1350 409,1350 357,1350 304,1350 251,1350 199,1350 146,1350 93,1350 41,1350"/>
+                <Baseline points="41,1380 93,1380 146,1380 199,1380 251,1380 304,1380 357,1380 409,1380 462,1380 515,1380 568,1380 620,1380 673,1380 726,1380 778,1381 831,1381 884,1381 936,1382 989,1382 1042,1383 1095,1384"/>
+                <TextEquiv>
+                    <Unicode>Ordinariate, welches ſie vielleicht durch die Klugheit ſich auf⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="55,1462 109,1462 164,1462 219,1462 273,1462 328,1462 383,1462 437,1462 492,1462 547,1462 601,1462 656,1463 711,1463 765,1462 820,1462 875,1462 929,1462 984,1462 1039,1461 1094,1461 1094,1416 1039,1416 984,1417 929,1417 875,1417 820,1417 765,1417 711,1418 656,1418 601,1417 547,1417 492,1417 437,1417 383,1417 328,1417 273,1417 219,1417 164,1417 109,1417 55,1417"/>
+                <Baseline points="55,1447 109,1447 164,1447 219,1447 273,1447 328,1447 383,1447 437,1447 492,1447 547,1447 601,1447 656,1448 711,1448 765,1447 820,1447 875,1447 929,1447 984,1447 1039,1446 1094,1446"/>
+                <TextEquiv>
+                    <Unicode>gelegt glauben, aber doch nicht geeignet ſeyn duͤrfte, ihnen von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="49,1524 101,1524 153,1525 206,1525 258,1525 311,1525 363,1525 416,1525 468,1525 521,1525 573,1525 625,1525 678,1525 730,1524 783,1524 835,1524 888,1523 940,1523 993,1522 1045,1522 1098,1521 1098,1476 1045,1477 993,1477 940,1478 888,1478 835,1479 783,1479 730,1479 678,1480 625,1480 573,1480 521,1480 468,1480 416,1480 363,1480 311,1480 258,1480 206,1480 153,1480 101,1479 49,1479"/>
+                <Baseline points="49,1509 101,1509 153,1510 206,1510 258,1510 311,1510 363,1510 416,1510 468,1510 521,1510 573,1510 625,1510 678,1510 730,1509 783,1509 835,1509 888,1508 940,1508 993,1507 1045,1507 1098,1506"/>
+                <TextEquiv>
+                    <Unicode>irgend einer Seite als Verdienſt angerechnet zu werden; ſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="50,1587 102,1588 154,1588 206,1588 258,1588 310,1588 362,1588 414,1588 466,1588 518,1587 570,1587 622,1586 674,1586 726,1585 778,1585 830,1585 882,1584 934,1584 986,1584 1038,1584 1091,1584 1091,1539 1038,1539 986,1539 934,1539 882,1539 830,1540 778,1540 726,1540 674,1541 622,1541 570,1542 518,1542 466,1543 414,1543 362,1543 310,1543 258,1543 206,1543 154,1543 102,1543 50,1542"/>
+                <Baseline points="50,1572 102,1573 154,1573 206,1573 258,1573 310,1573 362,1573 414,1573 466,1573 518,1572 570,1572 622,1571 674,1571 726,1570 778,1570 830,1570 882,1569 934,1569 986,1569 1038,1569 1091,1569"/>
+                <TextEquiv>
+                    <Unicode>wie auch die Beſſern und Beſten in manchen gewiß nothwen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="51,1650 103,1650 156,1649 208,1649 261,1649 313,1649 366,1648 418,1648 471,1648 523,1648 576,1648 628,1648 681,1648 733,1648 786,1648 838,1648 891,1648 943,1648 996,1648 1048,1648 1101,1648 1101,1603 1048,1603 996,1603 943,1603 891,1603 838,1603 786,1603 733,1603 681,1603 628,1603 576,1603 523,1603 471,1603 418,1603 366,1603 313,1604 261,1604 208,1604 156,1604 103,1605 51,1605"/>
+                <Baseline points="51,1635 103,1635 156,1634 208,1634 261,1634 313,1634 366,1633 418,1633 471,1633 523,1633 576,1633 628,1633 681,1633 733,1633 786,1633 838,1633 891,1633 943,1633 996,1633 1048,1633 1101,1633"/>
+                <TextEquiv>
+                    <Unicode>digen und dringenden Einrichtungen des Verfallenen, die ober⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="58,1713 110,1712 162,1712 214,1711 266,1711 318,1711 370,1711 422,1711 474,1711 526,1711 578,1711 630,1711 682,1712 734,1712 786,1712 838,1712 890,1712 942,1712 994,1712 1046,1712 1098,1711 1098,1666 1046,1667 994,1667 942,1667 890,1667 838,1667 786,1667 734,1667 682,1667 630,1666 578,1666 526,1666 474,1666 422,1666 370,1666 318,1666 266,1666 214,1666 162,1667 110,1667 58,1668"/>
+                <Baseline points="58,1698 110,1697 162,1697 214,1696 266,1696 318,1696 370,1696 422,1696 474,1696 526,1696 578,1696 630,1696 682,1697 734,1697 786,1697 838,1697 890,1697 942,1697 994,1697 1046,1697 1098,1696"/>
+                <TextEquiv>
+                    <Unicode>hirtliche Thaͤtigkeit vermiſſen, wenn ſie ſich auch unbeſcheide⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="54,1775 106,1774 158,1773 211,1772 263,1771 316,1771 368,1771 420,1771 473,1771 525,1772 578,1772 630,1773 682,1773 735,1773 787,1774 840,1774 892,1774 944,1774 997,1773 1049,1773 1102,1772 1102,1729 1049,1730 997,1730 944,1731 892,1731 840,1731 787,1731 735,1730 682,1730 630,1730 578,1729 525,1729 473,1728 420,1728 368,1728 316,1728 263,1728 211,1729 158,1730 106,1731 54,1732"/>
+                <Baseline points="54,1761 106,1760 158,1759 211,1758 263,1757 316,1757 368,1757 420,1757 473,1757 525,1758 578,1758 630,1759 682,1759 735,1759 787,1760 840,1760 892,1760 944,1760 997,1759 1049,1759 1102,1758"/>
+                <TextEquiv>
+                    <Unicode>ner Anklagen vor dem Publicum enthalten. Setzen wir nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="57,1835 109,1834 161,1834 213,1833 265,1833 317,1833 369,1833 422,1834 474,1834 526,1834 578,1834 630,1835 682,1835 734,1835 787,1835 839,1835 891,1835 943,1834 995,1833 1047,1832 1100,1830 1100,1788 1047,1790 995,1791 943,1792 891,1793 839,1793 787,1793 734,1793 682,1793 630,1793 578,1792 526,1792 474,1792 422,1792 369,1791 317,1791 265,1791 213,1791 161,1792 109,1792 57,1793"/>
+                <Baseline points="57,1821 109,1820 161,1820 213,1819 265,1819 317,1819 369,1819 422,1820 474,1820 526,1820 578,1820 630,1821 682,1821 734,1821 787,1821 839,1821 891,1821 943,1820 995,1819 1047,1818 1100,1816"/>
+                <TextEquiv>
+                    <Unicode>zu dieſen unguͤnſtigen Verhaͤltniſſen, die ſeit laͤngerer Zeit an⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="61,1897 115,1896 170,1896 225,1896 279,1896 334,1896 389,1897 443,1897 498,1897 553,1898 607,1898 662,1898 717,1898 771,1898 826,1898 881,1897 935,1897 990,1896 1045,1895 1100,1893 1100,1848 1045,1850 990,1851 935,1852 881,1852 826,1853 771,1853 717,1853 662,1853 607,1853 553,1853 498,1852 443,1852 389,1852 334,1851 279,1851 225,1851 170,1851 115,1851 61,1852"/>
+                <Baseline points="61,1882 115,1881 170,1881 225,1881 279,1881 334,1881 389,1882 443,1882 498,1882 553,1883 607,1883 662,1883 717,1883 771,1883 826,1883 881,1882 935,1882 990,1881 1045,1880 1100,1878"/>
+                <TextEquiv>
+                    <Unicode>dauern, die Verſchiedenheit in der theologiſchen und kirchlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="57,1959 109,1959 161,1960 214,1960 266,1961 319,1961 371,1961 423,1961 476,1962 528,1962 581,1962 633,1962 685,1962 738,1962 790,1962 843,1961 895,1961 947,1961 1000,1961 1052,1960 1105,1960 1105,1915 1052,1915 1000,1916 947,1916 895,1916 843,1916 790,1917 738,1917 685,1917 633,1917 581,1917 528,1917 476,1917 423,1916 371,1916 319,1916 266,1916 214,1915 161,1915 109,1914 57,1914"/>
+                <Baseline points="57,1944 109,1944 161,1945 214,1945 266,1946 319,1946 371,1946 423,1946 476,1947 528,1947 581,1947 633,1947 685,1947 738,1947 790,1947 843,1946 895,1946 947,1946 1000,1946 1052,1945 1105,1945"/>
+                <TextEquiv>
+                    <Unicode>Denkweise neben der Freiheit und oft Frechheit im Ausſpre⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 31 —
+nicht zu entſchuldigende Benehmen der Biſchoͤfe, welche die
+letzten Reichsfuͤrſten waren, die, nachdem ſie als Fuͤrſten pen⸗
+ſionirt worden, ſich auch als Biſchoͤfe fuͤr penſionirt anſahen;
+hierauf die lange Erledigung der biſchoͤflichen Stuͤhle, und die
+Zerſplitterung der biſchoͤflichen Rechte unter Generalvicare und
+weltliche Behoͤrden, wobei man, beſonders die Staatsgewalt,
+ſich gewoͤhnte, Biſchoͤfe fuͤr uͤberfluͤßig zu erachten; alsdann
+bei der endlichen Beſetzung der Bisthuͤmer, neben ehrenvollen
+Ausnahmen nicht immer die beſten Wahlen, mitunter darum,
+daß bei aller Achtbarkeit der Perſonen theilweiſe betagte oder
+hochbetagte Herren auf die biſchoͤflichen Stuͤhle kamen, denen
+das Alter die Kraft verſagte, und Kraft iſt eine weſentliche
+Bedingung der Achtung, oder auch ſolche, die bisdahin kirch⸗
+lichen Geſchaͤften fremd geweſen waren. Nach Beſetzung der
+Bisthuͤmer die Fortdauer jener Beſchraͤnkungen der Ordina⸗
+riate durch weltliche Behoͤrden, welche ſich waͤhrend der lan⸗
+gen Sedisvakanzen gebildet hatten. Endlich, was auch die
+beſcheidenſten Verehrer des Episkopats ſich nicht verhehlen,
+ein unſicheres, ſchwankendes, furchtſames Auftreten mancher
+Ordinariate, welches ſie vielleicht durch die Klugheit ſich auf⸗
+gelegt glauben, aber doch nicht geeignet ſeyn duͤrfte, ihnen von
+irgend einer Seite als Verdienſt angerechnet zu werden; ſo
+wie auch die Beſſern und Beſten in manchen gewiß nothwen⸗
+digen und dringenden Einrichtungen des Verfallenen, die ober⸗
+hirtliche Thaͤtigkeit vermiſſen, wenn ſie ſich auch unbeſcheide⸗
+ner Anklagen vor dem Publicum enthalten. Setzen wir nun
+zu dieſen unguͤnſtigen Verhaͤltniſſen, die ſeit laͤngerer Zeit an⸗
+dauern, die Verſchiedenheit in der theologiſchen und kirchlichen
+Denkweise neben der Freiheit und oft Frechheit im Ausſpre⸗</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

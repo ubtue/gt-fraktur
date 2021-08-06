@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:43:34.515+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2154" WIDTH="1255">
+         <TopMargin HEIGHT="0" WIDTH="1255" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2154" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2154" WIDTH="0" VPOS="0" HPOS="1255"/>
+         <BottomMargin HEIGHT="0" WIDTH="1255" VPOS="2154" HPOS="0"/>
+         <PrintSpace HEIGHT="2154" WIDTH="1255" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2036" WIDTH="1079" VPOS="51" HPOS="26">
+               <Shape>
+                  <Polygon POINTS="38,51 26,2087 1093,2087 1105,51"/>
+               </Shape>
+               <TextLine ID="line_1606839377139_218"
+                         BASELINE="557,104 616,104"
+                         HEIGHT="42"
+                         WIDTH="59"
+                         VPOS="69"
+                         HPOS="557">
+                  <String ID="string_line_1606839377139_218"
+                          HEIGHT="42"
+                          WIDTH="59"
+                          VPOS="69"
+                          HPOS="557"
+                          CONTENT="1"/>
+               </TextLine>
+               <TextLine ID="line_1606839386008_224"
+                         BASELINE="548,277 625,277"
+                         HEIGHT="40"
+                         WIDTH="77"
+                         VPOS="245"
+                         HPOS="548">
+                  <String ID="string_line_1606839386008_224"
+                          HEIGHT="40"
+                          WIDTH="77"
+                          VPOS="245"
+                          HPOS="548"
+                          CONTENT="I."/>
+               </TextLine>
+               <TextLine ID="r1l1"
+                         BASELINE="231,336 265,336 299,336 334,336 368,336 402,337 437,338 471,339 505,340 540,341 574,342 608,344 643,345 677,346 711,347 746,348 780,348 814,349 849,349 883,348 918,348"
+                         HEIGHT="49"
+                         WIDTH="687"
+                         VPOS="312"
+                         HPOS="231">
+                  <String ID="string_r1l1"
+                          HEIGHT="49"
+                          WIDTH="687"
+                          VPOS="312"
+                          HPOS="231"
+                          CONTENT="Robert Southwell's"/>
+               </TextLine>
+               <TextLine ID="line_1606839213738_171"
+                         BASELINE="167,395 985,415 980,416 986,416"
+                         HEIGHT="71"
+                         WIDTH="863"
+                         VPOS="350"
+                         HPOS="167">
+                  <String ID="string_line_1606839213738_171"
+                          HEIGHT="71"
+                          WIDTH="863"
+                          VPOS="350"
+                          HPOS="167"
+                          CONTENT="Troſtſchreiben"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="325,444 351,444 377,444 403,444 429,445 455,445 481,446 507,447 533,448 559,448 585,449 611,451 637,451 663,452 689,453 715,454 741,455 767,455 793,456 819,456 845,456"
+                         HEIGHT="46"
+                         WIDTH="520"
+                         VPOS="421"
+                         HPOS="325">
+                  <String ID="string_r1l3"
+                          HEIGHT="46"
+                          WIDTH="520"
+                          VPOS="421"
+                          HPOS="325"
+                          CONTENT="an die unter Eliſabeth eingekerkerten"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="262,497 293,498 324,498 355,498 386,499 417,499 448,500 479,500 510,501 541,502 572,503 603,504 634,505 665,506 696,507 727,508 758,509 789,510 820,511 851,511 882,512"
+                         HEIGHT="51"
+                         WIDTH="620"
+                         VPOS="473"
+                         HPOS="262">
+                  <String ID="string_r1l4"
+                          HEIGHT="51"
+                          WIDTH="620"
+                          VPOS="473"
+                          HPOS="262"
+                          CONTENT="Katholiken in England. ᴵ)"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="141,568 188,569 236,570 283,571 331,572 378,573 426,574 473,575 521,576 568,577 616,579 664,580 711,581 759,582 806,583 854,584 901,585 949,586 996,587 1044,588 1092,588"
+                         HEIGHT="56"
+                         WIDTH="951"
+                         VPOS="544"
+                         HPOS="141">
+                  <String ID="string_r1l5"
+                          HEIGHT="56"
+                          WIDTH="951"
+                          VPOS="544"
+                          HPOS="141"
+                          CONTENT="Es iſt in der Kirche Gottes immer ein lobenswürdiger"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="47,618 97,620 148,621 198,623 249,625 300,626 350,628 401,629 452,630 502,632 553,633 604,634 654,635 705,636 756,637 806,638 857,638 908,639 958,640 1009,641 1103,645"
+                         HEIGHT="59"
+                         WIDTH="1013"
+                         VPOS="594"
+                         HPOS="47">
+                  <String ID="string_r1l6"
+                          HEIGHT="59"
+                          WIDTH="1013"
+                          VPOS="594"
+                          HPOS="47"
+                          CONTENT="Gebrauch geweſen, daß, in den Zeiten der Verfolgung,"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="55,672 106,674 158,676 210,677 262,679 314,680 366,682 418,683 470,685 522,686 574,687 625,688 677,689 729,690 781,691 833,692 885,693 937,694 989,694 1041,695 1093,696"
+                         HEIGHT="60"
+                         WIDTH="1038"
+                         VPOS="648"
+                         HPOS="55">
+                  <String ID="string_r1l7"
+                          HEIGHT="60"
+                          WIDTH="1038"
+                          VPOS="648"
+                          HPOS="55"
+                          CONTENT="die Betrübten und Bedrängten ſich einander, nicht allein"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="55,728 106,730 158,731 210,733 261,734 313,735 365,737 416,738 468,739 520,740 572,741 623,742 675,743 727,745 778,746 830,747 882,748 933,749 985,750 1037,751 1089,752"
+                         HEIGHT="60"
+                         WIDTH="1034"
+                         VPOS="704"
+                         HPOS="55">
+                  <String ID="string_r1l8"
+                          HEIGHT="60"
+                          WIDTH="1034"
+                          VPOS="704"
+                          HPOS="55"
+                          CONTENT="durch immerwaͤhrendes Gebet und gute Werke, ſondern"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="85,801 135,803 185,806 235,808 285,809 336,811 386,813 436,814 486,815 536,816 587,817 637,817 687,818 737,819 787,820 838,820 888,821 938,822 988,823 1038,824 1089,826"
+                         HEIGHT="59"
+                         WIDTH="1004"
+                         VPOS="778"
+                         HPOS="85">
+                  <String ID="string_r1l9"
+                          HEIGHT="59"
+                          WIDTH="1004"
+                          VPOS="778"
+                          HPOS="85"
+                          CONTENT="ᴵ) Nachſtehendes Schreiben von dem jungen Jeſuiten Southwell iſt ein"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="110,851 158,853 207,855 255,856 304,858 353,859 401,860 450,861 499,862 547,863 596,864 645,865 693,866 742,867 791,867 839,868 888,869 937,870 985,871 1034,872 1083,873"
+                         HEIGHT="56"
+                         WIDTH="973"
+                         VPOS="828"
+                         HPOS="110">
+                  <String ID="string_r1l10"
+                          HEIGHT="56"
+                          WIDTH="973"
+                          VPOS="828"
+                          HPOS="110"
+                          CONTENT="Meiſterſtuͤck in ſeiner Art und ganz wuͤrdig eines heil. Ignatius"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="121,900 171,901 221,903 272,904 322,906 373,907 423,908 474,909 524,910 575,911 625,912 676,913 726,914 777,914 827,915 878,916 928,917 979,918 1029,919 1080,919"
+                         HEIGHT="50"
+                         WIDTH="959"
+                         VPOS="879"
+                         HPOS="121">
+                  <String ID="string_r1l11"
+                          HEIGHT="50"
+                          WIDTH="959"
+                          VPOS="879"
+                          HPOS="121"
+                          CONTENT="oder Polycarpus. Lange Zeit iſt es in England unbekannt geblieben,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="113,948 161,949 209,950 257,951 306,952 354,953 402,954 451,954 499,955 547,955 596,956 644,956 692,957 740,957 789,958 837,959 885,959 934,960 982,962 1030,963 1079,964"
+                         HEIGHT="47"
+                         WIDTH="966"
+                         VPOS="927"
+                         HPOS="113">
+                  <String ID="string_r1l12"
+                          HEIGHT="47"
+                          WIDTH="966"
+                          VPOS="927"
+                          HPOS="113"
+                          CONTENT="bis es endlich vor kurzem W. Joſ. Walter in ſeiner Ausgabe der"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="107,994 155,995 204,996 253,997 302,998 351,998 399,999 448,999 497,999 546,1000 595,1000 643,1000 692,1001 741,1001 790,1001 839,1002 887,1003 936,1004 985,1005 1034,1006 1083,1008"
+                         HEIGHT="45"
+                         WIDTH="976"
+                         VPOS="973"
+                         HPOS="107">
+                  <String ID="string_r1l13"
+                          HEIGHT="45"
+                          WIDTH="976"
+                          VPOS="973"
+                          HPOS="107"
+                          CONTENT="poetiſchen und proſaiſchen Werke des Glaubenshelden, der fuͤr die"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="114,1039 161,1040 209,1041 257,1042 305,1043 353,1043 401,1044 448,1045 496,1045 544,1046 592,1046 640,1047 688,1047 736,1048 783,1049 831,1049 879,1050 927,1051 975,1053 1023,1054 1071,1056"
+                         HEIGHT="50"
+                         WIDTH="957"
+                         VPOS="1017"
+                         HPOS="114">
+                  <String ID="string_r1l14"
+                          HEIGHT="50"
+                          WIDTH="957"
+                          VPOS="1017"
+                          HPOS="114"
+                          CONTENT="Religion des Erlöſers ſein Blut vergoſſen, allgemein verbreitet"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="114,1085 162,1086 210,1087 259,1088 307,1089 356,1090 404,1091 453,1091 501,1092 550,1093 598,1093 646,1094 695,1095 743,1096 792,1097 840,1097 889,1099 937,1100 986,1101 1034,1103 1083,1104"
+                         HEIGHT="52"
+                         WIDTH="969"
+                         VPOS="1063"
+                         HPOS="114">
+                  <String ID="string_r1l15"
+                          HEIGHT="52"
+                          WIDTH="969"
+                          VPOS="1063"
+                          HPOS="114"
+                          CONTENT="hat. Dieſer Brief ſteht in dem proſaiſchen Theile, der den Titel"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="107,1131 155,1132 204,1133 253,1135 301,1136 350,1137 399,1138 447,1139 496,1140 545,1141 594,1141 642,1142 691,1143 740,1143 788,1144 837,1145 886,1146 934,1147 983,1148 1032,1148 1081,1150"
+                         HEIGHT="52"
+                         WIDTH="974"
+                         VPOS="1109"
+                         HPOS="107">
+                  <String ID="string_r1l16"
+                          HEIGHT="52"
+                          WIDTH="974"
+                          VPOS="1109"
+                          HPOS="107"
+                          CONTENT="fuͤhrt: The Prose Works of Robert Southwell containing Mary"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="113,1179 161,1180 209,1182 257,1183 306,1184 354,1185 402,1186 451,1188 499,1189 547,1190 596,1191 644,1192 692,1193 740,1194 789,1195 837,1196 885,1197 934,1198 982,1199 1030,1200 1079,1201"
+                         HEIGHT="56"
+                         WIDTH="966"
+                         VPOS="1156"
+                         HPOS="113">
+                  <String ID="string_r1l17"
+                          HEIGHT="56"
+                          WIDTH="966"
+                          VPOS="1156"
+                          HPOS="113"
+                          CONTENT="Magdalen's Funeral tears, Triumphs over death, and an Epistle"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="111,1229 159,1230 207,1231 255,1232 304,1234 352,1235 400,1236 448,1237 497,1238 545,1239 593,1240 641,1241 690,1242 738,1243 786,1244 834,1245 883,1246 931,1247 979,1248 1027,1248 1076,1249"
+                         HEIGHT="54"
+                         WIDTH="965"
+                         VPOS="1206"
+                         HPOS="111">
+                  <String ID="string_r1l18"
+                          HEIGHT="54"
+                          WIDTH="965"
+                          VPOS="1206"
+                          HPOS="111"
+                          CONTENT="of comfort. Edited by W. Jos. Walter. Das Schreiben ſelbſt"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="109,1278 157,1279 205,1280 253,1282 301,1283 349,1284 397,1285 446,1286 494,1286 542,1287 590,1288 638,1289 686,1289 734,1290 783,1291 831,1292 879,1293 927,1294 975,1295 1023,1296 1072,1297"
+                         HEIGHT="53"
+                         WIDTH="963"
+                         VPOS="1255"
+                         HPOS="109">
+                  <String ID="string_r1l19"
+                          HEIGHT="53"
+                          WIDTH="963"
+                          VPOS="1255"
+                          HPOS="109"
+                          CONTENT="fuͤhrt die Aufſchrift: An Epistle of comfort to the reverend Priests"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="107,1325 155,1327 204,1328 252,1329 301,1330 349,1331 398,1332 446,1333 495,1334 543,1335 592,1336 641,1336 689,1337 738,1338 786,1339 835,1339 883,1340 932,1341 980,1342 1029,1343 1078,1344"
+                         HEIGHT="53"
+                         WIDTH="971"
+                         VPOS="1302"
+                         HPOS="107">
+                  <String ID="string_r1l20"
+                          HEIGHT="53"
+                          WIDTH="971"
+                          VPOS="1302"
+                          HPOS="107"
+                          CONTENT="and to the honourable, worshipful, and others of the Lay sort"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="101,1372 149,1373 198,1375 247,1375 295,1377 344,1378 393,1379 441,1380 490,1381 539,1382 588,1383 636,1384 685,1385 734,1386 782,1386 831,1387 880,1388 928,1389 977,1390 1026,1391 1075,1392"
+                         HEIGHT="54"
+                         WIDTH="974"
+                         VPOS="1349"
+                         HPOS="101">
+                  <String ID="string_r1l21"
+                          HEIGHT="54"
+                          WIDTH="974"
+                          VPOS="1349"
+                          HPOS="101"
+                          CONTENT="restrained in durance for the catholie faith; zu Deutſch: „Ein"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="109,1422 156,1422 204,1423 252,1424 300,1425 348,1426 396,1427 444,1428 492,1429 540,1429 588,1430 635,1431 683,1432 731,1433 779,1434 827,1435 875,1436 923,1437 971,1438 1019,1439 1067,1440"
+                         HEIGHT="52"
+                         WIDTH="958"
+                         VPOS="1399"
+                         HPOS="109">
+                  <String ID="string_r1l22"
+                          HEIGHT="52"
+                          WIDTH="958"
+                          VPOS="1399"
+                          HPOS="109"
+                          CONTENT="Troſtſchreiben au die ehrwuͤrdigen Prieſter und an die Ehrenwerthen,"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="107,1469 155,1470 204,1471 252,1472 301,1473 349,1474 398,1474 446,1475 495,1476 543,1477 592,1478 640,1478 689,1479 737,1480 786,1481 834,1482 883,1483 931,1484 980,1485 1028,1487 1077,1488"
+                         HEIGHT="50"
+                         WIDTH="970"
+                         VPOS="1448"
+                         HPOS="107">
+                  <String ID="string_r1l23"
+                          HEIGHT="50"
+                          WIDTH="970"
+                          VPOS="1448"
+                          HPOS="107"
+                          CONTENT="Achtungswuͤrdigen und andern Perſonen des Laienſtandes, die wegen"/>
+               </TextLine>
+               <TextLine ID="line_1614614227684_1186"
+                         BASELINE="107,1517 140,1518 174,1518 208,1518 242,1519 275,1520 309,1520 343,1521 377,1521 410,1522 444,1523 478,1523 512,1524 545,1524 579,1524 613,1525 647,1525 680,1525 714,1525 748,1524 782,1524 809,1526 835,1528 861,1529 887,1530 913,1531 940,1532 966,1533 992,1533 1018,1534 1044,1535 1071,1536"
+                         HEIGHT="51"
+                         WIDTH="964"
+                         VPOS="1496"
+                         HPOS="107">
+                  <String ID="string_line_1614614227684_1186"
+                          HEIGHT="51"
+                          WIDTH="964"
+                          VPOS="1496"
+                          HPOS="107"
+                          CONTENT="des katholiſchen Glaubens verhaftet sind.“  — Spaͤter werden wir"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="107,1565 155,1565 203,1566 251,1567 300,1568 348,1568 396,1569 445,1570 493,1571 541,1572 590,1573 638,1574 686,1575 734,1576 783,1577 831,1578 879,1579 928,1580 976,1581 1024,1582 1073,1583"
+                         HEIGHT="52"
+                         WIDTH="966"
+                         VPOS="1542"
+                         HPOS="107">
+                  <String ID="string_r1l26"
+                          HEIGHT="52"
+                          WIDTH="966"
+                          VPOS="1542"
+                          HPOS="107"
+                          CONTENT="noch Mehreres aus den Werken dieſes apoſtoliſchen Mannes mit⸗"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="107,1612 155,1613 203,1613 251,1614 300,1615 348,1615 396,1616 445,1617 493,1618 541,1619 590,1621 638,1622 686,1623 734,1624 783,1625 831,1626 879,1627 928,1628 976,1629 1024,1630 1073,1630"
+                         HEIGHT="51"
+                         WIDTH="966"
+                         VPOS="1590"
+                         HPOS="107">
+                  <String ID="string_r1l27"
+                          HEIGHT="51"
+                          WIDTH="966"
+                          VPOS="1590"
+                          HPOS="107"
+                          CONTENT="theilen; hier ſtehe indeſſen des gelehrten Dr. Milner's Urtheil uͤber"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="104,1657 129,1658 154,1659 180,1659 205,1659 231,1659 256,1659 281,1659 307,1660 332,1660 358,1661 383,1662 409,1664"
+                         HEIGHT="40"
+                         WIDTH="305"
+                         VPOS="1635"
+                         HPOS="104">
+                  <String ID="string_r1l28"
+                          HEIGHT="40"
+                          WIDTH="305"
+                          VPOS="1635"
+                          HPOS="104"
+                          CONTENT="Southwell’s Schriften."/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="111,1746 159,1748 207,1749 255,1751 303,1753 351,1755 399,1756 447,1757 495,1759 543,1760 592,1761 640,1762 688,1763 736,1764 784,1764 832,1765 880,1765 928,1766 976,1766 1024,1766 1073,1766"
+                         HEIGHT="56"
+                         WIDTH="962"
+                         VPOS="1722"
+                         HPOS="111">
+                  <String ID="string_r1l29"
+                          HEIGHT="56"
+                          WIDTH="962"
+                          VPOS="1722"
+                          HPOS="111"
+                          CONTENT="Briefe Dr. Milners an den Herausgeber der poeti⸗"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="37,1795 77,1798 118,1800 158,1802 199,1804 239,1806 280,1808 320,1809 361,1810 401,1811 442,1812 482,1813 523,1814 563,1815 604,1816 644,1816 685,1817 725,1818 766,1819 806,1820 847,1821"
+                         HEIGHT="62"
+                         WIDTH="810"
+                         VPOS="1771"
+                         HPOS="37">
+                  <String ID="string_r1l30"
+                          HEIGHT="62"
+                          WIDTH="810"
+                          VPOS="1771"
+                          HPOS="37"
+                          CONTENT="ſchen und proſaiſchen Werke R. Southwell's."/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="235,1868 261,1871 288,1872 315,1873 342,1874 369,1874 395,1875 422,1875 449,1876 476,1876 503,1878"
+                         HEIGHT="43"
+                         WIDTH="268"
+                         VPOS="1846"
+                         HPOS="235">
+                  <String ID="string_r1l31"
+                          HEIGHT="43"
+                          WIDTH="268"
+                          VPOS="1846"
+                          HPOS="235"
+                          CONTENT="Mein Herr!"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="95,1904 143,1909 191,1912 240,1916 288,1918 337,1920 385,1922 433,1923 482,1924 530,1925 579,1926 627,1926 675,1926 724,1927 772,1927 821,1927 869,1928 917,1929 966,1930 1014,1931 1063,1932"
+                         HEIGHT="61"
+                         WIDTH="968"
+                         VPOS="1882"
+                         HPOS="95">
+                  <String ID="string_r1l32"
+                          HEIGHT="61"
+                          WIDTH="968"
+                          VPOS="1882"
+                          HPOS="95"
+                          CONTENT="Ich habe Ihnen anzuzeigen, daß ich die Abſchrift der proſaiſchen"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="26,1952 77,1955 129,1957 180,1959 232,1961 283,1963 335,1965 386,1967 438,1968 489,1970 541,1971 592,1972 644,1974 695,1974 747,1975 798,1976 850,1977 901,1977 953,1978 1004,1978 1056,1978"
+                         HEIGHT="59"
+                         WIDTH="1030"
+                         VPOS="1930"
+                         HPOS="26">
+                  <String ID="string_r1l33"
+                          HEIGHT="59"
+                          WIDTH="1030"
+                          VPOS="1930"
+                          HPOS="26"
+                          CONTENT="Werke von Southwell, die ſie vor ihrer Herausgabe mir zu ſchicken die"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="32,2000 83,2002 134,2004 186,2007 237,2009 289,2010 340,2012 391,2014 443,2015 494,2017 546,2019 597,2020 648,2022 700,2023 751,2023 803,2024 854,2025 905,2026 957,2026 1008,2026 1060,2026"
+                         HEIGHT="60"
+                         WIDTH="1028"
+                         VPOS="1977"
+                         HPOS="32">
+                  <String ID="string_r1l34"
+                          HEIGHT="60"
+                          WIDTH="1028"
+                          VPOS="1977"
+                          HPOS="32"
+                          CONTENT="Guͤte hatten, empfangen habe. Bisher konnte ich dieſelbe nur fluͤchtig"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="57,2063 83,2063 109,2063 135,2063 161,2064 187,2064 213,2064 239,2065 266,2066 292,2067 318,2067 344,2068 370,2069 396,2070 422,2072 449,2072"
+                         HEIGHT="45"
+                         WIDTH="392"
+                         VPOS="2039"
+                         HPOS="57">
+                  <String ID="string_r1l35"
+                          HEIGHT="45"
+                          WIDTH="392"
+                          VPOS="2039"
+                          HPOS="57"
+                          CONTENT="Katholik. Jhrg. X Hft. I."/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="864,2073 884,2075"
+                         HEIGHT="38"
+                         WIDTH="20"
+                         VPOS="2049"
+                         HPOS="864">
+                  <String ID="string_r1l36"
+                          HEIGHT="38"
+                          WIDTH="20"
+                          VPOS="2049"
+                          HPOS="864"
+                          CONTENT="1"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

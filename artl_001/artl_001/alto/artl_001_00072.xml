@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:47:58.203+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2454" WIDTH="1352">
+         <TopMargin HEIGHT="0" WIDTH="1352" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="1352"/>
+         <BottomMargin HEIGHT="0" WIDTH="1352" VPOS="2454" HPOS="0"/>
+         <PrintSpace HEIGHT="2454" WIDTH="1352" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2197" WIDTH="1198" VPOS="52" HPOS="112">
+               <Shape>
+                  <Polygon POINTS="112,52 112,2249 1310,2249 1310,52"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="606,82 634,80 662,79 690,78 718,78 746,78 774,78 802,76"
+                         HEIGHT="42"
+                         WIDTH="196"
+                         VPOS="52"
+                         HPOS="606">
+                  <String ID="string_r1l1"
+                          HEIGHT="42"
+                          WIDTH="196"
+                          VPOS="52"
+                          HPOS="606"
+                          CONTENT="Zeitſchriften."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="112,92 143,91 174,90"
+                         HEIGHT="38"
+                         WIDTH="62"
+                         VPOS="66"
+                         HPOS="112">
+                  <String ID="string_r1l2"
+                          HEIGHT="38"
+                          WIDTH="62"
+                          VPOS="66"
+                          HPOS="112"
+                          CONTENT="62"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="203,163 257,163 312,162 367,162 422,162 477,162 531,162 586,162 641,162 696,162 751,162 805,162 860,162 915,162 970,162 1025,162 1079,161 1134,161 1189,161 1244,160 1299,159"
+                         HEIGHT="40"
+                         WIDTH="1096"
+                         VPOS="135"
+                         HPOS="203">
+                  <String ID="string_r1l3"
+                          HEIGHT="40"
+                          WIDTH="1096"
+                          VPOS="135"
+                          HPOS="203"
+                          CONTENT="Unmittelbar an dieſen Hirtenbrief ſchließen ſich der Zeit und dem In⸗"/>
+               </TextLine>
+               <TextLine ID="line_1615375177919_1983"
+                         BASELINE="118,216 150,214 182,214 212,214 240,213 268,212 296,212 324,211 352,212"
+                         HEIGHT="41"
+                         WIDTH="234"
+                         VPOS="187"
+                         HPOS="118">
+                  <String ID="string_line_1615375177919_1983"
+                          HEIGHT="41"
+                          WIDTH="234"
+                          VPOS="187"
+                          HPOS="118"
+                          CONTENT="halte nach an:"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="151,267 208,266 265,264 322,263 379,262 436,262 493,261 550,261 607,261 664,261 721,261 778,261 835,261 892,261 949,261 1006,261 1063,260 1120,259 1177,259 1234,258 1292,256"
+                         HEIGHT="41"
+                         WIDTH="1141"
+                         VPOS="236"
+                         HPOS="151">
+                  <String ID="string_r1l6"
+                          HEIGHT="41"
+                          WIDTH="1141"
+                          VPOS="236"
+                          HPOS="151"
+                          CONTENT="1) Erſte Predigt am zweiten Sonntage nach Trin. über Joh. 21, 15—17,"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="202,308 256,307 311,307 366,307 421,306 476,306 530,306 585,306 640,306 695,306 750,306 804,306 859,306 914,305 969,305 1024,305 1078,305 1133,305 1188,304 1243,304 1298,303"
+                         HEIGHT="35"
+                         WIDTH="1096"
+                         VPOS="283"
+                         HPOS="202">
+                  <String ID="string_r1l7"
+                          HEIGHT="35"
+                          WIDTH="1096"
+                          VPOS="283"
+                          HPOS="202"
+                          CONTENT="vor der Domgemeinde zu Magdeburg und in Gegenwart Seiner Majeſtät"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="209,352 262,352 316,352 370,352 424,351 478,351 532,351 586,351 640,351 694,350 748,350 801,350 855,350 909,350 963,350 1017,350 1071,350 1125,350 1179,350 1233,349 1287,349"
+                         HEIGHT="34"
+                         WIDTH="1078"
+                         VPOS="328"
+                         HPOS="209">
+                  <String ID="string_r1l8"
+                          HEIGHT="34"
+                          WIDTH="1078"
+                          VPOS="328"
+                          HPOS="209"
+                          CONTENT="des Königs gehalten von Dr. Johann Heinrich Bernhard Dräſeke,"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="211,395 267,395 324,395 381,395 438,395 494,395 551,394 608,394 665,394 722,394 778,394 835,394 892,394 949,394 1006,394 1062,394 1119,393 1176,393 1233,393 1290,393"
+                         HEIGHT="33"
+                         WIDTH="1079"
+                         VPOS="372"
+                         HPOS="211">
+                  <String ID="string_r1l9"
+                          HEIGHT="33"
+                          WIDTH="1079"
+                          VPOS="372"
+                          HPOS="211"
+                          CONTENT="Biſchof der evangel. Kirche, Generalſuperintendenten der Provinz Sach⸗"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="211,440 265,440 319,440 373,440 427,440 481,440 535,440 589,440 643,440 697,440 751,440 805,440 859,440 913,440 967,440 1021,440 1075,439 1129,439 1183,439 1237,439 1292,439"
+                         HEIGHT="32"
+                         WIDTH="1081"
+                         VPOS="418"
+                         HPOS="211">
+                  <String ID="string_r1l10"
+                          HEIGHT="32"
+                          WIDTH="1081"
+                          VPOS="418"
+                          HPOS="211"
+                          CONTENT="ſen und Director des Königl. Conſiſtorii zu Magdeburg. Magdeburg,"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="211,485 236,485 262,486 287,486 313,486 339,486 364,486 390,486 416,485 441,485 467,484 493,484 518,484 544,483 570,484 595,484 621,484 647,485"
+                         HEIGHT="34"
+                         WIDTH="436"
+                         VPOS="462"
+                         HPOS="211">
+                  <String ID="string_r1l11"
+                          HEIGHT="34"
+                          WIDTH="436"
+                          VPOS="462"
+                          HPOS="211"
+                          CONTENT="bei Heinrichshofen, 1832. 8."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="155,538 211,537 268,536 325,535 382,535 438,534 495,534 552,534 609,534 665,534 722,534 779,534 836,534 892,534 949,534 1006,533 1063,533 1119,533 1176,532 1233,532 1290,531"
+                         HEIGHT="43"
+                         WIDTH="1135"
+                         VPOS="507"
+                         HPOS="155">
+                  <String ID="string_r1l12"
+                          HEIGHT="43"
+                          WIDTH="1135"
+                          VPOS="507"
+                          HPOS="155"
+                          CONTENT="2) Zwei Nachträge zur Antrittspredigt von Ebendemſelben. Ebendaſelbst."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="203,592 257,592 312,592 367,592 421,592 476,592 531,592 585,592 640,591 695,591 750,591 804,591 859,590 914,590 968,590 1023,590 1078,589 1132,589 1187,589 1242,589 1297,589"
+                         HEIGHT="37"
+                         WIDTH="1094"
+                         VPOS="566"
+                         HPOS="203">
+                  <String ID="string_r1l13"
+                          HEIGHT="37"
+                          WIDTH="1094"
+                          VPOS="566"
+                          HPOS="203"
+                          CONTENT="Auf ähnliche Weiſe, wie gegen ſeine Amtsgenoſſen im Hirtenbriefe,"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="119,645 177,644 236,643 295,642 354,642 413,641 472,641 530,641 589,641 648,640 707,640 766,640 825,640 884,640 942,639 1001,639 1060,639 1119,638 1178,638 1237,637 1296,637"
+                         HEIGHT="42"
+                         WIDTH="1177"
+                         VPOS="614"
+                         HPOS="119">
+                  <String ID="string_r1l14"
+                          HEIGHT="42"
+                          WIDTH="1177"
+                          VPOS="614"
+                          HPOS="119"
+                          CONTENT="ſpricht ſich in Nr. 1. Dräſeke gegen ſeine neue Gemeinde in der erſten"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="119,693 181,692 243,691 305,691 367,690 429,690 491,689 553,689 615,689 677,688 739,688 801,688 863,688 925,688 987,688 1049,688 1111,688 1173,687 1235,687 1298,687"
+                         HEIGHT="40"
+                         WIDTH="1179"
+                         VPOS="664"
+                         HPOS="119">
+                  <String ID="string_r1l15"
+                          HEIGHT="40"
+                          WIDTH="1179"
+                          VPOS="664"
+                          HPOS="119"
+                          CONTENT="Predigt aus, die nach Joh. 21, 15—27 im erſten Theile die Frage Jeſu"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="119,743 177,742 236,741 294,739 353,739 411,738 470,738 528,738 587,737 645,737 704,737 763,737 821,738 880,738 938,737 997,737 1055,737 1114,736 1172,736 1231,735 1290,734"
+                         HEIGHT="43"
+                         WIDTH="1171"
+                         VPOS="711"
+                         HPOS="119">
+                  <String ID="string_r1l16"
+                          HEIGHT="43"
+                          WIDTH="1171"
+                          VPOS="711"
+                          HPOS="119"
+                          CONTENT="an Petrus, im zweiten die Antwort deſſelben an den Herrn, und im drit⸗"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="119,791 177,790 236,789 295,788 354,788 413,788 471,787 530,787 589,787 648,787 707,787 765,787 824,787 883,787 942,786 1001,786 1059,786 1118,785 1177,785 1236,784 1295,783"
+                         HEIGHT="42"
+                         WIDTH="1176"
+                         VPOS="760"
+                         HPOS="119">
+                  <String ID="string_r1l17"
+                          HEIGHT="42"
+                          WIDTH="1176"
+                          VPOS="760"
+                          HPOS="119"
+                          CONTENT="ten den Auftrag des Herrn an ihn entwickelt und auf den Gegenſtand des"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="119,840 178,839 237,838 296,838 355,837 414,837 473,837 532,836 591,836 650,836 710,836 769,836 828,836 887,836 946,836 1005,835 1064,835 1123,834 1182,833 1241,832 1301,831"
+                         HEIGHT="43"
+                         WIDTH="1182"
+                         VPOS="808"
+                         HPOS="119">
+                  <String ID="string_r1l18"
+                          HEIGHT="43"
+                          WIDTH="1182"
+                          VPOS="808"
+                          HPOS="119"
+                          CONTENT="Tages mit eben ſo viel Geiſt als Herzlichkeit anwendet, auch die Anwe⸗"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="115,890 174,889 233,887 292,886 351,886 410,885 469,885 528,885 587,884 646,884 706,884 765,884 824,884 883,884 942,884 1001,884 1060,883 1119,883 1178,882 1237,881 1297,880"
+                         HEIGHT="44"
+                         WIDTH="1182"
+                         VPOS="857"
+                         HPOS="115">
+                  <String ID="string_r1l19"
+                          HEIGHT="44"
+                          WIDTH="1182"
+                          VPOS="857"
+                          HPOS="115"
+                          CONTENT="ſenheit des Königs und der Königlichen Familie dabei zugleich freimüthig"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="117,937 179,936 241,935 303,934 365,933 427,933 489,933 551,933 613,933 675,933 737,933 799,933 861,933 923,933 985,933 1047,933 1109,932 1171,931 1233,930 1296,929"
+                         HEIGHT="42"
+                         WIDTH="1179"
+                         VPOS="906"
+                         HPOS="117">
+                  <String ID="string_r1l20"
+                          HEIGHT="42"
+                          WIDTH="1179"
+                          VPOS="906"
+                          HPOS="117"
+                          CONTENT="und ehrerbietig in Erinnerung bringt. Die Predigt, ein ächtes homiletiſches"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="123,987 181,985 240,984 298,983 357,982 416,981 474,981 533,981 592,981 650,981 709,981 768,981 826,981 885,982 944,982 1002,982 1061,981 1120,981 1178,980 1237,979 1296,978"
+                         HEIGHT="45"
+                         WIDTH="1173"
+                         VPOS="954"
+                         HPOS="123">
+                  <String ID="string_r1l21"
+                          HEIGHT="45"
+                          WIDTH="1173"
+                          VPOS="954"
+                          HPOS="123"
+                          CONTENT="Kunſtwerk, iſt ſo aus Einem Guſſe, daß ſie nicht wohl einen eigentlichen"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="124,1036 182,1035 241,1035 299,1034 358,1034 416,1033 475,1033 533,1033 592,1032 650,1032 709,1032 768,1032 826,1031 885,1031 943,1031 1002,1031 1060,1030 1119,1030 1177,1030 1236,1029 1295,1029"
+                         HEIGHT="43"
+                         WIDTH="1171"
+                         VPOS="1005"
+                         HPOS="124">
+                  <String ID="string_r1l22"
+                          HEIGHT="43"
+                          WIDTH="1171"
+                          VPOS="1005"
+                          HPOS="124"
+                          CONTENT="Auszug zuläßt. Nur folgende, eben ſo redneriſche als wahre Stelle ſtehe"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="124,1086 182,1085 240,1084 299,1084 357,1083 416,1083 474,1082 532,1082 591,1082 649,1081 708,1081 766,1081 824,1081 883,1081 941,1080 1000,1080 1058,1080 1116,1080 1175,1079 1233,1079 1292,1079"
+                         HEIGHT="41"
+                         WIDTH="1168"
+                         VPOS="1056"
+                         HPOS="124">
+                  <String ID="string_r1l23"
+                          HEIGHT="41"
+                          WIDTH="1168"
+                          VPOS="1056"
+                          HPOS="124"
+                          CONTENT="hier als Zeugniß des Ganzen: „Es giebt ſolche, die ihn (den Ruf Jeſu)"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="119,1135 177,1134 236,1133 295,1133 354,1132 413,1131 472,1131 530,1131 589,1130 648,1130 707,1130 766,1130 825,1130 884,1129 942,1129 1001,1129 1060,1128 1119,1128 1178,1127 1237,1126 1296,1126"
+                         HEIGHT="43"
+                         WIDTH="1177"
+                         VPOS="1103"
+                         HPOS="119">
+                  <String ID="string_r1l24"
+                          HEIGHT="43"
+                          WIDTH="1177"
+                          VPOS="1103"
+                          HPOS="119"
+                          CONTENT="überhören. Das ſind die Menſchen, die Großes vorhaben, aber nicht be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="115,1185 174,1184 233,1183 293,1182 352,1181 412,1180 471,1179 530,1179 590,1178 649,1178 709,1178 768,1178 827,1178 887,1177 946,1177 1006,1177 1065,1177 1124,1176 1184,1176 1243,1175 1303,1175"
+                         HEIGHT="44"
+                         WIDTH="1188"
+                         VPOS="1152"
+                         HPOS="115">
+                  <String ID="string_r1l25"
+                          HEIGHT="44"
+                          WIDTH="1188"
+                          VPOS="1152"
+                          HPOS="115"
+                          CONTENT="denken, wie nur bei dem Kleinen das Große anfange. Das ſind die Men⸗"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="123,1235 185,1233 247,1231 309,1230 371,1229 433,1228 495,1227 557,1227 619,1227 681,1226 743,1226 805,1226 867,1226 929,1226 991,1226 1053,1226 1115,1226 1177,1225 1239,1225 1302,1224"
+                         HEIGHT="47"
+                         WIDTH="1179"
+                         VPOS="1200"
+                         HPOS="123">
+                  <String ID="string_r1l26"
+                          HEIGHT="47"
+                          WIDTH="1179"
+                          VPOS="1200"
+                          HPOS="123"
+                          CONTENT="ſchen, die Alles tadeln und Nichts billigen; — kein Regent und keine Re⸗"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="115,1284 174,1282 233,1281 293,1280 352,1279 411,1278 471,1277 530,1277 589,1276 649,1276 708,1276 767,1276 827,1276 886,1276 945,1276 1005,1276 1064,1276 1123,1275 1183,1275 1242,1274 1302,1274"
+                         HEIGHT="46"
+                         WIDTH="1187"
+                         VPOS="1250"
+                         HPOS="115">
+                  <String ID="string_r1l27"
+                          HEIGHT="46"
+                          WIDTH="1187"
+                          VPOS="1250"
+                          HPOS="115"
+                          CONTENT="gierung, keine Staatsverfaſſung, keine Ständeverſammlung, kein Landesge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="119,1332 175,1331 231,1330 287,1329 343,1329 399,1328 455,1328 511,1327 567,1327 623,1327 680,1327 736,1326 792,1326 848,1326 904,1326 960,1326 1016,1326 1072,1326 1128,1325 1184,1325 1311,1324"
+                         HEIGHT="45"
+                         WIDTH="1184"
+                         VPOS="1298"
+                         HPOS="119">
+                  <String ID="string_r1l28"
+                          HEIGHT="45"
+                          WIDTH="1184"
+                          VPOS="1298"
+                          HPOS="119"
+                          CONTENT="ſetz, keine Städteordnung, keine Kirchenagende iſt ihnen gut genug; —"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="123,1380 181,1379 240,1379 298,1378 357,1378 416,1377 474,1377 533,1376 591,1376 650,1376 709,1376 767,1375 826,1375 884,1375 943,1374 1002,1374 1060,1374 1119,1373 1177,1373 1236,1372 1295,1371"
+                         HEIGHT="43"
+                         WIDTH="1172"
+                         VPOS="1348"
+                         HPOS="123">
+                  <String ID="string_r1l29"
+                          HEIGHT="43"
+                          WIDTH="1172"
+                          VPOS="1348"
+                          HPOS="123"
+                          CONTENT="aber nicht bedenken, wie das Gute nur da gedeihe, wo der Gute einkehrt,"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="123,1428 182,1427 241,1427 300,1427 359,1426 418,1426 477,1426 536,1425 595,1425 654,1425 713,1425 772,1424 831,1424 890,1424 949,1424 1008,1423 1067,1423 1126,1423 1185,1423 1244,1423 1304,1423"
+                         HEIGHT="39"
+                         WIDTH="1181"
+                         VPOS="1400"
+                         HPOS="123">
+                  <String ID="string_r1l30"
+                          HEIGHT="39"
+                          WIDTH="1181"
+                          VPOS="1400"
+                          HPOS="123"
+                          CONTENT="wo Gott wohnt, wo Chriſtus ſich geſtaltet, wo auf die Hauptfrage: „haſt"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="115,1478 171,1478 228,1477 284,1477 341,1476 397,1476 454,1475 510,1475 567,1474 623,1474 680,1473 737,1473 793,1473 850,1472 906,1472 963,1472 1019,1472 1076,1471 1132,1471 1189,1471 1246,1472"
+                         HEIGHT="43"
+                         WIDTH="1131"
+                         VPOS="1447"
+                         HPOS="115">
+                  <String ID="string_r1l31"
+                          HEIGHT="43"
+                          WIDTH="1131"
+                          VPOS="1447"
+                          HPOS="115"
+                          CONTENT="du mich lieb?” recht zu antworten für den Grund aller Weisheit gilt."/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="207,1525 261,1525 316,1526 371,1526 426,1526 480,1526 535,1525 590,1525 645,1525 699,1524 754,1524 809,1523 864,1523 918,1522 973,1522 1028,1521 1083,1521 1137,1521 1192,1520 1247,1520 1302,1520"
+                         HEIGHT="40"
+                         WIDTH="1095"
+                         VPOS="1497"
+                         HPOS="207">
+                  <String ID="string_r1l32"
+                          HEIGHT="40"
+                          WIDTH="1095"
+                          VPOS="1497"
+                          HPOS="207"
+                          CONTENT="Nr. 2. führt den Titel: „Zwei Nachträge”, weil ſie zwei Predigten"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="127,1577 185,1577 244,1576 302,1576 361,1575 420,1575 478,1574 537,1574 596,1573 654,1573 713,1572 772,1572 830,1572 889,1571 948,1571 1006,1570 1065,1570 1124,1569 1182,1569 1241,1569 1300,1568"
+                         HEIGHT="43"
+                         WIDTH="1173"
+                         VPOS="1545"
+                         HPOS="127">
+                  <String ID="string_r1l33"
+                          HEIGHT="43"
+                          WIDTH="1173"
+                          VPOS="1545"
+                          HPOS="127"
+                          CONTENT="des Verfaſſers enthält, die nach jener erſten gehalten wurden und theil⸗"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="123,1627 181,1626 240,1626 299,1625 358,1624 416,1624 475,1623 534,1623 593,1622 651,1622 710,1621 769,1621 828,1621 886,1620 945,1620 1004,1620 1063,1619 1121,1619 1180,1619 1239,1619 1298,1618"
+                         HEIGHT="43"
+                         WIDTH="1175"
+                         VPOS="1595"
+                         HPOS="123">
+                  <String ID="string_r1l34"
+                          HEIGHT="43"
+                          WIDTH="1175"
+                          VPOS="1595"
+                          HPOS="123"
+                          CONTENT="weiſe als Commentar und weitere Entwickelung der erſten gelten können, ſo"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="129,1675 187,1675 245,1675 304,1675 362,1674 421,1674 479,1673 538,1673 596,1672 655,1672 713,1671 771,1671 830,1670 888,1670 947,1669 1005,1668 1064,1668 1122,1667 1181,1667 1239,1666 1298,1666"
+                         HEIGHT="43"
+                         WIDTH="1169"
+                         VPOS="1643"
+                         HPOS="129">
+                  <String ID="string_r1l35"
+                          HEIGHT="43"
+                          WIDTH="1169"
+                          VPOS="1643"
+                          HPOS="129"
+                          CONTENT="daß in allen dreien zuſammen gleichſam ein Glaubensbekenntniß des neuen"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="123,1726 181,1725 240,1725 299,1724 358,1723 417,1723 476,1722 534,1722 593,1721 652,1721 711,1720 770,1720 829,1720 888,1719 946,1719 1005,1718 1064,1718 1123,1717 1182,1717 1241,1716 1300,1715"
+                         HEIGHT="45"
+                         WIDTH="1177"
+                         VPOS="1692"
+                         HPOS="123">
+                  <String ID="string_r1l36"
+                          HEIGHT="45"
+                          WIDTH="1177"
+                          VPOS="1692"
+                          HPOS="123"
+                          CONTENT="Hirten nach ſeinen weſentlichen Stücken enthalten iſt, wie dies ſchon die"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="117,1776 176,1775 235,1775 294,1774 353,1773 412,1773 471,1772 531,1772 590,1771 649,1770 708,1770 767,1769 826,1769 885,1768 945,1768 1004,1767 1063,1766 1122,1766 1181,1765 1240,1765 1300,1764"
+                         HEIGHT="46"
+                         WIDTH="1183"
+                         VPOS="1741"
+                         HPOS="117">
+                  <String ID="string_r1l37"
+                          HEIGHT="46"
+                          WIDTH="1183"
+                          VPOS="1741"
+                          HPOS="117"
+                          CONTENT="Wahl auch dieſer beiden Terte, nämlich Matth. 22, 41—46. und Röm."/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="131,1828 189,1827 247,1826 305,1825 364,1823 422,1823 480,1822 538,1821 597,1820 655,1820 713,1819 771,1819 830,1818 888,1818 946,1817 1004,1817 1063,1816 1121,1816 1179,1816 1237,1815 1296,1815"
+                         HEIGHT="49"
+                         WIDTH="1165"
+                         VPOS="1791"
+                         HPOS="131">
+                  <String ID="string_r1l38"
+                          HEIGHT="49"
+                          WIDTH="1165"
+                          VPOS="1791"
+                          HPOS="131"
+                          CONTENT="1, 16. beweiſt, welche von Chriſto als dem Sohne Gottes und vom Evan⸗"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="119,1880 173,1879 228,1877 282,1876 337,1875 392,1874 446,1873 501,1872 555,1871 610,1871 665,1870 719,1870 774,1869 828,1869 883,1869 938,1868 992,1868 1047,1867 1101,1867 1156,1867 1211,1866"
+                         HEIGHT="50"
+                         WIDTH="1092"
+                         VPOS="1842"
+                         HPOS="119">
+                  <String ID="string_r1l39"
+                          HEIGHT="50"
+                          WIDTH="1092"
+                          VPOS="1842"
+                          HPOS="119"
+                          CONTENT="gelium als einer Kraft Gottes zu reden willkommenen Anlaß geben."/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="575,1958 601,1959 627,1959 654,1959 680,1958 706,1957 733,1957 759,1956 785,1956 812,1956 838,1956 865,1958"
+                         HEIGHT="39"
+                         WIDTH="290"
+                         VPOS="1932"
+                         HPOS="575">
+                  <String ID="string_r1l40"
+                          HEIGHT="39"
+                          WIDTH="290"
+                          VPOS="1932"
+                          HPOS="575"
+                          CONTENT="Zeitschriften."/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="167,2015 224,2013 281,2012 338,2011 395,2010 452,2009 509,2009 567,2008 624,2008 681,2007 738,2007 795,2006 852,2006 909,2005 967,2005 1024,2004 1081,2004 1138,2003 1195,2002 1252,2001 1310,2000"
+                         HEIGHT="46"
+                         WIDTH="1143"
+                         VPOS="1979"
+                         HPOS="167">
+                  <String ID="string_r1l41"
+                          HEIGHT="46"
+                          WIDTH="1143"
+                          VPOS="1979"
+                          HPOS="167"
+                          CONTENT="Zeitſchrift für wiſſenſchaftliche Theologie. Herausgegeben von"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="200,2058 255,2057 310,2056 366,2055 421,2054 477,2054 532,2053 587,2052 643,2052 698,2051 754,2051 809,2050 864,2050 920,2050 975,2049 1031,2048 1086,2048 1141,2047 1197,2046 1252,2045 1308,2044"
+                         HEIGHT="45"
+                         WIDTH="1108"
+                         VPOS="2023"
+                         HPOS="200">
+                  <String ID="string_r1l42"
+                          HEIGHT="45"
+                          WIDTH="1108"
+                          VPOS="2023"
+                          HPOS="200"
+                          CONTENT="Dr. G. B. Winer, Königl. Baierſchem Kirchenrath und ord. Prof. der"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="195,2103 250,2102 305,2101 361,2100 416,2100 471,2099 527,2098 582,2098 637,2097 693,2097 748,2096 803,2096 859,2095 914,2095 969,2094 1025,2093 1080,2093 1135,2092 1191,2091 1246,2090 1302,2088"
+                         HEIGHT="46"
+                         WIDTH="1107"
+                         VPOS="2067"
+                         HPOS="195">
+                  <String ID="string_r1l43"
+                          HEIGHT="46"
+                          WIDTH="1107"
+                          VPOS="2067"
+                          HPOS="195"
+                          CONTENT="Theol. an der Univerſität Erlangen (jetzt Königl. Sächſiſchem Kirchen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="198,2149 253,2147 308,2147 363,2146 419,2145 474,2144 529,2144 585,2143 640,2143 695,2142 751,2142 806,2141 861,2141 916,2140 972,2140 1027,2139 1082,2138 1138,2137 1193,2136 1248,2135 1304,2133"
+                         HEIGHT="47"
+                         WIDTH="1106"
+                         VPOS="2112"
+                         HPOS="198">
+                  <String ID="string_r1l44"
+                          HEIGHT="47"
+                          WIDTH="1106"
+                          VPOS="2112"
+                          HPOS="198"
+                          CONTENT="rath und ord. Prof. an der Univerſität Leipzig). Band 1, Heft 1, 1826;"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="196,2194 251,2193 306,2191 361,2190 416,2189 471,2189 526,2188 581,2188 636,2188 691,2187 747,2187 802,2187 857,2187 912,2186 967,2186 1022,2186 1077,2185 1132,2184 1187,2183 1242,2182 1298,2180"
+                         HEIGHT="44"
+                         WIDTH="1102"
+                         VPOS="2160"
+                         HPOS="196">
+                  <String ID="string_r1l45"
+                          HEIGHT="44"
+                          WIDTH="1102"
+                          VPOS="2160"
+                          HPOS="196"
+                          CONTENT="Heft 2, 1827; Heft 3, 1829; Band 2, Heft 1, 1832; Sulzbach, Sei⸗"/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="195,2235 220,2237 245,2238 271,2239 296,2239 321,2239 347,2238 372,2237 397,2236 423,2236 448,2235 473,2234 499,2234"
+                         HEIGHT="35"
+                         WIDTH="304"
+                         VPOS="2214"
+                         HPOS="195">
+                  <String ID="string_r1l46"
+                          HEIGHT="35"
+                          WIDTH="304"
+                          VPOS="2214"
+                          HPOS="195"
+                          CONTENT="del. gr. 8. 2⅔ rtl."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

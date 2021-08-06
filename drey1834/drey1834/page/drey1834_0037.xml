@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:10.968+01:00</Created>
+        <LastChange>2021-05-11T13:47:44.492+02:00</LastChange>
+        <TranskribusMetadata docId="543222" pageId="22808911" pageNr="3" tsid="57733281" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=ACHVFOOMVQQMQVRSHCYZAFMX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MYJUDMMLYHRXEHMAIEVZQTXV" imageId="17784589"/>
+    </Metadata>
+    <Page imageFilename="drey1834_0037.tif" imageWidth="1354" imageHeight="2331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327940307" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="48,91 48,1965 1141,1965 1141,91"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="443,138 468,139 493,139 519,141 544,142 569,142 595,142 620,140 645,138 671,136 671,91 645,93 620,95 595,97 569,97 544,97 519,96 493,94 468,94 443,93"/>
+                <Baseline points="443,123 468,124 493,124 519,126 545,142 590,147 610,134 620,125 645,123 671,121"/>
+                <TextEquiv>
+                    <Unicode>— 37 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="49,221 101,224 153,227 205,230 257,232 309,233 361,234 413,235 465,236 517,236 569,236 621,236 673,235 725,235 777,233 829,232 881,231 933,230 985,228 1037,226 1089,224 1089,181 1037,183 985,185 933,187 881,188 829,189 777,190 725,192 673,192 621,193 569,193 517,193 465,193 413,192 361,191 309,190 257,189 205,187 153,184 101,181 49,178"/>
+                <Baseline points="49,207 101,210 153,213 205,216 257,218 309,219 361,220 413,221 465,222 517,222 569,222 621,222 673,221 725,221 777,219 829,218 881,217 933,216 985,214 1037,212 1089,210"/>
+                <TextEquiv>
+                    <Unicode>Scenen uͤbergienge, wie wir ſie mit Wehmuth in manchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="50,281 101,286 153,290 204,292 256,295 308,297 359,298 411,299 463,299 514,299 566,299 618,298 669,297 721,296 773,295 824,294 876,293 928,292 979,290 1031,289 1083,288 1083,245 1031,246 979,247 928,249 876,250 824,251 773,252 721,253 669,254 618,255 566,256 514,256 463,256 411,256 359,255 308,254 256,252 204,249 153,247 101,243 50,238"/>
+                <Baseline points="50,267 101,272 153,276 204,278 256,281 308,283 359,284 411,285 463,285 514,285 566,285 618,284 669,283 721,282 773,281 824,280 876,279 928,278 979,276 1031,275 1083,274"/>
+                <TextEquiv>
+                    <Unicode>Verhandlungen unſerer ſtaͤndiſchen Kammern geſehen haben;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="48,347 100,352 152,356 204,358 256,361 308,362 360,363 412,364 464,364 516,363 568,363 620,361 672,360 724,359 776,358 828,357 880,355 932,355 984,354 1036,354 1089,354 1089,309 1036,309 984,309 932,310 880,310 828,312 776,313 724,314 672,315 620,316 568,318 516,318 464,319 412,319 360,318 308,317 256,316 204,313 152,311 100,307 48,302"/>
+                <Baseline points="48,332 100,337 152,341 204,343 256,346 308,347 360,348 412,349 464,349 516,348 568,348 620,346 672,345 724,344 776,343 828,342 880,340 932,340 984,339 1036,339 1089,339"/>
+                <TextEquiv>
+                    <Unicode>und das waren doch nur Verhandlungen in weltlichen Sachen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="132,471 180,473 228,474 276,475 324,475 372,475 420,476 468,475 516,475 564,475 613,475 661,474 709,473 757,472 805,471 853,471 901,470 949,469 997,468 1045,467 1094,466 1094,421 1045,422 997,423 949,424 901,425 853,426 805,426 757,427 709,428 661,429 613,430 564,430 516,430 468,430 420,431 372,430 324,430 276,430 228,429 180,428 132,426"/>
+                <Baseline points="132,456 180,458 228,459 276,460 324,460 372,460 420,461 468,460 516,460 564,460 613,460 661,459 709,458 757,457 805,456 853,456 901,455 949,454 997,453 1045,452 1094,451"/>
+                <TextEquiv>
+                    <Unicode>12) Kommen wir nun an die Beſchluͤſſe! Mehrere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="51,526 103,529 155,531 207,533 259,535 311,536 363,537 415,537 467,537 519,537 571,536 623,535 675,535 727,533 779,533 831,531 883,530 935,529 987,528 1039,527 1091,526 1091,483 1039,484 987,485 935,486 883,487 831,488 779,490 727,490 675,492 623,492 571,493 519,494 467,494 415,494 363,494 311,493 259,492 207,490 155,488 103,486 51,483"/>
+                <Baseline points="51,512 103,515 155,517 207,519 259,521 311,522 363,523 415,523 467,523 519,523 571,522 623,521 675,521 727,519 779,519 831,517 883,516 935,515 987,514 1039,513 1091,512"/>
+                <TextEquiv>
+                    <Unicode>Stimmen, die man in H. Straſſers Schrift S. 90 f. finden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="54,593 106,594 158,594 211,595 263,595 315,596 368,596 420,596 472,597 525,597 577,596 629,596 682,596 734,595 786,594 839,593 891,592 943,591 996,589 1048,587 1101,585 1101,542 1048,544 996,546 943,548 891,549 839,550 786,551 734,552 682,553 629,553 577,553 525,554 472,554 420,553 368,553 315,553 263,552 211,552 158,551 106,551 54,550"/>
+                <Baseline points="54,579 106,580 158,580 211,581 263,581 315,582 368,582 420,582 472,583 525,583 577,582 629,582 682,582 734,581 786,580 839,579 891,578 943,577 996,575 1048,573 1101,571"/>
+                <TextEquiv>
+                    <Unicode>kann, haben unerfreuliche Beſchluͤſſe der Dioͤceſan⸗Synoden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="58,655 112,655 167,656 222,657 276,658 331,658 386,659 440,659 495,659 550,660 604,660 659,659 714,659 768,658 823,657 878,656 932,654 987,652 1042,650 1097,647 1097,602 1042,605 987,607 932,609 878,611 823,612 768,613 714,614 659,614 604,615 550,615 495,614 440,614 386,614 331,613 276,613 222,612 167,611 112,610 58,610"/>
+                <Baseline points="58,640 112,640 167,641 222,642 276,643 331,643 386,644 440,644 495,644 550,645 604,645 659,644 714,644 768,643 823,642 878,641 932,639 987,637 1042,635 1097,632"/>
+                <TextEquiv>
+                    <Unicode>ahnend, den Grundſatz aufgeſtellt, daß die Pfarrer blos eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="54,718 106,718 158,718 210,718 263,718 315,718 367,719 419,719 472,719 524,719 576,720 628,720 681,719 733,719 785,719 837,718 890,717 942,716 994,714 1046,713 1099,710 1099,667 1046,670 994,671 942,673 890,674 837,675 785,676 733,676 681,676 628,677 576,677 524,676 472,676 419,676 367,676 315,675 263,675 210,675 158,675 106,675 54,675"/>
+                <Baseline points="54,704 106,704 158,704 210,704 263,704 315,704 367,705 419,705 472,705 524,705 576,706 628,706 681,705 733,705 785,705 837,704 890,703 942,702 994,700 1046,699 1099,696"/>
+                <TextEquiv>
+                    <Unicode>berathende Stimme haben, der Biſchof aber entſcheiden ſoll.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="62,783 114,781 166,780 219,779 271,778 324,778 376,778 428,778 481,778 533,779 586,779 638,780 690,780 743,780 795,780 848,780 900,779 952,778 1005,777 1057,775 1110,773 1110,730 1057,732 1005,734 952,735 900,736 848,737 795,737 743,737 690,737 638,737 586,736 533,736 481,735 428,735 376,735 324,735 271,735 219,736 166,737 114,738 62,740"/>
+                <Baseline points="62,769 114,767 166,766 219,765 271,764 324,764 376,764 428,764 481,764 533,765 586,765 638,766 690,766 743,766 795,766 848,766 900,765 952,764 1005,763 1057,761 1110,759"/>
+                <TextEquiv>
+                    <Unicode>Das geht aber nicht an; wenn der Biſchof bloßen Rath von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="62,846 114,844 166,843 218,842 271,841 323,840 375,840 428,840 480,840 532,840 585,840 637,840 689,840 741,841 794,841 846,841 898,841 951,840 1003,840 1055,839 1108,838 1108,795 1055,796 1003,797 951,797 898,798 846,798 794,798 741,798 689,797 637,797 585,797 532,797 480,797 428,797 375,797 323,797 271,798 218,799 166,800 114,801 62,803"/>
+                <Baseline points="62,832 114,830 166,829 218,828 271,827 323,826 375,826 428,826 480,826 532,826 585,826 637,826 689,826 741,827 794,827 846,827 898,827 951,826 1003,826 1055,825 1108,824"/>
+                <TextEquiv>
+                    <Unicode>ſeinen Geiſtlichen verlangt, ſo thut er am beſten, wenn er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="57,907 109,907 161,907 213,907 266,906 318,906 370,905 422,905 475,904 527,903 579,903 631,902 684,902 736,901 788,901 840,901 893,901 945,901 997,901 1049,902 1102,903 1102,860 1049,859 997,858 945,858 893,858 840,858 788,858 736,858 684,859 631,859 579,860 527,860 475,861 422,862 370,862 318,863 266,863 213,864 161,864 109,864 57,864"/>
+                <Baseline points="57,893 109,893 161,893 213,893 266,892 318,892 370,891 422,891 475,890 527,889 579,889 631,888 684,888 736,887 788,887 840,887 893,887 945,887 997,887 1049,888 1102,889"/>
+                <TextEquiv>
+                    <Unicode>nur die, welchen er ſein Zutrauen ſchenkt, entweder ſchriftlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="61,969 113,970 165,970 217,971 269,971 321,971 373,970 426,970 478,970 530,969 582,969 634,968 686,967 738,967 791,966 843,965 895,965 947,965 999,964 1051,964 1104,964 1104,919 1051,919 999,919 947,920 895,920 843,920 791,921 738,922 686,922 634,923 582,924 530,924 478,925 426,925 373,925 321,926 269,926 217,926 165,925 113,925 61,924"/>
+                <Baseline points="61,954 113,955 165,955 217,956 269,956 321,956 373,955 426,955 478,955 530,954 582,954 634,953 686,952 738,952 791,951 843,950 895,950 947,950 999,949 1051,949 1104,949"/>
+                <TextEquiv>
+                    <Unicode>um ihre Meinung fragt, oder ſie zu einer Conferenz beruft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="68,1031 120,1032 172,1032 224,1033 276,1033 328,1033 380,1033 433,1033 485,1033 537,1032 589,1032 641,1032 693,1031 745,1031 798,1030 850,1030 902,1029 954,1029 1006,1028 1058,1028 1111,1028 1111,983 1058,983 1006,983 954,984 902,984 850,985 798,985 745,986 693,986 641,987 589,987 537,987 485,988 433,988 380,988 328,988 276,988 224,988 172,987 120,987 68,986"/>
+                <Baseline points="68,1016 120,1017 172,1017 224,1018 276,1018 328,1018 380,1018 433,1018 485,1018 537,1017 589,1017 641,1017 693,1016 745,1016 798,1015 850,1015 902,1014 954,1014 1006,1013 1058,1013 1111,1013"/>
+                <TextEquiv>
+                    <Unicode>Wenn aber eine Synode ſeyn ſoll, ſo muͤſſen Beſchluͤſſe ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="64,1095 116,1095 169,1095 221,1095 274,1095 326,1095 379,1095 431,1095 484,1095 536,1095 589,1094 641,1094 694,1094 746,1093 799,1093 851,1092 904,1092 956,1091 1009,1091 1061,1090 1114,1090 1114,1045 1061,1045 1009,1046 956,1046 904,1047 851,1047 799,1048 746,1048 694,1049 641,1049 589,1049 536,1050 484,1050 431,1050 379,1050 326,1050 274,1050 221,1050 169,1050 116,1050 64,1050"/>
+                <Baseline points="64,1080 116,1080 169,1080 221,1080 274,1080 326,1080 379,1080 431,1080 484,1080 536,1080 589,1079 641,1079 694,1079 746,1078 799,1078 851,1077 904,1077 956,1076 1009,1076 1061,1075 1114,1075"/>
+                <TextEquiv>
+                    <Unicode>faßt werden, und Stimmenmehrheit muß entſcheiden. Wohl⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="74,1156 126,1156 178,1156 230,1156 282,1156 334,1156 386,1156 438,1156 490,1156 542,1156 594,1156 646,1156 698,1155 750,1155 802,1154 854,1154 906,1154 958,1153 1010,1153 1062,1152 1114,1151 1114,1109 1062,1110 1010,1111 958,1111 906,1112 854,1112 802,1112 750,1113 698,1113 646,1114 594,1114 542,1114 490,1114 438,1114 386,1114 334,1114 282,1114 230,1114 178,1114 126,1114 74,1114"/>
+                <Baseline points="74,1142 126,1142 178,1142 230,1142 282,1142 334,1142 386,1142 438,1142 490,1142 542,1142 594,1142 646,1142 698,1141 750,1141 802,1140 854,1140 906,1140 958,1139 1010,1139 1062,1138 1114,1137"/>
+                <TextEquiv>
+                    <Unicode>gemerkt, daß nach dem katholiſchen Princip dem Biſchofe das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="71,1213 122,1214 174,1216 226,1216 278,1217 330,1217 382,1218 434,1218 486,1218 538,1218 590,1217 641,1217 693,1217 745,1216 797,1216 849,1215 901,1215 953,1215 1005,1215 1057,1214 1109,1214 1109,1172 1057,1172 1005,1173 953,1173 901,1173 849,1173 797,1174 745,1174 693,1175 641,1175 590,1175 538,1176 486,1176 434,1176 382,1176 330,1175 278,1175 226,1174 174,1174 122,1172 71,1171"/>
+                <Baseline points="71,1199 122,1200 174,1202 226,1202 278,1203 330,1203 382,1204 434,1204 486,1204 538,1204 590,1203 641,1203 693,1203 745,1202 797,1202 849,1201 901,1201 953,1201 1005,1201 1057,1200 1109,1200"/>
+                <TextEquiv>
+                    <Unicode>Recht zuſteht, einzelnen Beſchluͤſſen ſeine Zuſtimmung zu ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="60,1274 112,1274 165,1274 218,1275 271,1275 324,1275 377,1276 430,1276 483,1276 536,1276 589,1276 641,1276 694,1276 747,1276 800,1276 853,1275 906,1275 959,1274 1012,1274 1065,1273 1118,1272 1118,1230 1065,1231 1012,1232 959,1232 906,1233 853,1233 800,1234 747,1234 694,1234 641,1234 589,1234 536,1234 483,1234 430,1234 377,1234 324,1233 271,1233 218,1233 165,1232 112,1232 60,1232"/>
+                <Baseline points="60,1260 112,1260 165,1260 218,1261 271,1261 324,1261 377,1262 430,1262 483,1262 536,1262 589,1262 641,1262 694,1262 747,1262 800,1262 853,1261 906,1261 959,1260 1012,1260 1065,1259 1118,1258"/>
+                <TextEquiv>
+                    <Unicode>ben, oder ſie zu verwerfen, auf die Weiſe, wie in conſtitutio⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="71,1338 123,1338 175,1338 227,1338 279,1338 331,1338 383,1338 436,1338 488,1338 540,1338 592,1338 644,1338 696,1338 748,1338 801,1338 853,1338 905,1338 957,1338 1009,1339 1061,1339 1114,1340 1114,1295 1061,1294 1009,1294 957,1293 905,1293 853,1293 801,1293 748,1293 696,1293 644,1293 592,1293 540,1293 488,1293 436,1293 383,1293 331,1293 279,1293 227,1293 175,1293 123,1293 71,1293"/>
+                <Baseline points="71,1323 123,1323 175,1323 227,1323 279,1323 331,1323 383,1323 436,1323 488,1323 540,1323 592,1323 644,1323 696,1323 748,1323 801,1323 853,1323 905,1323 957,1323 1009,1324 1061,1324 1114,1325"/>
+                <TextEquiv>
+                    <Unicode>nellen Staaten der Regent dieſes Recht in Beziehung auf die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="73,1402 125,1403 177,1403 229,1404 281,1404 333,1404 385,1404 437,1404 489,1404 541,1403 593,1403 645,1403 697,1403 749,1402 801,1402 853,1402 905,1402 957,1402 1009,1402 1061,1403 1113,1403 1113,1358 1061,1358 1009,1357 957,1357 905,1357 853,1357 801,1357 749,1357 697,1358 645,1358 593,1358 541,1358 489,1359 437,1359 385,1359 333,1359 281,1359 229,1359 177,1358 125,1358 73,1357"/>
+                <Baseline points="73,1387 125,1388 177,1388 229,1389 281,1389 333,1389 385,1389 437,1389 489,1389 541,1388 593,1388 645,1388 697,1388 749,1387 801,1387 853,1387 905,1387 957,1387 1009,1387 1061,1388 1113,1388"/>
+                <TextEquiv>
+                    <Unicode>Beſchluͤſſe der Staͤnde uͤbt; denn gleichwie die vermöge der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="76,1465 128,1465 180,1466 232,1466 284,1466 336,1466 388,1466 440,1466 492,1466 544,1466 596,1466 648,1466 700,1466 752,1466 804,1465 856,1465 908,1465 960,1464 1012,1464 1064,1463 1116,1463 1116,1418 1064,1418 1012,1419 960,1419 908,1420 856,1420 804,1420 752,1421 700,1421 648,1421 596,1421 544,1421 492,1421 440,1421 388,1421 336,1421 284,1421 232,1421 180,1421 128,1420 76,1420"/>
+                <Baseline points="76,1450 128,1450 180,1451 232,1451 284,1451 336,1451 388,1451 440,1451 492,1451 544,1451 596,1451 648,1451 700,1451 752,1451 804,1450 856,1450 908,1450 960,1449 1012,1449 1064,1448 1116,1448"/>
+                <TextEquiv>
+                    <Unicode>monarchiſchen Verfaſſung dem Fuͤrſten einwohnende Regierungs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="76,1526 128,1527 181,1527 233,1528 286,1528 338,1528 391,1529 443,1529 496,1528 548,1528 601,1528 653,1528 706,1527 758,1527 811,1527 863,1526 916,1526 968,1525 1021,1525 1073,1525 1126,1524 1126,1479 1073,1480 1021,1480 968,1480 916,1481 863,1481 811,1482 758,1482 706,1482 653,1483 601,1483 548,1483 496,1483 443,1484 391,1484 338,1483 286,1483 233,1483 181,1482 128,1482 76,1481"/>
+                <Baseline points="76,1511 128,1512 181,1512 233,1513 286,1513 338,1513 391,1514 443,1514 496,1513 548,1513 601,1513 653,1513 706,1512 758,1512 811,1512 863,1511 916,1511 968,1510 1021,1510 1073,1510 1126,1509"/>
+                <TextEquiv>
+                    <Unicode>gewalt durch Einberufung einer Staͤndeverſammlung nicht ru⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="83,1590 135,1590 187,1591 239,1591 291,1591 343,1591 395,1591 447,1591 499,1590 551,1590 603,1590 655,1589 707,1589 759,1588 811,1588 863,1587 915,1587 967,1586 1019,1586 1071,1586 1123,1586 1123,1541 1071,1541 1019,1541 967,1541 915,1542 863,1542 811,1543 759,1543 707,1544 655,1544 603,1545 551,1545 499,1545 447,1546 395,1546 343,1546 291,1546 239,1546 187,1546 135,1545 83,1545"/>
+                <Baseline points="83,1575 135,1575 187,1576 239,1576 291,1576 343,1576 395,1576 447,1576 499,1575 551,1575 603,1575 655,1574 707,1574 759,1573 811,1573 863,1572 915,1572 967,1571 1019,1571 1071,1571 1123,1571"/>
+                <TextEquiv>
+                    <Unicode>hend gemacht, auch nicht auf dieſe uͤbergetragen oder mit ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="80,1651 132,1652 185,1652 238,1652 290,1652 343,1652 396,1652 448,1651 501,1651 554,1651 607,1651 659,1650 712,1650 765,1650 817,1650 870,1649 923,1649 975,1649 1028,1648 1081,1648 1134,1648 1134,1603 1081,1603 1028,1603 975,1604 923,1604 870,1604 817,1605 765,1605 712,1605 659,1605 607,1606 554,1606 501,1606 448,1606 396,1607 343,1607 290,1607 238,1607 185,1607 132,1607 80,1606"/>
+                <Baseline points="80,1636 132,1637 185,1637 238,1637 290,1637 343,1637 396,1637 448,1636 501,1636 554,1636 607,1636 659,1635 712,1635 765,1635 817,1635 870,1634 923,1634 975,1634 1028,1633 1081,1633 1134,1633"/>
+                <TextEquiv>
+                    <Unicode>getheilt wird, ebenſo wenig kann dieß durch Einberufung einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="88,1713 140,1713 192,1713 244,1713 297,1713 349,1713 401,1713 454,1713 506,1713 558,1713 611,1713 663,1713 715,1713 767,1713 820,1713 872,1713 924,1713 977,1712 1029,1712 1081,1711 1134,1711 1134,1666 1081,1666 1029,1667 977,1667 924,1668 872,1668 820,1668 767,1668 715,1668 663,1668 611,1668 558,1668 506,1668 454,1668 401,1668 349,1668 297,1668 244,1668 192,1668 140,1668 88,1668"/>
+                <Baseline points="88,1698 140,1698 192,1698 244,1698 297,1698 349,1698 401,1698 454,1698 506,1698 558,1698 611,1698 663,1698 715,1698 767,1698 820,1698 872,1698 924,1698 977,1697 1029,1697 1081,1696 1134,1696"/>
+                <TextEquiv>
+                    <Unicode>Synode mit der kirchlichen Regierungsgewalt des Biſchofs ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="82,1777 134,1776 187,1776 240,1776 293,1776 346,1776 398,1776 451,1776 504,1776 557,1776 610,1776 662,1776 715,1776 768,1776 821,1776 874,1775 926,1775 979,1774 1032,1773 1085,1772 1138,1771 1138,1726 1085,1727 1032,1728 979,1729 926,1730 874,1730 821,1731 768,1731 715,1731 662,1731 610,1731 557,1731 504,1731 451,1731 398,1731 346,1731 293,1731 240,1731 187,1731 134,1731 82,1732"/>
+                <Baseline points="82,1762 134,1761 187,1761 240,1761 293,1761 346,1761 398,1761 451,1761 504,1761 557,1761 610,1761 662,1761 715,1761 768,1761 821,1761 874,1760 926,1760 979,1759 1032,1758 1085,1757 1138,1756"/>
+                <TextEquiv>
+                    <Unicode>ſchehen, die nach der Grundverfaſſung dee katholiſchen Kirche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="82,1838 134,1837 187,1836 239,1836 292,1836 345,1836 397,1836 450,1837 502,1837 555,1837 608,1838 660,1838 713,1838 765,1838 818,1838 871,1837 923,1837 976,1836 1028,1834 1081,1832 1134,1830 1134,1787 1081,1789 1028,1791 976,1793 923,1794 871,1794 818,1795 765,1795 713,1795 660,1795 608,1795 555,1794 502,1794 450,1794 397,1793 345,1793 292,1793 239,1793 187,1793 134,1794 82,1795"/>
+                <Baseline points="82,1824 134,1823 187,1822 239,1822 292,1822 345,1822 397,1822 450,1823 502,1823 555,1823 608,1824 660,1824 713,1824 765,1824 818,1824 871,1823 923,1823 976,1822 1028,1820 1081,1818 1134,1816"/>
+                <TextEquiv>
+                    <Unicode>(fuͤr ſeinen Bezirk) in ſeiner Person ruhet. Ich laſſe es da⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="79,1898 131,1898 183,1899 236,1899 288,1899 341,1899 393,1899 445,1900 498,1900 550,1900 603,1900 655,1900 707,1899 760,1899 812,1899 865,1898 917,1897 969,1896 1022,1895 1074,1894 1127,1893 1127,1850 1074,1851 1022,1852 969,1853 917,1854 865,1855 812,1856 760,1856 707,1856 655,1857 603,1857 550,1857 498,1857 445,1857 393,1856 341,1856 288,1856 236,1856 183,1856 131,1855 79,1855"/>
+                <Baseline points="79,1884 131,1884 183,1885 236,1885 288,1885 341,1885 393,1885 445,1886 498,1886 550,1886 603,1886 655,1886 707,1885 760,1885 812,1885 865,1884 917,1883 969,1882 1022,1881 1074,1880 1127,1879"/>
+                <TextEquiv>
+                    <Unicode>hingeſtellt ſeyn, ob diejenigen, welche ſo laut nach Synoden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="86,1960 138,1962 191,1963 244,1964 297,1964 349,1965 402,1965 455,1965 508,1965 560,1965 613,1965 666,1964 719,1964 771,1963 824,1963 877,1962 930,1961 982,1960 1035,1959 1088,1958 1141,1957 1141,1912 1088,1913 1035,1914 982,1915 930,1916 877,1917 824,1918 771,1918 719,1919 666,1919 613,1920 560,1920 508,1920 455,1920 402,1920 349,1920 297,1919 244,1919 191,1918 138,1917 86,1915"/>
+                <Baseline points="86,1945 138,1947 191,1948 244,1949 297,1949 349,1950 402,1950 455,1950 508,1950 560,1950 613,1950 666,1949 719,1949 771,1948 824,1948 877,1947 930,1946 982,1945 1035,1944 1088,1943 1141,1942"/>
+                <TextEquiv>
+                    <Unicode>rufen, und durch ſie große Dinge auszufuͤhren hoffen, hieran</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 37 —
+Scenen uͤbergienge, wie wir ſie mit Wehmuth in manchen
+Verhandlungen unſerer ſtaͤndiſchen Kammern geſehen haben;
+und das waren doch nur Verhandlungen in weltlichen Sachen!
+12) Kommen wir nun an die Beſchluͤſſe! Mehrere
+Stimmen, die man in H. Straſſers Schrift S. 90 f. finden
+kann, haben unerfreuliche Beſchluͤſſe der Dioͤceſan⸗Synoden
+ahnend, den Grundſatz aufgeſtellt, daß die Pfarrer blos eine
+berathende Stimme haben, der Biſchof aber entſcheiden ſoll.
+Das geht aber nicht an; wenn der Biſchof bloßen Rath von
+ſeinen Geiſtlichen verlangt, ſo thut er am beſten, wenn er
+nur die, welchen er ſein Zutrauen ſchenkt, entweder ſchriftlich
+um ihre Meinung fragt, oder ſie zu einer Conferenz beruft.
+Wenn aber eine Synode ſeyn ſoll, ſo muͤſſen Beſchluͤſſe ge⸗
+faßt werden, und Stimmenmehrheit muß entſcheiden. Wohl⸗
+gemerkt, daß nach dem katholiſchen Princip dem Biſchofe das
+Recht zuſteht, einzelnen Beſchluͤſſen ſeine Zuſtimmung zu ge⸗
+ben, oder ſie zu verwerfen, auf die Weiſe, wie in conſtitutio⸗
+nellen Staaten der Regent dieſes Recht in Beziehung auf die
+Beſchluͤſſe der Staͤnde uͤbt; denn gleichwie die vermöge der
+monarchiſchen Verfaſſung dem Fuͤrſten einwohnende Regierungs⸗
+gewalt durch Einberufung einer Staͤndeverſammlung nicht ru⸗
+hend gemacht, auch nicht auf dieſe uͤbergetragen oder mit ihr
+getheilt wird, ebenſo wenig kann dieß durch Einberufung einer
+Synode mit der kirchlichen Regierungsgewalt des Biſchofs ge⸗
+ſchehen, die nach der Grundverfaſſung dee katholiſchen Kirche
+(fuͤr ſeinen Bezirk) in ſeiner Person ruhet. Ich laſſe es da⸗
+hingeſtellt ſeyn, ob diejenigen, welche ſo laut nach Synoden
+rufen, und durch ſie große Dinge auszufuͤhren hoffen, hieran</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

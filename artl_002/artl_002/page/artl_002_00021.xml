@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T11:54:15.375+01:00</Created>
+        <LastChange>2021-05-13T08:52:13.314+02:00</LastChange>
+        <TranskribusMetadata docId="543221" pageId="22808906" pageNr="4" tsid="57821525" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=FHUUWRZWVJSJXOKVCEKMNLUC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WCQOHNAPVPIDMDDQHOZIFBHN" imageId="17784584"/>
+    </Metadata>
+    <Page imageFilename="artl_002_00021.tif" imageWidth="1364" imageHeight="2456">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328007676" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="101,90 101,2282 1280,2282 1280,90"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="195,130 244,131 293,132 342,132 392,133 441,133 490,134 539,134 589,134 638,134 687,134 736,134 786,133 835,133 884,132 933,132 983,131 1032,130 1081,129 1130,128 1180,127 1180,90 1130,91 1081,92 1032,93 983,94 933,95 884,95 835,96 786,96 736,97 687,97 638,97 589,97 539,97 490,97 441,96 392,96 342,95 293,95 244,94 195,93"/>
+                <Baseline points="195,118 244,119 293,120 342,120 392,121 441,121 490,122 539,122 589,122 638,122 687,122 736,122 786,121 835,121 884,120 933,120 983,119 1032,118 1081,117 1130,116 1180,115"/>
+                <TextEquiv>
+                    <Unicode>Allgemeines Repertorium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="642,208 672,206 702,205 733,203 733,166 702,168 672,169 642,171"/>
+                <Baseline points="642,196 672,194 702,193 733,191"/>
+                <TextEquiv>
+                    <Unicode>fuͤr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="119,275 175,278 231,279 287,281 343,282 400,283 456,283 512,283 568,283 624,283 681,283 737,283 793,282 849,282 905,281 962,281 1018,280 1074,280 1130,279 1186,279 1243,279 1243,242 1186,242 1130,242 1074,243 1018,243 962,244 905,244 849,245 793,245 737,246 681,246 624,246 568,246 512,246 456,246 400,246 343,245 287,244 231,242 175,241 119,238"/>
+                <Baseline points="119,263 175,266 231,267 287,269 343,270 400,271 456,271 512,271 568,271 624,271 681,271 737,271 793,270 849,270 905,269 962,269 1018,268 1074,268 1130,267 1186,267 1243,267"/>
+                <TextEquiv>
+                    <Unicode>die theologiſche Literatur und kirchliche Statiſtik.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="604,397 631,396 659,395 686,395 714,394 741,394 769,394 769,357 741,357 714,357 686,358 659,358 631,359 604,360"/>
+                <Baseline points="604,385 631,384 659,383 686,383 714,382 741,382 769,382"/>
+                <TextEquiv>
+                    <Unicode>№ 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="425,509 451,508 478,508 505,508 532,507 558,507 585,507 612,506 639,506 665,506 692,506 719,506 746,506 772,507 799,507 826,507 853,508 879,508 906,509 933,510 960,511 960,474 933,473 906,472 879,471 853,471 826,470 799,470 772,470 746,469 719,469 692,469 665,469 639,469 612,469 585,470 558,470 532,470 505,471 478,471 451,471 425,472"/>
+                <Baseline points="425,497 451,496 478,496 505,496 532,495 558,495 585,495 612,494 639,494 665,494 692,494 719,494 746,494 772,495 799,495 826,495 853,496 879,496 906,497 933,498 960,499"/>
+                <TextEquiv>
+                    <Unicode>Exegetische Theologie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="137,560 194,560 251,560 308,561 365,561 422,561 479,561 536,561 593,561 650,561 708,561 765,561 822,561 879,561 936,561 993,562 1050,562 1107,562 1164,562 1221,563 1279,564 1279,533 1221,532 1164,531 1107,531 1050,531 993,531 936,530 879,530 822,530 765,530 708,530 650,530 593,530 536,530 479,530 422,530 365,530 308,530 251,529 194,529 137,529"/>
+                <Baseline points="137,550 194,550 251,550 308,551 365,551 422,551 479,551 536,551 593,551 650,551 708,551 765,551 822,551 879,551 936,551 993,552 1050,552 1107,552 1164,552 1221,553 1279,554"/>
+                <TextEquiv>
+                    <Unicode>Beiträge zur Einleitung in die bibliſchen Schriften. Von Dr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="161,606 216,606 272,606 328,606 384,606 440,606 496,606 552,606 608,606 664,606 720,606 775,606 831,606 887,606 943,606 999,606 1055,607 1111,607 1167,607 1223,607 1279,608 1279,577 1223,576 1167,576 1111,576 1055,576 999,575 943,575 887,575 831,575 775,575 720,575 664,575 608,575 552,575 496,575 440,575 384,575 328,575 272,575 216,575 161,575"/>
+                <Baseline points="161,596 216,596 272,596 328,596 384,596 440,596 496,596 552,596 608,596 664,596 720,596 775,596 831,596 887,596 943,596 999,596 1055,597 1111,597 1167,597 1223,597 1279,598"/>
+                <TextEquiv>
+                    <Unicode>Karl Auguſt Credner, Prof. der Theol. zu Gieſſen. Erſter Band. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="165,650 220,650 275,651 330,651 385,652 440,652 495,652 550,652 605,652 660,652 716,652 771,652 826,652 881,652 936,652 991,652 1046,652 1101,652 1156,652 1211,652 1267,653 1267,623 1211,622 1156,622 1101,622 1046,622 991,622 936,622 881,622 826,622 771,622 716,622 660,622 605,622 550,622 495,622 440,622 385,622 330,621 275,621 220,620 165,620"/>
+                <Baseline points="165,640 220,640 275,641 330,641 385,642 440,642 495,642 550,642 605,642 660,642 716,642 771,642 826,642 881,642 936,642 991,642 1046,642 1101,642 1156,642 1211,642 1267,643"/>
+                <TextEquiv>
+                    <Unicode>Evang. der Petriner oder Judenchriſten. S. 533. X. Halle, Waiſenhaus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="164,690 190,693 217,695 244,697 271,698 298,698 325,698 351,698 378,697 405,697 432,696 459,696 486,696 486,666 459,666 432,666 405,667 378,667 351,668 325,668 298,668 271,668 244,667 217,665 190,663 164,660"/>
+                <Baseline points="164,680 190,683 217,685 244,687 271,688 298,688 325,688 351,688 378,687 405,687 432,686 459,686 486,686"/>
+                <TextEquiv>
+                    <Unicode>1832. gr. 8. 2¼ rtl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="149,752 205,753 261,754 317,754 374,754 430,755 486,755 543,755 599,755 655,755 712,755 768,755 824,755 880,754 937,755 993,755 1049,755 1106,755 1162,756 1218,756 1275,757 1275,721 1218,720 1162,720 1106,719 1049,719 993,719 937,719 880,718 824,719 768,719 712,719 655,719 599,719 543,719 486,719 430,719 374,718 317,718 261,718 205,717 149,716"/>
+                <Baseline points="149,740 205,741 261,742 317,742 374,742 430,743 486,743 543,743 599,743 655,743 712,743 768,743 824,743 880,742 937,743 993,743 1049,743 1106,743 1162,744 1218,744 1275,745"/>
+                <TextEquiv>
+                    <Unicode>Dieſer erſte Band verſpricht zunächſt noch zwei Nachfolger, mit welchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="101,795 159,797 218,799 277,801 336,802 395,803 453,803 512,803 571,803 630,803 689,803 747,803 806,802 865,802 924,802 983,802 1041,802 1100,802 1159,803 1218,805 1277,806 1277,772 1218,771 1159,769 1100,768 1041,768 983,768 924,768 865,768 806,768 747,769 689,769 630,769 571,769 512,769 453,769 395,769 336,768 277,767 218,765 159,763 101,761"/>
+                <Baseline points="101,784 159,786 218,788 277,790 336,791 395,792 453,792 512,792 571,792 630,792 689,792 747,792 806,791 865,791 924,791 983,791 1041,791 1100,791 1159,792 1218,794 1277,795"/>
+                <TextEquiv>
+                    <Unicode>er eine Einleitung in die 4 Evangelien vollenden will, welche die gegen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="103,843 161,845 220,848 278,849 337,851 396,852 454,853 513,853 571,853 630,853 689,853 747,852 806,852 864,852 923,851 982,851 1040,851 1099,851 1157,852 1216,853 1275,854 1275,820 1216,819 1157,818 1099,817 1040,817 982,817 923,817 864,818 806,818 747,818 689,819 630,819 571,819 513,819 454,819 396,818 337,817 278,815 220,814 161,811 103,809"/>
+                <Baseline points="103,832 161,834 220,837 278,838 337,840 396,841 454,842 513,842 571,842 630,842 689,842 747,841 806,841 864,841 923,840 982,840 1040,840 1099,840 1157,841 1216,842 1275,843"/>
+                <TextEquiv>
+                    <Unicode>wärtige Lieferung in ſofern anbahnt, als ſie den Stoff für die Unterſu⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="107,893 165,895 223,897 281,898 340,900 398,900 456,901 515,901 573,901 631,901 690,900 748,900 806,900 864,899 923,899 981,899 1039,899 1098,900 1156,900 1214,901 1273,903 1273,869 1214,867 1156,866 1098,866 1039,865 981,865 923,865 864,865 806,866 748,866 690,866 631,867 573,867 515,867 456,867 398,866 340,866 281,864 223,863 165,861 107,859"/>
+                <Baseline points="107,882 165,884 223,886 281,887 340,889 398,889 456,890 515,890 573,890 631,890 690,889 748,889 806,889 864,888 923,888 981,888 1039,888 1098,889 1156,889 1214,890 1273,892"/>
+                <TextEquiv>
+                    <Unicode>chung genetiſcher Verhältniſſe ſo vollſtändig als möglich darlegt, womit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="107,942 165,944 223,946 282,947 340,948 399,949 457,950 515,950 574,950 632,950 691,949 749,949 807,949 866,948 924,948 983,948 1041,948 1099,949 1158,949 1216,950 1275,951 1275,917 1216,916 1158,915 1099,915 1041,914 983,914 924,914 866,914 807,915 749,915 691,915 632,916 574,916 515,916 457,916 399,915 340,914 282,913 223,912 165,910 107,908"/>
+                <Baseline points="107,931 165,933 223,935 282,936 340,937 399,938 457,939 515,939 574,939 632,939 691,938 749,938 807,938 866,937 924,937 983,937 1041,937 1099,938 1158,938 1216,939 1275,940"/>
+                <TextEquiv>
+                    <Unicode>zweite Band, Unterſuchungen über den Zuſtand der griechiſchen Ueberſetzung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="107,989 165,992 224,994 282,996 341,997 400,997 458,998 517,998 575,998 634,998 693,998 751,997 810,997 868,996 927,996 986,996 1044,996 1103,996 1161,997 1220,998 1279,999 1279,965 1220,964 1161,963 1103,962 1044,962 986,962 927,962 868,962 810,963 751,963 693,964 634,964 575,964 517,964 458,964 400,963 341,963 282,962 224,960 165,958 107,955"/>
+                <Baseline points="107,978 165,981 224,983 282,985 341,986 400,986 458,987 517,987 575,987 634,987 693,987 751,986 810,986 868,985 927,985 986,985 1044,985 1103,985 1161,986 1220,987 1279,988"/>
+                <TextEquiv>
+                    <Unicode>des A. T. am Ende des erſten und Anfang des zweiten Jahrhunderts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="103,1037 161,1040 220,1043 279,1045 338,1046 397,1047 456,1047 514,1047 573,1047 632,1046 691,1046 750,1045 809,1044 868,1044 926,1043 985,1043 1044,1043 1103,1044 1162,1045 1221,1047 1280,1050 1280,1016 1221,1013 1162,1011 1103,1010 1044,1009 985,1009 926,1009 868,1010 809,1010 750,1011 691,1012 632,1012 573,1013 514,1013 456,1013 397,1013 338,1012 279,1011 220,1009 161,1006 103,1003"/>
+                <Baseline points="103,1026 161,1029 220,1032 279,1034 338,1035 397,1036 456,1036 514,1036 573,1036 632,1035 691,1035 750,1034 809,1033 868,1033 926,1032 985,1032 1044,1032 1103,1033 1162,1034 1221,1036 1280,1039"/>
+                <TextEquiv>
+                    <Unicode>enthaltend, fortfahren wird, während der dritte die eigentliche Einleitung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="111,1088 169,1091 227,1093 286,1095 344,1097 403,1097 461,1098 519,1097 578,1097 636,1096 695,1096 753,1095 811,1094 870,1094 928,1093 987,1093 1045,1093 1103,1094 1162,1095 1220,1096 1279,1099 1279,1063 1220,1060 1162,1059 1103,1058 1045,1057 987,1057 928,1057 870,1058 811,1058 753,1059 695,1060 636,1060 578,1061 519,1061 461,1062 403,1061 344,1061 286,1059 227,1057 169,1055 111,1052"/>
+                <Baseline points="111,1076 169,1079 227,1081 286,1083 344,1085 403,1085 461,1086 519,1085 578,1085 636,1084 695,1084 753,1083 811,1082 870,1082 928,1081 987,1081 1045,1081 1103,1082 1162,1083 1220,1084 1279,1087"/>
+                <TextEquiv>
+                    <Unicode>geben ſoll. Abſchnitt I. Anſehen und Gebrauch der neuteſtamentlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="107,1135 165,1139 223,1141 281,1144 339,1145 398,1146 456,1146 514,1146 572,1146 630,1145 689,1145 747,1144 805,1143 863,1143 921,1142 980,1142 1038,1142 1096,1142 1154,1143 1212,1144 1271,1146 1271,1112 1212,1110 1154,1109 1096,1108 1038,1108 980,1108 921,1108 863,1109 805,1109 747,1110 689,1111 630,1111 572,1112 514,1112 456,1112 398,1112 339,1111 281,1110 223,1107 165,1105 107,1101"/>
+                <Baseline points="107,1124 165,1128 223,1130 281,1133 339,1134 398,1135 456,1135 514,1135 572,1135 630,1134 689,1134 747,1133 805,1132 863,1132 921,1131 980,1131 1038,1131 1096,1131 1154,1132 1212,1133 1271,1135"/>
+                <TextEquiv>
+                    <Unicode>Schriften in den beiden erſten Jahrhunderten S. 1 — 91. Nach einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="103,1182 161,1186 220,1190 278,1192 337,1194 395,1195 454,1195 512,1196 571,1195 629,1195 688,1194 746,1194 805,1193 863,1192 922,1192 980,1192 1039,1192 1097,1193 1156,1194 1214,1196 1273,1198 1273,1164 1214,1162 1156,1160 1097,1159 1039,1158 980,1158 922,1158 863,1158 805,1159 746,1160 688,1160 629,1161 571,1161 512,1162 454,1161 395,1161 337,1160 278,1158 220,1156 161,1152 103,1148"/>
+                <Baseline points="103,1171 161,1175 220,1179 278,1181 337,1183 395,1184 454,1184 512,1185 571,1184 629,1184 688,1183 746,1183 805,1182 863,1181 922,1181 980,1181 1039,1181 1097,1182 1156,1183 1214,1185 1273,1187"/>
+                <TextEquiv>
+                    <Unicode>weniger tiefen als rhetoriſchen Entwicklung des Begriffs von Offenbarung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="103,1231 161,1235 219,1238 277,1241 336,1243 394,1244 452,1245 511,1245 569,1246 627,1246 686,1245 744,1245 802,1244 860,1244 919,1244 977,1243 1035,1243 1094,1244 1152,1244 1210,1245 1269,1247 1269,1213 1210,1211 1152,1210 1094,1210 1035,1209 977,1209 919,1210 860,1210 802,1210 744,1211 686,1211 627,1212 569,1212 511,1211 452,1211 394,1210 336,1209 277,1207 219,1204 161,1201 103,1197"/>
+                <Baseline points="103,1220 161,1224 219,1227 277,1230 336,1232 394,1233 452,1234 511,1234 569,1235 627,1235 686,1234 744,1234 802,1233 860,1233 919,1233 977,1232 1035,1232 1094,1233 1152,1233 1210,1234 1269,1236"/>
+                <TextEquiv>
+                    <Unicode>und Inſpiration werden die bibliſchen Stellen geprüft, und wird gezeigt, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="107,1280 165,1284 223,1288 282,1290 340,1293 399,1294 457,1295 515,1295 574,1295 632,1295 691,1295 749,1294 807,1294 866,1293 924,1292 983,1292 1041,1292 1099,1292 1158,1293 1216,1294 1275,1296 1275,1262 1216,1260 1158,1259 1099,1258 1041,1258 983,1258 924,1258 866,1259 807,1260 749,1260 691,1261 632,1261 574,1261 515,1261 457,1261 399,1260 340,1259 282,1256 223,1254 165,1250 107,1246"/>
+                <Baseline points="107,1269 165,1273 223,1277 282,1279 340,1282 399,1283 457,1284 515,1284 574,1284 632,1284 691,1284 749,1283 807,1283 866,1282 924,1281 983,1281 1041,1281 1099,1281 1158,1282 1216,1283 1275,1285"/>
+                <TextEquiv>
+                    <Unicode>nicht die Apoſtel allein, ſondern alle Chriſten im Beſitz des göttlichen Gei⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="101,1329 159,1332 218,1336 276,1339 335,1341 393,1342 452,1343 510,1343 569,1344 627,1343 686,1343 744,1343 803,1342 861,1342 920,1341 978,1341 1037,1341 1095,1342 1154,1342 1212,1344 1271,1346 1271,1312 1212,1310 1154,1308 1095,1308 1037,1307 978,1307 920,1307 861,1308 803,1308 744,1309 686,1309 627,1309 569,1310 510,1309 452,1309 393,1308 335,1307 276,1305 218,1302 159,1298 101,1295"/>
+                <Baseline points="101,1318 159,1321 218,1325 276,1328 335,1330 393,1331 452,1332 510,1332 569,1333 627,1332 686,1332 744,1332 803,1331 861,1331 920,1330 978,1330 1037,1330 1095,1331 1154,1331 1212,1333 1271,1335"/>
+                <TextEquiv>
+                    <Unicode>ſtes dargeſtellt werden, womit man übrigens immer unbeſtimmte, ſchwan⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="103,1376 161,1381 219,1384 277,1387 336,1389 394,1391 452,1392 511,1392 569,1393 627,1393 686,1392 744,1392 802,1391 860,1391 919,1391 977,1390 1035,1390 1094,1390 1152,1391 1210,1392 1269,1394 1269,1360 1210,1358 1152,1357 1094,1356 1035,1356 977,1356 919,1357 860,1357 802,1357 744,1358 686,1358 627,1359 569,1359 511,1358 452,1358 394,1357 336,1355 277,1353 219,1350 161,1347 103,1342"/>
+                <Baseline points="103,1365 161,1370 219,1373 277,1376 336,1378 394,1380 452,1381 511,1381 569,1382 627,1382 686,1381 744,1381 802,1380 860,1380 919,1380 977,1379 1035,1379 1094,1379 1152,1380 1210,1381 1269,1383"/>
+                <TextEquiv>
+                    <Unicode>kende Begriffe verbunden habe. Auch die apoſtoliſchen Väter ſchreiben ſich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="107,1426 165,1430 224,1434 282,1437 341,1439 399,1440 458,1441 516,1442 575,1442 633,1442 692,1442 750,1441 809,1440 867,1440 926,1439 984,1439 1043,1439 1101,1439 1160,1439 1218,1440 1277,1441 1277,1407 1218,1406 1160,1405 1101,1405 1043,1405 984,1405 926,1405 867,1406 809,1406 750,1407 692,1408 633,1408 575,1408 516,1408 458,1407 399,1406 341,1405 282,1403 224,1400 165,1396 107,1392"/>
+                <Baseline points="107,1415 165,1419 224,1423 282,1426 341,1428 399,1429 458,1430 516,1431 575,1431 633,1431 692,1431 750,1430 809,1429 867,1429 926,1428 984,1428 1043,1428 1101,1428 1160,1428 1218,1429 1277,1430"/>
+                <TextEquiv>
+                    <Unicode>den Geiſt zu, daraus zu ſchließen, daß ſie noch keine apoſtoliſchen Schrif⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="107,1473 165,1478 223,1482 281,1485 339,1488 398,1489 456,1490 514,1491 572,1491 630,1491 689,1490 747,1490 805,1489 863,1488 921,1488 980,1487 1038,1487 1096,1487 1154,1487 1212,1488 1271,1490 1271,1456 1212,1454 1154,1453 1096,1453 1038,1453 980,1453 921,1454 863,1454 805,1455 747,1456 689,1456 630,1457 572,1457 514,1457 456,1456 398,1455 339,1454 281,1451 223,1448 165,1444 107,1439"/>
+                <Baseline points="107,1462 165,1467 223,1471 281,1474 339,1477 398,1478 456,1479 514,1480 572,1480 630,1480 689,1479 747,1479 805,1478 863,1477 921,1477 980,1476 1038,1476 1096,1476 1154,1476 1212,1477 1271,1479"/>
+                <TextEquiv>
+                    <Unicode>ten als inſpirirt beſonders auszeichneten; dieß wird ſofort noch beſonders</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="105,1521 163,1526 221,1531 279,1535 338,1538 396,1539 454,1541 512,1541 571,1542 629,1542 687,1541 745,1540 804,1540 862,1539 920,1538 978,1538 1037,1537 1095,1537 1153,1538 1211,1539 1270,1540 1270,1506 1211,1505 1153,1504 1095,1503 1037,1503 978,1504 920,1504 862,1505 804,1506 745,1506 687,1507 629,1508 571,1508 512,1507 454,1507 396,1505 338,1504 279,1501 221,1497 163,1492 105,1487"/>
+                <Baseline points="105,1510 163,1515 221,1520 279,1524 338,1527 396,1528 454,1530 512,1530 571,1531 629,1531 687,1530 745,1529 804,1529 862,1528 920,1527 978,1527 1037,1526 1095,1526 1153,1527 1211,1528 1270,1529"/>
+                <TextEquiv>
+                    <Unicode>nachgewieſen, indem Ignatius *) gegen das A. T. (ἀρχαῖα!?) kämpft,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="113,1570 171,1576 229,1579 287,1583 345,1586 403,1587 461,1589 519,1589 577,1590 635,1590 694,1589 752,1589 810,1588 868,1587 926,1586 984,1586 1042,1585 1100,1585 1158,1586 1216,1587 1275,1588 1275,1554 1216,1553 1158,1552 1100,1551 1042,1551 984,1552 926,1552 868,1553 810,1554 752,1555 694,1555 635,1556 577,1556 519,1555 461,1555 403,1553 345,1552 287,1549 229,1545 171,1542 113,1536"/>
+                <Baseline points="113,1559 171,1565 229,1568 287,1572 345,1575 403,1576 461,1578 519,1578 577,1579 635,1579 694,1578 752,1578 810,1577 868,1576 926,1575 984,1575 1042,1574 1100,1574 1158,1575 1216,1576 1275,1577"/>
+                <TextEquiv>
+                    <Unicode>ohne ihm neue Schriften entgegenzuſtellen, Polycarp wenig Unterſchied</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="107,1618 165,1624 224,1628 282,1631 341,1634 399,1636 458,1637 516,1638 575,1638 633,1638 692,1638 750,1637 809,1636 867,1635 926,1635 984,1634 1043,1634 1101,1634 1160,1635 1218,1636 1277,1638 1277,1604 1218,1602 1160,1601 1101,1600 1043,1600 984,1600 926,1601 867,1601 809,1602 750,1603 692,1604 633,1604 575,1604 516,1604 458,1603 399,1602 341,1600 282,1597 224,1594 165,1590 107,1584"/>
+                <Baseline points="107,1607 165,1613 224,1617 282,1620 341,1623 399,1625 458,1626 516,1627 575,1627 633,1627 692,1627 750,1626 809,1625 867,1624 926,1624 984,1623 1043,1623 1101,1623 1160,1624 1218,1625 1277,1627"/>
+                <TextEquiv>
+                    <Unicode>zwiſchen Paulus und Ignatius macht (wobei der Verf. gegen einen Aus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="105,1665 163,1671 221,1675 280,1678 338,1681 397,1683 455,1685 513,1686 572,1686 630,1686 689,1686 747,1686 805,1685 864,1685 922,1684 981,1684 1039,1684 1097,1684 1156,1685 1214,1686 1273,1688 1273,1654 1214,1652 1156,1651 1097,1650 1039,1650 981,1650 922,1650 864,1651 805,1651 747,1652 689,1652 630,1652 572,1652 513,1652 455,1651 397,1649 338,1647 280,1644 221,1641 163,1637 105,1631"/>
+                <Baseline points="105,1654 163,1660 221,1664 280,1667 338,1670 397,1672 455,1674 513,1675 572,1675 630,1675 689,1675 747,1675 805,1674 864,1674 922,1673 981,1673 1039,1673 1097,1673 1156,1674 1214,1675 1273,1677"/>
+                <TextEquiv>
+                    <Unicode>druck scripturis dictum est von Paulus kämpft), Papias keinen Unter⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="103,1712 161,1719 219,1724 278,1728 336,1731 395,1734 453,1735 511,1736 570,1736 628,1736 687,1735 745,1735 803,1734 862,1733 920,1733 979,1733 1037,1733 1095,1734 1154,1735 1212,1737 1271,1741 1271,1707 1212,1703 1154,1701 1095,1700 1037,1699 979,1699 920,1699 862,1699 803,1700 745,1701 687,1701 628,1702 570,1702 511,1702 453,1701 395,1700 336,1697 278,1694 219,1690 161,1685 103,1678"/>
+                <Baseline points="103,1701 161,1708 219,1713 278,1717 336,1720 395,1723 453,1724 511,1725 570,1725 628,1725 687,1724 745,1724 803,1723 862,1722 920,1722 979,1722 1037,1722 1095,1723 1154,1724 1212,1726 1271,1730"/>
+                <TextEquiv>
+                    <Unicode>ſchied unter den Schülern Jeſu zuläßt, bei denen er Reden ſammelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="109,1759 167,1767 225,1772 283,1777 341,1781 399,1783 457,1785 515,1785 573,1786 631,1785 690,1785 748,1784 806,1783 864,1782 922,1781 980,1781 1038,1781 1096,1782 1154,1783 1212,1785 1271,1788 1271,1754 1212,1751 1154,1749 1096,1748 1038,1747 980,1747 922,1747 864,1748 806,1749 748,1750 690,1751 631,1751 573,1752 515,1751 457,1751 399,1749 341,1747 283,1743 225,1738 167,1733 109,1725"/>
+                <Baseline points="109,1748 167,1756 225,1761 283,1766 341,1770 399,1772 457,1774 515,1774 573,1775 631,1774 690,1774 748,1773 806,1772 864,1771 922,1770 980,1770 1038,1770 1096,1771 1154,1772 1212,1774 1271,1777"/>
+                <TextEquiv>
+                    <Unicode>Auch die Polemik eines Celſus kennt noch keinen Unterſchied zwiſchen in⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="115,1808 173,1815 231,1821 289,1825 347,1829 405,1832 463,1833 521,1834 579,1834 637,1834 695,1833 753,1832 811,1831 869,1830 927,1829 985,1829 1043,1829 1101,1830 1159,1831 1217,1834 1275,1837 1275,1806 1217,1803 1159,1800 1101,1799 1043,1798 985,1798 927,1798 869,1799 811,1800 753,1801 695,1802 637,1803 579,1803 521,1803 463,1802 405,1801 347,1798 289,1794 231,1790 173,1784 115,1777"/>
+                <Baseline points="115,1798 173,1805 231,1811 289,1815 347,1819 405,1822 463,1823 521,1824 579,1824 637,1824 695,1823 753,1822 811,1821 869,1820 927,1819 985,1819 1043,1819 1101,1820 1159,1821 1217,1824 1275,1827"/>
+                <TextEquiv>
+                    <Unicode>ſpirirten und andern Schriften. Früher war die mündliche Ueberlieferung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="105,1850 163,1859 221,1866 279,1872 337,1877 396,1880 454,1882 512,1883 570,1883 628,1883 687,1883 745,1881 803,1880 861,1879 919,1878 978,1878 1036,1877 1094,1878 1152,1879 1210,1882 1269,1885 1269,1854 1210,1851 1152,1848 1094,1847 1036,1846 978,1847 919,1847 861,1848 803,1849 745,1850 687,1852 628,1852 570,1852 512,1852 454,1851 396,1849 337,1846 279,1841 221,1835 163,1828 105,1819"/>
+                <Baseline points="105,1840 163,1849 221,1856 279,1862 337,1867 396,1870 454,1872 512,1873 570,1873 628,1873 687,1873 745,1871 803,1870 861,1869 919,1868 978,1868 1036,1867 1094,1868 1152,1869 1210,1872 1269,1875"/>
+                <TextEquiv>
+                    <Unicode>die einzige Quelle, und nur die altteſtamentlichen Schriften wurden zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="111,1896 169,1906 227,1915 286,1922 344,1926 403,1931 461,1933 519,1934 578,1935 636,1935 695,1934 753,1933 811,1932 870,1930 928,1929 987,1928 1045,1928 1103,1928 1162,1929 1220,1931 1279,1934 1279,1901 1220,1898 1162,1896 1103,1895 1045,1895 987,1895 928,1896 870,1897 811,1899 753,1900 695,1901 636,1902 578,1902 519,1901 461,1900 403,1898 344,1893 286,1889 227,1882 169,1873 111,1863"/>
+                <Baseline points="111,1885 169,1895 227,1904 286,1911 344,1915 403,1920 461,1922 519,1923 578,1924 636,1924 695,1923 753,1922 811,1921 870,1919 928,1918 987,1917 1045,1917 1103,1917 1162,1918 1220,1920 1279,1923"/>
+                <TextEquiv>
+                    <Unicode>Beſtätigung beigezogen. Jetzt regte ſich das Bedürfniß einer fixirteren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="110,1945 168,1955 226,1962 285,1969 343,1974 401,1978 460,1980 518,1982 576,1983 635,1983 693,1982 751,1981 810,1980 868,1979 926,1978 985,1977 1043,1976 1101,1976 1160,1977 1218,1978 1277,1981 1277,1948 1218,1945 1160,1944 1101,1943 1043,1943 985,1944 926,1945 868,1946 810,1947 751,1948 693,1949 635,1950 576,1950 518,1949 460,1947 401,1945 343,1941 285,1936 226,1929 168,1922 110,1912"/>
+                <Baseline points="110,1934 168,1944 226,1951 285,1958 343,1963 401,1967 460,1969 518,1971 576,1972 635,1972 693,1971 751,1970 810,1969 868,1968 926,1967 985,1966 1043,1965 1101,1965 1160,1966 1218,1967 1277,1970"/>
+                <TextEquiv>
+                    <Unicode>Tradition, einer ſchriftlichen; aber letztere beſtand nicht allein in unſern ka⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614778463530_55" custom="readingOrder {index:35;}">
+                <Coords points="108,1957 1277,1993 1277,2026 1250,2027 949,2033 482,2031 440,2030 399,2029 357,2027 316,2024 274,2020 232,2015 191,2008 149,2000 108,1990"/>
+                <Baseline points="108,1979 149,1989 191,1997 232,2004 274,2009 316,2013 357,2016 399,2018 440,2019 482,2020 524,2020 565,2019 607,2019 648,2018 690,2017 732,2016 773,2016 815,2016 856,2016 898,2018 940,2020 949,2021 981,2017 1014,2017 1034,2018 1061,2017 1088,2017 1115,2017 1142,2017 1169,2017 1196,2016 1223,2016 1250,2016 1277,2015"/>
+                <TextEquiv>
+                    <Unicode>noniſchen Evangelien, ſondern auch in apokryphiſchen. — Schon die Ent⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:36;}">
+                <Coords points="175,2126 230,2131 285,2135 340,2139 395,2141 450,2143 505,2144 560,2145 615,2145 670,2145 725,2144 780,2144 835,2143 890,2143 945,2142 1000,2142 1055,2142 1110,2143 1165,2144 1220,2146 1276,2149 1276,2118 1220,2115 1165,2113 1110,2112 1055,2111 1000,2111 945,2111 890,2112 835,2112 780,2113 725,2113 670,2114 615,2114 560,2114 505,2113 450,2112 395,2110 340,2108 285,2104 230,2100 175,2095"/>
+                <Baseline points="175,2116 230,2121 285,2125 340,2129 395,2131 450,2133 505,2134 560,2135 615,2135 670,2135 725,2134 780,2134 835,2133 890,2133 945,2132 1000,2132 1055,2132 1110,2133 1165,2134 1220,2136 1276,2139"/>
+                <TextEquiv>
+                    <Unicode>*) Unbegreiflich iſt, wie der Verf. in dem ἱουδαισμός, vor welchem Ig⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:37;}">
+                <Coords points="107,2161 165,2168 224,2174 282,2179 341,2183 400,2186 458,2188 517,2190 576,2191 634,2191 693,2191 752,2191 810,2190 869,2190 928,2189 986,2189 1045,2189 1104,2189 1162,2190 1221,2191 1280,2193 1280,2163 1221,2161 1162,2160 1104,2159 1045,2159 986,2159 928,2159 869,2160 810,2160 752,2161 693,2161 634,2161 576,2161 517,2160 458,2158 400,2156 341,2153 282,2149 224,2144 165,2138 107,2131"/>
+                <Baseline points="107,2151 165,2158 224,2164 282,2169 341,2173 400,2176 458,2178 517,2180 576,2181 634,2181 693,2181 752,2181 810,2180 869,2180 928,2179 986,2179 1045,2179 1104,2179 1162,2180 1221,2181 1280,2183"/>
+                <TextEquiv>
+                    <Unicode>natius warnt, den Gebrauch des A. T. gemeint glauben kann! Wie hoch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:38;}">
+                <Coords points="108,2203 135,2208 163,2212 191,2216 219,2219 247,2221 275,2225 303,2227 331,2228 359,2230 387,2230 414,2231 442,2232 470,2232 498,2232 526,2232 554,2232 582,2231 610,2231 638,2230 666,2229 666,2199 638,2200 610,2201 582,2201 554,2202 526,2202 498,2202 470,2202 442,2202 414,2201 387,2200 359,2200 331,2198 303,2197 275,2195 247,2191 219,2189 191,2186 163,2182 135,2178 108,2173"/>
+                <Baseline points="108,2193 135,2198 163,2202 191,2206 219,2209 247,2211 275,2215 303,2217 331,2218 359,2220 387,2220 414,2221 442,2222 470,2222 498,2222 526,2222 554,2222 582,2221 610,2221 638,2220 666,2219"/>
+                <TextEquiv>
+                    <Unicode>stellt Ignatius immer die Propheten!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:39;}">
+                <Coords points="126,2251 151,2255 177,2259 203,2262 229,2265 254,2266 280,2269 306,2270 332,2271 358,2272 358,2242 332,2241 306,2240 280,2239 254,2236 229,2235 203,2232 177,2229 151,2225 126,2221"/>
+                <Baseline points="126,2241 151,2245 177,2249 203,2252 229,2255 254,2256 280,2259 306,2260 332,2261 358,2262"/>
+                <TextEquiv>
+                    <Unicode>II. Bd. 1833.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:40;}">
+                <Coords points="1020,2282 1058,2282 1058,2245 1020,2245"/>
+                <Baseline points="1020,2270 1058,2270"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Allgemeines Repertorium
+fuͤr
+die theologiſche Literatur und kirchliche Statiſtik.
+№ 2.
+Exegetische Theologie.
+Beiträge zur Einleitung in die bibliſchen Schriften. Von Dr.
+Karl Auguſt Credner, Prof. der Theol. zu Gieſſen. Erſter Band. Die
+Evang. der Petriner oder Judenchriſten. S. 533. X. Halle, Waiſenhaus
+1832. gr. 8. 2¼ rtl.
+Dieſer erſte Band verſpricht zunächſt noch zwei Nachfolger, mit welchen
+er eine Einleitung in die 4 Evangelien vollenden will, welche die gegen⸗
+wärtige Lieferung in ſofern anbahnt, als ſie den Stoff für die Unterſu⸗
+chung genetiſcher Verhältniſſe ſo vollſtändig als möglich darlegt, womit der
+zweite Band, Unterſuchungen über den Zuſtand der griechiſchen Ueberſetzung
+des A. T. am Ende des erſten und Anfang des zweiten Jahrhunderts
+enthaltend, fortfahren wird, während der dritte die eigentliche Einleitung
+geben ſoll. Abſchnitt I. Anſehen und Gebrauch der neuteſtamentlichen
+Schriften in den beiden erſten Jahrhunderten S. 1 — 91. Nach einer
+weniger tiefen als rhetoriſchen Entwicklung des Begriffs von Offenbarung
+und Inſpiration werden die bibliſchen Stellen geprüft, und wird gezeigt, daß
+nicht die Apoſtel allein, ſondern alle Chriſten im Beſitz des göttlichen Gei⸗
+ſtes dargeſtellt werden, womit man übrigens immer unbeſtimmte, ſchwan⸗
+kende Begriffe verbunden habe. Auch die apoſtoliſchen Väter ſchreiben ſich
+den Geiſt zu, daraus zu ſchließen, daß ſie noch keine apoſtoliſchen Schrif⸗
+ten als inſpirirt beſonders auszeichneten; dieß wird ſofort noch beſonders
+nachgewieſen, indem Ignatius *) gegen das A. T. (ἀρχαῖα!?) kämpft,
+ohne ihm neue Schriften entgegenzuſtellen, Polycarp wenig Unterſchied
+zwiſchen Paulus und Ignatius macht (wobei der Verf. gegen einen Aus⸗
+druck scripturis dictum est von Paulus kämpft), Papias keinen Unter⸗
+ſchied unter den Schülern Jeſu zuläßt, bei denen er Reden ſammelt.
+Auch die Polemik eines Celſus kennt noch keinen Unterſchied zwiſchen in⸗
+ſpirirten und andern Schriften. Früher war die mündliche Ueberlieferung
+die einzige Quelle, und nur die altteſtamentlichen Schriften wurden zur
+Beſtätigung beigezogen. Jetzt regte ſich das Bedürfniß einer fixirteren
+Tradition, einer ſchriftlichen; aber letztere beſtand nicht allein in unſern ka⸗
+noniſchen Evangelien, ſondern auch in apokryphiſchen. — Schon die Ent⸗
+*) Unbegreiflich iſt, wie der Verf. in dem ἱουδαισμός, vor welchem Ig⸗
+natius warnt, den Gebrauch des A. T. gemeint glauben kann! Wie hoch
+stellt Ignatius immer die Propheten!
+II. Bd. 1833.
+2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

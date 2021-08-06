@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:11.054+01:00</Created>
+        <LastChange>2021-05-11T13:53:34.542+02:00</LastChange>
+        <TranskribusMetadata docId="543222" pageId="22808914" pageNr="5" tsid="57733709" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=DLHKDBBCKJMYFXALCFMPITVE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DFGVWGPJEEBCBBZXSNPEJOIP" imageId="17784592"/>
+    </Metadata>
+    <Page imageFilename="drey1834_0051.tif" imageWidth="1354" imageHeight="2331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327941565" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="23,73 23,2008 1100,2008 1100,73"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="446,118 471,118 497,118 523,120 548,121 574,122 714,122 713,80 574,77 548,76 523,75 497,73 471,73 446,73"/>
+                <Baseline points="446,103 471,103 497,103 523,105 548,106 574,107 635,110"/>
+                <TextEquiv>
+                    <Unicode>— 51 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="53,214 105,216 157,217 210,218 262,218 314,218 367,219 419,219 471,219 524,219 576,218 628,218 681,218 733,219 785,219 838,219 890,220 942,221 995,222 1047,224 1100,226 1100,181 1047,179 995,177 942,176 890,175 838,174 785,174 733,174 681,173 628,173 576,173 524,174 471,174 419,174 367,174 314,173 262,173 210,173 157,172 105,171 53,169"/>
+                <Baseline points="53,199 105,201 157,202 210,203 262,203 314,203 367,204 419,204 471,204 524,204 576,203 628,203 681,203 733,204 785,204 838,204 890,205 942,206 995,207 1047,209 1100,211"/>
+                <TextEquiv>
+                    <Unicode>te; hier, ſagt er, wuͤrde allerdings eine Vereinigung der Bi⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="49,277 101,279 154,280 206,281 259,282 311,282 364,283 416,283 469,282 521,282 574,282 626,282 679,282 731,282 784,282 836,283 889,283 941,284 994,286 1046,288 1099,290 1099,245 1046,243 994,241 941,239 889,238 836,238 784,237 731,237 679,237 626,237 574,237 521,237 469,237 416,238 364,238 311,237 259,237 206,236 154,235 101,234 49,232"/>
+                <Baseline points="49,262 101,264 154,265 206,266 259,267 311,267 364,268 416,268 469,267 521,267 574,267 626,267 679,267 731,267 784,267 836,268 889,268 941,269 994,271 1046,273 1099,275"/>
+                <TextEquiv>
+                    <Unicode>ſchoͤfe auch noch jetzt der verfaſſungsmaͤßige Weg ſeyn, ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="43,340 95,341 148,343 200,344 253,344 305,345 358,345 410,345 463,345 515,345 568,345 620,345 673,345 725,345 778,345 830,345 883,345 935,346 988,347 1040,348 1093,350 1093,305 1040,303 988,302 935,301 883,300 830,300 778,300 725,300 673,300 620,300 568,300 515,300 463,300 410,300 358,300 305,300 253,299 200,299 148,298 95,296 43,295"/>
+                <Baseline points="43,325 95,326 148,328 200,329 253,329 305,330 358,330 410,330 463,330 515,330 568,330 620,330 673,330 725,330 778,330 830,330 883,330 935,331 988,332 1040,333 1093,335"/>
+                <TextEquiv>
+                    <Unicode>Rechte feſtzuſtellen und zu vertheidigen. S. 12. Ob uͤbrigens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="45,402 97,404 149,405 201,406 253,407 306,407 358,407 410,407 462,407 514,407 567,407 619,407 671,406 723,406 775,406 828,406 880,407 932,407 984,408 1036,410 1089,411 1089,366 1036,365 984,363 932,362 880,362 828,361 775,361 723,361 671,361 619,362 567,362 514,362 462,362 410,362 358,362 306,362 253,362 201,361 149,360 97,359 45,357"/>
+                <Baseline points="45,387 97,389 149,390 201,391 253,392 306,392 358,392 410,392 462,392 514,392 567,392 619,392 671,391 723,391 775,391 828,391 880,392 932,392 984,393 1036,395 1089,396"/>
+                <TextEquiv>
+                    <Unicode>der Verfaſſer dieſen Fall irgendwo fuͤr wahrſcheinlich oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="41,464 93,465 145,466 197,467 250,468 302,469 354,469 407,469 459,469 511,469 564,468 616,468 668,468 720,468 773,468 825,468 877,468 930,469 982,469 1034,471 1087,472 1087,430 1034,429 982,427 930,427 877,426 825,426 773,426 720,426 668,426 616,426 564,426 511,427 459,427 407,427 354,427 302,427 250,426 197,425 145,424 93,423 41,422"/>
+                <Baseline points="41,450 93,451 145,452 197,453 250,454 302,455 354,455 407,455 459,455 511,455 564,454 616,454 668,454 720,454 773,454 825,454 877,454 930,455 982,455 1034,457 1087,458"/>
+                <TextEquiv>
+                    <Unicode>nahe halte, daruͤber findet ſich bei ihm keine Andeutung, ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="46,525 98,527 150,528 202,529 254,530 306,531 358,531 411,532 463,532 515,532 567,532 619,532 671,531 723,531 776,531 828,531 880,530 932,530 984,530 1036,530 1089,530 1089,488 1036,488 984,488 932,488 880,488 828,489 776,489 723,489 671,489 619,490 567,490 515,490 463,490 411,490 358,489 306,489 254,488 202,487 150,486 98,485 46,483"/>
+                <Baseline points="46,511 98,513 150,514 202,515 254,516 306,517 358,517 411,518 463,518 515,518 567,518 619,518 671,517 723,517 776,517 828,517 880,516 932,516 984,516 1036,516 1089,516"/>
+                <TextEquiv>
+                    <Unicode>meinerſeits bekenne, daß ich weder das Eine noch das Andere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="47,591 75,590 104,591 132,592 161,593 161,548 132,547 104,546 75,545 47,546"/>
+                <Baseline points="47,576 75,575 104,576 132,577 180,579"/>
+                <TextEquiv>
+                    <Unicode>glaube.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="130,691 177,691 225,691 273,691 321,691 368,692 416,693 464,693 512,694 559,695 607,696 655,696 703,697 750,697 798,697 846,696 894,696 941,695 989,693 1037,691 1085,689 1085,644 1037,646 989,648 941,650 894,651 846,651 798,652 750,652 703,652 655,651 607,651 559,650 512,649 464,648 416,648 368,647 321,646 273,646 225,646 177,646 130,646"/>
+                <Baseline points="130,676 177,676 225,676 273,676 321,676 368,677 416,678 464,678 512,679 559,680 607,681 655,681 703,682 750,682 798,682 846,681 894,681 941,680 989,678 1037,676 1085,674"/>
+                <TextEquiv>
+                    <Unicode>16) Setzen wir aber auch den Fall, eine Staatsregie⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="45,751 97,751 149,751 201,751 253,752 305,753 357,753 409,754 461,755 513,755 566,756 618,757 670,757 722,758 774,758 826,758 878,758 930,758 982,757 1034,756 1087,755 1087,710 1034,711 982,712 930,713 878,713 826,713 774,713 722,713 670,712 618,712 566,711 513,710 461,710 409,709 357,708 305,708 253,707 201,706 149,706 97,706 45,706"/>
+                <Baseline points="45,736 97,736 149,736 201,736 253,737 305,738 357,738 409,739 461,740 513,740 566,741 618,742 670,742 722,743 774,743 826,743 878,743 930,743 982,742 1034,741 1087,740"/>
+                <TextEquiv>
+                    <Unicode>rung verkenne den großen Vortheil, den ihr die neuere Diſci⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="43,816 95,815 147,814 199,813 251,813 303,813 355,813 408,813 460,814 512,814 564,815 616,816 668,817 720,817 773,818 825,818 877,819 929,819 981,819 1033,819 1086,819 1086,776 1033,776 981,776 929,776 877,776 825,775 773,775 720,774 668,774 616,773 564,772 512,771 460,771 408,770 355,770 303,770 251,770 199,770 147,771 95,772 43,773"/>
+                <Baseline points="43,802 95,801 147,800 199,799 251,799 303,799 355,799 408,799 460,800 512,800 564,801 616,802 668,803 720,803 773,804 825,804 877,805 929,805 981,805 1033,805 1086,805"/>
+                <TextEquiv>
+                    <Unicode>plin der Kirche darbietet, daß ſie uͤber neu einzufuͤhrende An⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="41,874 93,875 145,875 198,875 250,875 303,876 355,876 407,876 460,876 512,876 565,877 617,877 669,877 722,877 774,877 827,878 879,878 931,878 984,879 1036,879 1089,879 1089,836 1036,836 984,836 931,835 879,835 827,835 774,834 722,834 669,834 617,834 565,834 512,833 460,833 407,833 355,833 303,833 250,832 198,832 145,832 93,832 41,831"/>
+                <Baseline points="41,860 93,861 145,861 198,861 250,861 303,862 355,862 407,862 460,862 512,862 565,863 617,863 669,863 722,863 774,863 827,864 879,864 931,864 984,865 1036,865 1089,865"/>
+                <TextEquiv>
+                    <Unicode>ordnungen nicht noͤthig hat, mit einer großen Verſammlung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="42,938 94,939 146,940 198,940 250,940 302,941 354,941 407,941 459,941 511,940 563,940 615,940 667,940 719,940 772,940 824,940 876,940 928,940 980,940 1032,941 1085,941 1085,896 1032,896 980,895 928,895 876,895 824,895 772,895 719,895 667,895 615,895 563,895 511,895 459,896 407,896 354,896 302,896 250,895 198,895 146,895 94,894 42,893"/>
+                <Baseline points="42,923 94,924 146,925 198,925 250,925 302,926 354,926 407,926 459,926 511,925 563,925 615,925 667,925 719,925 772,925 824,925 876,925 928,925 980,925 1032,926 1085,926"/>
+                <TextEquiv>
+                    <Unicode>zu unterhandeln, und den Widerſpruch vieler oder doch man⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="38,998 90,999 142,1000 194,1001 247,1001 299,1002 351,1003 404,1003 456,1004 508,1004 561,1004 613,1005 665,1005 717,1005 770,1005 822,1005 874,1005 927,1005 979,1005 1031,1004 1084,1004 1084,959 1031,959 979,960 927,960 874,960 822,960 770,960 717,960 665,960 613,960 561,959 508,959 456,959 404,958 351,958 299,957 247,956 194,956 142,955 90,954 38,953"/>
+                <Baseline points="38,983 90,984 142,985 194,986 247,986 299,987 351,988 404,988 456,989 508,989 561,989 613,990 665,990 717,990 770,990 822,990 874,990 927,990 979,990 1031,989 1084,989"/>
+                <TextEquiv>
+                    <Unicode>cher Unabhaͤngiger in derſelben zu bekaͤmpfen, ſondern es nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="46,1060 98,1061 150,1063 202,1063 254,1064 306,1065 358,1066 410,1066 462,1067 514,1067 566,1067 618,1068 670,1068 722,1068 774,1068 826,1068 878,1068 930,1068 982,1068 1034,1068 1086,1068 1086,1023 1034,1023 982,1023 930,1023 878,1023 826,1023 774,1023 722,1023 670,1023 618,1023 566,1022 514,1022 462,1022 410,1021 358,1021 306,1020 254,1019 202,1018 150,1018 98,1016 46,1015"/>
+                <Baseline points="46,1045 98,1046 150,1048 202,1048 254,1049 306,1050 358,1051 410,1051 462,1052 514,1052 566,1052 618,1053 670,1053 722,1053 774,1053 826,1053 878,1053 930,1053 982,1053 1034,1053 1086,1053"/>
+                <TextEquiv>
+                    <Unicode>mit wenigen aus Abhaͤngigkeit fügſamen, der biſchoͤflichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="35,1124 87,1125 140,1126 193,1127 246,1128 299,1128 352,1129 405,1129 458,1130 511,1130 564,1130 616,1130 669,1131 722,1131 775,1131 828,1131 881,1131 934,1131 987,1131 1040,1131 1093,1131 1093,1086 1040,1086 987,1086 934,1086 881,1086 828,1086 775,1086 722,1086 669,1086 616,1085 564,1085 511,1085 458,1085 405,1084 352,1084 299,1083 246,1083 193,1082 140,1081 87,1080 35,1079"/>
+                <Baseline points="35,1109 87,1110 140,1111 193,1112 246,1113 299,1113 352,1114 405,1114 458,1115 511,1115 564,1115 616,1115 669,1116 722,1116 775,1116 828,1116 881,1116 934,1116 987,1116 1040,1116 1093,1116"/>
+                <TextEquiv>
+                    <Unicode>Curie zu thun hat, — (denn das iſt es doch, was Eichhorn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="46,1183 97,1185 149,1186 201,1187 253,1188 304,1189 356,1189 408,1189 460,1190 511,1190 563,1190 615,1190 667,1190 718,1190 770,1190 822,1190 874,1190 925,1190 977,1191 1029,1192 1081,1192 1081,1150 1029,1150 977,1149 925,1148 874,1148 822,1148 770,1148 718,1148 667,1148 615,1148 563,1148 511,1148 460,1148 408,1147 356,1147 304,1147 253,1146 201,1145 149,1144 97,1143 46,1141"/>
+                <Baseline points="46,1169 97,1171 149,1172 201,1173 253,1174 304,1175 356,1175 408,1175 460,1176 511,1176 563,1176 615,1176 667,1176 718,1176 770,1176 822,1176 874,1176 925,1176 977,1177 1029,1178 1081,1178"/>
+                <TextEquiv>
+                    <Unicode>das Einfachſte, Angemeſſenſte und Paſſendſte für den Staat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="44,1245 96,1246 148,1247 200,1248 252,1249 304,1249 356,1249 408,1250 460,1250 512,1250 564,1249 616,1249 668,1249 720,1249 772,1249 824,1249 876,1249 928,1249 980,1249 1032,1250 1084,1250 1084,1208 1032,1208 980,1207 928,1207 876,1207 824,1207 772,1207 720,1207 668,1207 616,1207 564,1207 512,1208 460,1208 408,1208 356,1207 304,1207 252,1207 200,1206 148,1205 96,1204 44,1203"/>
+                <Baseline points="44,1231 96,1232 148,1233 200,1234 252,1235 304,1235 356,1235 408,1236 460,1236 512,1236 564,1235 616,1235 668,1235 720,1235 772,1235 824,1235 876,1235 928,1235 980,1235 1032,1236 1084,1236"/>
+                <TextEquiv>
+                    <Unicode>nennt) ſetzen wir alſo, daß eine Staatsregierung dieſen Vor⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="44,1309 95,1310 147,1310 199,1310 250,1311 302,1311 354,1311 405,1311 457,1311 509,1311 561,1311 612,1311 664,1311 716,1311 767,1312 819,1312 871,1312 922,1312 974,1313 1026,1313 1078,1314 1078,1269 1026,1268 974,1268 922,1267 871,1267 819,1267 767,1267 716,1266 664,1266 612,1266 561,1266 509,1266 457,1266 405,1266 354,1266 302,1266 250,1266 199,1265 147,1265 95,1265 44,1264"/>
+                <Baseline points="44,1294 95,1295 147,1295 199,1295 250,1296 302,1296 354,1296 405,1296 457,1296 509,1296 561,1296 612,1296 664,1296 716,1296 767,1297 819,1297 871,1297 922,1297 974,1298 1026,1298 1078,1299"/>
+                <TextEquiv>
+                    <Unicode>theil verkenne, oder daß ſie dem Scheine des Liberalismus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="44,1374 95,1375 147,1375 199,1375 251,1375 303,1375 354,1375 406,1375 458,1375 510,1375 562,1375 613,1375 665,1375 717,1375 769,1375 821,1376 872,1376 924,1377 976,1377 1028,1378 1080,1380 1080,1335 1028,1333 976,1332 924,1332 872,1331 821,1331 769,1330 717,1330 665,1330 613,1330 562,1330 510,1330 458,1330 406,1330 354,1330 303,1330 251,1330 199,1330 147,1330 95,1330 44,1329"/>
+                <Baseline points="44,1359 95,1360 147,1360 199,1360 251,1360 303,1360 354,1360 406,1360 458,1360 510,1360 562,1360 613,1360 665,1360 717,1360 769,1360 821,1361 872,1361 924,1362 976,1362 1028,1363 1080,1365"/>
+                <TextEquiv>
+                    <Unicode>zulieb einmal darauf verzichte, oder aus andern Gruͤnden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="38,1440 89,1440 141,1439 193,1439 245,1439 296,1439 348,1439 400,1439 452,1439 503,1439 555,1439 607,1439 659,1439 710,1439 762,1439 814,1439 866,1439 917,1440 969,1440 1021,1440 1073,1440 1073,1397 1021,1397 969,1397 917,1397 866,1396 814,1396 762,1396 710,1396 659,1396 607,1396 555,1396 503,1396 452,1396 400,1396 348,1396 296,1396 245,1396 193,1396 141,1396 89,1397 38,1397"/>
+                <Baseline points="38,1426 89,1426 141,1425 193,1425 245,1425 296,1425 348,1425 400,1425 452,1425 503,1425 555,1425 607,1425 659,1425 710,1425 762,1425 814,1425 866,1425 917,1426 969,1426 1021,1426 1073,1426"/>
+                <TextEquiv>
+                    <Unicode>z.B. wegen der Landesverfaſſung eine Synode geſtatten muͤſ⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="39,1499 91,1499 143,1500 195,1500 247,1500 299,1501 351,1501 404,1501 456,1501 508,1501 560,1501 612,1502 664,1502 716,1502 769,1502 821,1502 873,1502 925,1502 977,1502 1029,1502 1082,1502 1082,1459 1029,1459 977,1459 925,1459 873,1459 821,1459 769,1459 716,1459 664,1459 612,1459 560,1458 508,1458 456,1458 404,1458 351,1458 299,1458 247,1457 195,1457 143,1457 91,1456 39,1456"/>
+                <Baseline points="39,1485 91,1485 143,1486 195,1486 247,1486 299,1487 351,1487 404,1487 456,1487 508,1487 560,1487 612,1488 664,1488 716,1488 769,1488 821,1488 873,1488 925,1488 977,1488 1029,1488 1082,1488"/>
+                <TextEquiv>
+                    <Unicode>ſe; kann ſie nicht alle Verhandlungen und Beſchluͤſſe derſelben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="42,1557 93,1559 145,1560 196,1561 248,1562 300,1562 351,1563 403,1563 455,1562 506,1562 558,1562 610,1562 661,1561 713,1561 765,1561 816,1562 868,1562 920,1563 971,1564 1023,1565 1075,1567 1075,1525 1023,1523 971,1522 920,1521 868,1520 816,1520 765,1519 713,1519 661,1519 610,1520 558,1520 506,1520 455,1520 403,1521 351,1521 300,1520 248,1520 196,1519 145,1518 93,1517 42,1515"/>
+                <Baseline points="42,1543 93,1545 145,1546 196,1547 248,1548 300,1548 351,1549 403,1549 455,1548 506,1548 558,1548 610,1548 661,1547 713,1547 765,1547 816,1548 868,1548 920,1549 971,1550 1023,1551 1075,1553"/>
+                <TextEquiv>
+                    <Unicode>entkraͤften durch das dritte, von ihr angeſprochene, und von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="34,1622 86,1623 138,1624 190,1624 243,1625 295,1625 347,1625 399,1625 452,1625 504,1625 556,1625 608,1625 661,1625 713,1625 765,1626 817,1626 870,1626 922,1627 974,1628 1026,1629 1079,1631 1079,1586 1026,1584 974,1583 922,1582 870,1581 817,1581 765,1581 713,1580 661,1580 608,1580 556,1580 504,1580 452,1580 399,1580 347,1580 295,1580 243,1580 190,1579 138,1579 86,1578 34,1577"/>
+                <Baseline points="34,1607 86,1608 138,1609 190,1609 243,1610 295,1610 347,1610 399,1610 452,1610 504,1610 556,1610 608,1610 661,1610 713,1610 765,1611 817,1611 870,1611 922,1612 974,1613 1026,1614 1079,1616"/>
+                <TextEquiv>
+                    <Unicode>allen neuern, ſelbſt kirchlich geſinnten Rechtslehrern ihr zuge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="35,1685 87,1685 139,1686 191,1686 243,1686 295,1686 347,1686 399,1687 451,1687 503,1687 556,1687 608,1687 660,1688 712,1688 764,1689 816,1689 868,1690 920,1691 972,1691 1024,1692 1077,1693 1077,1648 1024,1647 972,1646 920,1646 868,1645 816,1644 764,1644 712,1643 660,1643 608,1642 556,1642 503,1642 451,1642 399,1642 347,1641 295,1641 243,1641 191,1641 139,1641 87,1640 35,1640"/>
+                <Baseline points="35,1670 87,1670 139,1671 191,1671 243,1671 295,1671 347,1671 399,1672 451,1672 503,1672 556,1672 608,1672 660,1673 712,1673 764,1674 816,1674 868,1675 920,1676 972,1676 1024,1677 1077,1678"/>
+                <TextEquiv>
+                    <Unicode>ſtandene Recht der Genehmigung, ohne welche die Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="37,1748 89,1748 141,1747 193,1747 245,1747 297,1747 349,1747 401,1748 453,1748 505,1748 557,1748 609,1749 661,1749 713,1750 765,1750 817,1751 869,1752 921,1752 973,1753 1025,1754 1078,1754 1078,1711 1025,1711 973,1710 921,1709 869,1709 817,1708 765,1707 713,1707 661,1706 609,1706 557,1705 505,1705 453,1705 401,1705 349,1704 297,1704 245,1704 193,1704 141,1704 89,1705 37,1705"/>
+                <Baseline points="37,1734 89,1734 141,1733 193,1733 245,1733 297,1733 349,1733 401,1734 453,1734 505,1734 557,1734 609,1735 661,1735 713,1736 765,1736 817,1737 869,1738 921,1738 973,1739 1025,1740 1078,1740"/>
+                <TextEquiv>
+                    <Unicode>ſchluͤſſe der Synoden weder in forma bekannt gemacht, noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="25,1809 77,1809 130,1809 182,1809 235,1809 288,1810 340,1810 393,1810 445,1811 498,1811 551,1812 603,1812 656,1812 708,1813 761,1813 814,1813 866,1813 919,1813 971,1813 1024,1813 1077,1813 1077,1770 1024,1770 971,1770 919,1770 866,1770 814,1770 761,1770 708,1770 656,1769 603,1769 551,1769 498,1768 445,1768 393,1767 340,1767 288,1767 235,1766 182,1766 130,1766 77,1766 25,1766"/>
+                <Baseline points="25,1795 77,1795 130,1795 182,1795 235,1795 288,1796 340,1796 393,1796 445,1797 498,1797 551,1798 603,1798 656,1798 708,1799 761,1799 814,1799 866,1799 919,1799 971,1799 1024,1799 1077,1799"/>
+                <TextEquiv>
+                    <Unicode>in Vollzug geſetzt werden koͤnnen? Man braucht nicht eben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="35,1874 87,1873 139,1873 191,1872 243,1872 295,1872 347,1872 399,1873 451,1873 503,1874 555,1874 607,1875 659,1875 711,1876 763,1876 815,1876 867,1877 919,1876 971,1876 1023,1876 1076,1875 1076,1830 1023,1831 971,1831 919,1831 867,1832 815,1831 763,1831 711,1831 659,1830 607,1830 555,1829 503,1829 451,1828 399,1828 347,1827 295,1827 243,1827 191,1827 139,1828 87,1828 35,1829"/>
+                <Baseline points="35,1859 87,1858 139,1858 191,1857 243,1857 295,1857 347,1857 399,1858 451,1858 503,1859 555,1859 607,1860 659,1860 711,1861 763,1861 815,1861 867,1862 919,1861 971,1861 1023,1861 1076,1860"/>
+                <TextEquiv>
+                    <Unicode>anzunehmen, daß eine Regierung ruͤckſichtlich der Verweige⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="23,1936 75,1936 128,1936 180,1936 233,1936 285,1936 338,1937 390,1937 443,1937 495,1938 548,1938 600,1938 653,1938 705,1939 758,1939 810,1938 863,1938 915,1938 968,1937 1020,1937 1073,1936 1073,1891 1020,1892 968,1892 915,1893 863,1893 810,1893 758,1894 705,1894 653,1893 600,1893 548,1893 495,1893 443,1892 390,1892 338,1892 285,1891 233,1891 180,1891 128,1891 75,1891 23,1891"/>
+                <Baseline points="23,1921 75,1921 128,1921 180,1921 233,1921 285,1921 338,1922 390,1922 443,1922 495,1923 548,1923 600,1923 653,1923 705,1924 758,1924 810,1923 863,1923 915,1923 968,1922 1020,1922 1073,1921"/>
+                <TextEquiv>
+                    <Unicode>rung dieſer Genehmigung Willkühr uͤben wolle; es koͤnnten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="802,2008 869,2007 869,1962 802,1963"/>
+                <Baseline points="802,1993 858,1993"/>
+                <TextEquiv>
+                    <Unicode>4*</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 51 —
+te; hier, ſagt er, wuͤrde allerdings eine Vereinigung der Bi⸗
+ſchoͤfe auch noch jetzt der verfaſſungsmaͤßige Weg ſeyn, ihre
+Rechte feſtzuſtellen und zu vertheidigen. S. 12. Ob uͤbrigens
+der Verfaſſer dieſen Fall irgendwo fuͤr wahrſcheinlich oder
+nahe halte, daruͤber findet ſich bei ihm keine Andeutung, ich
+meinerſeits bekenne, daß ich weder das Eine noch das Andere
+glaube.
+16) Setzen wir aber auch den Fall, eine Staatsregie⸗
+rung verkenne den großen Vortheil, den ihr die neuere Diſci⸗
+plin der Kirche darbietet, daß ſie uͤber neu einzufuͤhrende An⸗
+ordnungen nicht noͤthig hat, mit einer großen Verſammlung
+zu unterhandeln, und den Widerſpruch vieler oder doch man⸗
+cher Unabhaͤngiger in derſelben zu bekaͤmpfen, ſondern es nur
+mit wenigen aus Abhaͤngigkeit fügſamen, der biſchoͤflichen
+Curie zu thun hat, — (denn das iſt es doch, was Eichhorn
+das Einfachſte, Angemeſſenſte und Paſſendſte für den Staat
+nennt) ſetzen wir alſo, daß eine Staatsregierung dieſen Vor⸗
+theil verkenne, oder daß ſie dem Scheine des Liberalismus
+zulieb einmal darauf verzichte, oder aus andern Gruͤnden,
+z.B. wegen der Landesverfaſſung eine Synode geſtatten muͤſ⸗
+ſe; kann ſie nicht alle Verhandlungen und Beſchluͤſſe derſelben
+entkraͤften durch das dritte, von ihr angeſprochene, und von
+allen neuern, ſelbſt kirchlich geſinnten Rechtslehrern ihr zuge⸗
+ſtandene Recht der Genehmigung, ohne welche die Be⸗
+ſchluͤſſe der Synoden weder in forma bekannt gemacht, noch
+in Vollzug geſetzt werden koͤnnen? Man braucht nicht eben
+anzunehmen, daß eine Regierung ruͤckſichtlich der Verweige⸗
+rung dieſer Genehmigung Willkühr uͤben wolle; es koͤnnten
+4*</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

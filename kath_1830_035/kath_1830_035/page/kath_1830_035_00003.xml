@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:43.803+01:00</Created>
+        <LastChange>2021-05-17T13:08:13.840+02:00</LastChange>
+        <TranskribusMetadata docId="543224" pageId="22808934" pageNr="1" tsid="57968953" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=KQYUBNYBPLEAFGHBDXYSIHMD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YUFIWLSKPDMBHFLLFZZZFTWO" imageId="17784612"/>
+    </Metadata>
+    <Page imageFilename="kath_1830_035_00003.tif" imageWidth="1237" imageHeight="2153">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327810682" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="53,47 53,2021 1157,2021 1157,47"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="543,116 572,118 601,118 630,117 659,116 659,47 630,48 601,49 572,49 543,47"/>
+                <Baseline points="543,93 572,95 601,95 630,94 659,93"/>
+                <TextEquiv>
+                    <Unicode>Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="146,277 190,279 235,280 280,280 325,280 370,280 414,279 459,278 504,277 549,276 594,274 638,273 683,272 728,270 773,269 818,269 862,268 907,268 952,269 997,270 1042,271 1042,202 997,201 952,200 907,199 862,199 818,200 773,200 728,201 683,203 638,204 594,205 549,207 504,208 459,209 414,210 370,211 325,211 280,211 235,211 190,210 146,208"/>
+                <Baseline points="146,254 190,256 235,257 280,257 325,257 370,257 414,256 459,255 504,254 549,253 594,251 638,250 683,249 728,247 773,246 818,246 862,245 907,245 952,246 997,247 1042,248"/>
+                <TextEquiv>
+                    <Unicode>Katholik;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="549,410 576,412 603,411 630,410 658,411 658,342 630,341 603,342 576,343 549,341"/>
+                <Baseline points="549,387 576,389 603,388 630,387 658,388"/>
+                <TextEquiv>
+                    <Unicode>eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="53,535 108,536 163,537 218,538 273,539 329,539 384,540 439,541 494,541 549,541 605,541 660,541 715,541 770,540 825,540 881,539 936,538 991,537 1046,535 1101,534 1157,532 1157,463 1101,465 1046,466 991,468 936,469 881,470 825,471 770,471 715,472 660,472 605,472 549,472 494,472 439,472 384,471 329,470 273,470 218,469 163,468 108,467 53,466"/>
+                <Baseline points="53,512 108,513 163,514 218,515 273,516 329,516 384,517 439,518 494,518 549,518 605,518 660,518 715,518 770,517 825,517 881,516 936,515 991,514 1046,512 1101,511 1157,509"/>
+                <TextEquiv>
+                    <Unicode>religioͤſe Zeitſchrift</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="567,658 599,654 631,650 631,581 599,585 567,589"/>
+                <Baseline points="567,635 599,631 631,627"/>
+                <TextEquiv>
+                    <Unicode>zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="179,761 220,761 262,761 303,761 345,761 386,761 428,761 469,761 511,761 552,761 594,761 636,761 677,762 719,762 760,762 802,762 843,763 885,763 926,763 968,763 1010,764 1010,695 968,694 926,694 885,694 843,694 802,693 760,693 719,693 677,693 636,692 594,692 552,692 511,692 469,692 428,692 386,692 345,692 303,692 262,692 220,692 179,692"/>
+                <Baseline points="179,738 220,738 262,738 303,738 345,738 386,738 428,738 469,738 511,738 552,738 594,738 636,738 677,739 719,739 760,739 802,739 843,740 885,740 926,740 968,740 1010,741"/>
+                <TextEquiv>
+                    <Unicode>Belehrung und Warnung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="444,982 469,981 495,980 521,980 547,980 572,980 598,980 624,981 650,981 675,981 701,981 727,981 753,980 753,911 727,912 701,912 675,912 650,912 624,912 598,911 572,911 547,911 521,911 495,911 469,912 444,913"/>
+                <Baseline points="444,959 469,958 495,957 521,957 547,957 572,957 598,957 624,958 650,958 675,958 701,958 727,958 753,957"/>
+                <TextEquiv>
+                    <Unicode>Herausgegeben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="403,1031 429,1031 455,1030 481,1030 507,1030 533,1030 559,1029 585,1029 612,1029 638,1029 664,1030 690,1030 716,1030 742,1030 768,1030 795,1029 795,993 768,994 742,994 716,994 690,994 664,994 638,993 612,993 585,993 559,993 533,994 507,994 481,994 455,994 429,995 403,995"/>
+                <Baseline points="403,1019 429,1019 455,1018 481,1018 507,1018 533,1018 559,1017 585,1017 612,1017 638,1017 664,1018 690,1018 716,1018 742,1018 768,1018 795,1017"/>
+                <TextEquiv>
+                    <Unicode>von Dr. Weis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="210,1082 248,1082 287,1081 325,1081 364,1081 402,1081 441,1080 479,1080 518,1080 556,1080 595,1080 634,1080 672,1080 711,1080 749,1080 788,1080 826,1080 865,1079 903,1079 942,1079 981,1079 981,1043 942,1043 903,1043 865,1043 826,1044 788,1044 749,1044 711,1044 672,1044 634,1044 595,1044 556,1044 518,1044 479,1044 441,1044 402,1045 364,1045 325,1045 287,1045 248,1046 210,1046"/>
+                <Baseline points="210,1070 248,1070 287,1069 325,1069 364,1069 402,1069 441,1068 479,1068 518,1068 556,1068 595,1068 634,1068 672,1068 711,1068 749,1068 788,1068 826,1068 865,1067 903,1067 942,1067 981,1067"/>
+                <TextEquiv>
+                    <Unicode>Domkapitular und Biſchöfl. Geiſtlichem Rathe zu Speyer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="696,1226 721,1227 746,1228 772,1228 797,1228 822,1228 848,1228 873,1228 898,1228 924,1228 949,1228 974,1229 1000,1230 1025,1231 1050,1233 1076,1235 1076,1205 1050,1203 1025,1201 1000,1200 974,1199 949,1198 924,1198 898,1198 873,1198 848,1198 822,1198 797,1198 772,1198 746,1198 721,1197 696,1196"/>
+                <Baseline points="696,1216 721,1217 746,1218 772,1218 797,1218 822,1218 848,1218 873,1218 898,1218 924,1218 949,1218 974,1219 1000,1220 1025,1221 1050,1223 1076,1225"/>
+                <TextEquiv>
+                    <Unicode>Christianus mihi nomen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} textStyle {offset:0; length:10;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="696,1264 722,1265 749,1266 776,1266 802,1266 829,1266 856,1266 882,1266 909,1265 936,1265 962,1265 989,1265 1016,1264 1016,1234 989,1235 962,1235 936,1235 909,1235 882,1236 856,1236 829,1236 802,1236 776,1236 749,1236 722,1235 696,1234"/>
+                <Baseline points="696,1254 722,1255 749,1256 776,1256 802,1256 829,1256 856,1256 882,1256 909,1255 936,1255 962,1255 989,1255 1016,1254"/>
+                <TextEquiv>
+                    <Unicode>Catholicus cognomen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="873,1298 899,1300 925,1301 952,1302 978,1302 1005,1302 1031,1302 1058,1301 1058,1271 1031,1272 1005,1272 978,1272 952,1272 925,1271 899,1270 873,1268"/>
+                <Baseline points="873,1288 899,1290 925,1291 952,1292 978,1292 1005,1292 1031,1292 1058,1291"/>
+                <TextEquiv>
+                    <Unicode>S. PACIANUS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="240,1496 275,1495 311,1494 347,1493 383,1492 419,1492 454,1492 490,1492 526,1492 562,1492 598,1492 633,1492 669,1493 705,1493 741,1493 777,1494 812,1494 848,1495 884,1495 920,1495 956,1495 956,1426 920,1426 884,1426 848,1426 812,1425 777,1425 741,1424 705,1424 669,1424 633,1423 598,1423 562,1423 526,1423 490,1423 454,1423 419,1423 383,1423 347,1424 311,1425 275,1426 240,1427"/>
+                <Baseline points="240,1473 275,1472 311,1471 347,1470 383,1469 419,1469 454,1469 490,1469 526,1469 562,1469 598,1469 633,1469 669,1470 705,1470 741,1470 777,1471 812,1471 848,1472 884,1472 920,1472 956,1472"/>
+                <TextEquiv>
+                    <Unicode>Fuͤnf und dreißigſter Band.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="223,1649 259,1649 296,1649 333,1649 370,1649 407,1649 443,1648 480,1648 517,1648 554,1648 591,1647 627,1647 664,1647 701,1647 738,1647 775,1648 811,1648 848,1649 885,1650 922,1651 959,1653 959,1584 922,1582 885,1581 848,1580 811,1579 775,1579 738,1578 701,1578 664,1578 627,1578 591,1578 554,1579 517,1579 480,1579 443,1579 407,1580 370,1580 333,1580 296,1580 259,1580 223,1580"/>
+                <Baseline points="223,1626 259,1626 296,1626 333,1626 370,1626 407,1626 443,1625 480,1625 517,1625 554,1625 591,1624 627,1624 664,1624 701,1624 738,1624 775,1625 811,1625 848,1626 885,1627 922,1628 959,1630"/>
+                <TextEquiv>
+                    <Unicode>Zehnter Jahrgang. — I. - III. Heft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="440,1891 466,1892 492,1892 519,1892 545,1892 571,1892 598,1891 624,1891 650,1891 677,1891 703,1892 730,1892 730,1844 703,1844 677,1843 650,1843 624,1843 598,1843 571,1844 545,1844 519,1844 492,1844 466,1844 440,1843"/>
+                <Baseline points="440,1875 466,1876 492,1876 519,1876 545,1876 571,1876 598,1875 624,1875 650,1875 677,1875 703,1876 730,1876"/>
+                <TextEquiv>
+                    <Unicode>Speyer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="179,1955 220,1955 261,1956 302,1956 343,1956 385,1956 426,1957 467,1957 508,1957 549,1957 591,1957 632,1957 673,1957 714,1957 755,1957 797,1957 838,1957 879,1957 920,1957 961,1956 1003,1956 1003,1908 961,1908 920,1909 879,1909 838,1909 797,1909 755,1909 714,1909 673,1909 632,1909 591,1909 549,1909 508,1909 467,1909 426,1909 385,1908 343,1908 302,1908 261,1908 220,1907 179,1907"/>
+                <Baseline points="179,1939 220,1939 261,1940 302,1940 343,1940 385,1940 426,1941 467,1941 508,1941 549,1941 591,1941 632,1941 673,1941 714,1941 755,1941 797,1941 838,1941 879,1941 920,1941 961,1940 1003,1940"/>
+                <TextEquiv>
+                    <Unicode>gedruckt bei Joh. Friedr. Kranzbuͤhler senior.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="512,2020 538,2021 565,2021 592,2021 618,2021 645,2021 672,2020 672,1974 645,1975 618,1975 592,1975 565,1975 538,1975 512,1974"/>
+                <Baseline points="512,2005 538,2006 565,2006 592,2006 618,2006 645,2006 672,2005"/>
+                <TextEquiv>
+                    <Unicode>1830.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der
+Katholik;
+eine
+religioͤſe Zeitſchrift
+zur
+Belehrung und Warnung.
+Herausgegeben
+von Dr. Weis,
+Domkapitular und Biſchöfl. Geiſtlichem Rathe zu Speyer.
+Christianus mihi nomen,
+Catholicus cognomen.
+S. PACIANUS.
+Fuͤnf und dreißigſter Band.
+Zehnter Jahrgang. — I. - III. Heft.
+Speyer,
+gedruckt bei Joh. Friedr. Kranzbuͤhler senior.
+1830.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

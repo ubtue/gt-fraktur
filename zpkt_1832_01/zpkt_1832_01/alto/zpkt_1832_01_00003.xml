@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:38:19.378+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2483" WIDTH="1401">
+         <TopMargin HEIGHT="0" WIDTH="1401" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2483" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2483" WIDTH="0" VPOS="0" HPOS="1401"/>
+         <BottomMargin HEIGHT="0" WIDTH="1401" VPOS="2483" HPOS="0"/>
+         <PrintSpace HEIGHT="2483" WIDTH="1401" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1991" WIDTH="1106" VPOS="191" HPOS="115">
+               <Shape>
+                  <Polygon POINTS="115,191 115,2182 1221,2182 1221,191"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="314,222 351,222 388,222 425,222 462,222 499,222 536,222 573,222 610,222 647,222 684,222 721,222 758,222 795,223 832,223 869,223 906,223 943,223 980,224 1017,224 1054,224"
+                         HEIGHT="48"
+                         WIDTH="740"
+                         VPOS="191"
+                         HPOS="314">
+                  <String ID="string_r1l1"
+                          HEIGHT="48"
+                          WIDTH="740"
+                          VPOS="191"
+                          HPOS="314"
+                          CONTENT="Zeitschrift"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="605,318 672,307 705,308"
+                         HEIGHT="47"
+                         WIDTH="66"
+                         VPOS="276"
+                         HPOS="639">
+                  <String ID="string_r1l2"
+                          HEIGHT="47"
+                          WIDTH="66"
+                          VPOS="276"
+                          HPOS="639"
+                          CONTENT="für"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="392,459 419,461 447,461 475,462 503,463 531,463 559,463 587,463 615,464 643,464 671,463 698,463 726,463 754,463 782,462 810,462 838,462 866,461 894,461 922,461 950,461"
+                         HEIGHT="51"
+                         WIDTH="558"
+                         VPOS="428"
+                         HPOS="392">
+                  <String ID="string_r1l3"
+                          HEIGHT="51"
+                          WIDTH="558"
+                          VPOS="428"
+                          HPOS="392"
+                          CONTENT="Philoſophie"/>
+               </TextLine>
+               <TextLine ID="line_1607007715043_86"
+                         BASELINE="748,558 596,561"
+                         HEIGHT="53"
+                         WIDTH="153"
+                         VPOS="503"
+                         HPOS="588">
+                  <String ID="string_line_1607007715043_86"
+                          HEIGHT="53"
+                          WIDTH="153"
+                          VPOS="503"
+                          HPOS="588"
+                          CONTENT="und"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="170,712 220,711 271,710 322,710 373,709 424,709 475,708 526,708 577,708 628,708 679,708 729,708 780,708 831,708 882,708 933,708 984,709 1035,709 1086,709 1137,709 1188,709"
+                         HEIGHT="50"
+                         WIDTH="1018"
+                         VPOS="677"
+                         HPOS="170">
+                  <String ID="string_r1l4"
+                          HEIGHT="50"
+                          WIDTH="1018"
+                          VPOS="677"
+                          HPOS="170"
+                          CONTENT="katholiſche Theologie."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="407,825 432,825 457,824 483,824 508,823 534,823 559,822 585,822 610,822 636,822 661,822 686,822 712,822 737,822 763,822 788,822 814,822 839,822 865,822 890,822 916,821"
+                         HEIGHT="46"
+                         WIDTH="509"
+                         VPOS="793"
+                         HPOS="407">
+                  <String ID="string_r1l5"
+                          HEIGHT="46"
+                          WIDTH="509"
+                          VPOS="793"
+                          HPOS="407"
+                          CONTENT="In Verbindung mit den Herren:"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="118,881 173,881 228,881 283,881 338,882 393,882 448,882 503,882 558,882 613,882 669,882 724,882 779,882 834,882 889,882 944,882 999,882 1054,883 1109,883 1164,883 1220,883"
+                         HEIGHT="35"
+                         WIDTH="1102"
+                         VPOS="859"
+                         HPOS="118">
+                  <String ID="string_r1l6"
+                          HEIGHT="35"
+                          WIDTH="1102"
+                          VPOS="859"
+                          HPOS="118"
+                          CONTENT="Prof. Baltzer in Breslau, Prof. Biunde, Prof. Boner, Dom⸗"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="127,929 181,929 236,929 291,929 345,929 400,929 455,929 509,929 564,929 619,929 674,929 728,929 783,929 838,929 892,929 947,929 1002,929 1056,929 1111,930 1166,930 1221,931"
+                         HEIGHT="35"
+                         WIDTH="1094"
+                         VPOS="907"
+                         HPOS="127">
+                  <String ID="string_r1l7"
+                          HEIGHT="35"
+                          WIDTH="1094"
+                          VPOS="907"
+                          HPOS="127"
+                          CONTENT="capitular und Präſes Braun in Trier, Domcapitular und Prof."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="119,974 173,975 228,975 283,975 338,976 393,976 447,976 502,976 557,976 612,976 667,976 721,976 776,976 831,976 886,976 941,976 995,976 1050,976 1105,977 1160,978 1215,978"
+                         HEIGHT="37"
+                         WIDTH="1096"
+                         VPOS="952"
+                         HPOS="119">
+                  <String ID="string_r1l8"
+                          HEIGHT="37"
+                          WIDTH="1096"
+                          VPOS="952"
+                          HPOS="119"
+                          CONTENT="Brockmann in Münſter, Regierungs⸗ und Schulrath Brüggemann"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="121,1022 175,1021 229,1021 284,1021 338,1021 392,1021 447,1021 501,1021 555,1021 610,1021 664,1022 718,1022 773,1022 827,1022 881,1023 936,1023 990,1023 1044,1024 1099,1024 1153,1024 1208,1024"
+                         HEIGHT="34"
+                         WIDTH="1087"
+                         VPOS="1000"
+                         HPOS="121">
+                  <String ID="string_r1l9"
+                          HEIGHT="34"
+                          WIDTH="1087"
+                          VPOS="1000"
+                          HPOS="121"
+                          CONTENT="in Coblenz, Prof. Elvenich in Breslau, Prof. Eſſer in Münſter,"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="127,1065 181,1064 236,1064 290,1064 345,1064 400,1064 454,1065 509,1065 564,1065 618,1065 673,1066 728,1066 782,1066 837,1067 892,1067 946,1067 1001,1068 1056,1068 1110,1069 1165,1069 1220,1069"
+                         HEIGHT="36"
+                         WIDTH="1093"
+                         VPOS="1043"
+                         HPOS="127">
+                  <String ID="string_r1l10"
+                          HEIGHT="36"
+                          WIDTH="1093"
+                          VPOS="1043"
+                          HPOS="127"
+                          CONTENT="Subregens Gau in Köln, Prof. Geſellghen in Limburg, Prof."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="117,1110 172,1109 227,1109 282,1108 337,1108 392,1108 447,1108 502,1108 557,1109 612,1109 667,1109 722,1110 777,1110 832,1111 887,1111 942,1112 997,1112 1052,1112 1107,1113 1162,1113 1218,1113"
+                         HEIGHT="36"
+                         WIDTH="1101"
+                         VPOS="1087"
+                         HPOS="117">
+                  <String ID="string_r1l11"
+                          HEIGHT="36"
+                          WIDTH="1101"
+                          VPOS="1087"
+                          HPOS="117"
+                          CONTENT="Kaufmann in Bonn, Prof. Kreuſer in Köln, D. Kutzer in"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="119,1155 173,1155 227,1155 282,1155 336,1154 390,1154 445,1154 499,1154 553,1154 608,1154 662,1155 716,1155 771,1155 825,1155 879,1156 934,1156 988,1156 1042,1157 1097,1157 1151,1158 1206,1159"
+                         HEIGHT="38"
+                         WIDTH="1087"
+                         VPOS="1132"
+                         HPOS="119">
+                  <String ID="string_r1l12"
+                          HEIGHT="38"
+                          WIDTH="1087"
+                          VPOS="1132"
+                          HPOS="119"
+                          CONTENT="Breslau, Prof. G. Müller in Trier, Prof. J. Müller in Breslau,"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="119,1205 173,1204 228,1204 282,1203 337,1203 392,1203 446,1202 501,1202 556,1202 610,1201 665,1201 720,1201 774,1201 829,1201 884,1202 938,1202 993,1202 1048,1203 1102,1204 1157,1205 1212,1206"
+                         HEIGHT="36"
+                         WIDTH="1093"
+                         VPOS="1180"
+                         HPOS="119">
+                  <String ID="string_r1l13"
+                          HEIGHT="36"
+                          WIDTH="1093"
+                          VPOS="1180"
+                          HPOS="119"
+                          CONTENT="Domcapitular München in Köln, Prof. Neuhaus in Münſter,"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="121,1249 175,1250 230,1250 285,1250 340,1250 395,1250 450,1250 505,1250 560,1250 615,1250 670,1250 724,1250 779,1250 834,1250 889,1250 944,1250 999,1251 1054,1251 1109,1252 1164,1253 1219,1254"
+                         HEIGHT="36"
+                         WIDTH="1098"
+                         VPOS="1228"
+                         HPOS="121">
+                  <String ID="string_r1l14"
+                          HEIGHT="36"
+                          WIDTH="1098"
+                          VPOS="1228"
+                          HPOS="121"
+                          CONTENT="D. Pabſt in Wien, Propſt Regenbrecht in Königsberg, Domcapitular"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="120,1297 175,1298 230,1298 285,1298 340,1298 395,1298 450,1298 505,1298 560,1298 615,1298 670,1298 725,1298 780,1299 835,1299 890,1299 945,1299 1000,1300 1055,1300 1110,1301 1165,1301 1221,1302"
+                         HEIGHT="38"
+                         WIDTH="1101"
+                         VPOS="1275"
+                         HPOS="120">
+                  <String ID="string_r1l15"
+                          HEIGHT="38"
+                          WIDTH="1101"
+                          VPOS="1275"
+                          HPOS="120"
+                          CONTENT="und Prof. Ritter in Breslau, D. Ritter in Bonn, Prof. Roſen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="116,1343 171,1344 226,1344 281,1344 336,1344 391,1345 446,1345 501,1345 556,1345 611,1345 666,1345 721,1345 776,1345 831,1345 886,1346 941,1346 996,1346 1051,1346 1106,1346 1161,1346 1217,1346"
+                         HEIGHT="36"
+                         WIDTH="1101"
+                         VPOS="1321"
+                         HPOS="116">
+                  <String ID="string_r1l16"
+                          HEIGHT="36"
+                          WIDTH="1101"
+                          VPOS="1321"
+                          HPOS="116"
+                          CONTENT="baum in Trier, Director Savels in Eſſen, Prof. Scheill in Brauns⸗"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="115,1389 170,1389 225,1389 280,1389 335,1389 391,1390 446,1390 501,1390 556,1390 611,1391 667,1391 722,1391 777,1391 832,1392 887,1392 943,1392 998,1392 1053,1392 1108,1393 1163,1393 1219,1393"
+                         HEIGHT="37"
+                         WIDTH="1104"
+                         VPOS="1367"
+                         HPOS="115">
+                  <String ID="string_r1l17"
+                          HEIGHT="37"
+                          WIDTH="1104"
+                          VPOS="1367"
+                          HPOS="115"
+                          CONTENT="berg, Domcapitular u. Regens Schweitzer in Köln, D. Smets in Her⸗"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="116,1438 171,1438 226,1438 281,1438 336,1437 391,1437 446,1437 501,1437 556,1438 611,1438 666,1438 721,1438 776,1438 831,1439 886,1439 941,1440 996,1440 1051,1441 1106,1442 1161,1443 1216,1444"
+                         HEIGHT="41"
+                         WIDTH="1100"
+                         VPOS="1414"
+                         HPOS="116">
+                  <String ID="string_r1l18"
+                          HEIGHT="41"
+                          WIDTH="1100"
+                          VPOS="1414"
+                          HPOS="116"
+                          CONTENT="ſel, Director Soekeland in Coesfeld, Prof. Welter in Münſter u. A.,"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="523,1511 549,1511 576,1511 603,1511 629,1511 656,1511 683,1511 710,1512 736,1512 763,1512 790,1513 817,1514"
+                         HEIGHT="49"
+                         WIDTH="294"
+                         VPOS="1480"
+                         HPOS="523">
+                  <String ID="string_r1l19"
+                          HEIGHT="49"
+                          WIDTH="294"
+                          VPOS="1480"
+                          HPOS="523"
+                          CONTENT="herausgegeben von"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="233,1585 276,1585 319,1586 363,1586 406,1586 450,1586 493,1587 536,1587 580,1587 623,1587 667,1588 710,1588 753,1588 797,1589 840,1590 884,1591 927,1591 970,1592 1014,1594 1057,1595 1101,1597"
+                         HEIGHT="52"
+                         WIDTH="868"
+                         VPOS="1558"
+                         HPOS="233">
+                  <String ID="string_r1l20"
+                          HEIGHT="52"
+                          WIDTH="868"
+                          VPOS="1558"
+                          HPOS="233"
+                          CONTENT="D. Achterfeldt, D. Braun, D. von Droste"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="377,1639 405,1640 434,1641 463,1642 492,1642 520,1642 549,1643 578,1643 607,1643 635,1644 664,1644 693,1644 722,1644 750,1645 779,1645 808,1646 837,1647 865,1648 894,1648 923,1650 952,1651"
+                         HEIGHT="52"
+                         WIDTH="575"
+                         VPOS="1612"
+                         HPOS="377">
+                  <String ID="string_r1l21"
+                          HEIGHT="52"
+                          WIDTH="575"
+                          VPOS="1612"
+                          HPOS="377"
+                          CONTENT="D. Scholz und D. Vogelſang,"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="181,1709 229,1709 278,1709 327,1709 376,1709 424,1709 473,1709 522,1709 571,1710 619,1710 668,1710 717,1710 766,1711 814,1711 863,1711 912,1711 961,1712 1009,1712 1058,1713 1107,1713 1156,1713"
+                         HEIGHT="41"
+                         WIDTH="976"
+                         VPOS="1684"
+                         HPOS="181">
+                  <String ID="string_r1l22"
+                          HEIGHT="41"
+                          WIDTH="976"
+                          VPOS="1684"
+                          HPOS="181"
+                          CONTENT="Profeſſoren an der Rheiniſchen⸗Friedrich-Wilhelms⸗Univerſitaͤt"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="600,1761 625,1761 651,1762 677,1763 702,1763 728,1764 754,1765"
+                         HEIGHT="41"
+                         WIDTH="154"
+                         VPOS="1736"
+                         HPOS="600">
+                  <String ID="string_r1l23"
+                          HEIGHT="41"
+                          WIDTH="154"
+                          VPOS="1736"
+                          HPOS="600"
+                          CONTENT="in Bonn."/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="474,1936 499,1938 524,1941 550,1943 575,1945 601,1946 626,1947 652,1947 677,1948 703,1948 728,1948 754,1949 779,1949 805,1949 830,1950 856,1951"
+                         HEIGHT="61"
+                         WIDTH="382"
+                         VPOS="1905"
+                         HPOS="474">
+                  <String ID="string_r1l24"
+                          HEIGHT="61"
+                          WIDTH="382"
+                          VPOS="1905"
+                          HPOS="474"
+                          CONTENT="Erſtes Heft."/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="497,2099 522,2099 548,2100 574,2102 599,2103 625,2103 651,2104 676,2105 702,2106 728,2106 753,2106 779,2106 805,2105 831,2104"
+                         HEIGHT="47"
+                         WIDTH="334"
+                         VPOS="2072"
+                         HPOS="497">
+                  <String ID="string_r1l25"
+                          HEIGHT="47"
+                          WIDTH="334"
+                          VPOS="2072"
+                          HPOS="497"
+                          CONTENT="Köln, 1832."/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="211,2155 256,2155 302,2155 348,2155 394,2155 439,2156 485,2157 531,2158 577,2159 622,2160 668,2160 714,2162 760,2163 805,2164 851,2165 897,2166 943,2167 988,2168 1034,2168 1080,2169 1126,2169"
+                         HEIGHT="54"
+                         WIDTH="915"
+                         VPOS="2128"
+                         HPOS="211">
+                  <String ID="string_r1l26"
+                          HEIGHT="54"
+                          WIDTH="915"
+                          VPOS="2128"
+                          HPOS="211"
+                          CONTENT="Druck und Verlag von M. DuͤMont⸗Schauberg."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:43.885+01:00</Created>
+        <LastChange>2021-05-17T13:55:57.314+02:00</LastChange>
+        <TranskribusMetadata docId="543224" pageId="22808936" pageNr="3" tsid="57972457" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=ECWPKNEHJOFOUDKYLZPLAMXO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VKTVBQQBYYDOJJSBCZVMNOXQ" imageId="17784614"/>
+    </Metadata>
+    <Page imageFilename="kath_1830_035_00006.tif" imageWidth="1255" imageHeight="2154">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327813736" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="168,77 165,1326 1241,1337 1236,78"/>
+            <TextLine id="line_1621252368181_114" custom="readingOrder {index:0;}">
+                <Coords points="1147,64 1228,64 1228,114 1147,114"/>
+                <Baseline points="1147,109 1228,109"/>
+                <TextEquiv>
+                    <Unicode>Seite.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="235,146 280,146 326,146 371,146 417,146 463,146 508,147 554,147 599,147 645,148 691,148 736,149 782,150 827,150 873,152 919,153 964,154 1010,155 1055,157 1101,158 1147,160 1147,130 1101,128 1055,127 1010,125 964,124 919,123 873,122 827,120 782,120 736,119 691,118 645,118 599,117 554,117 508,117 463,116 417,116 371,116 326,116 280,116 235,116"/>
+                <Baseline points="235,136 280,136 326,136 371,136 417,136 463,136 508,137 554,137 599,137 645,138 691,138 736,139 782,140 827,140 873,142 919,143 964,144 1010,145 1055,147 1101,148 1218,148"/>
+                <TextEquiv>
+                    <Unicode>3. Chriſtkatholiſches Gebetbuch fuͤr die liebe Jugend, v. B. Galura. 251</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614609856758_950" custom="readingOrder {index:2;}">
+                <Coords points="238,152 415,151 588,151 719,153 936,158 1109,163 1153,165 1153,195 285,183 238,182"/>
+                <Baseline points="238,172 260,172 285,173 328,172 371,172 415,171 458,171 502,171 545,171 588,171 632,172 675,173 719,173 762,174 805,175 849,176 892,177 936,178 979,180 1022,181 1066,182 1109,183 1153,185"/>
+                <TextEquiv>
+                    <Unicode>4. Grundriß der chriſtlichen Literatur von ihrem Urſprunge bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="281,220 323,218 366,218 409,217 452,216 495,216 538,216 581,216 624,216 667,217 710,218 752,218 795,219 838,220 881,222 924,223 967,224 1010,226 1053,227 1096,229 1139,230 1139,200 1096,199 1053,197 1010,196 967,194 924,193 881,192 838,190 795,189 752,188 710,188 667,187 624,186 581,186 538,186 495,186 452,186 409,187 366,188 323,188 281,190"/>
+                <Baseline points="281,210 323,208 366,208 409,207 452,206 495,206 538,206 581,206 624,206 667,207 710,208 752,208 795,209 838,210 881,212 924,213 967,214 1010,216 1053,217 1096,219 1151,219"/>
+                <TextEquiv>
+                    <Unicode>zur Erfindung und Ausbreitung der Buchdruckerei. Von Dr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="277,249 303,253 329,254 356,254 382,253 409,252 435,251 461,250 488,249 514,250 541,253 541,223 514,220 488,219 461,220 435,221 409,222 382,223 356,224 329,224 303,223 277,219"/>
+                <Baseline points="277,239 303,243 329,244 356,244 382,243 409,242 435,241 461,240 488,239 514,240 1222,251"/>
+                <TextEquiv>
+                    <Unicode>J. B. J. Buſſe. . . . . . . . . . . . . . . 252</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="329,283 369,284 410,284 451,285 491,285 532,286 573,286 613,286 654,287 695,287 736,288 776,288 817,289 858,289 898,290 939,291 980,292 1020,294 1061,295 1102,297 1143,299 1143,269 1102,267 1061,265 1020,264 980,262 939,261 898,260 858,259 817,259 776,258 736,258 695,257 654,257 613,256 573,256 532,256 491,255 451,255 410,254 369,254 329,253"/>
+                <Baseline points="236,278 369,274 410,274 451,275 491,275 532,276 573,276 613,276 654,277 695,277 736,278 776,278 817,279 858,279 898,280 939,281 980,282 1020,284 1061,285 1102,287 1143,289"/>
+                <TextEquiv>
+                    <Unicode>5. I. Der bayeriſche Landſchullehrer oder theoretiſch⸗praktiſche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="280,321 323,321 366,321 409,321 453,321 496,321 539,322 582,322 626,322 669,323 712,323 755,324 799,325 842,325 885,326 928,327 972,328 1015,330 1058,331 1101,332 1145,334 1145,304 1101,302 1058,301 1015,300 972,298 928,297 885,296 842,295 799,295 755,294 712,293 669,293 626,292 582,292 539,292 496,291 453,291 409,291 366,291 323,291 280,291"/>
+                <Baseline points="280,311 323,311 366,311 409,311 453,311 496,311 539,312 582,312 626,312 669,313 712,313 755,314 799,315 842,315 885,316 928,317 972,318 1015,320 1058,321 1101,322 1145,324"/>
+                <TextEquiv>
+                    <Unicode>Unterrichtsmethode, Von J. Baader. II. Der bayeriſche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="279,354 322,355 366,355 409,356 453,356 496,356 540,356 583,357 627,357 670,357 714,358 757,358 801,359 844,360 888,360 931,361 975,362 1018,363 1062,365 1105,366 1149,368 1149,338 1105,336 1062,335 1018,333 975,332 931,331 888,330 844,330 801,329 757,328 714,328 670,327 627,327 583,327 540,326 496,326 453,326 409,326 366,325 322,325 279,324"/>
+                <Baseline points="279,344 322,345 366,345 409,346 453,346 496,346 540,346 583,347 627,347 670,347 714,348 757,348 801,349 844,350 888,350 931,351 975,352 1018,353 1062,355 1105,356 1149,358"/>
+                <TextEquiv>
+                    <Unicode>Landſchuͤler oder das Wiſſenswertheſte vom Menſchen, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="281,390 324,390 367,391 410,391 454,392 497,392 540,393 584,393 627,393 670,394 714,394 757,394 800,395 843,395 887,396 930,396 973,397 1017,398 1060,399 1103,400 1147,402 1147,372 1103,370 1060,369 1017,368 973,367 930,366 887,366 843,365 800,365 757,364 714,364 670,364 627,363 584,363 540,363 497,362 454,362 410,361 367,361 324,360 281,360"/>
+                <Baseline points="281,380 324,380 367,381 410,381 454,382 497,382 540,383 584,383 627,383 670,384 714,384 757,384 800,385 843,385 887,386 930,386 973,387 1017,388 1060,389 1103,390 1147,392"/>
+                <TextEquiv>
+                    <Unicode>Natur und Kunſt. Von demſ. Verf. III. Dactyliothek von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="283,424 326,425 369,426 412,427 455,427 499,428 542,428 585,429 628,429 671,429 715,430 758,430 801,430 844,431 887,431 931,432 974,433 1017,434 1060,434 1103,435 1147,437 1147,407 1103,405 1060,404 1017,404 974,403 931,402 887,401 844,401 801,400 758,400 715,400 671,399 628,399 585,399 542,398 499,398 455,397 412,397 369,396 326,395 283,394"/>
+                <Baseline points="283,414 326,415 369,416 412,417 455,417 499,418 542,418 585,419 628,419 671,419 715,420 758,420 801,420 844,421 887,421 931,422 974,423 1017,424 1060,424 1103,425 1147,427"/>
+                <TextEquiv>
+                    <Unicode>Auguſtus bis Auguſtulus. Beitrag zur Geſchichte Von A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="277,460 320,461 363,462 407,463 450,464 494,464 537,465 580,465 624,466 667,466 711,467 754,467 797,467 841,468 884,468 928,469 971,469 1014,470 1058,471 1101,472 1145,474 1145,444 1101,442 1058,441 1014,440 971,439 928,439 884,438 841,438 797,437 754,437 711,437 667,436 624,436 580,435 537,435 494,434 450,434 407,433 363,432 320,431 277,430"/>
+                <Baseline points="277,450 320,451 363,452 407,453 450,454 494,454 537,455 580,455 624,456 667,456 711,457 754,457 797,457 841,458 884,458 928,459 971,459 1014,460 1058,461 1101,462 1145,464"/>
+                <TextEquiv>
+                    <Unicode>Paſſy. IV. Handwoͤrterbuch des roͤmiſchen Alterthums ꝛc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="279,496 304,496 329,497 354,498 379,498 404,498 429,499 454,499 479,499 504,500 529,500 554,501 579,502 579,472 554,471 529,470 504,470 479,469 454,469 429,469 404,468 379,468 354,468 329,467 304,466 279,466"/>
+                <Baseline points="279,486 304,486 329,487 354,488 379,488 404,488 429,489 454,489 479,489 504,490 529,490 554,491 1224,499"/>
+                <TextEquiv>
+                    <Unicode>Von F. J. Brand. . . . . . . . . . . . . . . 253</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:12;}">
+                <Coords points="277,532 320,533 363,534 407,534 450,535 493,535 537,536 580,536 623,537 667,537 710,538 753,538 797,539 840,539 883,539 927,539 970,540 1013,540 1057,540 1100,540 1144,540 1144,510 1100,510 1057,510 1013,510 970,510 927,509 883,509 840,509 797,509 753,508 710,508 667,507 623,507 580,506 537,506 493,505 450,505 407,504 363,504 320,503 277,502"/>
+                <Baseline points="225,525 320,523 363,524 407,524 450,525 493,525 537,526 580,526 623,527 667,527 710,528 753,528 797,529 840,529 883,529 927,529 970,530 1013,530 1057,530 1100,530 1144,530"/>
+                <TextEquiv>
+                    <Unicode>6. Auswahl belehrender und erbaulicher Stellen aus den Schriften</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:13;}">
+                <Coords points="273,570 316,570 359,571 403,571 446,572 490,573 533,573 577,574 620,574 664,575 707,575 750,576 794,576 837,577 881,577 924,577 968,577 1011,578 1055,578 1098,578 1142,577 1142,547 1098,548 1055,548 1011,548 968,547 924,547 881,547 837,547 794,546 750,546 707,545 664,545 620,544 577,544 533,543 490,543 446,542 403,541 359,541 316,540 273,540"/>
+                <Baseline points="273,560 316,560 359,561 403,561 446,562 490,563 533,563 577,564 620,564 664,565 707,565 750,566 794,566 837,567 881,567 924,567 968,567 1011,568 1055,568 1098,568 1219,567"/>
+                <TextEquiv>
+                    <Unicode>der heil.Thereſia von Jeſu, Stifterin der Barfuͤßercarmelitinen. 256</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:14;}">
+                <Coords points="269,631 312,631 356,631 399,631 443,632 487,632 530,632 574,633 618,633 661,634 705,634 749,635 792,635 836,636 880,636 923,637 967,637 1011,637 1054,638 1098,638 1142,638 1142,608 1098,608 1054,608 1011,607 967,607 923,607 880,606 836,606 792,605 749,605 705,604 661,604 618,603 574,603 530,602 487,602 443,602 399,601 356,601 312,601 269,601"/>
+                <Baseline points="199,619 312,621 356,621 399,621 443,622 487,622 530,622 574,623 618,623 661,624 705,624 749,625 792,625 836,626 880,626 923,627 967,627 1011,627 1054,628 1098,628 1142,628"/>
+                <TextEquiv>
+                    <Unicode>XII. Drei Lehr⸗ und Erbauungsvortraͤge am Allerheiligenfeſte uͤber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:15;}">
+                <Coords points="275,666 318,666 362,666 405,667 449,667 493,668 536,668 580,669 624,669 667,670 711,670 755,671 798,671 842,671 886,672 929,672 973,672 1017,673 1060,673 1104,673 1148,673 1148,643 1104,643 1060,643 1017,643 973,642 929,642 886,642 842,641 798,641 755,641 711,640 667,640 624,639 580,639 536,638 493,638 449,637 405,637 362,636 318,636 275,636"/>
+                <Baseline points="275,656 318,656 362,656 405,657 449,657 493,658 536,658 580,659 624,659 667,660 711,660 755,661 798,661 842,661 886,662 929,662 973,662 1017,663 1060,663 1104,663 1148,663"/>
+                <TextEquiv>
+                    <Unicode>die Heiligen und ihre Verehrung, uͤber ihre Anrufung und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:16;}">
+                <Coords points="278,697 307,698 336,699 365,700 394,700 423,701 452,701 481,701 510,702 539,702 568,702 597,702 626,702 655,702 684,702 713,702 742,702 771,702 800,702 829,702 859,702 859,672 829,672 800,672 771,672 742,672 713,672 684,672 655,672 626,672 597,672 568,672 539,672 510,672 481,671 452,671 423,671 394,670 365,670 336,669 307,668 278,667"/>
+                <Baseline points="278,687 307,688 336,689 365,690 394,690 423,691 452,691 481,691 510,692 539,692 568,692 597,692 626,692 655,692 684,692 713,692 742,692 771,692 800,692 829,692 1216,697"/>
+                <TextEquiv>
+                    <Unicode>uͤber ihre Reliquien. (Zweiter Vortrag.) . . . . . . 257</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614610714376_1003" custom="readingOrder {index:17;}">
+                <Coords points="184,702 284,700 1013,709 1142,713 1142,743 584,737 498,736 184,732"/>
+                <Baseline points="184,722 214,722 244,722 284,720 326,722 369,723 412,724 455,725 498,726 541,726 584,727 627,727 670,727 713,727 755,727 798,727 841,727 884,728 927,728 970,729 1013,729 1056,731 1099,732 1220,735"/>
+                <TextEquiv>
+                    <Unicode>XIII. Aus der Scholaſtik des heil. Thomas von Aquin. (Fortſetzung.) 316</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614610716661_1007" custom="readingOrder {index:18;}">
+                <Coords points="187,737 219,735 286,735 837,741 922,742 965,743 1007,744 1092,747 1135,749 1135,779 187,767"/>
+                <Baseline points="187,757 219,755 251,755 286,755 328,756 370,757 413,758 455,759 498,759 540,759 583,760 625,760 668,760 710,760 752,761 795,761 837,761 880,762 922,762 965,763 1007,764 1050,766 1092,767 1135,769"/>
+                <TextEquiv>
+                    <Unicode>XIV. Das Intereſſe des menſchlichen Geſchlechtes an der Erhaltung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:19;}">
+                <Coords points="268,799 311,800 355,801 398,802 442,803 486,803 529,804 573,804 617,805 660,805 704,805 748,806 791,806 835,806 879,807 922,808 966,808 1010,809 1053,811 1097,812 1141,814 1141,784 1097,782 1053,781 1010,779 966,778 922,778 879,777 835,776 791,776 748,776 704,775 660,775 617,775 573,774 529,774 486,773 442,773 398,772 355,771 311,770 268,769"/>
+                <Baseline points="268,789 311,790 355,791 398,792 442,793 486,793 529,794 573,794 617,795 660,795 704,795 748,796 791,796 835,796 879,797 922,798 966,798 1010,799 1053,801 1097,802 1141,804"/>
+                <TextEquiv>
+                    <Unicode>der chriſtlichen Offenbarung aus dem Geſichtspunkte der Hu⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621252476766_146" custom="readingOrder {index:20;}">
+                <Coords points="270,779 1225,795 1224,845 269,829"/>
+                <Baseline points="269,824 1224,840"/>
+                <TextEquiv>
+                    <Unicode>manitaͤt. . . . . . . . . . . . . . . . . . 337.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614610743810_1026" custom="readingOrder {index:21;}">
+                <Coords points="199,837 246,837 603,841 679,842 730,843 730,873 704,873 325,869 199,867"/>
+                <Baseline points="199,857 246,857 275,858 300,858 325,859 350,859 376,859 401,859 426,860 451,860 477,860 502,860 527,861 553,861 578,861 603,861 628,862 654,862 679,862 704,863 1221,874"/>
+                <TextEquiv>
+                    <Unicode>XV. Ein ernſtes Wort zu ſeiner Zeit. . . . . . . . . . 343</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614610746286_1030" custom="readingOrder {index:22;}">
+                <Coords points="185,874 215,871 882,880 1056,884 1143,888 1143,918 185,904"/>
+                <Baseline points="185,894 215,891 246,893 273,892 316,893 360,894 403,895 447,896 490,897 534,897 577,898 621,898 664,898 708,898 751,899 795,899 838,900 882,900 925,901 969,902 1012,903 1056,904 1099,906 1143,908"/>
+                <TextEquiv>
+                    <Unicode>XVI. Das angebliche Teſtament des Pabſtes Leo XII. an ſeine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:23;}">
+                <Coords points="270,937 296,937 323,938 350,939 377,940 404,941 431,942 431,912 404,911 377,910 350,909 323,908 296,907 270,907"/>
+                <Baseline points="270,927 296,927 323,928 350,929 377,930 1186,943 1213,944"/>
+                <TextEquiv>
+                    <Unicode>Nachfolger. . . . . . . . . . . . . . . . . . 346</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614610753183_1035" custom="readingOrder {index:24;}">
+                <Coords points="174,943 807,951 883,952 1034,956 1034,986 468,980 393,979 280,977 211,975 174,973"/>
+                <Baseline points="174,963 211,965 248,965 280,967 317,967 355,968 393,969 430,969 468,970 506,970 543,970 581,970 619,970 657,970 694,971 732,971 770,971 807,971 845,972 883,972 920,973 958,974 996,975 1215,978"/>
+                <TextEquiv>
+                    <Unicode>XVII. Ueber die belgiſchen Angelegenheiten. . . . . . . 350</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614610755555_1039" custom="readingOrder {index:25;}">
+                <Coords points="165,982 195,981 446,985 473,986 473,1016 366,1016 255,1014 165,1012"/>
+                <Baseline points="165,1002 195,1001 225,1002 255,1004 286,1003 312,1005 339,1005 366,1006 392,1006 419,1005 446,1005 473,1006"/>
+                <TextEquiv>
+                    <Unicode>XVIII. Literatur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614610783917_1059" custom="readingOrder {index:26;}">
+                <Coords points="272,1030 309,1028 1141,1041 1141,1071 1099,1071 849,1068 558,1064 272,1060"/>
+                <Baseline points="272,1050 294,1050 309,1048 350,1049 392,1050 433,1051 475,1052 517,1053 558,1054 600,1054 641,1055 683,1055 725,1056 766,1056 808,1057 849,1058 891,1058 933,1058 974,1059 1016,1060 1057,1060 1099,1061 1141,1061"/>
+                <TextEquiv>
+                    <Unicode>1. Geſchichte der chriſtlichen Kirche von Joſeph Othmar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:27;}">
+                <Coords points="313,1095 339,1095 365,1096 391,1096 417,1097 443,1097 469,1097 495,1098 522,1098 548,1098 574,1098 600,1098 626,1098 652,1099 678,1098 705,1098 705,1068 678,1068 652,1069 626,1068 600,1068 574,1068 548,1068 522,1068 495,1068 469,1067 443,1067 417,1067 391,1066 365,1066 339,1065 313,1065"/>
+                <Baseline points="313,1085 339,1085 365,1086 391,1086 417,1087 443,1087 469,1087 495,1088 522,1088 548,1088 574,1088 600,1088 626,1088 652,1089 1176,1094 1203,1094"/>
+                <TextEquiv>
+                    <Unicode>Ritter von Rauſcher. . . . . . . . . . 365</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614610786196_1063" custom="readingOrder {index:28;}">
+                <Coords points="270,1098 290,1098 519,1099 601,1100 1138,1108 1138,1138 1055,1138 313,1129 270,1128"/>
+                <Baseline points="270,1118 290,1118 313,1119 354,1119 395,1119 436,1119 478,1119 519,1119 560,1120 601,1120 643,1121 684,1122 725,1122 766,1123 808,1124 849,1125 890,1125 931,1126 973,1127 1014,1127 1055,1128 1096,1128 1138,1128"/>
+                <TextEquiv>
+                    <Unicode>2. Handbuch der Philoſophie, der Logik, Metaphyſik, Moral</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:29;}">
+                <Coords points="316,1161 359,1161 402,1161 445,1162 488,1162 531,1163 574,1163 617,1164 660,1165 703,1166 747,1167 790,1167 833,1169 876,1170 919,1171 962,1172 1005,1173 1048,1175 1091,1176 1135,1177 1135,1147 1091,1146 1048,1145 1005,1143 962,1142 919,1141 876,1140 833,1139 790,1137 747,1137 703,1136 660,1135 617,1134 574,1133 531,1133 488,1132 445,1132 402,1131 359,1131 316,1131"/>
+                <Baseline points="316,1151 359,1151 402,1151 445,1152 488,1152 531,1153 574,1153 617,1154 660,1155 703,1156 747,1157 790,1157 833,1159 876,1160 919,1161 962,1162 1005,1163 1048,1165 1091,1166 1213,1165"/>
+                <TextEquiv>
+                    <Unicode>und Rechtsphiloſophie. Von Johann Püllenberg. 377</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614610788408_1067" custom="readingOrder {index:30;}">
+                <Coords points="262,1162 296,1162 430,1164 1139,1178 1139,1208 1097,1208 972,1206 305,1193 262,1192"/>
+                <Baseline points="262,1182 296,1182 305,1183 346,1183 388,1184 430,1184 471,1185 513,1186 555,1187 596,1188 638,1189 680,1189 722,1190 763,1191 805,1192 847,1193 888,1194 930,1195 972,1196 1013,1196 1055,1197 1097,1198 1139,1198"/>
+                <TextEquiv>
+                    <Unicode>3. Psalterium Davidis, brevi ac succincta paraphrasi ex⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l45" custom="readingOrder {index:31;}">
+                <Coords points="315,1227 340,1228 366,1229 392,1229 417,1230 443,1231 469,1232 494,1233 520,1233 546,1235 572,1236 572,1206 546,1205 520,1203 494,1203 469,1202 443,1201 417,1200 392,1199 366,1199 340,1198 315,1197"/>
+                <Baseline points="315,1217 340,1218 366,1219 392,1219 417,1220 443,1221 469,1222 494,1223 520,1223 546,1225 1214,1239"/>
+                <TextEquiv>
+                    <Unicode>plicatum. . . . . . . . . . . . . . . . 378</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l47" custom="readingOrder {index:32;}">
+                <Coords points="194,1321 219,1322 245,1322 271,1323 297,1323 323,1323 349,1323 375,1324 401,1324 427,1324 453,1324 479,1325 505,1325 531,1326 531,1296 505,1295 479,1295 453,1294 427,1294 401,1294 375,1294 349,1293 323,1293 297,1293 271,1293 245,1292 219,1292 194,1291"/>
+                <Baseline points="194,1311 219,1312 245,1312 271,1313 297,1313 323,1313 349,1313 375,1314 401,1314 427,1314 453,1314 479,1315 505,1315 531,1316"/>
+                <TextEquiv>
+                    <Unicode>Beilagen Nro. I. - III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Seite.
+3. Chriſtkatholiſches Gebetbuch fuͤr die liebe Jugend, v. B. Galura. 251
+4. Grundriß der chriſtlichen Literatur von ihrem Urſprunge bis
+zur Erfindung und Ausbreitung der Buchdruckerei. Von Dr
+J. B. J. Buſſe. . . . . . . . . . . . . . . 252
+5. I. Der bayeriſche Landſchullehrer oder theoretiſch⸗praktiſche
+Unterrichtsmethode, Von J. Baader. II. Der bayeriſche
+Landſchuͤler oder das Wiſſenswertheſte vom Menſchen, der
+Natur und Kunſt. Von demſ. Verf. III. Dactyliothek von
+Auguſtus bis Auguſtulus. Beitrag zur Geſchichte Von A.
+Paſſy. IV. Handwoͤrterbuch des roͤmiſchen Alterthums ꝛc.
+Von F. J. Brand. . . . . . . . . . . . . . . 253
+6. Auswahl belehrender und erbaulicher Stellen aus den Schriften
+der heil.Thereſia von Jeſu, Stifterin der Barfuͤßercarmelitinen. 256
+XII. Drei Lehr⸗ und Erbauungsvortraͤge am Allerheiligenfeſte uͤber
+die Heiligen und ihre Verehrung, uͤber ihre Anrufung und
+uͤber ihre Reliquien. (Zweiter Vortrag.) . . . . . . 257
+XIII. Aus der Scholaſtik des heil. Thomas von Aquin. (Fortſetzung.) 316
+XIV. Das Intereſſe des menſchlichen Geſchlechtes an der Erhaltung
+der chriſtlichen Offenbarung aus dem Geſichtspunkte der Hu⸗
+manitaͤt. . . . . . . . . . . . . . . . . . 337.
+XV. Ein ernſtes Wort zu ſeiner Zeit. . . . . . . . . . 343
+XVI. Das angebliche Teſtament des Pabſtes Leo XII. an ſeine
+Nachfolger. . . . . . . . . . . . . . . . . . 346
+XVII. Ueber die belgiſchen Angelegenheiten. . . . . . . 350
+XVIII. Literatur.
+1. Geſchichte der chriſtlichen Kirche von Joſeph Othmar
+Ritter von Rauſcher. . . . . . . . . . 365
+2. Handbuch der Philoſophie, der Logik, Metaphyſik, Moral
+und Rechtsphiloſophie. Von Johann Püllenberg. 377
+3. Psalterium Davidis, brevi ac succincta paraphrasi ex⸗
+plicatum. . . . . . . . . . . . . . . . 378
+Beilagen Nro. I. - III.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

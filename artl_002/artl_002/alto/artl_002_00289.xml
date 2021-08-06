@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:46:56.732+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2449" WIDTH="1382">
+         <TopMargin HEIGHT="0" WIDTH="1382" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2449" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2449" WIDTH="0" VPOS="0" HPOS="1382"/>
+         <BottomMargin HEIGHT="0" WIDTH="1382" VPOS="2449" HPOS="0"/>
+         <PrintSpace HEIGHT="2449" WIDTH="1382" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2208" WIDTH="1183" VPOS="61" HPOS="77">
+               <Shape>
+                  <Polygon POINTS="77,61 77,2269 1260,2269 1260,61"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="603,84 632,82 662,81 692,81 722,83"
+                         HEIGHT="33"
+                         WIDTH="119"
+                         VPOS="61"
+                         HPOS="603">
+                  <String ID="string_r1l1"
+                          HEIGHT="33"
+                          WIDTH="119"
+                          VPOS="61"
+                          HPOS="603"
+                          CONTENT="Inhalt."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="1172,93 1199,94 1227,95 1255,96"
+                         HEIGHT="33"
+                         WIDTH="83"
+                         VPOS="73"
+                         HPOS="1172">
+                  <String ID="string_r1l2"
+                          HEIGHT="33"
+                          WIDTH="83"
+                          VPOS="73"
+                          HPOS="1172"
+                          CONTENT="287"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="325,166 358,165 392,165 426,164 459,164 493,164 527,164 560,165 594,165 628,166 662,166 695,167 729,167 763,168 796,168 830,169 864,169 897,169 931,169 965,169 999,168"
+                         HEIGHT="35"
+                         WIDTH="674"
+                         VPOS="144"
+                         HPOS="325">
+                  <String ID="string_r1l3"
+                          HEIGHT="35"
+                          WIDTH="674"
+                          VPOS="144"
+                          HPOS="325"
+                          CONTENT="Praktiſche Theologie."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="1187,208 1219,208 1251,208"
+                         HEIGHT="30"
+                         WIDTH="64"
+                         VPOS="188"
+                         HPOS="1187">
+                  <String ID="string_r1l4"
+                          HEIGHT="30"
+                          WIDTH="64"
+                          VPOS="188"
+                          HPOS="1187"
+                          CONTENT="Seite"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="257,234 297,235 337,235 377,235 417,236 457,236 497,236 537,236 577,237 617,237 657,237 697,238 737,238 777,238 817,238 857,238 897,239 937,239 977,239 1017,239 1058,239"
+                         HEIGHT="35"
+                         WIDTH="801"
+                         VPOS="214"
+                         HPOS="257">
+                  <String ID="string_r1l5"
+                          HEIGHT="35"
+                          WIDTH="801"
+                          VPOS="214"
+                          HPOS="257"
+                          CONTENT="Ueberſicht des evangeliſchen Kirchenrechts."/>
+               </TextLine>
+               <TextLine ID="line_1618749000097_495"
+                         BASELINE="85,257 136,261 187,265 238,267 290,269 341,271 392,272 443,273 495,273 546,274 597,274 648,273 700,273 751,273 802,273 853,273 905,274 956,274 1007,275 1058,277 1165,278 1234,272 1258,275"
+                         HEIGHT="52"
+                         WIDTH="1173"
+                         VPOS="237"
+                         HPOS="85">
+                  <String ID="string_line_1618749000097_495"
+                          HEIGHT="52"
+                          WIDTH="1173"
+                          VPOS="237"
+                          HPOS="85"
+                          CONTENT="21. Juſti, Bemerk. über die Reform der proteſt. Kirchenverfaſſung . 4"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="87,291 119,295 152,299 184,302 217,304 250,306 282,307 315,308 347,308 380,308 413,308 445,308 478,308 510,307 543,307 576,307 608,307 641,307 673,307 706,309 1255,308"
+                         HEIGHT="49"
+                         WIDTH="652"
+                         VPOS="271"
+                         HPOS="87">
+                  <String ID="string_r1l8"
+                          HEIGHT="49"
+                          WIDTH="652"
+                          VPOS="271"
+                          HPOS="87"
+                          CONTENT="22. Kempf, Bedürfniſſe der evang. Kirche . . . . . . . . . 4"/>
+               </TextLine>
+               <TextLine ID="line_1618748885841_436"
+                         BASELINE="89,327 130,331 172,336 214,339 255,341 297,343 339,344 380,345 422,345 464,345 506,345 547,344 589,344 631,343 672,343 714,343 756,343 797,344 839,345 881,346 923,349 1001,352 1246,349"
+                         HEIGHT="55"
+                         WIDTH="960"
+                         VPOS="307"
+                         HPOS="89">
+                  <String ID="string_line_1618748885841_436"
+                          HEIGHT="55"
+                          WIDTH="960"
+                          VPOS="307"
+                          HPOS="89"
+                          CONTENT="23. Bröſe, Plan zur Verbeſſerung der proteſt. Kirche . . . . . 7"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="87,363 129,368 171,372 213,375 255,377 297,379 339,380 381,381 423,381 465,381 508,380 550,380 592,379 634,379 676,378 718,378 760,379 802,379 844,380 1128,387 1254,377"
+                         HEIGHT="52"
+                         WIDTH="842"
+                         VPOS="343"
+                         HPOS="87">
+                  <String ID="string_r1l11"
+                          HEIGHT="52"
+                          WIDTH="842"
+                          VPOS="343"
+                          HPOS="87"
+                          CONTENT="24. Köhler, Die Kirche und die Stände in Hannover . . . . . 8"/>
+               </TextLine>
+               <TextLine ID="line_1618749012349_502"
+                         BASELINE="87,394 119,404 292,413 318,414 344,414 370,415 396,415 422,415 448,415 474,415 500,415 526,415 552,415 578,415 604,415 630,415 656,415 682,415 708,415 734,415 760,415 786,415 1167,422 1236,415 1260,418"
+                         HEIGHT="54"
+                         WIDTH="1173"
+                         VPOS="374"
+                         HPOS="87">
+                  <String ID="string_line_1618749012349_502"
+                          HEIGHT="54"
+                          WIDTH="1173"
+                          VPOS="374"
+                          HPOS="87"
+                          CONTENT="25. - Wünſche der Landeskirche zu Nutze . . . . . . . . 8"/>
+               </TextLine>
+               <TextLine ID="line_1618749020595_506"
+                         BASELINE="85,432 123,438 162,442 200,445 239,448 278,450 316,451 355,452 394,452 432,452 471,452 510,452 548,451 587,450 626,450 664,450 703,449 742,450 780,450 819,451 858,453 873,454 898,456 923,457 948,458 973,459 998,459 1023,459 1048,459 1166,458 1242,458 1262,459"
+                         HEIGHT="57"
+                         WIDTH="1163"
+                         VPOS="412"
+                         HPOS="85">
+                  <String ID="string_line_1618749020595_506"
+                          HEIGHT="57"
+                          WIDTH="1163"
+                          VPOS="412"
+                          HPOS="85"
+                          CONTENT="26. Ueber die Verwaltung der Kirche in Hannover . . . . . . . 9"/>
+               </TextLine>
+               <TextLine ID="line_1618749027597_511"
+                         BASELINE="85,469 122,474 160,479 197,481 235,484 273,486 310,488 348,488 385,488 423,488 461,488 498,487 536,487 573,486 611,486 649,485 686,485 724,485 761,486 1128,493 1166,494 1233,488 1258,491"
+                         HEIGHT="52"
+                         WIDTH="1173"
+                         VPOS="449"
+                         HPOS="85">
+                  <String ID="string_line_1618749027597_511"
+                          HEIGHT="52"
+                          WIDTH="1173"
+                          VPOS="449"
+                          HPOS="85"
+                          CONTENT="27. Hölty, Nothwendigkeit zeitgemäßer Reformen . . . . . . . 9"/>
+               </TextLine>
+               <TextLine ID="line_1618749030445_515"
+                         BASELINE="81,508 135,512 189,516 243,519 297,521 351,522 405,523 459,524 513,524 567,524 621,524 675,524 729,523 783,523 837,523 891,523 945,524 999,525 1053,526 1107,528 1161,531 1218,530 1252,530"
+                         HEIGHT="53"
+                         WIDTH="1171"
+                         VPOS="488"
+                         HPOS="81">
+                  <String ID="string_line_1618749030445_515"
+                          HEIGHT="53"
+                          WIDTH="1171"
+                          VPOS="488"
+                          HPOS="81"
+                          CONTENT="28. Schläger, Was fordert d. Kirchen⸗ u. Schulweſen in Hannover. 21"/>
+               </TextLine>
+               <TextLine ID="line_1618749034790_519"
+                         BASELINE="91,542 128,547 166,551 204,554 242,557 280,558 318,559 356,560 394,560 432,560 470,560 507,560 545,559 583,559 621,558 659,558 697,558 735,559 773,559 811,561 1163,568 1224,563 1254,565"
+                         HEIGHT="53"
+                         WIDTH="1163"
+                         VPOS="522"
+                         HPOS="91">
+                  <String ID="string_line_1618749034790_519"
+                          HEIGHT="53"
+                          WIDTH="1163"
+                          VPOS="522"
+                          HPOS="91"
+                          CONTENT="29. Kritik über d. Entw. z. Kirchenord. f. Baiern . . . . . . . 22"/>
+               </TextLine>
+               <TextLine ID="line_1618749037460_523"
+                         BASELINE="89,576 121,581 154,585 187,589 220,592 253,594 286,595 319,596 352,596 385,596 418,596 450,595 483,595 516,594 549,593 582,593 615,593 648,593 681,594 1134,603 1167,605 1220,600 1254,600"
+                         HEIGHT="54"
+                         WIDTH="1165"
+                         VPOS="556"
+                         HPOS="89">
+                  <String ID="string_line_1618749037460_523"
+                          HEIGHT="54"
+                          WIDTH="1165"
+                          VPOS="556"
+                          HPOS="89"
+                          CONTENT="30. Rettig, Die freie proteſtantiſche Kirche . . . . . . . . . . 58"/>
+               </TextLine>
+               <TextLine ID="line_1618749039884_527"
+                         BASELINE="83,615 134,620 186,623 238,626 289,629 341,630 393,632 444,632 496,632 548,632 600,632 651,632 703,632 755,632 806,632 858,632 910,633 961,634 1013,636 1065,638 1173,641 1222,636 1250,634"
+                         HEIGHT="56"
+                         WIDTH="1167"
+                         VPOS="595"
+                         HPOS="83">
+                  <String ID="string_line_1618749039884_527"
+                          HEIGHT="56"
+                          WIDTH="1167"
+                          VPOS="595"
+                          HPOS="83"
+                          CONTENT="31. Bretſcheider, Votum über eine geforderte Verfaſſung . . . . 86"/>
+               </TextLine>
+               <TextLine ID="line_1618749042519_531"
+                         BASELINE="85,647 115,652 146,656 177,660 208,662 239,664 270,666 301,667 332,668 363,668 394,668 424,667 455,667 486,667 517,666 548,666 579,666 610,666 641,667 672,668 1168,679 1221,672 1251,674"
+                         HEIGHT="57"
+                         WIDTH="1166"
+                         VPOS="627"
+                         HPOS="85">
+                  <String ID="string_line_1618749042519_531"
+                          HEIGHT="57"
+                          WIDTH="1166"
+                          VPOS="627"
+                          HPOS="85"
+                          CONTENT="32. Weichert, Bedenken ohne Bedenken . . . . . . . . . . 88"/>
+               </TextLine>
+               <TextLine ID="line_1618749045069_535"
+                         BASELINE="85,687 136,692 188,695 239,698 291,701 342,702 394,704 445,704 497,705 548,705 600,705 651,705 703,704 754,704 806,704 857,704 909,704 960,705 1012,706 1063,708 1169,709 1219,708 1259,710"
+                         HEIGHT="53"
+                         WIDTH="1174"
+                         VPOS="667"
+                         HPOS="85">
+                  <String ID="string_line_1618749045069_535"
+                          HEIGHT="53"
+                          WIDTH="1174"
+                          VPOS="667"
+                          HPOS="85"
+                          CONTENT="33. Bauer, Bedenken über verſch. Wünſche der Kirche in Sachſen . 89"/>
+               </TextLine>
+               <TextLine ID="line_1618749047873_539"
+                         BASELINE="85,722 127,727 170,731 212,733 255,736 298,738 340,739 383,740 425,740 468,740 511,740 553,740 596,740 638,740 681,739 724,739 766,740 809,740 851,741 894,742 937,744 962,744 1164,746 1219,746 1249,748"
+                         HEIGHT="56"
+                         WIDTH="1164"
+                         VPOS="702"
+                         HPOS="85">
+                  <String ID="string_line_1618749047873_539"
+                          HEIGHT="56"
+                          WIDTH="1164"
+                          VPOS="702"
+                          HPOS="85"
+                          CONTENT="34. Müller, Verhältniß d. geiſtl. Standes zum Staate . . . . . 91"/>
+               </TextLine>
+               <TextLine ID="line_1618749050371_543"
+                         BASELINE="147,768 192,770 238,772 283,773 329,774 375,775 420,776 466,776 512,776 557,776 603,776 649,776 694,776 740,776 786,776 831,777 877,777 923,778 968,778 1014,780 1060,781 1112,786 1158,784 1202,780 1230,780 1258,780"
+                         HEIGHT="48"
+                         WIDTH="1111"
+                         VPOS="748"
+                         HPOS="147">
+                  <String ID="string_line_1618749050371_543"
+                          HEIGHT="48"
+                          WIDTH="1111"
+                          VPOS="748"
+                          HPOS="147"
+                          CONTENT="Paulus, Votum gegen Einführen von Kirchengebetsvorſch. . . 123"/>
+               </TextLine>
+               <TextLine ID="line_1618749052734_547"
+                         BASELINE="78,787 114,797 134,802 169,804 205,806 241,808 277,809 312,810 348,811 384,811 420,811 455,812 491,812 527,812 563,812 598,812 634,812 670,812 706,812 741,812 777,813 813,813 849,814 863,812 1167,823 1204,818 1230,818 1256,818"
+                         HEIGHT="60"
+                         WIDTH="1175"
+                         VPOS="768"
+                         HPOS="81">
+                  <String ID="string_line_1618749052734_547"
+                          HEIGHT="60"
+                          WIDTH="1175"
+                          VPOS="768"
+                          HPOS="81"
+                          CONTENT="35. Jahrbücher, Frankfurter. 1832. (ll. Bd. Nr. 1.) . . . . . 132"/>
+               </TextLine>
+               <TextLine ID="line_1618749054833_551"
+                         BASELINE="81,824 111,830 139,839 183,841 228,843 273,845 318,847 362,847 407,848 452,848 497,848 541,848 586,848 631,848 676,848 720,848 765,848 810,848 855,849 899,850 944,851 989,852 1034,854 1043,856 1168,859 1212,853 1254,853"
+                         HEIGHT="62"
+                         WIDTH="1173"
+                         VPOS="804"
+                         HPOS="81">
+                  <String ID="string_line_1618749054833_551"
+                          HEIGHT="62"
+                          WIDTH="1173"
+                          VPOS="804"
+                          HPOS="81"
+                          CONTENT="36. Bedenken bei einem Aufſatz in der evang. Kirchen⸗Zeitung . . . 134"/>
+               </TextLine>
+               <TextLine ID="line_1618749059557_557"
+                         BASELINE="83,864 123,870 163,874 203,877 244,880 284,882 324,883 365,884 405,885 445,885 486,884 526,884 566,884 606,883 647,883 687,883 727,883 768,883 808,884 848,886 889,888 914,889 951,891 1171,892 1206,889 1246,889"
+                         HEIGHT="61"
+                         WIDTH="1163"
+                         VPOS="844"
+                         HPOS="83">
+                  <String ID="string_line_1618749059557_557"
+                          HEIGHT="61"
+                          WIDTH="1163"
+                          VPOS="844"
+                          HPOS="83"
+                          CONTENT="37. Le Semeur. journ. relig. Du budget des cultes . . . . . . 135"/>
+               </TextLine>
+               <TextLine ID="line_1618749062567_561"
+                         BASELINE="79,897 115,903 152,908 189,912 226,915 263,918 300,919 337,920 374,921 411,921 448,921 484,921 521,920 558,920 595,920 632,920 669,920 706,920 743,921 780,923 817,925 828,922 1171,932 1208,924 1252,924"
+                         HEIGHT="58"
+                         WIDTH="1173"
+                         VPOS="877"
+                         HPOS="79">
+                  <String ID="string_line_1618749062567_561"
+                          HEIGHT="58"
+                          WIDTH="1173"
+                          VPOS="877"
+                          HPOS="79"
+                          CONTENT="38. Wendroth, Die Leiden der proteſt. Kirche . . . . . . . . 136"/>
+               </TextLine>
+               <TextLine ID="line_1618749064995_565"
+                         BASELINE="79,938 128,943 178,947 227,950 277,953 327,955 376,956 426,957 475,958 525,958 575,958 624,958 674,958 723,958 773,958 823,958 872,958 922,959 971,959 1021,961 1171,968 1204,962 1230,962 1256,962"
+                         HEIGHT="55"
+                         WIDTH="1177"
+                         VPOS="918"
+                         HPOS="79">
+                  <String ID="string_line_1618749064995_565"
+                          HEIGHT="55"
+                          WIDTH="1177"
+                          VPOS="918"
+                          HPOS="79"
+                          CONTENT="39. Trennung von Kirche und Staat. Evang. Kirchen⸗Zeitung. . . 138"/>
+               </TextLine>
+               <TextLine ID="r1l55"
+                         BASELINE="241,1012 282,1011 324,1011 366,1011 408,1011 450,1011 492,1011 533,1011 575,1012 617,1012 659,1012 701,1013 743,1013 785,1013 826,1014 868,1014 910,1015 952,1015 994,1015 1036,1015 1078,1015"
+                         HEIGHT="34"
+                         WIDTH="837"
+                         VPOS="991"
+                         HPOS="241">
+                  <String ID="string_r1l55"
+                          HEIGHT="34"
+                          WIDTH="837"
+                          VPOS="991"
+                          HPOS="241"
+                          CONTENT="Kirchliche Verfaſſung verſchiedener Länder."/>
+               </TextLine>
+               <TextLine ID="line_1618749069871_569"
+                         BASELINE="85,1047 138,1052 192,1055 246,1058 300,1060 354,1062 408,1063 462,1063 516,1063 570,1063 624,1063 677,1062 731,1062 785,1062 839,1062 893,1062 947,1062 1001,1063 1055,1065 1109,1067 1163,1070 1204,1068 1246,1068"
+                         HEIGHT="53"
+                         WIDTH="1161"
+                         VPOS="1027"
+                         HPOS="85">
+                  <String ID="string_line_1618749069871_569"
+                          HEIGHT="53"
+                          WIDTH="1161"
+                          VPOS="1027"
+                          HPOS="85"
+                          CONTENT="1. Baden. Ueberſ. der Gegenſtände, welche der Generalſ. empf. ſind. 151"/>
+               </TextLine>
+               <TextLine ID="line_1618749073101_573"
+                         BASELINE="81,1082 132,1087 183,1090 234,1094 285,1096 336,1098 387,1099 438,1099 489,1099 540,1099 591,1099 642,1099 693,1098 744,1098 795,1098 846,1098 897,1098 948,1099 999,1101 1050,1103 1101,1106 1111,1106 1138,1106 1166,1107 1202,1103 1246,1105"
+                         HEIGHT="55"
+                         WIDTH="1165"
+                         VPOS="1062"
+                         HPOS="81">
+                  <String ID="string_line_1618749073101_573"
+                          HEIGHT="55"
+                          WIDTH="1165"
+                          VPOS="1062"
+                          HPOS="81"
+                          CONTENT="2. Baiern. Kritik des Entw. zur Kirchenordn. f. d. ev.⸗prot. K. . 172"/>
+               </TextLine>
+               <TextLine ID="line_1618749078898_577"
+                         BASELINE="141,1128 186,1130 231,1132 277,1133 322,1134 367,1135 413,1135 458,1136 503,1136 549,1136 594,1135 639,1135 685,1135 730,1135 775,1135 821,1135 866,1135 911,1135 957,1136 1002,1137 1048,1138 1096,1144 1118,1144 1144,1142 1166,1142 1200,1140 1227,1140 1254,1138"
+                         HEIGHT="46"
+                         WIDTH="1113"
+                         VPOS="1108"
+                         HPOS="141">
+                  <String ID="string_line_1618749078898_577"
+                          HEIGHT="46"
+                          WIDTH="1113"
+                          VPOS="1108"
+                          HPOS="141"
+                          CONTENT="Maurer, Beleucht. d. allg. Kirchen und Gottesdienſtordn. . . 172"/>
+               </TextLine>
+               <TextLine ID="line_1618749082146_581"
+                         BASELINE="145,1164 187,1166 230,1167 273,1168 315,1169 358,1170 401,1171 443,1171 486,1171 529,1171 572,1171 614,1171 657,1171 700,1170 742,1170 785,1171 828,1171 870,1171 913,1172 956,1173 999,1174 1012,1175 1042,1177 1072,1179 1201,1176 1247,1176"
+                         HEIGHT="45"
+                         WIDTH="1102"
+                         VPOS="1144"
+                         HPOS="145">
+                  <String ID="string_line_1618749082146_581"
+                          HEIGHT="45"
+                          WIDTH="1102"
+                          VPOS="1144"
+                          HPOS="145"
+                          CONTENT="Lehmus, Bemerk. üb. Kirchen⸗ u. Gottesdienſtordnung . . . . 200"/>
+               </TextLine>
+               <TextLine ID="line_1618749085707_585"
+                         BASELINE="143,1200 188,1202 233,1204 278,1205 323,1206 368,1206 413,1207 458,1207 503,1208 548,1208 594,1208 639,1208 684,1208 729,1208 774,1208 819,1208 864,1208 909,1209 954,1209 999,1210 1045,1211 1202,1213 1248,1215"
+                         HEIGHT="45"
+                         WIDTH="1105"
+                         VPOS="1180"
+                         HPOS="143">
+                  <String ID="string_line_1618749085707_585"
+                          HEIGHT="45"
+                          WIDTH="1105"
+                          VPOS="1180"
+                          HPOS="143"
+                          CONTENT="Fuchs, Ueberſicht des Zuſtandes der proteſt. K. in Baiern . . 201"/>
+               </TextLine>
+               <TextLine ID="line_1618749088109_589"
+                         BASELINE="77,1223 128,1228 179,1234 230,1237 281,1241 333,1243 384,1244 435,1245 486,1246 537,1246 589,1246 640,1245 691,1245 742,1244 793,1244 845,1244 896,1244 947,1245 998,1246 1049,1248 1101,1251 1200,1250 1244,1250"
+                         HEIGHT="58"
+                         WIDTH="1167"
+                         VPOS="1203"
+                         HPOS="77">
+                  <String ID="string_line_1618749088109_589"
+                          HEIGHT="58"
+                          WIDTH="1167"
+                          VPOS="1203"
+                          HPOS="77"
+                          CONTENT="3. Frankfurt. Antrag, die Wahl der ev.⸗luth. Pfarrer betreffend . 226"/>
+               </TextLine>
+               <TextLine ID="line_1618749090897_593"
+                         BASELINE="75,1256 172,1273 223,1275 275,1277 326,1279 378,1280 429,1280 480,1281 532,1281 583,1281 635,1281 686,1281 737,1281 789,1281 840,1282 892,1282 943,1282 994,1283 1046,1284 1097,1286 1149,1288 1200,1286 1225,1286 1250,1286"
+                         HEIGHT="48"
+                         WIDTH="1129"
+                         VPOS="1250"
+                         HPOS="121">
+                  <String ID="string_line_1618749090897_593"
+                          HEIGHT="48"
+                          WIDTH="1129"
+                          VPOS="1250"
+                          HPOS="121"
+                          CONTENT="4. Hannover. Köhler, Die Kirche u. d. Stände im K. Hannover. 242"/>
+               </TextLine>
+               <TextLine ID="line_1618749099694_598"
+                         BASELINE="135,1306 169,1308 204,1310 238,1312 273,1313 307,1314 342,1315 376,1315 411,1316 445,1316 480,1316 515,1316 549,1315 584,1315 618,1315 653,1315 687,1316 722,1316 756,1317 791,1318 826,1319 1196,1324 1240,1324"
+                         HEIGHT="48"
+                         WIDTH="1105"
+                         VPOS="1286"
+                         HPOS="135">
+                  <String ID="string_line_1618749099694_598"
+                          HEIGHT="48"
+                          WIDTH="1105"
+                          VPOS="1286"
+                          HPOS="135"
+                          CONTENT="Köhler, Wünſche der Landeskirche zu Nutze . . . . . . . 243"/>
+               </TextLine>
+               <TextLine ID="line_1618749107669_603"
+                         BASELINE="137,1342 183,1344 229,1346 275,1348 321,1349 367,1350 413,1351 459,1352 505,1352 551,1353 597,1353 643,1353 689,1353 735,1353 781,1353 827,1353 873,1354 919,1354 965,1355 1011,1355 1057,1356 1074,1357 1122,1359 1193,1358 1241,1358"
+                         HEIGHT="47"
+                         WIDTH="1104"
+                         VPOS="1322"
+                         HPOS="137">
+                  <String ID="string_line_1618749107669_603"
+                          HEIGHT="47"
+                          WIDTH="1104"
+                          VPOS="1322"
+                          HPOS="137"
+                          CONTENT="Müller, Ueber das Verhältn. d. geiſtl. Standes z. Staate . . 245"/>
+               </TextLine>
+               <TextLine ID="line_1618749115513_609"
+                         BASELINE="145,1377 187,1381 229,1383 271,1385 313,1386 355,1387 397,1388 439,1388 481,1388 523,1388 565,1388 607,1388 649,1388 691,1387 733,1387 775,1387 817,1388 859,1389 901,1390 943,1391 986,1393 1006,1394 1016,1394 1202,1394 1240,1394"
+                         HEIGHT="47"
+                         WIDTH="1095"
+                         VPOS="1357"
+                         HPOS="145">
+                  <String ID="string_line_1618749115513_609"
+                          HEIGHT="47"
+                          WIDTH="1095"
+                          VPOS="1357"
+                          HPOS="145"
+                          CONTENT="Schläger, Was fordert das Kirchen⸗ und Schulweſen . . . . 246"/>
+               </TextLine>
+               <TextLine ID="line_1618749118205_613"
+                         BASELINE="147,1413 185,1416 224,1418 263,1420 302,1421 341,1422 380,1423 419,1423 458,1424 497,1424 536,1424 574,1424 613,1424 652,1424 691,1424 730,1424 769,1424 808,1425 847,1425 886,1426 925,1427 1194,1429 1220,1428 1246,1429"
+                         HEIGHT="46"
+                         WIDTH="1099"
+                         VPOS="1393"
+                         HPOS="147">
+                  <String ID="string_line_1618749118205_613"
+                          HEIGHT="46"
+                          WIDTH="1099"
+                          VPOS="1393"
+                          HPOS="147"
+                          CONTENT="Erwartungen der evang.⸗proteſt. Chriſtengemeinden . . . . . 246"/>
+               </TextLine>
+               <TextLine ID="line_1618749174067_617"
+                         BASELINE="81,1437 131,1443 181,1449 231,1452 281,1455 332,1458 382,1460 432,1461 482,1461 532,1462 583,1461 633,1461 683,1461 733,1460 783,1460 834,1460 884,1460 934,1460 984,1461 1034,1463 1085,1465 1195,1464 1221,1463 1247,1468"
+                         HEIGHT="61"
+                         WIDTH="1166"
+                         VPOS="1417"
+                         HPOS="81">
+                  <String ID="string_line_1618749174067_617"
+                          HEIGHT="61"
+                          WIDTH="1166"
+                          VPOS="1417"
+                          HPOS="81"
+                          CONTENT="5. Großh. Heſſen. Zimmerman, Verf. der K. u. Volksſchule . 275"/>
+               </TextLine>
+               <TextLine ID="line_1618749177157_621"
+                         BASELINE="141,1484 188,1487 235,1490 282,1492 329,1493 376,1494 423,1495 470,1496 517,1496 564,1496 611,1496 658,1496 705,1496 752,1496 799,1496 846,1497 893,1497 940,1497 987,1498 1034,1499 1082,1501 1189,1500 1216,1499 1243,1502"
+                         HEIGHT="48"
+                         WIDTH="1102"
+                         VPOS="1464"
+                         HPOS="141">
+                  <String ID="string_line_1618749177157_621"
+                          HEIGHT="48"
+                          WIDTH="1102"
+                          VPOS="1464"
+                          HPOS="141"
+                          CONTENT="Auguſti, Bemerk. über die neue Organiſation der evang. K. . 277"/>
+               </TextLine>
+               <TextLine ID="line_1618749179850_625"
+                         BASELINE="81,1507 132,1514 183,1519 234,1523 285,1527 336,1529 387,1531 438,1532 489,1533 540,1533 591,1533 642,1533 693,1533 744,1532 795,1532 846,1532 897,1532 948,1532 999,1533 1050,1535 1101,1537 1189,1536 1235,1536"
+                         HEIGHT="60"
+                         WIDTH="1154"
+                         VPOS="1487"
+                         HPOS="81">
+                  <String ID="string_line_1618749179850_625"
+                          HEIGHT="60"
+                          WIDTH="1154"
+                          VPOS="1487"
+                          HPOS="81"
+                          CONTENT="Couſin’s Bericht über den Zuſtand des Unterrichts in Deutſchland . 107"/>
+               </TextLine>
+               <TextLine ID="line_1618749182613_629"
+                         BASELINE="84,1537 110,1544 136,1550 163,1555 189,1558 215,1562 242,1563 268,1565 294,1566 321,1567 347,1568 373,1568 400,1568 426,1567 452,1567 479,1567 505,1567 531,1567 558,1567 584,1569 611,1570 1185,1573 1213,1571 1241,1571"
+                         HEIGHT="66"
+                         WIDTH="1157"
+                         VPOS="1517"
+                         HPOS="84">
+                  <String ID="string_line_1618749182613_629"
+                          HEIGHT="66"
+                          WIDTH="1157"
+                          VPOS="1517"
+                          HPOS="84"
+                          CONTENT="Schweiz. Geneve. Erſter Artikel. . . . . . . . . . . . . . 205"/>
+               </TextLine>
+               <TextLine ID="r1l92"
+                         BASELINE="334,1631 365,1632 397,1633 429,1633 461,1634 493,1634 524,1634 556,1634 588,1634 620,1635 652,1635 683,1635 715,1635 747,1635 779,1635 811,1635 842,1635 874,1635 906,1635 938,1635 970,1635"
+                         HEIGHT="34"
+                         WIDTH="636"
+                         VPOS="1611"
+                         HPOS="334">
+                  <String ID="string_r1l92"
+                          HEIGHT="34"
+                          WIDTH="636"
+                          VPOS="1611"
+                          HPOS="334"
+                          CONTENT="Kirchliche Literatur."/>
+               </TextLine>
+               <TextLine ID="line_1618749186439_633"
+                         BASELINE="83,1660 119,1667 155,1673 191,1678 227,1681 263,1684 299,1687 335,1688 371,1689 407,1689 444,1689 480,1689 516,1689 552,1689 588,1688 624,1688 660,1688 696,1688 732,1689 768,1690 805,1692 1196,1695 1221,1697 1246,1697"
+                         HEIGHT="67"
+                         WIDTH="1163"
+                         VPOS="1640"
+                         HPOS="83">
+                  <String ID="string_line_1618749186439_633"
+                          HEIGHT="67"
+                          WIDTH="1163"
+                          VPOS="1640"
+                          HPOS="83"
+                          CONTENT="Eylert, Rede zum Krönungs⸗ und Ordensfeſte . . . . . . . . 121"/>
+               </TextLine>
+               <TextLine ID="line_1618749190585_637"
+                         BASELINE="81,1696 122,1703 163,1709 204,1715 245,1718 286,1722 327,1723 368,1725 409,1726 450,1726 491,1726 532,1725 573,1725 614,1724 655,1724 696,1723 737,1724 778,1724 819,1725 860,1727 901,1729 912,1729 922,1729 1190,1734 1215,1732 1240,1732"
+                         HEIGHT="68"
+                         WIDTH="1159"
+                         VPOS="1676"
+                         HPOS="81">
+                  <String ID="string_line_1618749190585_637"
+                          HEIGHT="68"
+                          WIDTH="1159"
+                          VPOS="1676"
+                          HPOS="81"
+                          CONTENT="Nitzſch, Predigten aus der Amtsführ. letzverg. Jahre . . . . . . 224"/>
+               </TextLine>
+               <TextLine ID="line_1618749193405_641"
+                         BASELINE="77,1728 109,1736 142,1742 175,1747 208,1752 241,1755 273,1757 306,1759 339,1760 372,1761 405,1761 437,1761 470,1761 503,1760 536,1760 568,1759 601,1759 634,1759 667,1759 700,1760 733,1762 1190,1769 1219,1768 1248,1771"
+                         HEIGHT="73"
+                         WIDTH="1171"
+                         VPOS="1708"
+                         HPOS="77">
+                  <String ID="string_line_1618749193405_641"
+                          HEIGHT="73"
+                          WIDTH="1171"
+                          VPOS="1708"
+                          HPOS="77"
+                          CONTENT="Friedrich, Chriſtliche Vorträge. 3te Aufl. . . . . . . . . . 232"/>
+               </TextLine>
+               <TextLine ID="line_1618749195917_645"
+                         BASELINE="83,1765 121,1773 160,1780 198,1785 237,1790 276,1792 314,1794 353,1796 391,1797 430,1797 469,1797 507,1796 546,1796 584,1795 623,1795 662,1795 700,1796 739,1797 777,1799 816,1801 855,1805 1190,1806 1218,1804 1246,1806"
+                         HEIGHT="71"
+                         WIDTH="1163"
+                         VPOS="1745"
+                         HPOS="83">
+                  <String ID="string_line_1618749195917_645"
+                          HEIGHT="71"
+                          WIDTH="1163"
+                          VPOS="1745"
+                          HPOS="83"
+                          CONTENT="Kling, Predigten über verſchiedene Texte . . . . . . . . . . 234"/>
+               </TextLine>
+               <TextLine ID="line_1618749200159_649"
+                         BASELINE="83,1798 109,1806 136,1812 163,1818 190,1821 217,1825 244,1827 271,1830 298,1831 325,1832 352,1832 378,1832 405,1832 432,1832 459,1831 486,1831 513,1831 540,1831 567,1831 594,1832 621,1833 634,1834 644,1834 1190,1842 1218,1840 1246,1842"
+                         HEIGHT="74"
+                         WIDTH="1163"
+                         VPOS="1778"
+                         HPOS="83">
+                  <String ID="string_line_1618749200159_649"
+                          HEIGHT="74"
+                          WIDTH="1163"
+                          VPOS="1778"
+                          HPOS="83"
+                          CONTENT="Rupſtein, Auswahl von Predigten . . . . . . . . . . . . 234"/>
+               </TextLine>
+               <TextLine ID="line_1618749203433_653"
+                         BASELINE="81,1839 126,1847 171,1854 216,1859 262,1864 307,1866 352,1868 398,1869 443,1869 488,1869 534,1869 579,1868 624,1867 669,1867 715,1866 760,1866 805,1867 851,1868 896,1870 941,1874 987,1879 1003,1877 1033,1877 1064,1877 1095,1877 1196,1876 1232,1876"
+                         HEIGHT="70"
+                         WIDTH="1151"
+                         VPOS="1819"
+                         HPOS="81">
+                  <String ID="string_line_1618749203433_653"
+                          HEIGHT="70"
+                          WIDTH="1151"
+                          VPOS="1819"
+                          HPOS="81"
+                          CONTENT="Holzapfel, Predigten über einen frei gewählten Abſchn. d. h. S. . 235"/>
+               </TextLine>
+               <TextLine ID="line_1618749207933_657"
+                         BASELINE="77,1871 119,1880 161,1887 204,1893 246,1897 289,1901 331,1903 373,1905 416,1906 458,1906 501,1906 543,1905 585,1904 628,1903 670,1903 713,1903 755,1903 797,1903 840,1905 882,1908 925,1911 1196,1911 1238,1911"
+                         HEIGHT="70"
+                         WIDTH="1161"
+                         VPOS="1851"
+                         HPOS="77">
+                  <String ID="string_line_1618749207933_657"
+                          HEIGHT="70"
+                          WIDTH="1161"
+                          VPOS="1851"
+                          HPOS="77"
+                          CONTENT="Möller, Predigten über die Beſtimmung des Menſchen . . . . . 239"/>
+               </TextLine>
+               <TextLine ID="line_1618749212017_661"
+                         BASELINE="79,1907 121,1916 164,1924 207,1929 250,1934 293,1938 335,1939 378,1941 421,1941 464,1941 507,1941 549,1940 592,1939 635,1938 678,1938 721,1938 763,1938 806,1939 849,1941 892,1945 935,1950 946,1945 964,1947 1185,1948 1212,1945 1239,1948"
+                         HEIGHT="73"
+                         WIDTH="1160"
+                         VPOS="1887"
+                         HPOS="79">
+                  <String ID="string_line_1618749212017_661"
+                          HEIGHT="73"
+                          WIDTH="1160"
+                          VPOS="1887"
+                          HPOS="79"
+                          CONTENT="Dietrich, Predigten über ſämmtl. Evangel. u. Epiſteln . . . . . 249"/>
+               </TextLine>
+               <TextLine ID="line_1618749216027_665"
+                         BASELINE="77,1939 114,1949 151,1956 188,1963 225,1968 262,1971 299,1974 336,1976 373,1977 410,1977 447,1977 484,1976 521,1975 558,1974 595,1974 632,1973 669,1973 706,1973 743,1975 780,1976 818,1979 1054,1987 1080,1985 1194,1982 1236,1980"
+                         HEIGHT="78"
+                         WIDTH="1159"
+                         VPOS="1919"
+                         HPOS="77">
+                  <String ID="string_line_1618749216027_665"
+                          HEIGHT="78"
+                          WIDTH="1159"
+                          VPOS="1919"
+                          HPOS="77"
+                          CONTENT="Kochen, Caſualpredigten und kleinere Amtsreden . . . . . . . 250"/>
+               </TextLine>
+               <TextLine ID="line_1618749218832_669"
+                         BASELINE="80,1971 106,1981 133,1989 159,1994 186,1999 213,2003 239,2006 266,2009 293,2010 319,2011 346,2011 373,2011 399,2011 426,2011 453,2012 1191,2018 1237,2022"
+                         HEIGHT="81"
+                         WIDTH="1157"
+                         VPOS="1951"
+                         HPOS="80">
+                  <String ID="string_line_1618749218832_669"
+                          HEIGHT="81"
+                          WIDTH="1157"
+                          VPOS="1951"
+                          HPOS="80"
+                          CONTENT="Redlich, Caſualpredigten . . . . . . . . . . . . . . . . 251"/>
+               </TextLine>
+               <TextLine ID="line_1618749221350_673"
+                         BASELINE="77,2014 123,2023 170,2031 217,2037 263,2041 310,2044 357,2047 403,2048 450,2049 497,2049 544,2049 590,2049 637,2048 684,2048 730,2048 777,2048 824,2048 870,2049 917,2051 964,2054 1011,2058 1191,2056 1237,2058"
+                         HEIGHT="74"
+                         WIDTH="1160"
+                         VPOS="1994"
+                         HPOS="77">
+                  <String ID="string_line_1618749221350_673"
+                          HEIGHT="74"
+                          WIDTH="1160"
+                          VPOS="1994"
+                          HPOS="77"
+                          CONTENT="Couard, Predigten über die Bekehrung des Apoſtels Paulus . . . 251"/>
+               </TextLine>
+               <TextLine ID="r1l120"
+                         BASELINE="418,2115 444,2114 470,2114 496,2113 522,2113 548,2113 574,2113 600,2114 626,2114 653,2115 679,2116 705,2117 731,2117 757,2118 783,2119 809,2119 835,2120 861,2120 888,2121"
+                         HEIGHT="38"
+                         WIDTH="470"
+                         VPOS="2093"
+                         HPOS="418">
+                  <String ID="string_r1l120"
+                          HEIGHT="38"
+                          WIDTH="470"
+                          VPOS="2093"
+                          HPOS="418"
+                          CONTENT="Neue Auflagen."/>
+               </TextLine>
+               <TextLine ID="line_1618749226173_677"
+                         BASELINE="78,2124 104,2133 130,2141 156,2148 182,2154 208,2158 234,2161 260,2164 286,2166 312,2167 338,2169 364,2169 390,2170 413,2171 448,2169 483,2169 929,2177 955,2179 981,2175 1204,2177 1243,2182"
+                         HEIGHT="88"
+                         WIDTH="1165"
+                         VPOS="2104"
+                         HPOS="78">
+                  <String ID="string_line_1618749226173_677"
+                          HEIGHT="88"
+                          WIDTH="1165"
+                          VPOS="2104"
+                          HPOS="78"
+                          CONTENT="Umbreit, das Buch Hiob . . . . . . . . . . . . . . . 63"/>
+               </TextLine>
+               <TextLine ID="line_1618749230095_681"
+                         BASELINE="80,2162 106,2172 132,2180 158,2186 184,2190 210,2195 236,2198 262,2201 288,2202 314,2203 340,2204 366,2205 393,2206 423,2206 448,2206 474,2205 500,2205 525,2205 551,2205 577,2205 602,2205 628,2205 654,2206 679,2206 705,2207 731,2207 756,2208 782,2208 808,2209 1197,2214 1222,2216 1247,2216"
+                         HEIGHT="84"
+                         WIDTH="1167"
+                         VPOS="2142"
+                         HPOS="80">
+                  <String ID="string_line_1618749230095_681"
+                          HEIGHT="84"
+                          WIDTH="1167"
+                          VPOS="2142"
+                          HPOS="80"
+                          CONTENT="Tholuck, Commentar zum Evangelio Johannis . . . . . . . 63"/>
+               </TextLine>
+               <TextLine ID="r1l128"
+                         BASELINE="81,2207 139,2218 197,2225 256,2232 314,2237 373,2240 431,2243 489,2245 548,2246 606,2246 665,2246 723,2245 781,2245 840,2245 898,2245 957,2245 1015,2246 1073,2247 1132,2250 1190,2254 1249,2259"
+                         HEIGHT="82"
+                         WIDTH="1168"
+                         VPOS="2187"
+                         HPOS="81">
+                  <String ID="string_r1l128"
+                          HEIGHT="82"
+                          WIDTH="1168"
+                          VPOS="2187"
+                          HPOS="81"
+                          CONTENT="Zimmermann, De vi atque sensu formulae δικαιοσύνη θεου . . 64"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

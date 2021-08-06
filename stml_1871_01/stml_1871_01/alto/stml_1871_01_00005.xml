@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:39:58.549+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2340" WIDTH="1419">
+         <TopMargin HEIGHT="0" WIDTH="1419" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2340" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2340" WIDTH="0" VPOS="0" HPOS="1419"/>
+         <BottomMargin HEIGHT="0" WIDTH="1419" VPOS="2340" HPOS="0"/>
+         <PrintSpace HEIGHT="2340" WIDTH="1419" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2110" WIDTH="1284" VPOS="153" HPOS="79">
+               <Shape>
+                  <Polygon POINTS="79,155 79,2263 1363,2261 1363,153"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="413,175 442,177 472,178 502,178 532,179 562,179 592,180 621,180 651,180 681,180 711,180 741,179 771,179 801,179 830,179 860,179 890,179 920,179 950,179 980,179 1010,180"
+                         HEIGHT="35"
+                         WIDTH="597"
+                         VPOS="155"
+                         HPOS="413">
+                  <String ID="string_r1l1"
+                          HEIGHT="35"
+                          WIDTH="597"
+                          VPOS="155"
+                          HPOS="413"
+                          CONTENT="Inhalt des erſten Bandes."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="90,311 120,309 150,309 181,308 211,308 241,308 272,308 302,309 332,310 363,310 393,311 423,312 454,313 484,313 514,314 545,314 575,314 605,314 636,313 666,312 1354,310"
+                         HEIGHT="36"
+                         WIDTH="607"
+                         VPOS="288"
+                         HPOS="90">
+                  <String ID="string_r1l2"
+                          HEIGHT="36"
+                          WIDTH="607"
+                          VPOS="288"
+                          HPOS="90"
+                          CONTENT="Deutſche Nationalkirche. (Pachtler, S. J.) . . . . . . . 1"/>
+               </TextLine>
+               <TextLine ID="line_1614864859710_653"
+                         BASELINE="87,345 113,344 140,343 166,342 193,342 220,342 246,342 273,343 299,344 326,346 353,349 397,346 438,347 479,348 520,348 561,348 602,348 643,349 684,348 725,348 766,348 808,348 849,348 890,347 931,347 972,347 1013,346 1054,346 1095,346 1136,346 1177,345 1219,346"
+                         HEIGHT="37"
+                         WIDTH="1132"
+                         VPOS="322"
+                         HPOS="87">
+                  <String ID="string_line_1614864859710_653"
+                          HEIGHT="37"
+                          WIDTH="1132"
+                          VPOS="322"
+                          HPOS="87"
+                          CONTENT="Eine „altkatholiſche“ Erklärung mit katholiſcher Überſetzung und erläuternden"/>
+               </TextLine>
+               <TextLine ID="line_1614864881608_663"
+                         BASELINE="194,375 220,376 246,378 272,379 298,381 324,382 350,382 376,381 404,382 414,382 432,383 457,384 482,384 508,384 533,384 559,384 584,383 610,383 635,383 661,383 686,384 1347,378"
+                         HEIGHT="40"
+                         WIDTH="518"
+                         VPOS="355"
+                         HPOS="194">
+                  <String ID="string_line_1614864881608_663"
+                          HEIGHT="40"
+                          WIDTH="518"
+                          VPOS="355"
+                          HPOS="194"
+                          CONTENT="Anmerkungen (R. Cornely, S. J.) . . . . . . 18"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="85,415 141,417 198,419 255,420 311,421 368,422 425,423 481,423 538,423 595,423 652,423 708,423 765,423 822,423 878,422 935,422 992,422 1048,422 1105,422 1162,421 1342,416"
+                         HEIGHT="38"
+                         WIDTH="1134"
+                         VPOS="390"
+                         HPOS="90">
+                  <String ID="string_r1l8"
+                          HEIGHT="38"
+                          WIDTH="1134"
+                          VPOS="390"
+                          HPOS="90"
+                          CONTENT="Die Kataſtrophe von Paris als äußerſte Folge des Liberalismus. (Pachtler, S. J.) 31"/>
+               </TextLine>
+               <TextLine ID="line_1614864894935_669"
+                         BASELINE="86,445 139,447 192,449 246,450 299,451 352,452 406,453 459,453 512,454 566,454 619,454 672,454 726,454 779,454 832,454 886,454 939,454 992,454 1046,454 1099,454 1153,454 1164,453 1192,453 1346,454"
+                         HEIGHT="42"
+                         WIDTH="1134"
+                         VPOS="425"
+                         HPOS="86">
+                  <String ID="string_line_1614864894935_669"
+                          HEIGHT="42"
+                          WIDTH="1134"
+                          VPOS="425"
+                          HPOS="86"
+                          CONTENT="Das Jubiläum des heiligen Vaters am 16. Juni 1871. (A. Schmitz, S. J.) 44"/>
+               </TextLine>
+               <TextLine ID="line_1614864900654_674"
+                         BASELINE="86,480 120,482 155,483 190,485 225,486 260,487 294,487 329,488 364,488 399,489 434,489 468,489 503,489 538,489 573,489 608,489 642,489 677,490 712,490 747,490 782,490 799,489 825,487 852,488 1341,484"
+                         HEIGHT="40"
+                         WIDTH="793"
+                         VPOS="460"
+                         HPOS="86">
+                  <String ID="string_line_1614864900654_674"
+                          HEIGHT="40"
+                          WIDTH="793"
+                          VPOS="460"
+                          HPOS="86"
+                          CONTENT="Romanismus und Germanismus. (R. Bauer, S. J.) . . . . 95"/>
+               </TextLine>
+               <TextLine ID="line_1614864906594_679"
+                         BASELINE="89,517 136,518 183,520 230,522 277,522 324,523 371,524 418,524 465,525 512,525 559,525 606,525 653,525 700,525 747,525 794,525 841,525 888,525 935,525 982,526 1030,527 1214,521 1242,523 1350,522"
+                         HEIGHT="40"
+                         WIDTH="1181"
+                         VPOS="497"
+                         HPOS="89">
+                  <String ID="string_line_1614864906594_679"
+                          HEIGHT="40"
+                          WIDTH="1181"
+                          VPOS="497"
+                          HPOS="89"
+                          CONTENT="Das „Princip“ der Nicht-Intervention. I. II. (Pachtler, S. J.) . 107. 196."/>
+               </TextLine>
+               <TextLine ID="line_1614864923532_684"
+                         BASELINE="89,550 116,553 144,555 172,557 200,559 219,559 244,559 270,559 296,560 321,560 347,560 373,560 399,560 424,561 450,561 476,561 502,561 527,561 553,561 579,561 605,561 630,561 656,560 682,560 708,559 1224,558 1348,552"
+                         HEIGHT="41"
+                         WIDTH="1181"
+                         VPOS="530"
+                         HPOS="89">
+                  <String ID="string_line_1614864923532_684"
+                          HEIGHT="41"
+                          WIDTH="1181"
+                          VPOS="530"
+                          HPOS="89"
+                          CONTENT="Ecuador. I. II. (G. Schneemann, S. J.) . . . . . 121. 207."/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="81,590 137,592 193,593 250,594 306,595 363,596 419,596 475,596 532,596 588,596 645,596 701,596 757,596 814,595 870,595 927,595 983,595 1039,594 1096,594 1152,594 1209,594"
+                         HEIGHT="36"
+                         WIDTH="1128"
+                         VPOS="570"
+                         HPOS="81">
+                  <String ID="string_r1l18"
+                          HEIGHT="36"
+                          WIDTH="1128"
+                          VPOS="570"
+                          HPOS="81"
+                          CONTENT="Die Arbeiterfrage und die chriſtlich⸗ethiſchen Socialprincipien. I. II. III."/>
+               </TextLine>
+               <TextLine ID="line_1614864930624_690"
+                         BASELINE="193,629 231,631 259,631 288,631 316,632 345,632 373,632 402,631 422,632 454,632 1134,630 1159,630 1184,630 1210,630 1235,630 1355,631"
+                         HEIGHT="32"
+                         WIDTH="1058"
+                         VPOS="610"
+                         HPOS="203">
+                  <String ID="string_line_1614864930624_690"
+                          HEIGHT="32"
+                          WIDTH="1058"
+                          VPOS="610"
+                          HPOS="203"
+                          CONTENT="(Th. Meyer, S. J.) . . . . . . . 131. 292. 498"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="87,663 120,664 153,664 186,665 220,665 253,666 286,666 319,666 353,667 386,667 419,667 452,667 486,667 519,668 552,667 585,667 619,667 652,667 685,666 718,666 1351,665"
+                         HEIGHT="35"
+                         WIDTH="665"
+                         VPOS="643"
+                         HPOS="87">
+                  <String ID="string_r1l22"
+                          HEIGHT="35"
+                          WIDTH="665"
+                          VPOS="643"
+                          HPOS="87"
+                          CONTENT="Die römiſch⸗deutſche Frage. (Fl. Rieß, S. J.) . . . . . . 177"/>
+               </TextLine>
+               <TextLine ID="line_1614864944147_696"
+                         BASELINE="94,699 120,699 146,700 172,700 198,701 224,701 250,701 276,701 302,701 328,701 354,701 380,701 406,701 432,702 458,702 484,702 510,702 536,702 562,702 589,702 605,703 631,703 657,702 684,702 710,701 736,701 763,701 789,700 815,700 1357,700"
+                         HEIGHT="34"
+                         WIDTH="748"
+                         VPOS="679"
+                         HPOS="94">
+                  <String ID="string_line_1614864944147_696"
+                          HEIGHT="34"
+                          WIDTH="748"
+                          VPOS="679"
+                          HPOS="94"
+                          CONTENT="Zur Geſchichte der Internationale. (Pachtler, S. J.) . . . . . 224"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="87,736 143,737 200,737 257,737 314,737 370,737 427,737 484,737 541,737 597,737 654,736 711,736 768,736 824,736 881,735 938,735 995,735 1051,735 1108,736 1165,736 1222,737"
+                         HEIGHT="32"
+                         WIDTH="1135"
+                         VPOS="715"
+                         HPOS="87">
+                  <String ID="string_r1l25"
+                          HEIGHT="32"
+                          WIDTH="1135"
+                          VPOS="715"
+                          HPOS="87"
+                          CONTENT="Die Reſolutionen des Münchener Proteſtkatholiken-Congreſſes. Offener Brief"/>
+               </TextLine>
+               <TextLine ID="line_1614864950242_702"
+                         BASELINE="191,772 223,772 255,771 288,771 320,771 352,771 385,771 417,771 449,771 482,772 514,772 546,772 579,772 611,772 643,772 676,772 708,772 740,772 773,772 805,772 838,771 894,770 921,771 948,771 975,771 1002,771 1029,771 1057,771 1084,771 1111,772 1138,773 1165,774 1344,771"
+                         HEIGHT="36"
+                         WIDTH="1002"
+                         VPOS="750"
+                         HPOS="191">
+                  <String ID="string_line_1614864950242_702"
+                          HEIGHT="36"
+                          WIDTH="1002"
+                          VPOS="750"
+                          HPOS="191"
+                          CONTENT="an das Redactions⸗Comité der Verſammlung (R. Cornely. S. J.) . 273"/>
+               </TextLine>
+               <TextLine ID="line_1614864952548_706"
+                         BASELINE="91,808 127,808 163,807 199,807 235,807 271,807 307,807 343,808 379,808 415,808 451,808 487,808 523,809 559,809 595,809 631,809 667,809 703,808 739,808 775,808 812,807 858,804 884,806 911,807 938,808 965,808 991,808 1018,807 1318,809 1345,809"
+                         HEIGHT="35"
+                         WIDTH="981"
+                         VPOS="784"
+                         HPOS="91">
+                  <String ID="string_line_1614864952548_706"
+                          HEIGHT="35"
+                          WIDTH="981"
+                          VPOS="784"
+                          HPOS="91"
+                          CONTENT="Die geographiſche Ausbreitung der Internationale. (Pachtler, S. J.) . . 304"/>
+               </TextLine>
+               <TextLine ID="line_1614864974100_715"
+                         BASELINE="87,844 116,844 145,843 164,841 198,841 232,842 267,842 301,842 336,843 370,843 404,843 439,843 473,843 508,843 542,843 576,843 611,843 645,843 680,843 714,843 748,843 783,843 817,843 852,843 894,842 920,843 947,844 973,844 1000,843 1026,843 1053,843 1079,842 1106,842 1132,841 1159,841 1185,841 1212,842"
+                         HEIGHT="33"
+                         WIDTH="1125"
+                         VPOS="821"
+                         HPOS="87">
+                  <String ID="string_line_1614864974100_715"
+                          HEIGHT="33"
+                          WIDTH="1125"
+                          VPOS="821"
+                          HPOS="87"
+                          CONTENT="Über die verbindende Kraft des Gewohnheitsrechtes. Randgloſſen zu einem"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="194,877 240,878 287,878 334,879 381,879 428,880 475,880 522,880 569,880 616,880 663,879 709,879 756,879 803,879 850,879 897,878 944,878 991,878 1038,878 1085,878 1349,877"
+                         HEIGHT="33"
+                         WIDTH="938"
+                         VPOS="857"
+                         HPOS="194">
+                  <String ID="string_r1l33"
+                          HEIGHT="33"
+                          WIDTH="938"
+                          VPOS="857"
+                          HPOS="194"
+                          CONTENT="modernen kirchenrechtlichen Lehrſatz. (P. v. Hammerſtein, S. J.) . 319"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="85,913 125,913 165,913 205,913 245,914 285,914 325,914 365,914 405,914 445,914 485,914 525,914 565,915 605,915 645,915 685,915 725,915 765,914 805,914 845,914 1348,912"
+                         HEIGHT="32"
+                         WIDTH="801"
+                         VPOS="893"
+                         HPOS="85">
+                  <String ID="string_r1l34"
+                          HEIGHT="32"
+                          WIDTH="801"
+                          VPOS="893"
+                          HPOS="85"
+                          CONTENT="Das große abendländiſche Schisma. (R. Bauer, S. J.) . . . . 332"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="84,947 140,948 196,949 252,949 308,949 365,950 421,950 477,950 533,950 589,950 646,950 702,950 758,949 814,949 870,949 927,949 983,949 1039,949 1095,949 1151,949 1342,947"
+                         HEIGHT="33"
+                         WIDTH="1124"
+                         VPOS="927"
+                         HPOS="84">
+                  <String ID="string_r1l35"
+                          HEIGHT="33"
+                          WIDTH="1124"
+                          VPOS="927"
+                          HPOS="84"
+                          CONTENT="Der Cultusminiſter von Bayern und das Placet. (G. Schneemann, S. J.) 357"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="83,985 118,985 154,986 190,986 226,986 262,987 298,987 333,987 369,987 405,988 441,988 477,988 513,988 549,988 584,988 620,988 656,987 692,987 728,987 764,986 1349,984"
+                         HEIGHT="33"
+                         WIDTH="717"
+                         VPOS="963"
+                         HPOS="89">
+                  <String ID="string_r1l36"
+                          HEIGHT="33"
+                          WIDTH="717"
+                          VPOS="963"
+                          HPOS="89"
+                          CONTENT="Was iſt die Utrechter Kirche? (R. Bauer, S. J.) . . . . . 376"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="81,1019 124,1019 167,1020 211,1020 254,1020 297,1020 341,1021 384,1021 427,1021 471,1021 514,1021 557,1021 601,1021 644,1020 687,1020 731,1020 774,1020 817,1020 861,1020 904,1019 1348,1016"
+                         HEIGHT="32"
+                         WIDTH="867"
+                         VPOS="999"
+                         HPOS="81">
+                  <String ID="string_r1l37"
+                          HEIGHT="32"
+                          WIDTH="867"
+                          VPOS="999"
+                          HPOS="81"
+                          CONTENT="Rom und die Anfänge Deutſchlands. I. (Fl. Rieß, S. J.) . . . 394"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="82,1053 138,1054 195,1055 252,1056 308,1056 365,1056 422,1056 478,1056 535,1056 592,1056 649,1056 705,1056 762,1056 819,1055 875,1055 932,1055 989,1055 1045,1055 1102,1055 1159,1056 1346,1052"
+                         HEIGHT="33"
+                         WIDTH="1134"
+                         VPOS="1033"
+                         HPOS="82">
+                  <String ID="string_r1l38"
+                          HEIGHT="33"
+                          WIDTH="1134"
+                          VPOS="1033"
+                          HPOS="82"
+                          CONTENT="Der Darwinismus und die Sprachwiſſenſchaft. 1. (J. Knabenbauer, S. J.) 405"/>
+               </TextLine>
+               <TextLine ID="line_1614865004392_725"
+                         BASELINE="83,1088 127,1089 172,1090 216,1090 261,1091 305,1091 350,1092 394,1092 439,1092 483,1092 528,1092 573,1092 617,1092 662,1092 706,1092 751,1092 795,1092 840,1091 884,1091 929,1091 974,1091 1062,1095 1341,1089"
+                         HEIGHT="37"
+                         WIDTH="995"
+                         VPOS="1068"
+                         HPOS="83">
+                  <String ID="string_line_1614865004392_725"
+                          HEIGHT="37"
+                          WIDTH="995"
+                          VPOS="1068"
+                          HPOS="83"
+                          CONTENT="Der Gehorſam in der Geſellſchaft Jeſu. (R. Cornely, S. J.) . . . 453"/>
+               </TextLine>
+               <TextLine ID="line_1614865011630_730"
+                         BASELINE="89,1123 114,1123 140,1124 166,1125 191,1126 217,1126 243,1126 268,1126 294,1127 320,1127 345,1127 371,1127 397,1127 422,1127 448,1127 474,1127 499,1127 525,1128 551,1128 577,1128 589,1127 1350,1126"
+                         HEIGHT="35"
+                         WIDTH="542"
+                         VPOS="1103"
+                         HPOS="89">
+                  <String ID="string_line_1614865011630_730"
+                          HEIGHT="35"
+                          WIDTH="542"
+                          VPOS="1103"
+                          HPOS="89"
+                          CONTENT="Indiſches. I. (Frid. Piscalar, S. J.) . . . . . . . 466"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="82,1159 138,1160 195,1161 251,1162 308,1163 365,1163 421,1163 478,1163 535,1163 591,1163 648,1163 705,1162 761,1162 818,1162 875,1162 931,1161 988,1161 1045,1161 1101,1161 1158,1162 1215,1162"
+                         HEIGHT="34"
+                         WIDTH="1133"
+                         VPOS="1139"
+                         HPOS="82">
+                  <String ID="string_r1l43"
+                          HEIGHT="34"
+                          WIDTH="1133"
+                          VPOS="1139"
+                          HPOS="82"
+                          CONTENT="Geſchichte der Auflehnung gegen die päpſtliche Auctorität. II. Gregor XII."/>
+               </TextLine>
+               <TextLine ID="line_1614865018330_736"
+                         BASELINE="193,1196 219,1197 245,1197 271,1197 297,1197 323,1198 349,1198 375,1198 401,1199 427,1199 453,1199 479,1199 505,1199 531,1200 557,1200 589,1199 614,1198 640,1198 665,1198 691,1197 717,1197 742,1197 768,1197 793,1197 819,1196 1349,1198"
+                         HEIGHT="34"
+                         WIDTH="652"
+                         VPOS="1176"
+                         HPOS="193">
+                  <String ID="string_line_1614865018330_736"
+                          HEIGHT="34"
+                          WIDTH="652"
+                          VPOS="1176"
+                          HPOS="193"
+                          CONTENT="und das Piſaner Concil. (R. Bauer, S. J.) . . . . . 479"/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="85,1232 142,1233 199,1233 256,1233 313,1233 370,1234 427,1234 485,1234 542,1234 599,1234 656,1234 713,1234 770,1233 827,1233 885,1233 942,1233 999,1233 1056,1233 1113,1233 1170,1233 1247,1236"
+                         HEIGHT="32"
+                         WIDTH="1143"
+                         VPOS="1212"
+                         HPOS="85">
+                  <String ID="string_r1l46"
+                          HEIGHT="32"
+                          WIDTH="1143"
+                          VPOS="1212"
+                          HPOS="85"
+                          CONTENT="Iſt die lehramtliche Unfehlbarkeit des Papſtes eine Gefahr für die Staaten?"/>
+               </TextLine>
+               <TextLine ID="line_1614865024940_742"
+                         BASELINE="198,1268 223,1269 249,1269 274,1269 300,1270 326,1273 336,1271 363,1269 390,1269 1348,1272"
+                         HEIGHT="35"
+                         WIDTH="220"
+                         VPOS="1248"
+                         HPOS="198">
+                  <String ID="string_line_1614865024940_742"
+                          HEIGHT="35"
+                          WIDTH="220"
+                          VPOS="1248"
+                          HPOS="198"
+                          CONTENT="(Pachtler, S. J.) . . . . . . . . . . 511"/>
+               </TextLine>
+               <TextLine ID="r1l49"
+                         BASELINE="546,1331 572,1332 598,1332 624,1332 650,1332 676,1331 702,1331 729,1331 755,1331 781,1331 807,1331 833,1331 859,1332 886,1332"
+                         HEIGHT="31"
+                         WIDTH="340"
+                         VPOS="1311"
+                         HPOS="546">
+                  <String ID="string_r1l49"
+                          HEIGHT="31"
+                          WIDTH="340"
+                          VPOS="1311"
+                          HPOS="546"
+                          CONTENT="Kirchliche Actenſtücke."/>
+               </TextLine>
+               <TextLine ID="line_1614865034246_749"
+                         BASELINE="85,1380 111,1382 137,1382 163,1384 189,1385 215,1385 241,1386 267,1387 293,1387 319,1388 345,1388 371,1388 397,1388 423,1388 449,1388 475,1388 501,1388 527,1388 554,1387 582,1388 614,1388 647,1388 680,1389 713,1389 745,1389 778,1389 811,1389 844,1390 876,1390 909,1390 942,1390 975,1389 1007,1389 1040,1389 1073,1389 1106,1389 1138,1389 1171,1388 1204,1388 1237,1387"
+                         HEIGHT="40"
+                         WIDTH="1152"
+                         VPOS="1360"
+                         HPOS="85">
+                  <String ID="string_line_1614865034246_749"
+                          HEIGHT="40"
+                          WIDTH="1152"
+                          VPOS="1360"
+                          HPOS="85"
+                          CONTENT="Encyclika des heiligen Vaters vom 15. Mai 1871. (Proteſt gegen das"/>
+               </TextLine>
+               <TextLine ID="r1l52"
+                         BASELINE="192,1419 218,1421 244,1422 271,1423 297,1424 323,1424 350,1424 376,1424 402,1424 429,1424 455,1424 481,1423 508,1423 534,1423 560,1423 587,1424 613,1424 1348,1419"
+                         HEIGHT="36"
+                         WIDTH="448"
+                         VPOS="1399"
+                         HPOS="192">
+                  <String ID="string_r1l52"
+                          HEIGHT="36"
+                          WIDTH="448"
+                          VPOS="1399"
+                          HPOS="192"
+                          CONTENT="piemonteſiſche Garantieengeſetz.) . . . . . . 69"/>
+               </TextLine>
+               <TextLine ID="line_1614865040268_754"
+                         BASELINE="85,1450 110,1451 136,1452 162,1453 188,1454 214,1456 239,1456 265,1457 291,1458 317,1459 343,1459 369,1460 394,1460 420,1460 446,1460 472,1460 498,1459 524,1459 553,1459 586,1459 619,1460 653,1460 686,1460 719,1460 753,1460 786,1460 819,1459 853,1459 886,1459 919,1459 953,1458 986,1458 1019,1458 1053,1458 1086,1457 1119,1457 1153,1457 1186,1457 1220,1458"
+                         HEIGHT="40"
+                         WIDTH="1135"
+                         VPOS="1430"
+                         HPOS="85">
+                  <String ID="string_line_1614865040268_754"
+                          HEIGHT="40"
+                          WIDTH="1135"
+                          VPOS="1430"
+                          HPOS="85"
+                          CONTENT="Encyclika des heiligen Vaters vom 4. Juni. (Für die Jubiläumsfeier am"/>
+               </TextLine>
+               <TextLine ID="r1l55"
+                         BASELINE="202,1487 228,1491 255,1493 281,1493 308,1494 334,1494 361,1494 387,1494 1347,1493"
+                         HEIGHT="38"
+                         WIDTH="212"
+                         VPOS="1467"
+                         HPOS="202">
+                  <String ID="string_r1l55"
+                          HEIGHT="38"
+                          WIDTH="212"
+                          VPOS="1467"
+                          HPOS="202"
+                          CONTENT="16. Juni 1871.) . . . . . . . . . . 79"/>
+               </TextLine>
+               <TextLine ID="r1l56"
+                         BASELINE="84,1521 141,1523 198,1525 255,1526 312,1528 369,1529 426,1529 483,1530 540,1530 597,1531 654,1531 711,1531 768,1530 825,1530 882,1530 939,1530 996,1530 1053,1529 1110,1529 1167,1529 1224,1529"
+                         HEIGHT="40"
+                         WIDTH="1140"
+                         VPOS="1501"
+                         HPOS="84">
+                  <String ID="string_r1l56"
+                          HEIGHT="40"
+                          WIDTH="1140"
+                          VPOS="1501"
+                          HPOS="84"
+                          CONTENT="Hirtenbrief des Herrn Biſchofs von Ermland an die Prieſter und Gläubigen"/>
+               </TextLine>
+               <TextLine ID="r1l57"
+                         BASELINE="191,1560 228,1559 254,1560 280,1561 307,1562 333,1563 359,1565 1351,1564"
+                         HEIGHT="36"
+                         WIDTH="184"
+                         VPOS="1539"
+                         HPOS="202">
+                  <String ID="string_r1l57"
+                          HEIGHT="36"
+                          WIDTH="184"
+                          VPOS="1539"
+                          HPOS="202"
+                          CONTENT="ſeiner Diöceſe . . . . . . . . . . . 163"/>
+               </TextLine>
+               <TextLine ID="r1l58"
+                         BASELINE="90,1595 143,1596 196,1597 249,1598 303,1599 356,1599 409,1600 462,1601 516,1601 569,1602 622,1602 675,1602 729,1602 782,1602 835,1602 888,1602 942,1601 995,1601 1048,1600 1101,1599 1349,1602"
+                         HEIGHT="37"
+                         WIDTH="1065"
+                         VPOS="1575"
+                         HPOS="90">
+                  <String ID="string_r1l58"
+                          HEIGHT="37"
+                          WIDTH="1065"
+                          VPOS="1575"
+                          HPOS="90"
+                          CONTENT="Allocution des heiligen Vaters an die Cardinäle vom 27. October 1871 . 419"/>
+               </TextLine>
+               <TextLine ID="r1l59"
+                         BASELINE="618,1665 646,1665 674,1665 702,1664 730,1664 758,1663 786,1664 814,1665"
+                         HEIGHT="32"
+                         WIDTH="196"
+                         VPOS="1643"
+                         HPOS="618">
+                  <String ID="string_r1l59"
+                          HEIGHT="32"
+                          WIDTH="196"
+                          VPOS="1643"
+                          HPOS="618"
+                          CONTENT="Recenſionen."/>
+               </TextLine>
+               <TextLine ID="r1l60"
+                         BASELINE="86,1713 142,1714 199,1714 256,1715 312,1716 369,1716 426,1717 482,1717 539,1718 596,1718 653,1719 709,1719 766,1720 823,1720 879,1720 936,1720 993,1720 1049,1720 1106,1719 1163,1719 1220,1718"
+                         HEIGHT="37"
+                         WIDTH="1134"
+                         VPOS="1693"
+                         HPOS="86">
+                  <String ID="string_r1l60"
+                          HEIGHT="37"
+                          WIDTH="1134"
+                          VPOS="1693"
+                          HPOS="86"
+                          CONTENT="Auffallendes und Unrichtiges bei einem Autor oder ſeinem Recenſenten (W."/>
+               </TextLine>
+               <TextLine ID="r1l61"
+                         BASELINE="196,1746 224,1747 252,1747 280,1746 308,1746 336,1747 717,1761 1031,1755 1352,1751"
+                         HEIGHT="39"
+                         WIDTH="224"
+                         VPOS="1726"
+                         HPOS="196">
+                  <String ID="string_r1l61"
+                          HEIGHT="39"
+                          WIDTH="224"
+                          VPOS="1726"
+                          HPOS="196"
+                          CONTENT="Wilmers, S. J.) . . . . . . . . . . 244"/>
+               </TextLine>
+               <TextLine ID="line_1614865077281_765"
+                         BASELINE="82,1785 113,1787 144,1788 175,1788 210,1781 256,1783 303,1785 349,1786 396,1787 442,1788 489,1789 535,1789 582,1790 628,1790 675,1790 721,1790 768,1790 814,1790 861,1790 907,1790 954,1789 1000,1789 1047,1788 1093,1788 1348,1785"
+                         HEIGHT="39"
+                         WIDTH="1058"
+                         VPOS="1761"
+                         HPOS="82">
+                  <String ID="string_line_1614865077281_765"
+                          HEIGHT="39"
+                          WIDTH="1058"
+                          VPOS="1761"
+                          HPOS="82"
+                          CONTENT="Dr. R. Grundemann, allgemeiner Miſſionsatlas. (Schneemann, S. J.) 54. 436"/>
+               </TextLine>
+               <TextLine ID="line_1614865084643_771"
+                         BASELINE="87,1826 121,1824 155,1823 189,1822 223,1822 257,1821 291,1821 325,1821 359,1822 393,1822 427,1823 461,1823 495,1824 529,1824 563,1825 597,1825 631,1826 665,1826 699,1826 733,1826 768,1825 801,1825 826,1825 852,1825 878,1825 904,1825 930,1825 955,1825 981,1825 1007,1825 1033,1825 1059,1825 1084,1825 1110,1825 1136,1825 1162,1825 1188,1825 1230,1823"
+                         HEIGHT="35"
+                         WIDTH="1127"
+                         VPOS="1801"
+                         HPOS="87">
+                  <String ID="string_line_1614865084643_771"
+                          HEIGHT="35"
+                          WIDTH="1127"
+                          VPOS="1801"
+                          HPOS="87"
+                          CONTENT="Dr. Joseph Langen, das Vaticaniſche Dogma von dem Univerſalepiſcopat"/>
+               </TextLine>
+               <TextLine ID="line_1614865086597_775"
+                         BASELINE="191,1861 218,1859 245,1858 273,1857 300,1856 327,1856 355,1856 382,1856 409,1857 437,1858 464,1858 491,1859 519,1859 546,1860 573,1861 601,1861 628,1862 655,1862 683,1862 710,1861 738,1860 778,1862 803,1861 829,1860 855,1860 881,1860 907,1860 932,1860 958,1860 984,1860 1010,1860 1036,1861 1062,1861 1087,1861 1113,1861 1139,1861 1165,1860 1191,1860 1217,1858"
+                         HEIGHT="36"
+                         WIDTH="1026"
+                         VPOS="1836"
+                         HPOS="191">
+                  <String ID="string_line_1614865086597_775"
+                          HEIGHT="36"
+                          WIDTH="1026"
+                          VPOS="1836"
+                          HPOS="191"
+                          CONTENT="und der Unfehlbarkeit des Papſtes in ſeinem Verhältniß zum Neuen"/>
+               </TextLine>
+               <TextLine ID="line_1614865089688_779"
+                         BASELINE="197,1897 225,1895 253,1894 282,1893 310,1892 338,1892 367,1892 395,1892 423,1893 452,1893 480,1894 508,1895 537,1896 565,1896 593,1897 622,1897 650,1898 678,1898 707,1898 735,1897 764,1896 792,1895 817,1897 842,1897 867,1897 892,1896 917,1895 942,1895 968,1897 992,1896 1022,1896 1034,1895 1352,1895"
+                         HEIGHT="36"
+                         WIDTH="883"
+                         VPOS="1872"
+                         HPOS="197">
+                  <String ID="string_line_1614865089688_779"
+                          HEIGHT="36"
+                          WIDTH="883"
+                          VPOS="1872"
+                          HPOS="197"
+                          CONTENT="Teſtament und der patriſtiſchen Exegeſe. (R. Cornely, S. J.) . . 60"/>
+               </TextLine>
+               <TextLine ID="line_1614865092470_783"
+                         BASELINE="85,1932 118,1931 152,1930 186,1930 220,1929 254,1929 287,1929 321,1929 355,1929 389,1929 423,1930 456,1930 490,1930 524,1931 558,1931 591,1932 625,1932 659,1933 693,1933 727,1933 761,1934 790,1931 815,1931 840,1931 865,1931 890,1931 915,1931 940,1931 965,1931 990,1931 1016,1931 1041,1931 1066,1931 1091,1931 1116,1931 1141,1930 1166,1930 1191,1930 1217,1930"
+                         HEIGHT="35"
+                         WIDTH="1132"
+                         VPOS="1909"
+                         HPOS="85">
+                  <String ID="string_line_1614865092470_783"
+                          HEIGHT="35"
+                          WIDTH="1132"
+                          VPOS="1909"
+                          HPOS="85"
+                          CONTENT="R. Baumſtark, der erſte deutſche Reichstag und die Intereſſen der katholiſchen"/>
+               </TextLine>
+               <TextLine ID="line_1614865095428_787"
+                         BASELINE="198,1966 223,1966 249,1966 275,1966 301,1965 327,1965 353,1964 378,1964 404,1963 430,1963 456,1963 482,1964 508,1965 534,1967 556,1969 1345,1965"
+                         HEIGHT="36"
+                         WIDTH="382"
+                         VPOS="1943"
+                         HPOS="198">
+                  <String ID="string_line_1614865095428_787"
+                          HEIGHT="36"
+                          WIDTH="382"
+                          VPOS="1943"
+                          HPOS="198"
+                          CONTENT="Kirche. (Pachtler, S. J.) . . . . . . . . . 67"/>
+               </TextLine>
+               <TextLine ID="line_1614865105308_794"
+                         BASELINE="79,2000 112,2002 145,2003 178,2001 189,2002 240,2002 292,2001 343,2001 395,2001 446,2001 498,2001 549,2001 601,2002 652,2002 704,2002 756,2002 807,2003 859,2003 910,2003 962,2003 1013,2003 1065,2002 1116,2002 1168,2001 1220,2000"
+                         HEIGHT="33"
+                         WIDTH="1141"
+                         VPOS="1980"
+                         HPOS="79">
+                  <String ID="string_line_1614865105308_794"
+                          HEIGHT="33"
+                          WIDTH="1141"
+                          VPOS="1980"
+                          HPOS="79"
+                          CONTENT="Dr. J. Berchtold, die Unvereinbarkeit der neuen päpſtlichen Glaubensdecrete"/>
+               </TextLine>
+               <TextLine ID="r1l78"
+                         BASELINE="193,2037 239,2036 285,2036 331,2036 377,2036 423,2036 469,2036 515,2036 561,2036 607,2037 653,2037 699,2038 745,2038 791,2038 837,2038 883,2038 929,2038 975,2038 1021,2037 1067,2036 1352,2040"
+                         HEIGHT="33"
+                         WIDTH="921"
+                         VPOS="2015"
+                         HPOS="193">
+                  <String ID="string_r1l78"
+                          HEIGHT="33"
+                          WIDTH="921"
+                          VPOS="2015"
+                          HPOS="193"
+                          CONTENT="mit der bayeriſchen Staatsverfaſſung. (v. Hammerſtein, S. J.) . 139"/>
+               </TextLine>
+               <TextLine ID="r1l79"
+                         BASELINE="85,2075 141,2074 197,2073 253,2073 309,2072 365,2072 421,2072 477,2072 533,2072 589,2072 645,2072 701,2072 757,2073 813,2073 869,2073 925,2073 981,2073 1037,2073 1093,2072 1149,2072 1224,2073"
+                         HEIGHT="33"
+                         WIDTH="1120"
+                         VPOS="2052"
+                         HPOS="85">
+                  <String ID="string_r1l79"
+                          HEIGHT="33"
+                          WIDTH="1120"
+                          VPOS="2052"
+                          HPOS="85"
+                          CONTENT="Dr. H. Contzen, zur Würdigung des Mittelalters, mit beſonderer Beziehung"/>
+               </TextLine>
+               <TextLine ID="r1l80"
+                         BASELINE="195,2110 246,2109 297,2109 348,2108 399,2108 450,2108 501,2108 552,2108 603,2108 654,2108 705,2108 756,2108 807,2109 858,2109 909,2109 960,2109 1011,2109 1062,2109 1113,2109 1164,2109 1354,2110"
+                         HEIGHT="32"
+                         WIDTH="1021"
+                         VPOS="2088"
+                         HPOS="195">
+                  <String ID="string_r1l80"
+                          HEIGHT="32"
+                          WIDTH="1021"
+                          VPOS="2088"
+                          HPOS="195"
+                          CONTENT="auf die Staatslehre des hl. Thomas von Aquino. (Th. Meyer, S. J.) 147"/>
+               </TextLine>
+               <TextLine ID="r1l81"
+                         BASELINE="84,2146 128,2145 173,2145 218,2144 263,2144 308,2144 353,2144 398,2144 443,2144 488,2144 533,2144 577,2144 622,2144 667,2144 712,2144 757,2144 802,2144 847,2144 892,2144 937,2144 1350,2145"
+                         HEIGHT="32"
+                         WIDTH="898"
+                         VPOS="2124"
+                         HPOS="84">
+                  <String ID="string_r1l81"
+                          HEIGHT="32"
+                          WIDTH="898"
+                          VPOS="2124"
+                          HPOS="84"
+                          CONTENT="Aeta et decreta SS. et occumenici Concilii Vaticani etc. 149"/>
+               </TextLine>
+               <TextLine ID="r1l82"
+                         BASELINE="85,2180 141,2180 198,2180 254,2180 311,2179 368,2179 424,2179 481,2179 538,2179 594,2179 651,2179 708,2179 764,2179 821,2179 878,2179 934,2179 991,2179 1048,2179 1104,2179 1161,2179 1218,2179"
+                         HEIGHT="31"
+                         WIDTH="1133"
+                         VPOS="2159"
+                         HPOS="85">
+                  <String ID="string_r1l82"
+                          HEIGHT="31"
+                          WIDTH="1133"
+                          VPOS="2159"
+                          HPOS="85"
+                          CONTENT="G. Schneemann, die Canones und Beſchlüſſe des hochheiligen ökumeniſchen"/>
+               </TextLine>
+               <TextLine ID="line_1614865122159_803"
+                         BASELINE="186,2221 225,2220 264,2220 303,2220 343,2219 382,2219 421,2219 460,2219 500,2218 539,2218 578,2218 617,2218 657,2218 696,2218 735,2218 774,2218 814,2218 853,2219 892,2219 931,2219 971,2219 980,2218 1012,2216 1043,2216 1352,2221"
+                         HEIGHT="35"
+                         WIDTH="889"
+                         VPOS="2193"
+                         HPOS="191">
+                  <String ID="string_line_1614865122159_803"
+                          HEIGHT="35"
+                          WIDTH="889"
+                          VPOS="2193"
+                          HPOS="191"
+                          CONTENT="und allgemeinen Vaticaniſchen Concils. (R. Cornely, S. J.) . . 149"/>
+               </TextLine>
+               <TextLine ID="r1l86"
+                         BASELINE="79,2249 135,2251 192,2251 248,2252 305,2252 362,2253 418,2253 475,2253 532,2252 588,2252 645,2252 702,2251 758,2251 815,2251 872,2251 928,2251 985,2251 1042,2251 1098,2252 1155,2252 1354,2252"
+                         HEIGHT="34"
+                         WIDTH="1133"
+                         VPOS="2229"
+                         HPOS="79">
+                  <String ID="string_r1l86"
+                          HEIGHT="34"
+                          WIDTH="1133"
+                          VPOS="2229"
+                          HPOS="79"
+                          CONTENT="Das neue deutſche Reich, vom Verfaſſer der Rundſchauen. (Th. Meyer, S. J.) 253"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

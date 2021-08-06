@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:44.468+01:00</Created>
+        <LastChange>2021-05-17T15:10:03.314+02:00</LastChange>
+        <TranskribusMetadata docId="543224" pageId="22808950" pageNr="17" tsid="57976828" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=SDZIIWWPCPYOOFTHXOPKSUYU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PJDWRXTULPUHCDPNWUBVROPT" imageId="17784628"/>
+    </Metadata>
+    <Page imageFilename="kath_1830_035_00431.tif" imageWidth="1259" imageHeight="2153">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327820811" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="106,110 106,2092 1171,2092 1171,110"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="557,145 582,144 607,142 633,141 658,140 683,140 709,141 709,111 683,110 658,110 633,111 607,112 582,114 557,115"/>
+                <Baseline points="557,135 582,134 607,132 633,131 658,130 683,130 709,131"/>
+                <TextEquiv>
+                    <Unicode>XLVII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="107,255 159,255 212,254 264,253 317,252 369,251 422,250 474,248 527,246 579,245 632,243 685,241 737,239 790,237 842,236 895,234 947,233 1000,231 1052,230 1105,229 1158,228 1158,198 1105,199 1052,200 1000,201 947,203 895,204 842,206 790,207 737,209 685,211 632,213 579,215 527,216 474,218 422,220 369,221 317,222 264,223 212,224 159,225 107,225"/>
+                <Baseline points="107,245 159,245 212,244 264,243 317,242 369,241 422,240 474,238 527,236 579,235 632,233 685,231 737,229 790,227 842,226 895,224 947,223 1000,221 1052,220 1105,219 1158,218"/>
+                <TextEquiv>
+                    <Unicode>„ ligen ab, ſondern bringt auch reiche Frucht durch den Dank</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="107,297 159,297 212,296 264,295 317,294 369,293 422,291 474,289 527,288 579,286 632,284 684,283 737,281 789,279 842,277 894,276 947,274 999,273 1052,271 1104,270 1157,269 1157,239 1104,240 1052,241 999,243 947,244 894,246 842,247 789,249 737,251 684,253 632,254 579,256 527,258 474,259 422,261 369,263 317,264 264,265 212,266 159,267 107,267"/>
+                <Baseline points="107,287 159,287 212,286 264,285 317,284 369,283 422,281 474,279 527,278 579,276 632,274 684,273 737,271 789,269 842,267 894,266 947,264 999,263 1052,261 1104,260 1157,259"/>
+                <TextEquiv>
+                    <Unicode>„ vieler gegen Gott, welche wegen dieſer erprobten Mildthaͤtigkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="117,336 169,336 221,335 273,334 325,333 377,332 429,331 481,330 533,328 585,327 638,325 690,324 742,322 794,320 846,319 898,317 950,315 1002,314 1054,312 1106,311 1159,309 1159,279 1106,281 1054,282 1002,284 950,285 898,287 846,289 794,290 742,292 690,294 638,295 585,297 533,298 481,300 429,301 377,302 325,303 273,304 221,305 169,306 117,306"/>
+                <Baseline points="117,326 169,326 221,325 273,324 325,323 377,322 429,321 481,320 533,318 585,317 638,315 690,314 742,312 794,310 846,309 898,307 950,305 1002,304 1054,302 1106,301 1159,299"/>
+                <TextEquiv>
+                    <Unicode>„ Gott preiſen fuͤr den Gehorſam gegen das Evangelium Jeſu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="113,379 165,378 217,377 269,376 322,375 374,373 426,372 479,371 531,369 583,368 636,366 688,365 740,363 792,361 845,360 897,358 949,356 1002,355 1054,353 1106,352 1159,351 1159,321 1106,322 1054,323 1002,325 949,326 897,328 845,330 792,331 740,333 688,335 636,336 583,338 531,339 479,341 426,342 374,343 322,345 269,346 217,347 165,348 113,349"/>
+                <Baseline points="113,369 165,368 217,367 269,366 322,365 374,363 426,362 479,361 531,359 583,358 636,356 688,355 740,353 792,351 845,350 897,348 949,346 1002,345 1054,343 1106,342 1159,341"/>
+                <TextEquiv>
+                    <Unicode>„ Chriſti, das ihr bekennet und fuͤr die gutthaͤtige Mittheilung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="115,421 166,420 218,419 270,417 322,416 374,415 425,413 477,412 529,410 581,409 633,407 684,406 736,404 788,402 840,401 892,399 943,398 995,397 1047,395 1099,394 1151,392 1151,362 1099,364 1047,365 995,367 943,368 892,369 840,371 788,372 736,374 684,376 633,377 581,379 529,380 477,382 425,383 374,385 322,386 270,387 218,389 166,390 115,391"/>
+                <Baseline points="115,411 166,410 218,409 270,407 322,406 374,405 425,403 477,402 529,400 581,399 633,397 684,396 736,394 788,392 840,391 892,389 943,388 995,387 1047,385 1099,384 1151,382"/>
+                <TextEquiv>
+                    <Unicode>„ gegen ſie und alle und durch ihr Gebet fuͤr euch, da ſie euch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="115,461 167,459 219,458 272,457 324,456 376,454 429,453 481,452 533,450 586,449 638,447 690,446 743,445 795,443 847,442 900,441 952,439 1004,438 1057,437 1109,436 1162,435 1162,405 1109,406 1057,407 1004,408 952,409 900,411 847,412 795,413 743,415 690,416 638,417 586,419 533,420 481,422 429,423 376,424 324,426 272,427 219,428 167,429 115,431"/>
+                <Baseline points="115,451 167,449 219,448 272,447 324,446 376,444 429,443 481,442 533,440 586,439 638,437 690,436 743,435 795,433 847,432 900,431 952,429 1004,428 1057,427 1109,426 1162,425"/>
+                <TextEquiv>
+                    <Unicode>„ wegen der reichlichen Wohlthat, die Gott ihnen durch euch wer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="113,501 155,501 197,500 239,500 281,499 324,498 366,497 408,496 450,495 492,494 535,493 577,491 619,490 661,489 703,488 746,487 788,486 830,485 872,484 914,483 957,483 957,453 914,453 872,454 830,455 788,456 746,457 703,458 661,459 619,460 577,461 535,463 492,464 450,465 408,466 366,467 324,468 281,469 239,470 197,470 155,471 113,471"/>
+                <Baseline points="113,491 155,491 197,490 239,490 281,489 324,488 366,487 408,486 450,485 492,484 535,483 577,481 619,480 661,479 703,478 746,477 788,476 830,475 872,474 914,473 957,473"/>
+                <TextEquiv>
+                    <Unicode>„ den ließ, herzlich lieben.“ (II. Cor. IX. 12. 1.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="197,542 245,541 293,539 341,538 389,537 438,536 486,535 534,534 582,533 630,531 679,530 727,529 775,528 823,526 871,525 920,524 968,522 1016,520 1064,518 1112,516 1161,514 1161,484 1112,486 1064,488 1016,490 968,492 920,494 871,495 823,496 775,498 727,499 679,500 630,501 582,503 534,504 486,505 438,506 389,507 341,508 293,509 245,511 197,512"/>
+                <Baseline points="197,532 245,531 293,529 341,528 389,527 438,526 486,525 534,524 582,523 630,521 679,520 727,519 775,518 823,516 871,515 920,514 968,512 1016,510 1064,508 1112,506 1161,504"/>
+                <TextEquiv>
+                    <Unicode>Ich ſchließe mit der herzlichen Bitte. Moͤge des Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="111,581 163,581 215,580 267,580 319,579 372,578 424,577 476,576 528,575 580,573 633,572 685,571 737,569 789,568 841,566 894,565 946,563 998,562 1050,560 1102,559 1155,557 1155,527 1102,529 1050,530 998,532 946,533 894,535 841,536 789,538 737,539 685,541 633,542 580,543 528,545 476,546 424,547 372,548 319,549 267,550 215,550 163,551 111,551"/>
+                <Baseline points="111,571 163,571 215,570 267,570 319,569 372,568 424,567 476,566 528,565 580,563 633,562 685,561 737,559 789,558 841,556 894,555 946,553 998,552 1050,550 1102,549 1155,547"/>
+                <TextEquiv>
+                    <Unicode>Auge walten uͤber ſeinem heiligen Hauſe, Sein Segen ſichtbar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="112,622 164,622 216,621 268,620 321,619 373,619 425,617 477,616 530,615 582,614 634,612 686,611 739,609 791,608 843,606 895,605 948,603 1000,602 1052,600 1104,598 1157,597 1157,567 1104,568 1052,570 1000,572 948,573 895,575 843,576 791,578 739,579 686,581 634,582 582,584 530,585 477,586 425,587 373,589 321,589 268,590 216,591 164,592 112,592"/>
+                <Baseline points="112,612 164,612 216,611 268,610 321,609 373,609 425,607 477,606 530,605 582,604 634,602 686,601 739,599 791,598 843,596 895,595 948,593 1000,592 1052,590 1104,588 1157,587"/>
+                <TextEquiv>
+                    <Unicode>werden in erhoͤhter Tugend und Froͤmmigkeit der katholiſchen Ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="113,663 165,662 217,662 269,661 322,660 374,659 426,658 479,657 531,656 583,655 636,654 688,652 740,651 792,649 845,647 897,646 949,644 1002,642 1054,640 1106,638 1159,635 1159,605 1106,608 1054,610 1002,612 949,614 897,616 845,617 792,619 740,621 688,622 636,624 583,625 531,626 479,627 426,628 374,629 322,630 269,631 217,632 165,632 113,633"/>
+                <Baseline points="113,653 165,652 217,652 269,651 322,650 374,649 426,648 479,647 531,646 583,645 636,644 688,642 740,641 792,639 845,637 897,636 949,634 1002,632 1054,630 1106,628 1159,625"/>
+                <TextEquiv>
+                    <Unicode>meinde: ſichtbar in erneuertem Eifer des kirchlich⸗religioͤſen Sin⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="109,704 161,703 214,703 267,702 320,702 373,701 425,700 478,699 531,698 584,697 637,695 689,694 742,693 795,691 848,689 901,687 953,685 1006,683 1059,681 1112,678 1165,675 1165,645 1112,648 1059,651 1006,653 953,655 901,657 848,659 795,661 742,663 689,664 637,665 584,667 531,668 478,669 425,670 373,671 320,672 267,672 214,673 161,673 109,674"/>
+                <Baseline points="109,694 161,693 214,693 267,692 320,692 373,691 425,690 478,689 531,688 584,687 637,685 689,684 742,683 795,681 848,679 901,677 953,675 1006,673 1059,671 1112,668 1165,665"/>
+                <TextEquiv>
+                    <Unicode>nes, auf daß in Erfuͤllung gehe, was der heil. Paulus an die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="117,743 169,743 221,743 273,742 326,742 378,741 430,740 483,740 535,738 587,737 640,736 692,735 744,733 796,731 849,729 901,727 953,725 1006,723 1058,721 1110,719 1163,716 1163,686 1110,689 1058,691 1006,693 953,695 901,697 849,699 796,701 744,703 692,705 640,706 587,707 535,708 483,710 430,710 378,711 326,712 273,712 221,713 169,713 117,713"/>
+                <Baseline points="117,733 169,733 221,733 273,732 326,732 378,731 430,730 483,730 535,728 587,727 640,726 692,725 744,723 796,721 849,719 901,717 953,715 1006,713 1058,711 1110,709 1163,706"/>
+                <TextEquiv>
+                    <Unicode>Hebraͤer am 10. ſo dringend anempfiehlt: „Laſſet uns im Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="109,786 161,785 214,784 267,784 320,783 373,782 425,781 478,780 531,778 584,777 637,776 689,774 742,773 795,771 848,769 901,768 953,765 1006,764 1059,761 1112,759 1165,757 1165,727 1112,729 1059,731 1006,734 953,735 901,738 848,739 795,741 742,743 689,744 637,746 584,747 531,748 478,750 425,751 373,752 320,753 267,754 214,754 161,755 109,756"/>
+                <Baseline points="109,776 161,775 214,774 267,774 320,773 373,772 425,771 478,770 531,768 584,767 637,766 689,764 742,763 795,761 848,759 901,758 953,755 1006,754 1059,751 1112,749 1165,747"/>
+                <TextEquiv>
+                    <Unicode>„kenntniß unſerer Hoffnung unbeweglich verharren; laſſet uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="113,826 165,825 218,825 271,824 324,824 377,823 430,822 483,820 536,819 589,818 642,817 694,815 747,813 800,811 853,810 906,808 959,806 1012,804 1065,802 1118,801 1171,799 1171,769 1118,771 1065,772 1012,774 959,776 906,778 853,780 800,781 747,783 694,785 642,787 589,788 536,789 483,790 430,792 377,793 324,794 271,794 218,795 165,795 113,796"/>
+                <Baseline points="113,816 165,815 218,815 271,814 324,814 377,813 430,812 483,810 536,809 589,808 642,807 694,805 747,803 800,801 853,800 906,798 959,796 1012,794 1065,792 1118,791 1171,789"/>
+                <TextEquiv>
+                    <Unicode>„nicht wie es einige zu ihun pflegen, unſre Verſammlungen ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="109,867 153,867 198,866 243,865 288,864 333,864 377,863 422,862 467,861 512,859 557,858 601,857 646,856 691,855 736,853 781,852 825,851 870,850 915,849 960,848 1005,847 1005,817 960,818 915,819 870,820 825,821 781,822 736,823 691,825 646,826 601,827 557,828 512,829 467,831 422,832 377,833 333,834 288,834 243,835 198,836 153,837 109,837"/>
+                <Baseline points="109,857 153,857 198,856 243,855 288,854 333,854 377,853 422,852 467,851 512,849 557,848 601,847 646,846 691,845 736,843 781,842 825,841 870,840 915,839 960,838 1005,837"/>
+                <TextEquiv>
+                    <Unicode>„laſſen, ſondern uns untereinander troͤſten und erbauen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="198,905 246,905 294,904 342,903 391,902 439,901 487,901 535,900 584,899 632,897 680,897 728,896 777,894 825,893 873,892 921,891 970,890 1018,889 1066,888 1114,887 1163,885 1163,855 1114,857 1066,858 1018,859 970,860 921,861 873,862 825,863 777,864 728,866 680,867 632,867 584,869 535,870 487,871 439,871 391,872 342,873 294,874 246,875 198,875"/>
+                <Baseline points="198,895 246,895 294,894 342,893 391,892 439,891 487,891 535,890 584,889 632,887 680,887 728,886 777,884 825,883 873,882 921,881 970,880 1018,879 1066,878 1114,877 1163,875"/>
+                <TextEquiv>
+                    <Unicode>Geſchrieben zu Duͤrkheim im Rheinkreiſe Bayerns in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="106,948 140,948 174,948 209,947 243,947 278,946 312,946 347,945 381,944 416,943 450,943 484,942 519,941 553,940 588,940 622,939 657,938 691,937 726,937 760,936 795,935 795,905 760,906 726,907 691,907 657,908 622,909 588,910 553,910 519,911 484,912 450,913 416,913 381,914 347,915 312,916 278,916 243,917 209,917 174,918 140,918 106,918"/>
+                <Baseline points="106,938 140,938 174,938 209,937 243,937 278,936 312,936 347,935 381,934 416,933 450,933 484,932 519,931 553,930 588,930 622,929 657,928 691,927 726,927 760,926 795,925"/>
+                <TextEquiv>
+                    <Unicode>Octave der Erſcheinung des Herrn, 1830.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="748,982 774,978 801,975 828,974 854,973 881,973 908,974 935,973 935,943 908,944 881,943 854,943 828,944 801,945 774,948 748,952"/>
+                <Baseline points="748,972 774,968 801,965 828,964 854,963 881,963 908,964 981,963"/>
+                <TextEquiv>
+                    <Unicode>Zimmer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="601,1017 627,1016 653,1016 679,1015 705,1014 731,1013 757,1013 783,1012 809,1011 835,1010 861,1009 887,1008 913,1007 939,1007 965,1006 991,1005 1017,1005 1043,1004 1069,1004 1095,1003 1095,973 1069,974 1043,974 1017,975 991,975 965,976 939,977 913,977 887,978 861,979 835,980 809,981 783,982 757,983 731,983 705,984 679,985 653,986 627,986 601,987"/>
+                <Baseline points="601,1007 627,1006 653,1006 679,1005 705,1004 731,1003 757,1003 783,1002 809,1001 835,1000 861,999 887,998 913,997 939,997 965,996 991,995 1017,995 1043,994 1069,994 1095,993"/>
+                <TextEquiv>
+                    <Unicode>Pfarrer der katholiſchen Gemeinde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="113,1071 165,1071 218,1070 270,1069 323,1068 376,1067 428,1066 481,1064 533,1063 586,1062 639,1061 691,1059 744,1058 796,1057 849,1056 902,1055 954,1053 1007,1052 1059,1051 1112,1050 1165,1049 1165,1019 1112,1020 1059,1021 1007,1022 954,1023 902,1025 849,1026 796,1027 744,1028 691,1029 639,1031 586,1032 533,1033 481,1034 428,1036 376,1037 323,1038 270,1039 218,1040 165,1041 113,1041"/>
+                <Baseline points="113,1061 165,1061 218,1060 270,1059 323,1058 376,1057 428,1056 481,1054 533,1053 586,1052 639,1051 691,1049 744,1048 796,1047 849,1046 902,1045 954,1043 1007,1042 1059,1041 1112,1040 1165,1039"/>
+                <TextEquiv>
+                    <Unicode>Augemeine Ueberſicht der milden Beiträge, die zum Behufe des katholiſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="346,1096 375,1095 404,1095 434,1095 463,1094 493,1094 522,1094 552,1093 581,1093 611,1093 640,1092 669,1092 699,1091 728,1091 758,1090 787,1089 817,1089 846,1088 876,1086 905,1085 935,1084 935,1054 905,1055 876,1056 846,1058 817,1059 787,1059 758,1060 728,1061 699,1061 669,1062 640,1062 611,1063 581,1063 552,1063 522,1064 493,1064 463,1064 434,1065 404,1065 375,1065 346,1066"/>
+                <Baseline points="346,1086 375,1085 404,1085 434,1085 463,1084 493,1084 522,1084 552,1083 581,1083 611,1083 640,1082 669,1082 699,1081 728,1081 758,1080 787,1079 817,1079 846,1078 876,1076 905,1075 935,1074"/>
+                <TextEquiv>
+                    <Unicode>Kirchenbaues in Dürkheim eingegangen ſind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="1018,1147 1044,1148 1071,1147 1097,1147 1124,1149 1124,1119 1097,1117 1071,1117 1044,1118 1018,1117"/>
+                <Baseline points="1018,1137 1044,1138 1071,1137 1097,1137 1124,1139"/>
+                <TextEquiv>
+                    <Unicode>Betrag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="378,1180 403,1179 428,1179 454,1178 479,1177 505,1177 530,1177 556,1176 581,1176 607,1175 632,1175 658,1175 683,1174 709,1174 734,1173 760,1173 785,1172 811,1171 811,1141 785,1142 760,1143 734,1143 709,1144 683,1144 658,1145 632,1145 607,1145 581,1146 556,1146 530,1147 505,1147 479,1147 454,1148 428,1149 403,1149 378,1150"/>
+                <Baseline points="378,1170 403,1169 428,1169 454,1168 479,1167 505,1167 530,1167 556,1166 581,1166 607,1165 632,1165 658,1165 683,1164 709,1164 734,1163 760,1163 785,1162 811,1161"/>
+                <TextEquiv>
+                    <Unicode>Behoͤrde. Koͤnigreich Bayern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621255927542_859" custom="readingOrder {index:25;}">
+                <Coords points="159,1252 293,1248 939,1235 939,1265 874,1267 712,1271 181,1284 159,1282"/>
+                <Baseline points="159,1272 181,1274 293,1268 325,1268 357,1268 389,1267 422,1267 454,1266 486,1266 519,1265 551,1264 583,1264 616,1263 648,1262 680,1261 712,1261 745,1260 777,1259 809,1258 842,1257 874,1257 906,1256 939,1255"/>
+                <TextEquiv>
+                    <Unicode>1. Durch ſeine Majeſtaͤt den Koͤnig von Bayern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:26;}">
+                <Coords points="234,1317 269,1316 304,1315 339,1314 374,1314 410,1313 445,1313 480,1312 515,1311 550,1311 586,1310 621,1309 656,1309 691,1308 726,1307 762,1306 797,1306 832,1305 867,1304 902,1303 938,1302 938,1272 902,1273 867,1274 832,1275 797,1276 762,1276 726,1277 691,1278 656,1279 621,1279 586,1280 550,1281 515,1281 480,1282 445,1283 410,1283 374,1284 339,1284 304,1285 269,1286 234,1287"/>
+                <Baseline points="234,1307 269,1306 304,1305 339,1304 374,1304 410,1303 445,1303 480,1302 515,1301 550,1301 586,1300 621,1299 656,1299 691,1298 726,1297 762,1296 797,1296 832,1295 867,1294 902,1293 938,1292"/>
+                <TextEquiv>
+                    <Unicode>nach ertheilter allergnaͤdigſten Genehmigung einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:27;}">
+                <Coords points="238,1352 273,1351 308,1350 343,1349 378,1349 413,1348 448,1347 483,1347 518,1346 553,1346 589,1346 624,1345 659,1345 694,1345 729,1344 764,1344 799,1343 834,1343 869,1342 904,1341 940,1340 940,1310 904,1311 869,1312 834,1313 799,1313 764,1314 729,1314 694,1315 659,1315 624,1315 589,1316 553,1316 518,1316 483,1317 448,1317 413,1318 378,1319 343,1319 308,1320 273,1321 238,1322"/>
+                <Baseline points="238,1342 273,1341 308,1340 343,1339 378,1339 413,1338 448,1337 483,1337 518,1336 553,1336 589,1336 624,1335 659,1335 694,1335 729,1334 764,1334 799,1333 834,1333 869,1332 904,1331 940,1330"/>
+                <TextEquiv>
+                    <Unicode>allgemeinen Kollekte die milde Schenkung von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621255940635_867" custom="readingOrder {index:28;}">
+                <Coords points="244,1354 998,1341 1048,1341 1048,1371 783,1381 556,1384 244,1384"/>
+                <Baseline points="244,1374 270,1374 296,1374 322,1374 348,1373 374,1373 400,1373 426,1373 452,1373 478,1373 504,1373 530,1373 556,1374 575,1371 601,1372 627,1372 653,1371 679,1370 705,1369 731,1369 757,1369 783,1371 998,1361 1023,1361 1048,1361"/>
+                <TextEquiv>
+                    <Unicode>zwanzig Bauſtaͤmmen, veranſchlagt zu 230</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621255935311_863" custom="readingOrder {index:29;}">
+                <Coords points="151,1386 1106,1370 1126,1370 1126,1400 1044,1406 998,1408 811,1416 782,1417 187,1426 151,1416"/>
+                <Baseline points="151,1406 187,1416 237,1409 265,1408 294,1407 323,1407 351,1406 380,1406 409,1406 437,1406 466,1406 495,1407 524,1407 552,1407 581,1407 610,1407 638,1408 667,1408 696,1408 724,1407 753,1407 782,1407 811,1406 998,1398 1044,1396 1106,1390 1126,1390"/>
+                <TextEquiv>
+                    <Unicode>2. Koͤnigliche Polizeidirection in Muͤnchen. 283 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621255948798_871" custom="readingOrder {index:30;}">
+                <Coords points="173,1408 1097,1406 1128,1407 1128,1437 560,1452 189,1458 173,1438"/>
+                <Baseline points="164,1448 189,1448 238,1444 263,1444 288,1443 314,1442 339,1441 364,1441 390,1442 418,1442 446,1440 474,1439 503,1440 531,1441 560,1442 1014,1428 1048,1428 1097,1426 1128,1427"/>
+                <TextEquiv>
+                    <Unicode>3. Landgericht Techernſee. 36 12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621255954705_875" custom="readingOrder {index:31;}">
+                <Coords points="162,1459 441,1451 1095,1440 1126,1441 1126,1471 331,1496 182,1491 162,1489"/>
+                <Baseline points="162,1479 182,1481 311,1484 331,1486 413,1472 441,1471 469,1472 497,1473 525,1474 553,1475 1006,1463 1052,1463 1095,1460 1126,1461"/>
+                <TextEquiv>
+                    <Unicode>4. „ Weilheim. 142 31</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621255960661_879" custom="readingOrder {index:32;}">
+                <Coords points="161,1496 1098,1473 1129,1476 1129,1506 329,1530 161,1526"/>
+                <Baseline points="161,1516 182,1516 309,1518 329,1520 418,1511 445,1510 472,1509 499,1509 526,1509 553,1510 580,1511 1023,1496 1053,1498 1098,1493 1129,1496"/>
+                <TextEquiv>
+                    <Unicode>5. „ Werdenfels. 40 35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621255966543_883" custom="readingOrder {index:33;}">
+                <Coords points="153,1528 1094,1507 1126,1511 1126,1541 328,1564 308,1564 179,1560 153,1558"/>
+                <Baseline points="153,1548 179,1550 308,1554 328,1554 412,1546 442,1543 473,1544 503,1546 534,1546 1018,1529 1047,1532 1094,1527 1126,1531"/>
+                <TextEquiv>
+                    <Unicode>6. „ Koͤtzling. 18 41</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621255974787_887" custom="readingOrder {index:34;}">
+                <Coords points="164,1539 1095,1546 1125,1548 1125,1578 323,1597 313,1597 194,1591 161,1589"/>
+                <Baseline points="161,1584 194,1586 313,1587 323,1587 416,1575 441,1578 467,1579 492,1580 518,1580 544,1581 1024,1568 1054,1568 1095,1566 1125,1568"/>
+                <TextEquiv>
+                    <Unicode>7. „ Misbach. 93 22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621255980348_891" custom="readingOrder {index:35;}">
+                <Coords points="178,1597 1022,1579 1119,1582 1146,1585 1146,1615 313,1636 188,1630 178,1627"/>
+                <Baseline points="157,1617 188,1620 313,1626 323,1625 421,1616 446,1615 471,1616 496,1616 521,1617 546,1617 1022,1599 1054,1603 1093,1602 1119,1602 1146,1605"/>
+                <TextEquiv>
+                    <Unicode>8. „ Landshut. 84 29 ¾</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621255988071_895" custom="readingOrder {index:36;}">
+                <Coords points="307,1610 333,1609 1024,1613 1093,1616 1124,1618 1156,1625 1156,1655 178,1665 168,1665 168,1635"/>
+                <Baseline points="168,1655 191,1653 309,1655 335,1654 420,1652 448,1651 477,1651 506,1650 1024,1633 1046,1635 1093,1636 1124,1638 1156,1645"/>
+                <TextEquiv>
+                    <Unicode>9. „ Regen. 47 11 ¼</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256000091_899" custom="readingOrder {index:37;}">
+                <Coords points="143,1670 1022,1649 1096,1651 1120,1654 1120,1684 560,1701 179,1702 143,1700"/>
+                <Baseline points="143,1690 179,1692 234,1688 262,1688 290,1688 319,1688 347,1688 376,1688 414,1685 443,1686 472,1686 501,1686 530,1687 560,1691 1022,1669 1050,1671 1096,1671 1120,1674"/>
+                <TextEquiv>
+                    <Unicode>10. Magiſtrat Straubing. 37 55</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256005082_903" custom="readingOrder {index:38;}">
+                <Coords points="139,1704 1018,1685 1118,1688 1144,1689 1144,1719 338,1739 328,1739 181,1738 139,1734"/>
+                <Baseline points="139,1724 181,1728 328,1729 338,1729 413,1721 438,1722 463,1721 489,1721 514,1721 540,1722 1018,1705 1054,1707 1093,1708 1118,1708 1166,1711"/>
+                <TextEquiv>
+                    <Unicode>11. „ Landshut. 63 21 ¼</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256010375_907" custom="readingOrder {index:39;}">
+                <Coords points="143,1740 1024,1723 1093,1722 1147,1730 1147,1760 179,1774 143,1770"/>
+                <Baseline points="143,1760 179,1764 238,1762 268,1760 298,1758 314,1760 348,1758 382,1758 414,1755 439,1755 464,1755 489,1755 514,1756 539,1756 564,1756 589,1756 614,1755 1024,1743 1048,1743 1093,1742 1120,1746 1147,1750"/>
+                <TextEquiv>
+                    <Unicode>12. Landgericht Berchtolsgaden. 20 19 ¼</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256016464_911" custom="readingOrder {index:40;}">
+                <Coords points="146,1776 1017,1756 1093,1756 1123,1760 1123,1790 318,1816 146,1806"/>
+                <Baseline points="146,1796 178,1796 318,1806 340,1804 417,1792 447,1792 477,1794 1017,1776 1048,1777 1093,1776 1123,1780"/>
+                <TextEquiv>
+                    <Unicode>13. „ Toͤlz. 89 50</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256023487_915" custom="readingOrder {index:41;}">
+                <Coords points="142,1809 1013,1791 1102,1790 1125,1794 1125,1824 339,1848 142,1839"/>
+                <Baseline points="142,1829 192,1832 319,1836 339,1838 416,1828 441,1827 467,1826 492,1825 518,1826 1013,1811 1045,1811 1102,1810 1125,1814"/>
+                <TextEquiv>
+                    <Unicode>14. „ Landau. 81 57</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256028915_919" custom="readingOrder {index:42;}">
+                <Coords points="149,1844 1093,1826 1124,1830 1155,1836 1155,1866 346,1877 183,1876 149,1874"/>
+                <Baseline points="149,1864 183,1866 315,1864 346,1867 421,1862 447,1861 473,1861 499,1860 525,1860 551,1860 577,1862 1007,1849 1055,1847 1093,1846 1124,1850 1155,1856"/>
+                <TextEquiv>
+                    <Unicode>15. „ Eggenfelder. 128 11 ¼</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256033670_923" custom="readingOrder {index:43;}">
+                <Coords points="135,1876 1015,1860 1128,1862 1128,1892 513,1906 179,1910 135,1906"/>
+                <Baseline points="135,1896 179,1900 237,1897 264,1896 292,1896 319,1896 347,1897 375,1897 418,1893 449,1895 481,1896 513,1896 1015,1880 1054,1883 1098,1882 1128,1882"/>
+                <TextEquiv>
+                    <Unicode>16. Magiſtrat Paſſau. 39 18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256044288_931" custom="readingOrder {index:44;}">
+                <Coords points="149,1914 1018,1896 1113,1896 1149,1902 1149,1932 183,1946 149,1944"/>
+                <Baseline points="149,1934 183,1936 244,1934 272,1933 300,1933 328,1933 356,1932 384,1932 417,1931 447,1929 477,1929 507,1930 537,1929 1018,1916 1054,1916 1113,1916 1149,1922"/>
+                <TextEquiv>
+                    <Unicode>17. Landgericht Troßberg. 63 6 ¾</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256039125_927" custom="readingOrder {index:45;}">
+                <Coords points="150,1947 1024,1917 1127,1934 1127,1964 338,1987 184,1979 150,1977"/>
+                <Baseline points="150,1967 184,1969 328,1975 338,1977 417,1964 446,1964 476,1963 506,1963 536,1965 566,1967 1026,1950 1050,1949 1096,1951 1127,1954"/>
+                <TextEquiv>
+                    <Unicode>18. „ Straubing. 77 28</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256049844_935" custom="readingOrder {index:46;}">
+                <Coords points="146,1981 1027,1966 1110,1967 1130,1968 1130,1998 342,2020 322,2020 181,2014 146,2011"/>
+                <Baseline points="146,2001 181,2004 322,2010 342,2010 417,1999 444,2000 471,2000 498,2000 525,2000 552,2000 1001,1988 1027,1986 1053,1988 1110,1987 1130,1988"/>
+                <TextEquiv>
+                    <Unicode>19. „ Vilshofen. 102 6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256054723_939" custom="readingOrder {index:47;}">
+                <Coords points="143,2016 1128,1998 1128,2028 1100,2030 344,2053 320,2053 183,2050 143,2046"/>
+                <Baseline points="143,2036 183,2040 320,2043 344,2043 422,2031 449,2033 476,2033 504,2034 531,2034 559,2034 1021,2020 1054,2021 1100,2020 1128,2018"/>
+                <TextEquiv>
+                    <Unicode>20. „ Grafenau. 40 10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621256060998_943" custom="readingOrder {index:48;}">
+                <Coords points="129,2054 155,2053 1008,2035 1094,2036 1168,2040 1168,2070 344,2090 207,2092 129,2084"/>
+                <Baseline points="142,2073 155,2073 181,2076 207,2082 324,2080 344,2080 420,2069 448,2070 476,2069 504,2069 532,2069 560,2071 1008,2055 1054,2057 1094,2056 1131,2058 1168,2060"/>
+                <TextEquiv>
+                    <Unicode>21. „ Schongau. 77 46 ¼</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>XLVII
+„ ligen ab, ſondern bringt auch reiche Frucht durch den Dank
+„ vieler gegen Gott, welche wegen dieſer erprobten Mildthaͤtigkeit
+„ Gott preiſen fuͤr den Gehorſam gegen das Evangelium Jeſu
+„ Chriſti, das ihr bekennet und fuͤr die gutthaͤtige Mittheilung
+„ gegen ſie und alle und durch ihr Gebet fuͤr euch, da ſie euch
+„ wegen der reichlichen Wohlthat, die Gott ihnen durch euch wer⸗
+„ den ließ, herzlich lieben.“ (II. Cor. IX. 12. 1.)
+Ich ſchließe mit der herzlichen Bitte. Moͤge des Herrn
+Auge walten uͤber ſeinem heiligen Hauſe, Sein Segen ſichtbar
+werden in erhoͤhter Tugend und Froͤmmigkeit der katholiſchen Ge⸗
+meinde: ſichtbar in erneuertem Eifer des kirchlich⸗religioͤſen Sin⸗
+nes, auf daß in Erfuͤllung gehe, was der heil. Paulus an die
+Hebraͤer am 10. ſo dringend anempfiehlt: „Laſſet uns im Be⸗
+„kenntniß unſerer Hoffnung unbeweglich verharren; laſſet uns
+„nicht wie es einige zu ihun pflegen, unſre Verſammlungen ver⸗
+„laſſen, ſondern uns untereinander troͤſten und erbauen.
+Geſchrieben zu Duͤrkheim im Rheinkreiſe Bayerns in der
+Octave der Erſcheinung des Herrn, 1830.
+Zimmer,
+Pfarrer der katholiſchen Gemeinde.
+Augemeine Ueberſicht der milden Beiträge, die zum Behufe des katholiſchen
+Kirchenbaues in Dürkheim eingegangen ſind.
+Betrag.
+Behoͤrde. Koͤnigreich Bayern.
+1. Durch ſeine Majeſtaͤt den Koͤnig von Bayern
+nach ertheilter allergnaͤdigſten Genehmigung einer
+allgemeinen Kollekte die milde Schenkung von
+zwanzig Bauſtaͤmmen, veranſchlagt zu 230
+2. Koͤnigliche Polizeidirection in Muͤnchen. 283 1
+3. Landgericht Techernſee. 36 12
+4. „ Weilheim. 142 31
+5. „ Werdenfels. 40 35
+6. „ Koͤtzling. 18 41
+7. „ Misbach. 93 22
+8. „ Landshut. 84 29 ¾
+9. „ Regen. 47 11 ¼
+10. Magiſtrat Straubing. 37 55
+11. „ Landshut. 63 21 ¼
+12. Landgericht Berchtolsgaden. 20 19 ¼
+13. „ Toͤlz. 89 50
+14. „ Landau. 81 57
+15. „ Eggenfelder. 128 11 ¼
+16. Magiſtrat Paſſau. 39 18
+17. Landgericht Troßberg. 63 6 ¾
+18. „ Straubing. 77 28
+19. „ Vilshofen. 102 6
+20. „ Grafenau. 40 10
+21. „ Schongau. 77 46 ¼</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

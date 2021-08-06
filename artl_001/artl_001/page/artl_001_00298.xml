@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-20T17:30:32.062+01:00</Created>
+        <LastChange>2021-05-11T09:09:45.186+02:00</LastChange>
+        <TranskribusMetadata docId="542280" pageId="22797955" pageNr="20" tsid="57717446" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=WPJGEAAQHBQABPVXZWKMQLZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TDOJFCFMDSMLDYDUNQOZMBZD" imageId="17775147"/>
+    </Metadata>
+    <Page imageFilename="artl_001_00298.tif" imageWidth="1360" imageHeight="2453">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328083920" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="69,86 69,1710 1267,1710 1267,86"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="407,117 436,117 465,118 495,118 524,119 553,119 583,120 612,120 641,120 671,120 700,121 729,121 759,121 788,121 817,122 847,122 876,122 905,123 935,123 964,124 994,125 994,94 964,93 935,92 905,92 876,91 847,91 817,91 788,90 759,90 729,90 700,90 671,89 641,89 612,89 583,89 553,88 524,88 495,87 465,87 436,86 407,86"/>
+                <Baseline points="407,107 436,107 465,108 495,108 524,109 553,109 583,110 612,110 641,110 671,110 700,111 729,111 759,111 788,111 817,112 847,112 876,112 905,113 935,113 964,114 994,115"/>
+                <TextEquiv>
+                    <Unicode>Rust, Stimmen der Reformation etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="80,126 109,124 138,124 168,126 168,95 138,93 109,93 80,95"/>
+                <Baseline points="80,116 109,114 138,114 168,116"/>
+                <TextEquiv>
+                    <Unicode>284</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="79,200 138,200 197,199 257,199 316,200 376,200 435,200 494,201 554,202 613,202 673,203 732,204 791,205 851,206 910,207 970,207 1029,208 1088,208 1148,209 1207,209 1267,209 1267,178 1207,178 1148,178 1088,177 1029,177 970,176 910,176 851,175 791,174 732,173 673,172 613,171 554,171 494,170 435,169 376,169 316,169 257,168 197,168 138,169 79,169"/>
+                <Baseline points="79,190 138,190 197,189 257,189 316,190 376,190 435,190 494,191 554,192 613,192 673,193 732,194 791,195 851,196 910,197 970,197 1029,198 1088,198 1148,199 1207,199 1267,199"/>
+                <TextEquiv>
+                    <Unicode>das eigentlich gelehrte oder gar theologiſche. Um ſo mehr müſſen wir be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="83,248 142,248 201,248 260,248 319,248 378,249 437,249 496,250 555,250 614,251 673,252 732,253 791,254 850,254 909,255 968,256 1027,257 1086,258 1145,258 1204,259 1263,260 1263,229 1204,228 1145,227 1086,227 1027,226 968,225 909,224 850,223 791,223 732,222 673,221 614,220 555,219 496,219 437,218 378,218 319,217 260,217 201,217 142,217 83,217"/>
+                <Baseline points="83,238 142,238 201,238 260,238 319,238 378,239 437,239 496,240 555,240 614,241 673,242 732,243 791,244 850,244 909,245 968,246 1027,247 1086,248 1145,248 1204,249 1263,250"/>
+                <TextEquiv>
+                    <Unicode>dauern, daß er den geſchichtlichen Blick eigentlich nur auf die Nachtſeite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="77,298 136,298 195,297 254,297 313,298 373,298 432,298 491,299 550,299 609,300 669,301 728,301 787,302 846,303 905,304 965,304 1024,305 1083,306 1142,307 1201,308 1261,308 1261,277 1201,277 1142,276 1083,275 1024,274 965,273 905,273 846,272 787,271 728,270 669,270 609,269 550,268 491,268 432,267 373,267 313,267 254,266 195,266 136,267 77,267"/>
+                <Baseline points="77,288 136,288 195,287 254,287 313,288 373,288 432,288 491,289 550,289 609,290 669,291 728,291 787,292 846,293 905,294 965,294 1024,295 1083,296 1142,297 1201,298 1261,298"/>
+                <TextEquiv>
+                    <Unicode>der neueren Zeit gewendet und nicht wenigſtens neben dem Gegebenen auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="80,349 139,348 198,348 257,347 316,347 375,347 434,347 494,348 553,348 612,349 671,350 730,350 789,351 848,352 908,353 967,354 1026,355 1085,356 1144,356 1203,357 1263,358 1263,327 1203,326 1144,325 1085,325 1026,324 967,323 908,322 848,321 789,320 730,319 671,319 612,318 553,317 494,317 434,316 375,316 316,316 257,316 198,317 139,317 80,318"/>
+                <Baseline points="80,339 139,338 198,338 257,337 316,337 375,337 434,337 494,338 553,338 612,339 671,340 730,340 789,341 848,342 908,343 967,344 1026,345 1085,346 1144,346 1203,347 1263,348"/>
+                <TextEquiv>
+                    <Unicode>gezeigt, wie das durch die Reformation ausgeſprochene und lebendig ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="76,394 135,395 194,395 253,396 312,396 371,397 430,397 489,398 548,398 607,399 666,399 725,400 784,400 843,401 902,402 961,403 1020,403 1079,404 1138,405 1197,406 1257,407 1257,376 1197,375 1138,374 1079,373 1020,372 961,372 902,371 843,370 784,369 725,369 666,368 607,368 548,367 489,367 430,366 371,366 312,365 253,365 194,364 135,364 76,363"/>
+                <Baseline points="76,384 135,385 194,385 253,386 312,386 371,387 430,387 489,388 548,388 607,389 666,389 725,390 784,390 843,391 902,392 961,393 1020,393 1079,394 1138,395 1197,396 1257,397"/>
+                <TextEquiv>
+                    <Unicode>wordene Prinzip ſich da und dort erhalten und bewährt hat in der Pra⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="76,443 135,444 194,444 254,444 313,445 373,445 432,446 492,446 551,447 611,447 670,448 729,449 789,449 848,450 908,451 967,452 1027,452 1086,453 1146,454 1205,455 1265,456 1265,425 1205,424 1146,423 1086,422 1027,421 967,421 908,420 848,419 789,418 729,418 670,417 611,416 551,416 492,415 432,415 373,414 313,414 254,413 194,413 135,413 76,412"/>
+                <Baseline points="76,433 135,434 194,434 254,434 313,435 373,435 432,436 492,436 551,437 611,437 670,438 729,439 789,439 848,440 908,441 967,442 1027,442 1086,443 1146,444 1205,445 1265,446"/>
+                <TextEquiv>
+                    <Unicode>xis. Dazu hätte die Betrachtung des Entwickelungsganges der deutſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="78,492 137,493 196,493 255,494 315,494 374,494 433,495 492,495 552,496 611,496 670,497 729,497 789,498 848,499 907,499 966,500 1026,501 1085,502 1144,502 1203,504 1263,505 1263,474 1203,473 1144,471 1085,471 1026,470 966,469 907,468 848,468 789,467 729,466 670,466 611,465 552,465 492,464 433,464 374,463 315,463 255,463 196,462 137,462 78,461"/>
+                <Baseline points="78,482 137,483 196,483 255,484 315,484 374,484 433,485 492,485 552,486 611,486 670,487 729,487 789,488 848,489 907,489 966,490 1026,491 1085,492 1144,492 1203,494 1263,495"/>
+                <TextEquiv>
+                    <Unicode>Nation vielfache und erfreuliche Beweiſe geliefert. Selbſt der Zeit fehlte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="72,542 134,542 196,543 258,543 320,544 382,544 444,545 506,545 568,545 630,546 692,546 754,547 816,547 878,548 940,549 1002,550 1064,550 1126,552 1188,553 1251,554 1251,523 1188,522 1126,521 1064,519 1002,519 940,518 878,517 816,516 754,516 692,515 630,515 568,514 506,514 444,514 382,513 320,513 258,512 196,512 134,511 72,511"/>
+                <Baseline points="72,532 134,532 196,533 258,533 320,534 382,534 444,535 506,535 568,535 630,536 692,536 754,537 816,537 878,538 940,539 1002,540 1064,540 1126,542 1188,543 1251,544"/>
+                <TextEquiv>
+                    <Unicode>es nicht ganz, welche der Herr Vf. für die oberflächlichſte, in ſich zerriſſenſte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="75,592 133,592 192,592 251,592 310,593 369,593 427,594 486,594 545,594 604,595 663,595 721,596 780,597 839,597 898,598 957,599 1015,599 1074,600 1133,601 1192,602 1251,602 1251,571 1192,571 1133,570 1074,569 1015,568 957,568 898,567 839,566 780,566 721,565 663,564 604,564 545,563 486,563 427,563 369,562 310,562 251,561 192,561 133,561 75,561"/>
+                <Baseline points="75,582 133,582 192,582 251,582 310,583 369,583 427,584 486,584 545,584 604,585 663,585 721,586 780,587 839,587 898,588 957,589 1015,589 1074,590 1133,591 1192,592 1251,592"/>
+                <TextEquiv>
+                    <Unicode>hält. Auch Friedrich hätte verdient tiefer aufgefaßt zu werden, obſchon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="69,642 128,642 187,642 247,642 306,642 366,642 425,643 484,643 544,644 603,644 663,645 722,645 781,646 841,647 900,647 960,648 1019,649 1078,649 1138,650 1197,651 1257,652 1257,621 1197,620 1138,619 1078,618 1019,618 960,617 900,616 841,616 781,615 722,614 663,614 603,613 544,613 484,612 425,612 366,611 306,611 247,611 187,611 128,611 69,611"/>
+                <Baseline points="69,632 128,632 187,632 247,632 306,632 366,632 425,633 484,633 544,634 603,634 663,635 722,635 781,636 841,637 900,637 960,638 1019,639 1078,639 1138,640 1197,641 1257,642"/>
+                <TextEquiv>
+                    <Unicode>im Allgemeinen die hier gegebene Charakteriſtik der Wahrheit ziemlich nahe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="69,691 128,691 187,691 246,691 306,691 365,691 424,691 484,692 543,692 602,693 662,694 721,694 780,695 839,696 899,697 958,697 1017,698 1077,699 1136,699 1195,700 1255,700 1255,669 1195,669 1136,668 1077,668 1017,667 958,666 899,666 839,665 780,664 721,663 662,663 602,662 543,661 484,661 424,660 365,660 306,660 246,660 187,660 128,660 69,660"/>
+                <Baseline points="69,681 128,681 187,681 246,681 306,681 365,681 424,681 484,682 543,682 602,683 662,684 721,684 780,685 839,686 899,687 958,687 1017,688 1077,689 1136,689 1195,690 1255,690"/>
+                <TextEquiv>
+                    <Unicode>kommt, und die neuern Verſuche, das Gegentheil zu begründen, uns bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="72,741 104,741 136,740 169,740 201,739 234,739 266,739 298,739 331,739 363,740 396,740 428,740 460,741 493,741 525,741 558,741 590,742 622,742 655,742 687,742 802,740 802,709 687,711 655,711 622,711 590,711 558,710 525,710 493,710 460,710 428,709 396,709 363,709 331,708 298,708 266,708 234,708 201,708 169,709 136,709 104,710 72,710"/>
+                <Baseline points="72,731 104,731 136,730 169,730 201,729 234,729 266,729 298,729 331,729 363,730 396,730 428,730 460,731 493,731 525,731 558,731 590,732 622,732 655,732 687,732 791,733"/>
+                <TextEquiv>
+                    <Unicode>jetzt wenigſtens nicht befriedigen konnten. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="148,790 203,789 258,789 313,789 369,789 424,789 479,790 535,790 590,791 645,792 701,792 756,793 811,794 866,795 922,795 977,796 1032,796 1088,797 1143,797 1198,797 1254,797 1254,766 1198,766 1143,766 1088,766 1032,765 977,765 922,764 866,764 811,763 756,762 701,761 645,761 590,760 535,759 479,759 424,758 369,758 313,758 258,758 203,758 148,759"/>
+                <Baseline points="148,780 203,779 258,779 313,779 369,779 424,779 479,780 535,780 590,781 645,782 701,782 756,783 811,784 866,785 922,785 977,786 1032,786 1088,787 1143,787 1198,787 1254,787"/>
+                <TextEquiv>
+                    <Unicode>Zuletzt ſtellt der Herr Vf. noch die Frage auf: „Wie ſoll’s anders,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="76,839 135,838 194,838 253,838 312,838 371,838 430,838 489,839 548,840 607,841 666,841 725,842 784,843 843,844 902,845 961,846 1020,847 1079,847 1138,848 1197,848 1256,848 1256,817 1197,817 1138,817 1079,816 1020,816 961,815 902,814 843,813 784,812 725,811 666,810 607,810 548,809 489,808 430,807 371,807 312,807 253,807 194,807 135,807 76,808"/>
+                <Baseline points="76,829 135,828 194,828 253,828 312,828 371,828 430,828 489,829 548,830 607,831 666,831 725,832 784,833 843,834 902,835 961,836 1020,837 1079,837 1138,838 1197,838 1256,838"/>
+                <TextEquiv>
+                    <Unicode>wie beſſer werden?” Er beantwortet ſie in 10 Artikeln, wie man ſie von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="75,889 101,889 127,889 153,889 179,889 205,888 231,888 257,888 283,888 309,888 335,888 361,888 387,888 413,888 439,889 465,889 491,890 491,859 465,858 439,858 413,857 387,857 361,857 335,857 309,857 283,857 257,857 231,857 205,857 179,858 153,858 127,858 101,858 75,858"/>
+                <Baseline points="75,879 101,879 127,879 153,879 179,879 205,878 231,878 257,878 283,878 309,878 335,878 361,878 387,878 413,878 439,879 465,879 491,880"/>
+                <TextEquiv>
+                    <Unicode>einem Theologen erwartet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="166,1091 216,1091 266,1091 316,1092 366,1092 416,1092 466,1093 516,1093 566,1094 616,1094 666,1095 716,1095 766,1095 816,1096 866,1096 916,1097 966,1097 1016,1097 1066,1098 1116,1098 1166,1098 1166,1067 1116,1067 1066,1067 1016,1066 966,1066 916,1066 866,1065 816,1065 766,1064 716,1064 666,1064 616,1063 566,1063 516,1062 466,1062 416,1061 366,1061 316,1061 266,1060 216,1060 166,1060"/>
+                <Baseline points="166,1081 216,1081 266,1081 316,1082 366,1082 416,1082 466,1083 516,1083 566,1084 616,1084 666,1085 716,1085 766,1085 816,1086 866,1086 916,1087 966,1087 1016,1087 1066,1088 1116,1088 1166,1088"/>
+                <TextEquiv>
+                    <Unicode>Nachfolgende Druckfehler wird der Leſer zu verbeſſern gebeten:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615385921516_2739" custom="readingOrder {index:18;}">
+                <Coords points="74,1134 110,1132 554,1133 837,1138 837,1168 682,1168 147,1166 74,1165"/>
+                <Baseline points="74,1155 110,1153 147,1156 211,1154 236,1154 262,1154 287,1154 313,1155 338,1155 364,1155 389,1155 415,1156 440,1156 466,1156 491,1156 517,1156 543,1156 554,1153 579,1155 605,1156 631,1157 656,1157 682,1158 708,1158 734,1158 759,1157 785,1158 811,1158 837,1158"/>
+                <TextEquiv>
+                    <Unicode>Seite 2 Zeile 17 v. o. lies: beide ſtatt: leider.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615385928915_2743" custom="readingOrder {index:19;}">
+                <Coords points="95,1173 348,1167 796,1173 848,1174 874,1175 874,1205 458,1203 95,1203"/>
+                <Baseline points="95,1195 228,1190 348,1187 375,1190 403,1192 430,1192 458,1193 562,1191 588,1192 614,1193 640,1193 666,1193 692,1194 718,1194 744,1193 770,1193 796,1193 822,1194 848,1194 874,1195"/>
+                <TextEquiv>
+                    <Unicode>— 44 — 6 v. u. — von ihnen ſtatt: aus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615385934633_2747" custom="readingOrder {index:20;}">
+                <Coords points="122,1200 244,1201 993,1209 1072,1210 1072,1240 757,1240 454,1239 192,1234 102,1232 102,1202"/>
+                <Baseline points="102,1222 122,1220 192,1224 234,1224 244,1221 270,1222 296,1223 322,1225 349,1225 375,1226 401,1227 427,1228 454,1229 548,1225 574,1227 600,1227 626,1228 652,1228 679,1229 705,1229 731,1229 757,1230 783,1230 810,1229 836,1229 862,1229 888,1229 914,1229 941,1229 967,1229 993,1229 1019,1230 1045,1230 1072,1230"/>
+                <TextEquiv>
+                    <Unicode>— 72 — 14 v. ο. — dem B. Ordin. ſtatt: d. B. ordin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615385946190_2752" custom="readingOrder {index:21;}">
+                <Coords points="94,1233 785,1243 811,1244 811,1274 607,1274 424,1274 192,1271 123,1268 94,1263"/>
+                <Baseline points="94,1253 123,1258 192,1261 234,1261 274,1258 315,1261 335,1262 364,1262 394,1263 424,1264 454,1263 557,1262 582,1263 607,1264 633,1264 658,1264 684,1264 709,1264 734,1263 760,1263 785,1263 811,1264"/>
+                <TextEquiv>
+                    <Unicode>— 74 — 14 v. o. — ſeinen ſtatt: ſeine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615385955831_2758" custom="readingOrder {index:22;}">
+                <Coords points="91,1272 265,1272 879,1278 930,1279 1032,1283 1032,1313 429,1310 91,1302"/>
+                <Baseline points="93,1297 224,1296 265,1292 291,1294 317,1296 329,1296 354,1295 379,1297 404,1299 429,1300 454,1299 548,1297 573,1298 598,1298 624,1298 649,1298 675,1298 700,1298 726,1298 751,1298 777,1298 802,1298 828,1298 853,1298 879,1298 904,1299 930,1299 955,1300 981,1301 1006,1302 1032,1303"/>
+                <TextEquiv>
+                    <Unicode>— 82 — 18 v. o. — Teich Bethesda ſtatt: Bethesda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615385965397_2763" custom="readingOrder {index:23;}">
+                <Coords points="86,1310 294,1308 909,1316 986,1319 986,1349 458,1347 86,1340"/>
+                <Baseline points="88,1331 224,1332 267,1330 294,1328 322,1329 348,1331 375,1333 403,1334 430,1335 458,1337 551,1335 576,1335 602,1335 627,1334 653,1334 678,1334 704,1334 730,1334 755,1335 781,1335 806,1335 832,1335 858,1336 883,1336 909,1336 934,1337 960,1338 986,1339"/>
+                <TextEquiv>
+                    <Unicode>— 88 — 3 v. u. — ὤν ἐκ τοῦ ſtatt ὥν ἐν τοῦ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615385979898_2769" custom="readingOrder {index:24;}">
+                <Coords points="86,1346 272,1345 540,1348 902,1353 902,1383 850,1383 86,1376"/>
+                <Baseline points="95,1373 222,1368 272,1365 310,1368 324,1369 355,1369 386,1369 417,1371 448,1371 540,1368 565,1369 591,1370 617,1371 643,1371 669,1371 695,1372 721,1372 746,1372 772,1372 798,1372 824,1372 850,1373 876,1373 902,1373"/>
+                <TextEquiv>
+                    <Unicode>— 127 — 13 v. u. — Hunnius ſtatt: Gunnius.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615385986286_2774" custom="readingOrder {index:25;}">
+                <Coords points="92,1383 264,1380 290,1380 793,1388 844,1389 844,1419 818,1419 395,1418 220,1416 92,1413"/>
+                <Baseline points="90,1409 220,1406 264,1400 290,1400 316,1402 342,1404 369,1407 395,1408 421,1408 448,1407 539,1406 564,1406 589,1407 615,1407 640,1408 666,1408 691,1408 716,1408 742,1408 767,1408 793,1408 818,1409 844,1409"/>
+                <TextEquiv>
+                    <Unicode>— 128 — 11 v. u. — africae ſtatt: africa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615385992991_2779" custom="readingOrder {index:26;}">
+                <Coords points="88,1422 220,1420 325,1420 801,1425 876,1426 876,1456 826,1456 445,1456 88,1452"/>
+                <Baseline points="91,1447 220,1440 270,1440 294,1440 325,1440 355,1442 385,1443 415,1444 445,1446 551,1443 576,1443 601,1444 626,1444 651,1445 676,1445 701,1445 726,1445 751,1445 776,1445 801,1445 826,1446 851,1446 876,1446"/>
+                <TextEquiv>
+                    <Unicode>— 129 — 16 v. o. — proprius ſtatt poprias.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615385997166_2783" custom="readingOrder {index:27;}">
+                <Coords points="80,1458 356,1457 976,1461 1075,1462 1141,1463 1207,1465 1207,1495 406,1491 80,1488"/>
+                <Baseline points="78,1479 212,1478 331,1478 356,1477 381,1479 406,1481 431,1481 456,1480 549,1480 581,1480 614,1481 647,1481 680,1481 713,1481 746,1481 779,1481 812,1481 845,1481 878,1481 910,1481 943,1481 976,1481 1009,1482 1042,1482 1075,1482 1108,1483 1141,1483 1174,1484 1207,1485"/>
+                <TextEquiv>
+                    <Unicode>— 150 — 18 v. o. — Sonnabendfaſtens ſtatt: Sonnabendſyſtems.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615386001129_2787" custom="readingOrder {index:28;}">
+                <Coords points="80,1495 266,1491 1195,1500 1244,1501 1244,1531 755,1528 608,1527 80,1526"/>
+                <Baseline points="91,1517 197,1514 226,1514 266,1511 314,1513 363,1514 412,1514 461,1515 510,1516 559,1516 608,1517 657,1517 706,1517 755,1518 803,1518 852,1518 901,1518 950,1519 999,1519 1048,1519 1097,1520 1146,1520 1195,1520 1244,1521"/>
+                <TextEquiv>
+                    <Unicode>— 151 — 18 und 19 ſoll es heißen: in der ſein eigenthümliches Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l58" custom="readingOrder {index:29;}">
+                <Coords points="521,1562 548,1562 575,1562 602,1562 629,1563 656,1563 683,1564 683,1534 656,1533 629,1533 602,1532 575,1532 548,1532 521,1532"/>
+                <Baseline points="521,1552 548,1552 575,1552 602,1552 629,1553 656,1553 683,1554"/>
+                <TextEquiv>
+                    <Unicode>dienſt volle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615386008501_2791" custom="readingOrder {index:30;}">
+                <Coords points="78,1568 175,1564 201,1564 601,1570 769,1567 769,1597 358,1601 78,1598"/>
+                <Baseline points="90,1588 198,1586 224,1586 269,1582 295,1582 321,1583 347,1584 373,1585 399,1587 425,1588 452,1589 539,1586 565,1587 591,1588 617,1588 643,1588 669,1588 695,1588 721,1589 747,1590"/>
+                <TextEquiv>
+                    <Unicode>— 172 — 6 v. u. — ces ſtatt: ses.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615386014061_2795" custom="readingOrder {index:31;}">
+                <Coords points="79,1601 317,1600 514,1601 1012,1606 1012,1636 451,1636 79,1631"/>
+                <Baseline points="87,1625 222,1621 317,1620 343,1622 370,1623 397,1623 424,1624 451,1626 490,1622 514,1622 551,1624 576,1623 602,1623 627,1623 653,1623 679,1623 704,1624 730,1624 755,1624 781,1624 807,1625 832,1625 858,1625 883,1626 909,1626 935,1626 960,1626 986,1626 1012,1626"/>
+                <TextEquiv>
+                    <Unicode>— 188 — 11 v. u. — pas tout — à ſtatt: partout à.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615386017552_2799" custom="readingOrder {index:32;}">
+                <Coords points="83,1641 196,1637 222,1636 299,1636 934,1643 986,1644 1012,1645 1012,1675 428,1671 83,1671"/>
+                <Baseline points="84,1661 196,1657 222,1656 248,1656 273,1656 299,1656 325,1657 351,1658 376,1659 402,1660 428,1661 454,1661 547,1660 572,1660 598,1660 624,1661 650,1661 676,1661 702,1662 727,1662 753,1662 779,1662 805,1662 831,1662 857,1663 882,1663 908,1663 934,1663 960,1664 986,1664 1012,1665"/>
+                <TextEquiv>
+                    <Unicode>— 191 — 24 v. u. — “als klaſſiches Werk bezeichnen.”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615386020702_2803" custom="readingOrder {index:33;}">
+                <Coords points="81,1674 184,1674 210,1673 286,1673 719,1678 775,1680 775,1710 440,1710 81,1705"/>
+                <Baseline points="82,1694 184,1695 210,1694 235,1694 261,1694 286,1694 312,1695 337,1696 363,1697 388,1698 414,1699 440,1700 526,1697 553,1699 581,1700 609,1700 636,1700 664,1700 692,1699 719,1698 747,1699 775,1700"/>
+                <TextEquiv>
+                    <Unicode>— 192 — 6 v. o. — das, ſtatt: dieß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rust, Stimmen der Reformation etc.
+284
+das eigentlich gelehrte oder gar theologiſche. Um ſo mehr müſſen wir be⸗
+dauern, daß er den geſchichtlichen Blick eigentlich nur auf die Nachtſeite
+der neueren Zeit gewendet und nicht wenigſtens neben dem Gegebenen auch
+gezeigt, wie das durch die Reformation ausgeſprochene und lebendig ge⸗
+wordene Prinzip ſich da und dort erhalten und bewährt hat in der Pra⸗
+xis. Dazu hätte die Betrachtung des Entwickelungsganges der deutſchen
+Nation vielfache und erfreuliche Beweiſe geliefert. Selbſt der Zeit fehlte
+es nicht ganz, welche der Herr Vf. für die oberflächlichſte, in ſich zerriſſenſte
+hält. Auch Friedrich hätte verdient tiefer aufgefaßt zu werden, obſchon
+im Allgemeinen die hier gegebene Charakteriſtik der Wahrheit ziemlich nahe
+kommt, und die neuern Verſuche, das Gegentheil zu begründen, uns bis
+jetzt wenigſtens nicht befriedigen konnten. —
+Zuletzt ſtellt der Herr Vf. noch die Frage auf: „Wie ſoll’s anders,
+wie beſſer werden?” Er beantwortet ſie in 10 Artikeln, wie man ſie von
+einem Theologen erwartet.
+Nachfolgende Druckfehler wird der Leſer zu verbeſſern gebeten:
+Seite 2 Zeile 17 v. o. lies: beide ſtatt: leider.
+— 44 — 6 v. u. — von ihnen ſtatt: aus.
+— 72 — 14 v. ο. — dem B. Ordin. ſtatt: d. B. ordin.
+— 74 — 14 v. o. — ſeinen ſtatt: ſeine.
+— 82 — 18 v. o. — Teich Bethesda ſtatt: Bethesda.
+— 88 — 3 v. u. — ὤν ἐκ τοῦ ſtatt ὥν ἐν τοῦ.
+— 127 — 13 v. u. — Hunnius ſtatt: Gunnius.
+— 128 — 11 v. u. — africae ſtatt: africa.
+— 129 — 16 v. o. — proprius ſtatt poprias.
+— 150 — 18 v. o. — Sonnabendfaſtens ſtatt: Sonnabendſyſtems.
+— 151 — 18 und 19 ſoll es heißen: in der ſein eigenthümliches Ver⸗
+dienſt volle.
+— 172 — 6 v. u. — ces ſtatt: ses.
+— 188 — 11 v. u. — pas tout — à ſtatt: partout à.
+— 191 — 24 v. u. — “als klaſſiches Werk bezeichnen.”
+— 192 — 6 v. o. — das, ſtatt: dieß.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

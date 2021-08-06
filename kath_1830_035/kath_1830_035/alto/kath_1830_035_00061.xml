@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:43:35.53+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2153" WIDTH="1259">
+         <TopMargin HEIGHT="0" WIDTH="1259" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="1259"/>
+         <BottomMargin HEIGHT="0" WIDTH="1259" VPOS="2153" HPOS="0"/>
+         <PrintSpace HEIGHT="2153" WIDTH="1259" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="833" WIDTH="1050" VPOS="112" HPOS="57">
+               <Shape>
+                  <Polygon POINTS="57,112 57,945 1107,945 1107,112"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="549,142 575,142 602,142"
+                         HEIGHT="45"
+                         WIDTH="53"
+                         VPOS="112"
+                         HPOS="549">
+                  <String ID="string_r1l1"
+                          HEIGHT="45"
+                          WIDTH="53"
+                          VPOS="112"
+                          HPOS="549"
+                          CONTENT="55"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="62,246 113,246 165,247 217,247 269,247 321,247 373,247 424,247 476,246 528,246 580,245 632,245 684,244 736,243 787,241 839,240 891,239 943,237 995,235 1047,233 1099,231"
+                         HEIGHT="55"
+                         WIDTH="1037"
+                         VPOS="205"
+                         HPOS="62">
+                  <String ID="string_r1l2"
+                          HEIGHT="55"
+                          WIDTH="1037"
+                          VPOS="205"
+                          HPOS="62"
+                          CONTENT="die Vermittlerin unſerer Noth, die Schweſter der Ge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="65,299 116,301 168,302 220,302 271,303 323,303 375,303 426,303 478,302 530,302 582,301 633,300 685,299 737,298 788,297 840,295 892,293 943,292 995,290 1047,288 1099,286"
+                         HEIGHT="56"
+                         WIDTH="1034"
+                         VPOS="260"
+                         HPOS="65">
+                  <String ID="string_r1l3"
+                          HEIGHT="56"
+                          WIDTH="1034"
+                          VPOS="260"
+                          HPOS="65"
+                          CONTENT="duld, die Tochter der Treue; ſie iſt das Band der"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="57,356 109,358 161,359 213,359 265,359 317,359 369,359 422,358 474,358 526,357 578,356 630,355 682,354 734,353 787,351 839,350 891,349 943,347 995,346 1047,345 1100,344"
+                         HEIGHT="54"
+                         WIDTH="1043"
+                         VPOS="318"
+                         HPOS="57">
+                  <String ID="string_r1l4"
+                          HEIGHT="54"
+                          WIDTH="1043"
+                          VPOS="318"
+                          HPOS="57"
+                          CONTENT="Freundſchaft, das Vollwerk der Gottſeligkeit. Ohne ſic"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="66,411 117,412 169,413 220,413 272,414 324,414 375,414 427,413 478,413 530,412 582,411 633,410 685,409 736,408 788,406 840,405 891,403 943,401 994,400 1046,398 1098,396"
+                         HEIGHT="55"
+                         WIDTH="1032"
+                         VPOS="371"
+                         HPOS="66">
+                  <String ID="string_r1l5"
+                          HEIGHT="55"
+                          WIDTH="1032"
+                          VPOS="371"
+                          HPOS="66"
+                          CONTENT="hat keine Dienſtleiſtung einen Werth, kein glücklicher Er⸗"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="66,466 117,467 169,467 220,468 272,468 323,468 375,468 426,468 478,467 529,467 581,466 632,465 684,464 735,463 787,462 838,461 890,459 941,458 993,456 1044,454 1096,452"
+                         HEIGHT="55"
+                         WIDTH="1030"
+                         VPOS="426"
+                         HPOS="66">
+                  <String ID="string_r1l6"
+                          HEIGHT="55"
+                          WIDTH="1030"
+                          VPOS="426"
+                          HPOS="66"
+                          CONTENT="folg iſt des Dankes, keine große That des Ruhmes wür⸗"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="72,521 123,521 175,522 227,522 278,522 330,522 382,522 433,521 485,521 537,520 589,520 640,519 692,518 744,518 795,517 847,516 899,515 950,514 1002,513 1054,512 1106,511"
+                         HEIGHT="50"
+                         WIDTH="1034"
+                         VPOS="485"
+                         HPOS="72">
+                  <String ID="string_r1l7"
+                          HEIGHT="50"
+                          WIDTH="1034"
+                          VPOS="485"
+                          HPOS="72"
+                          CONTENT="dig; denn nicht Der, welcher beginnt, ſondern"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="63,576 106,576 150,576 194,576 238,576 282,576 326,576 370,575 414,575 458,575 502,574 545,574 589,573 633,573 677,572 721,572 765,571 809,571 853,571 897,570 941,570"
+                         HEIGHT="45"
+                         WIDTH="878"
+                         VPOS="544"
+                         HPOS="63">
+                  <String ID="string_r1l8"
+                          HEIGHT="45"
+                          WIDTH="878"
+                          VPOS="544"
+                          HPOS="63"
+                          CONTENT="Der bis an’s Ende beharrt, wird ſelig werden."/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="228,654 260,653 292,653 324,653 356,653 388,653 420,653 453,653 485,653 517,653 549,653 581,653 613,654 645,654 678,653 710,653 742,653 774,652 806,651 838,651 871,649"
+                         HEIGHT="42"
+                         WIDTH="643"
+                         VPOS="624"
+                         HPOS="228">
+                  <String ID="string_r1l9"
+                          HEIGHT="42"
+                          WIDTH="643"
+                          VPOS="624"
+                          HPOS="228"
+                          CONTENT="Von dem der eure Gefangenſchaft ehrt,"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="229,705 256,704 283,705 311,705 338,705 365,705 393,705 420,706 447,706 475,707 502,707 529,707 557,707 584,707 611,707 639,707 666,707 693,707 721,706 748,705 776,704"
+                         HEIGHT="40"
+                         WIDTH="547"
+                         VPOS="679"
+                         HPOS="229">
+                  <String ID="string_r1l10"
+                          HEIGHT="40"
+                          WIDTH="547"
+                          VPOS="679"
+                          HPOS="229"
+                          CONTENT="Der euch von Herzen zugethan iſt,"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="219,757 256,759 293,761 330,763 367,764 405,764 442,764 479,764 516,763 553,762 591,761 628,760 665,759 702,758 739,757 777,756 814,755 851,754 888,753 925,753 963,753"
+                         HEIGHT="48"
+                         WIDTH="744"
+                         VPOS="728"
+                         HPOS="219">
+                  <String ID="string_r1l11"
+                          HEIGHT="48"
+                          WIDTH="744"
+                          VPOS="728"
+                          HPOS="219"
+                          CONTENT="Und ſich demuͤthigſt in euer Gebet empfiehlt."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="794,821 821,823 848,825 876,825 903,825 930,825 958,824"
+                         HEIGHT="49"
+                         WIDTH="164"
+                         VPOS="791"
+                         HPOS="794">
+                  <String ID="string_r1l12"
+                          HEIGHT="49"
+                          WIDTH="164"
+                          VPOS="791"
+                          HPOS="794"
+                          CONTENT="R. S."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="70,926 121,927 173,928 225,929 277,929 329,930 381,930 432,929 484,929 536,929 588,928 640,928 692,927 744,926 795,925 847,924 899,923 951,922 1003,921 1055,920 1107,919"
+                         HEIGHT="56"
+                         WIDTH="1037"
+                         VPOS="889"
+                         HPOS="70">
+                  <String ID="string_r1l13"
+                          HEIGHT="56"
+                          WIDTH="1037"
+                          VPOS="889"
+                          HPOS="70"
+                          CONTENT="Im Schweigen und in der Hoffnung beſteht unſere Stärke."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

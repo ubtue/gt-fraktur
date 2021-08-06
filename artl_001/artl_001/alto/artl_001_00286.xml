@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:48:03.497+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2454" WIDTH="1361">
+         <TopMargin HEIGHT="0" WIDTH="1361" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2454" WIDTH="0" VPOS="0" HPOS="1361"/>
+         <BottomMargin HEIGHT="0" WIDTH="1361" VPOS="2454" HPOS="0"/>
+         <PrintSpace HEIGHT="2454" WIDTH="1361" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2214" WIDTH="1213" VPOS="30" HPOS="96">
+               <Shape>
+                  <Polygon POINTS="96,30 96,2244 1309,2244 1309,30"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="135,55 166,54 197,54 229,55"
+                         HEIGHT="37"
+                         WIDTH="94"
+                         VPOS="30"
+                         HPOS="135">
+                  <String ID="string_r1l1"
+                          HEIGHT="37"
+                          WIDTH="94"
+                          VPOS="30"
+                          HPOS="135"
+                          CONTENT="272"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="660,55 686,55 712,56 738,57 764,57 790,59 816,59"
+                         HEIGHT="40"
+                         WIDTH="156"
+                         VPOS="31"
+                         HPOS="660">
+                  <String ID="string_r1l2"
+                          HEIGHT="40"
+                          WIDTH="156"
+                          VPOS="31"
+                          HPOS="660"
+                          CONTENT="Miscellen."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="604,164 629,162 654,161 679,161 705,161 730,161 755,162 781,163 806,164 831,165 857,166"
+                         HEIGHT="41"
+                         WIDTH="253"
+                         VPOS="137"
+                         HPOS="604">
+                  <String ID="string_r1l3"
+                          HEIGHT="41"
+                          WIDTH="253"
+                          VPOS="137"
+                          HPOS="604"
+                          CONTENT="Miscellen."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="235,220 284,221 333,222 382,223 432,224 481,224 530,225 579,226 629,228 678,229 727,230 776,231 826,233 875,234 924,235 973,237 1023,238 1072,239 1121,240 1170,242 1220,243"
+                         HEIGHT="59"
+                         WIDTH="985"
+                         VPOS="196"
+                         HPOS="235">
+                  <String ID="string_r1l4"
+                          HEIGHT="59"
+                          WIDTH="985"
+                          VPOS="196"
+                          HPOS="235"
+                          CONTENT="Gieſſen. Theologiſche Vorleſungen. Sommer 1833."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="407,278 439,279 471,280 503,280 535,281 567,281 599,282 631,283 663,283 695,284 727,285 759,285 791,286 823,287 855,288 887,289 919,290 951,291 983,292 1015,293 1047,295"
+                         HEIGHT="50"
+                         WIDTH="640"
+                         VPOS="256"
+                         HPOS="407">
+                  <String ID="string_r1l5"
+                          HEIGHT="50"
+                          WIDTH="640"
+                          VPOS="256"
+                          HPOS="407"
+                          CONTENT="Evangeliſch⸗theologiſche Facultät."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="213,318 267,320 322,321 377,322 432,323 487,325 541,326 596,327 651,329 706,330 761,331 815,333 870,334 925,335 980,337 1035,338 1089,339 1144,340 1199,341 1254,342 1309,343"
+                         HEIGHT="58"
+                         WIDTH="1096"
+                         VPOS="296"
+                         HPOS="213">
+                  <String ID="string_r1l6"
+                          HEIGHT="58"
+                          WIDTH="1096"
+                          VPOS="296"
+                          HPOS="213"
+                          CONTENT="Credner: Ueber die zweckmäßige Einrichtung des theol. Studiums."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="139,362 197,363 255,365 313,366 371,367 429,368 487,370 545,371 603,372 661,373 720,375 778,376 836,377 894,378 952,380 1010,381 1068,382 1126,383 1184,385 1242,386 1301,388"
+                         HEIGHT="57"
+                         WIDTH="1162"
+                         VPOS="341"
+                         HPOS="139">
+                  <String ID="string_r1l7"
+                          HEIGHT="57"
+                          WIDTH="1162"
+                          VPOS="341"
+                          HPOS="139"
+                          CONTENT="Einl. in das N. T. Kirchengeſch. 2. — Crößmann: Chriſtliche Sitten⸗"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="135,408 193,409 252,410 310,411 369,412 428,413 486,415 545,416 603,417 662,419 721,420 779,422 838,423 896,424 955,425 1014,427 1072,428 1131,429 1189,430 1248,431 1307,431"
+                         HEIGHT="54"
+                         WIDTH="1172"
+                         VPOS="387"
+                         HPOS="135">
+                  <String ID="string_r1l8"
+                          HEIGHT="54"
+                          WIDTH="1172"
+                          VPOS="387"
+                          HPOS="135"
+                          CONTENT="lehre. Homiletik. Katechetik. — Dieffenbach: Johannes. Chriſtl. Sit⸗"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="139,453 197,454 256,455 314,455 373,456 431,458 490,459 548,460 607,462 665,463 724,464 782,466 841,467 899,469 958,470 1016,471 1075,473 1133,474 1192,475 1250,476 1309,477"
+                         HEIGHT="55"
+                         WIDTH="1170"
+                         VPOS="432"
+                         HPOS="139">
+                  <String ID="string_r1l9"
+                          HEIGHT="55"
+                          WIDTH="1170"
+                          VPOS="432"
+                          HPOS="139"
+                          CONTENT="tenlehre. Homiletik. Examin. über Dogmatik u. Moral. — Hundeshagen:"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="139,500 197,500 255,501 313,501 371,502 430,503 488,504 546,506 604,507 662,508 721,510 779,511 837,512 895,514 953,515 1012,516 1070,517 1128,518 1186,519 1244,520 1303,520"
+                         HEIGHT="51"
+                         WIDTH="1164"
+                         VPOS="479"
+                         HPOS="139">
+                  <String ID="string_r1l10"
+                          HEIGHT="51"
+                          WIDTH="1164"
+                          VPOS="479"
+                          HPOS="139"
+                          CONTENT="Dogmengeſchichte. Hebräer. Apokalypſe. Examin. über verſchiedene theol."/>
+               </TextLine>
+               <TextLine ID="line_1615385104382_2653"
+                         BASELINE="136,543 170,544 205,544 239,545 274,545 308,546 343,547 377,547 412,548 446,548 481,549 515,550 550,550 584,551 619,552 653,553 688,553 722,554 757,555 791,556 826,556 136,543 170,544 205,544 239,545 274,545 308,546 343,547 377,547 412,548 446,548 481,549 515,550 550,550 584,551 619,552 653,553 688,553 722,554 757,555 791,556 826,556 835,559 860,559 886,559 912,559 938,560 964,561 990,562 1016,563 1042,563 1068,565 1093,565 1119,566 1145,567 1171,567 1197,567 1223,567 1249,566 1275,565 1301,564 835,559 860,559 886,559 912,559 938,560 964,561 990,562 1016,563 1042,563 1068,565 1093,565 1119,566 1145,567 1171,567 1197,567 1223,567 1249,566 1275,565 1301,564"
+                         HEIGHT="56"
+                         WIDTH="1165"
+                         VPOS="522"
+                         HPOS="136">
+                  <String ID="string_line_1615385104382_2653"
+                          HEIGHT="56"
+                          WIDTH="1165"
+                          VPOS="522"
+                          HPOS="136"
+                          CONTENT="Disciplinen. — Kühnöl: Dogmatik. Römer. — Palmer: Aeltere Kirchen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="128,592 162,592 197,592 231,592 266,592 300,592 335,593 369,593 404,593 438,594 473,594 507,595 542,595 576,596 611,597 645,597 680,598 714,599 749,599 783,600 818,601"
+                         HEIGHT="42"
+                         WIDTH="690"
+                         VPOS="570"
+                         HPOS="128">
+                  <String ID="string_r1l13"
+                          HEIGHT="42"
+                          WIDTH="690"
+                          VPOS="570"
+                          HPOS="128"
+                          CONTENT="geſchichte. Katechetik. Paſtoralwiſſenſchaften."/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="391,647 423,647 456,648 488,648 521,649 554,649 586,650 619,651 651,651 684,653 717,653 749,654 782,655 814,656 847,657 880,658 912,659 945,660 977,660 1010,661 1043,662"
+                         HEIGHT="48"
+                         WIDTH="652"
+                         VPOS="625"
+                         HPOS="391">
+                  <String ID="string_r1l14"
+                          HEIGHT="48"
+                          WIDTH="652"
+                          VPOS="625"
+                          HPOS="391"
+                          CONTENT="Katholiſch⸗theologiſche Facultät."/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="195,690 250,690 305,690 360,691 415,692 471,693 526,694 581,695 636,696 691,698 747,700 802,701 857,702 912,704 967,705 1023,707 1078,708 1133,709 1188,709 1243,710 1299,710"
+                         HEIGHT="53"
+                         WIDTH="1104"
+                         VPOS="668"
+                         HPOS="195">
+                  <String ID="string_r1l15"
+                          HEIGHT="53"
+                          WIDTH="1104"
+                          VPOS="668"
+                          HPOS="195"
+                          CONTENT="Kuhn: Meſſianiſche Weiſſagungen. Apoſtelgeſchichte. Neuteſt. Herme⸗"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="127,735 185,735 244,735 303,736 361,736 420,737 479,738 537,740 596,741 655,743 714,744 772,745 831,747 890,748 948,750 1007,751 1066,752 1124,753 1183,754 1242,754 1301,755"
+                         HEIGHT="51"
+                         WIDTH="1174"
+                         VPOS="714"
+                         HPOS="127">
+                  <String ID="string_r1l16"
+                          HEIGHT="51"
+                          WIDTH="1174"
+                          VPOS="714"
+                          HPOS="127"
+                          CONTENT="neutik. — Locherer: Kirchengeſch. des Mittelalters. Patrologie. — Lüft:"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="125,778 183,779 242,780 300,781 359,782 417,783 476,784 534,785 593,786 651,788 710,789 768,790 827,792 885,793 944,794 1002,795 1061,797 1119,798 1178,800 1236,801 1295,802"
+                         HEIGHT="55"
+                         WIDTH="1170"
+                         VPOS="757"
+                         HPOS="125">
+                  <String ID="string_r1l17"
+                          HEIGHT="55"
+                          WIDTH="1170"
+                          VPOS="757"
+                          HPOS="125"
+                          CONTENT="Moraltheologie. Geſch. der Moral. Exam. über Moral. Liturgik. Evang."/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="127,824 185,824 244,824 302,825 361,826 420,827 478,828 537,830 595,831 654,833 713,835 771,836 830,838 888,840 947,841 1006,843 1064,844 1123,845 1181,846 1240,846 1299,847"
+                         HEIGHT="54"
+                         WIDTH="1172"
+                         VPOS="803"
+                         HPOS="127">
+                  <String ID="string_r1l18"
+                          HEIGHT="54"
+                          WIDTH="1172"
+                          VPOS="803"
+                          HPOS="127"
+                          CONTENT="Perikopen. — Staudenmaier: Theorie der Offenbarung. Dogmatik."/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="132,867 157,868 182,868 207,869 232,869 257,870 282,870 308,871 333,871 358,871 383,872 408,872 433,873 458,874 484,874"
+                         HEIGHT="38"
+                         WIDTH="352"
+                         VPOS="846"
+                         HPOS="132">
+                  <String ID="string_r1l19"
+                          HEIGHT="38"
+                          WIDTH="352"
+                          VPOS="846"
+                          HPOS="132"
+                          CONTENT="Geſch. der Dogmatik 2."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="191,914 216,914 241,914 266,914 291,915 316,916 341,917 366,917 391,918 416,918 442,918"
+                         HEIGHT="35"
+                         WIDTH="251"
+                         VPOS="893"
+                         HPOS="191">
+                  <String ID="string_r1l20"
+                          HEIGHT="35"
+                          WIDTH="251"
+                          VPOS="893"
+                          HPOS="191"
+                          CONTENT="Anfang 6. Mai."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="244,992 290,992 336,993 383,993 429,994 476,995 522,996 568,997 615,998 661,999 708,1000 754,1001 800,1002 847,1003 893,1004 940,1005 986,1006 1032,1006 1079,1007 1125,1008 1172,1008"
+                         HEIGHT="52"
+                         WIDTH="928"
+                         VPOS="968"
+                         HPOS="244">
+                  <String ID="string_r1l21"
+                          HEIGHT="52"
+                          WIDTH="928"
+                          VPOS="968"
+                          HPOS="244"
+                          CONTENT="Jena. Theologiſche Vorleſungen. Sommer 1833."/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="193,1045 247,1045 302,1046 356,1046 411,1048 465,1049 520,1050 574,1051 629,1052 683,1054 738,1055 792,1057 847,1058 901,1059 956,1060 1010,1061 1065,1062 1119,1063 1174,1063 1228,1064 1283,1064"
+                         HEIGHT="50"
+                         WIDTH="1090"
+                         VPOS="1024"
+                         HPOS="193">
+                  <String ID="string_r1l22"
+                          HEIGHT="50"
+                          WIDTH="1090"
+                          VPOS="1024"
+                          HPOS="193"
+                          CONTENT="Baumgarten⸗Cruſius: Korinther. Hebräer. Dogmat. Theol. 1. —"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="119,1090 177,1090 236,1091 295,1092 353,1092 412,1093 471,1094 529,1096 588,1097 647,1098 706,1100 764,1101 823,1102 882,1103 940,1105 999,1106 1058,1107 1116,1107 1175,1108 1234,1108 1293,1108"
+                         HEIGHT="49"
+                         WIDTH="1174"
+                         VPOS="1069"
+                         HPOS="119">
+                  <String ID="string_r1l23"
+                          HEIGHT="49"
+                          WIDTH="1174"
+                          VPOS="1069"
+                          HPOS="119"
+                          CONTENT="Danz: Encyklop. Methodol. Einl. ins N. T. Kirchengeſch. 1. — Hafe:"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="121,1134 179,1134 237,1135 295,1136 354,1137 412,1138 470,1139 529,1141 587,1142 645,1143 704,1144 762,1145 820,1146 878,1148 937,1149 995,1150 1053,1151 1112,1152 1170,1152 1228,1153 1287,1153"
+                         HEIGHT="50"
+                         WIDTH="1166"
+                         VPOS="1113"
+                         HPOS="121">
+                  <String ID="string_r1l24"
+                          HEIGHT="50"
+                          WIDTH="1166"
+                          VPOS="1113"
+                          HPOS="121"
+                          CONTENT="Chriſtologie. Uebungen der theol. Geſellſchaft. — Hoffmann (K. R.): Einlei⸗"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="126,1183 224,1179 280,1180 336,1181 393,1182 449,1183 505,1184 562,1185 618,1186 674,1187 731,1188 787,1189 843,1190 899,1191 956,1192 1012,1193 1068,1195 1125,1196 1181,1197 1237,1198 1294,1200"
+                         HEIGHT="53"
+                         WIDTH="1175"
+                         VPOS="1156"
+                         HPOS="119">
+                  <String ID="string_r1l25"
+                          HEIGHT="53"
+                          WIDTH="1175"
+                          VPOS="1156"
+                          HPOS="119"
+                          CONTENT="in d. kan. und apokr. Schrift. des A. T. Kritik. Hermeneutik. Jeſaias. —"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="119,1224 174,1224 230,1225 286,1226 342,1227 398,1227 453,1228 509,1229 565,1230 621,1231 677,1232 732,1233 788,1234 844,1235 900,1236 956,1238 1011,1239 1067,1240 1123,1242 1179,1243 1288,1243"
+                         HEIGHT="49"
+                         WIDTH="1178"
+                         VPOS="1204"
+                         HPOS="119">
+                  <String ID="string_r1l26"
+                          HEIGHT="49"
+                          WIDTH="1178"
+                          VPOS="1204"
+                          HPOS="119"
+                          CONTENT="Hoffmann: Johanneiſche Schriften. Petriniſche Bücher. Katechetik. —"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="107,1269 166,1269 225,1269 284,1269 343,1270 403,1271 462,1272 521,1273 580,1274 639,1276 699,1277 758,1279 817,1280 876,1281 935,1283 995,1284 1054,1284 1113,1285 1172,1286 1231,1286 1291,1286"
+                         HEIGHT="47"
+                         WIDTH="1184"
+                         VPOS="1249"
+                         HPOS="107">
+                  <String ID="string_r1l27"
+                          HEIGHT="47"
+                          WIDTH="1184"
+                          VPOS="1249"
+                          HPOS="107"
+                          CONTENT="Kirchner: K. Geographie und Statiſtik. Bibl. Theologie. — Lange:"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="108,1315 167,1314 226,1314 285,1315 344,1315 403,1316 462,1317 521,1319 580,1320 639,1322 698,1323 757,1325 816,1326 875,1328 934,1329 993,1330 1052,1331 1111,1332 1170,1332 1229,1332 1289,1332"
+                         HEIGHT="51"
+                         WIDTH="1181"
+                         VPOS="1292"
+                         HPOS="108">
+                  <String ID="string_r1l28"
+                          HEIGHT="51"
+                          WIDTH="1181"
+                          VPOS="1292"
+                          HPOS="108"
+                          CONTENT="Johannes. Exam. üb. Dogmatik. — Meier: Einl. ins N. T. Johanneiſche"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="111,1359 169,1359 228,1359 287,1360 346,1360 405,1362 464,1363 523,1364 582,1366 641,1367 700,1369 758,1370 817,1372 876,1373 935,1375 994,1375 1053,1376 1112,1377 1171,1377 1230,1377 1289,1377"
+                         HEIGHT="49"
+                         WIDTH="1178"
+                         VPOS="1338"
+                         HPOS="111">
+                  <String ID="string_r1l29"
+                          HEIGHT="49"
+                          WIDTH="1178"
+                          VPOS="1338"
+                          HPOS="111"
+                          CONTENT="Schriften. — Schott: Synopſis. Homilet. Seminar. — Stickel: Pſal⸗"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="103,1404 154,1405 205,1405 256,1406 307,1407 358,1407 409,1408 460,1410 511,1411 562,1412 613,1413 664,1415 715,1416 766,1417 817,1418 868,1420 919,1421 970,1422 1021,1423 1072,1424 1124,1425"
+                         HEIGHT="54"
+                         WIDTH="1021"
+                         VPOS="1382"
+                         HPOS="103">
+                  <String ID="string_r1l30"
+                          HEIGHT="54"
+                          WIDTH="1021"
+                          VPOS="1382"
+                          HPOS="103"
+                          CONTENT="men. — Schwarz: Homiletik und Liturgik. Homilet. Uebungen."/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="172,1449 197,1450 222,1450 247,1451 272,1451 297,1451 322,1452 347,1452 372,1452 397,1453 423,1454"
+                         HEIGHT="38"
+                         WIDTH="251"
+                         VPOS="1427"
+                         HPOS="172">
+                  <String ID="string_r1l31"
+                          HEIGHT="38"
+                          WIDTH="251"
+                          VPOS="1427"
+                          HPOS="172"
+                          CONTENT="Anfang 6. Mai."/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="184,1523 235,1524 286,1526 337,1527 388,1528 439,1529 490,1530 541,1531 592,1532 643,1533 694,1534 745,1535 796,1536 847,1537 898,1538 949,1539 1000,1540 1051,1541 1102,1542 1153,1543 1205,1544"
+                         HEIGHT="57"
+                         WIDTH="1021"
+                         VPOS="1499"
+                         HPOS="184">
+                  <String ID="string_r1l32"
+                          HEIGHT="57"
+                          WIDTH="1021"
+                          VPOS="1499"
+                          HPOS="184"
+                          CONTENT="Göttingen. Theologiſche Vorleſungen. Sommer 1833."/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="179,1578 234,1579 289,1580 344,1581 399,1582 454,1584 509,1585 564,1586 619,1587 674,1589 729,1590 784,1591 839,1592 894,1593 949,1593 1004,1594 1059,1595 1114,1595 1169,1595 1224,1595 1279,1594"
+                         HEIGHT="48"
+                         WIDTH="1100"
+                         VPOS="1557"
+                         HPOS="179">
+                  <String ID="string_r1l33"
+                          HEIGHT="48"
+                          WIDTH="1100"
+                          VPOS="1557"
+                          HPOS="179"
+                          CONTENT="Ewald: Hiob. Bibl. Archäol. Geſch. der Hebräer. — Gieſeler: Dog⸗"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="103,1624 161,1624 220,1624 278,1625 337,1625 396,1626 454,1628 513,1629 571,1630 630,1632 689,1634 747,1635 806,1637 864,1638 923,1639 982,1640 1040,1640 1099,1640 1157,1640 1216,1639 1275,1638"
+                         HEIGHT="46"
+                         WIDTH="1172"
+                         VPOS="1604"
+                         HPOS="103">
+                  <String ID="string_r1l34"
+                          HEIGHT="46"
+                          WIDTH="1172"
+                          VPOS="1604"
+                          HPOS="103"
+                          CONTENT="matik. Kirchengeſchichte 1. u. 3. — Holzhauſen: Hiob. Joel. Habakuk."/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="102,1669 160,1669 219,1669 277,1669 336,1670 395,1671 453,1672 512,1674 571,1675 629,1677 688,1678 747,1680 805,1681 864,1682 923,1683 981,1684 1040,1684 1099,1684 1157,1683 1216,1682 1275,1680"
+                         HEIGHT="45"
+                         WIDTH="1173"
+                         VPOS="1649"
+                         HPOS="102">
+                  <String ID="string_r1l35"
+                          HEIGHT="45"
+                          WIDTH="1173"
+                          VPOS="1649"
+                          HPOS="102"
+                          CONTENT="Paul. Lehrbegriff. Kirchengeſch. — Köllner: kl. Paul. Briefe. — Lücke:"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="100,1714 158,1714 217,1714 275,1714 334,1715 393,1716 451,1717 510,1719 569,1720 627,1721 686,1723 745,1724 803,1725 862,1726 921,1727 979,1728 1038,1728 1097,1728 1155,1728 1214,1727 1273,1726"
+                         HEIGHT="45"
+                         WIDTH="1173"
+                         VPOS="1693"
+                         HPOS="100">
+                  <String ID="string_r1l36"
+                          HEIGHT="45"
+                          WIDTH="1173"
+                          VPOS="1693"
+                          HPOS="100"
+                          CONTENT="Johannis Ev. und Briefe. Apologetik. Ehr. Ethik. — Matthäi: Paul."/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="99,1757 157,1757 215,1758 273,1759 332,1760 390,1761 448,1762 507,1764 565,1765 623,1767 682,1768 740,1769 798,1770 856,1771 915,1772 973,1773 1031,1773 1090,1773 1148,1773 1206,1773 1265,1772"
+                         HEIGHT="47"
+                         WIDTH="1166"
+                         VPOS="1736"
+                         HPOS="99">
+                  <String ID="string_r1l37"
+                          HEIGHT="47"
+                          WIDTH="1166"
+                          VPOS="1736"
+                          HPOS="99"
+                          CONTENT="Briefe. Dogm. Examin. Die Hauptſätze des Supernatural., Ration., ration."/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="103,1802 161,1802 219,1803 277,1804 335,1805 393,1806 451,1808 509,1809 567,1811 625,1812 684,1813 742,1815 800,1816 858,1817 916,1818 974,1818 1032,1818 1090,1818 1148,1818 1206,1817 1265,1815"
+                         HEIGHT="46"
+                         WIDTH="1162"
+                         VPOS="1782"
+                         HPOS="103">
+                  <String ID="string_r1l38"
+                          HEIGHT="46"
+                          WIDTH="1162"
+                          VPOS="1782"
+                          HPOS="103"
+                          CONTENT="Supernat. und der neueſte Theologie. — Müller: Uebungen der homilet."/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="99,1848 157,1848 216,1848 275,1848 333,1849 392,1851 451,1852 509,1854 568,1855 627,1857 686,1859 744,1860 803,1861 862,1863 920,1863 979,1864 1038,1864 1096,1863 1155,1862 1214,1860 1273,1857"
+                         HEIGHT="47"
+                         WIDTH="1174"
+                         VPOS="1827"
+                         HPOS="99">
+                  <String ID="string_r1l39"
+                          HEIGHT="47"
+                          WIDTH="1174"
+                          VPOS="1827"
+                          HPOS="99"
+                          CONTENT="Geſellſchaft. — Plank: Symbolik. — Pott: Synoptiker. Homiletik. Uebun⸗"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="98,1895 156,1894 215,1894 273,1894 332,1894 391,1896 449,1897 508,1898 566,1900 625,1902 684,1903 742,1905 801,1906 859,1907 918,1908 977,1909 1035,1909 1094,1908 1152,1907 1211,1905 1270,1902"
+                         HEIGHT="48"
+                         WIDTH="1172"
+                         VPOS="1872"
+                         HPOS="98">
+                  <String ID="string_r1l40"
+                          HEIGHT="48"
+                          WIDTH="1172"
+                          VPOS="1872"
+                          HPOS="98"
+                          CONTENT="gen des homilet. Seminarium. — Reiche: Einl. ins N. T. Römer. Korin⸗"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="96,1939 154,1938 213,1938 271,1939 330,1939 388,1941 447,1942 505,1943 564,1945 622,1947 681,1949 739,1950 798,1952 856,1953 915,1953 973,1954 1032,1954 1090,1953 1149,1951 1207,1949 1266,1946"
+                         HEIGHT="47"
+                         WIDTH="1170"
+                         VPOS="1917"
+                         HPOS="96">
+                  <String ID="string_r1l41"
+                          HEIGHT="47"
+                          WIDTH="1170"
+                          VPOS="1917"
+                          HPOS="96"
+                          CONTENT="ther. Dogmengeſch. — Rettberg. Römer. Korinther. Einl. in d. Paul."/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="100,1983 158,1983 217,1983 275,1983 334,1985 392,1986 451,1987 509,1990 568,1991 626,1993 685,1995 743,1997 802,1998 860,2000 919,2000 977,2000 1036,2000 1094,1999 1153,1997 1211,1995 1270,1991"
+                         HEIGHT="48"
+                         WIDTH="1170"
+                         VPOS="1962"
+                         HPOS="100">
+                  <String ID="string_r1l42"
+                          HEIGHT="48"
+                          WIDTH="1170"
+                          VPOS="1962"
+                          HPOS="100"
+                          CONTENT="Bücher. — Kirchengeſchichte. 2. — Trefurt: Katechetik; nebſt praktiſchen"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="96,2027 122,2027 149,2028 175,2028 202,2028 229,2029 255,2029 282,2030 308,2031 335,2031 362,2032 388,2032 415,2033 441,2034 468,2035 495,2035 521,2036 548,2037 574,2038 601,2038 684,2041"
+                         HEIGHT="44"
+                         WIDTH="597"
+                         VPOS="2005"
+                         HPOS="96">
+                  <String ID="string_r1l43"
+                          HEIGHT="44"
+                          WIDTH="597"
+                          VPOS="2005"
+                          HPOS="96"
+                          CONTENT="Uebungen. — Tychſen: Pſalmen. —"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="166,2073 193,2074 220,2075 248,2076 275,2076 303,2077 330,2077 357,2078 385,2078 412,2078 440,2078"
+                         HEIGHT="38"
+                         WIDTH="274"
+                         VPOS="2051"
+                         HPOS="166">
+                  <String ID="string_r1l44"
+                          HEIGHT="38"
+                          WIDTH="274"
+                          VPOS="2051"
+                          HPOS="166"
+                          CONTENT="Anfang 22. April."/>
+               </TextLine>
+               <TextLine ID="line_1615384970726_2631"
+                         BASELINE="120,2209 145,2211 171,2213 196,2214 222,2215 247,2216 273,2216 298,2217 324,2217 349,2217 375,2218 400,2218 426,2218 451,2218 477,2218 502,2218 528,2219 553,2219 579,2220 897,2227 922,2228 947,2230 972,2231 997,2232 1022,2232 1047,2232 1072,2232 1097,2230 1122,2229 1147,2227 1172,2226 1197,2223 1223,2220"
+                         HEIGHT="59"
+                         WIDTH="1103"
+                         VPOS="2185"
+                         HPOS="120">
+                  <String ID="string_line_1615384970726_2631"
+                          HEIGHT="59"
+                          WIDTH="1103"
+                          VPOS="2185"
+                          HPOS="120"
+                          CONTENT="Redacteur: Prof. Dr. Rheinwald. Verleger: F. A. Herbig."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

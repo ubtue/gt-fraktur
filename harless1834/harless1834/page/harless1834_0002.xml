@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:26.911+01:00</Created>
+        <LastChange>2021-05-11T12:53:59.086+02:00</LastChange>
+        <TranskribusMetadata docId="543223" pageId="22808920" pageNr="2" tsid="57730379" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=DWJTJXCYMLSZJBRBAAZKBWZW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GLETMHXZLQNBYDGOXPUMHUGK" imageId="17784598"/>
+    </Metadata>
+    <Page imageFilename="harless1834_0002.tif" imageWidth="1418" imageHeight="2273">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327859297" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="333,235 333,1957 1189,1957 1189,235"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="338,861 376,862 414,862 452,862 490,862 528,862 566,862 604,862 642,862 680,861 718,861 756,861 794,861 832,860 870,860 908,860 946,860 984,860 1022,860 1060,860 1099,860 1099,823 1060,823 1022,823 984,823 946,823 908,823 870,823 832,823 794,824 756,824 718,824 680,824 642,825 604,825 566,825 528,825 490,825 452,825 414,825 376,825 338,824"/>
+                <Baseline points="338,849 376,850 414,850 452,850 490,850 528,850 566,850 604,850 642,850 680,849 718,849 756,849 794,849 832,848 870,848 908,848 946,848 984,848 1022,848 1060,848 1099,848"/>
+                <TextEquiv>
+                    <Unicode>Tout tourne en bien pour les élus jusqu'aux</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="342,916 379,916 416,915 453,915 490,915 527,914 564,914 602,914 639,913 676,913 713,913 750,913 787,913 824,912 862,912 899,912 936,912 973,912 1010,912 1047,911 1085,911 1085,874 1047,874 1010,875 973,875 936,875 899,875 862,875 824,875 787,876 750,876 713,876 676,876 639,876 602,877 564,877 527,877 490,878 453,878 416,878 379,879 342,879"/>
+                <Baseline points="342,904 379,904 416,903 453,903 490,903 527,902 564,902 602,902 639,901 676,901 713,901 750,901 787,901 824,900 862,900 899,900 936,900 973,900 1010,900 1047,899 1085,899"/>
+                <TextEquiv>
+                    <Unicode>obscurités de l'écriture; car ils les honorent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="346,970 382,969 418,969 455,969 491,969 528,968 564,968 600,968 637,968 673,968 710,967 746,967 782,967 819,967 855,967 892,967 928,967 964,966 1001,967 1037,967 1074,967 1074,928 1037,928 1001,928 964,927 928,928 892,928 855,928 819,928 782,928 746,928 710,928 673,929 637,929 600,929 564,929 528,929 491,930 455,930 418,930 382,930 346,931"/>
+                <Baseline points="346,957 382,956 418,956 455,956 491,956 528,955 564,955 600,955 637,955 673,955 710,954 746,954 782,954 819,954 855,954 892,954 928,954 964,953 1001,954 1037,954 1074,954"/>
+                <TextEquiv>
+                    <Unicode>à cause des clartés divines qu'ils y voient:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="346,1023 385,1023 424,1023 463,1022 502,1022 542,1022 581,1022 620,1021 659,1021 698,1021 738,1021 777,1021 816,1020 855,1020 894,1020 934,1020 973,1020 1012,1021 1051,1021 1090,1021 1130,1021 1130,982 1090,982 1051,982 1012,982 973,981 934,981 894,981 855,981 816,981 777,982 738,982 698,982 659,982 620,982 581,983 542,983 502,983 463,983 424,984 385,984 346,984"/>
+                <Baseline points="346,1010 385,1010 424,1010 463,1009 502,1009 542,1009 581,1009 620,1008 659,1008 698,1008 738,1008 777,1008 816,1007 855,1007 894,1007 934,1007 973,1007 1012,1008 1051,1008 1090,1008 1130,1008"/>
+                <TextEquiv>
+                    <Unicode>et tout tourne en mal aux réprouvés jusqu'aux</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="345,1078 382,1078 420,1077 457,1076 495,1076 533,1075 570,1075 608,1075 646,1075 683,1075 721,1074 759,1074 796,1074 834,1074 872,1074 909,1074 947,1074 985,1074 1022,1074 1060,1074 1098,1075 1098,1036 1060,1035 1022,1035 985,1035 947,1035 909,1035 872,1035 834,1035 796,1035 759,1035 721,1035 683,1036 646,1036 608,1036 570,1036 533,1036 495,1037 457,1037 420,1038 382,1039 345,1039"/>
+                <Baseline points="345,1065 382,1065 420,1064 457,1063 495,1063 533,1062 570,1062 608,1062 646,1062 683,1062 721,1061 759,1061 796,1061 834,1061 872,1061 909,1061 947,1061 985,1061 1022,1061 1060,1061 1098,1062"/>
+                <TextEquiv>
+                    <Unicode>clartés; car ils les blasphèment à cause des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="333,1130 361,1130 389,1130 417,1130 445,1131 474,1131 502,1131 530,1131 558,1131 586,1130 615,1130 643,1130 671,1130 699,1130 727,1130 756,1130 784,1130 812,1130 840,1130 868,1130 897,1130 897,1091 868,1091 840,1091 812,1091 784,1091 756,1091 727,1091 699,1091 671,1091 643,1091 615,1091 586,1091 558,1092 530,1092 502,1092 474,1092 445,1092 417,1091 389,1091 361,1091 333,1091"/>
+                <Baseline points="333,1117 361,1117 389,1117 417,1117 445,1118 474,1118 502,1118 530,1118 558,1118 586,1117 615,1117 643,1117 671,1117 699,1117 727,1117 756,1117 784,1117 812,1117 840,1117 868,1117 897,1117"/>
+                <TextEquiv>
+                    <Unicode>obscurités qu'ils n'entendent pas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="1021,1195 1049,1193 1077,1192 1105,1191 1133,1191 1161,1189 1189,1188 1189,1143 1161,1144 1133,1146 1105,1146 1077,1147 1049,1148 1021,1150"/>
+                <Baseline points="1021,1180 1049,1178 1077,1177 1105,1176 1133,1176 1161,1174 1189,1173"/>
+                <TextEquiv>
+                    <Unicode>Pascal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tout tourne en bien pour les élus jusqu'aux
+obscurités de l'écriture; car ils les honorent
+à cause des clartés divines qu'ils y voient:
+et tout tourne en mal aux réprouvés jusqu'aux
+clartés; car ils les blasphèment à cause des
+obscurités qu'ils n'entendent pas.
+Pascal.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

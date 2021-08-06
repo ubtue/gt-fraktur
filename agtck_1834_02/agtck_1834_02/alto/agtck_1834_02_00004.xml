@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:51:08.844+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2354" WIDTH="1279">
+         <TopMargin HEIGHT="0" WIDTH="1279" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2354" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2354" WIDTH="0" VPOS="0" HPOS="1279"/>
+         <BottomMargin HEIGHT="0" WIDTH="1279" VPOS="2354" HPOS="0"/>
+         <PrintSpace HEIGHT="2354" WIDTH="1279" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="154" WIDTH="48" VPOS="889" HPOS="84">
+               <Shape>
+                  <Polygon POINTS="84,889 84,1043 132,1043 132,889"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="84,989 132,993"
+                         HEIGHT="154"
+                         WIDTH="48"
+                         VPOS="889"
+                         HPOS="84">
+                  <String ID="string_r1l1"
+                          HEIGHT="154"
+                          WIDTH="48"
+                          VPOS="889"
+                          HPOS="84"
+                          CONTENT="1."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="1682" WIDTH="1023" VPOS="657" HPOS="73">
+               <Shape>
+                  <Polygon POINTS="73,657 73,2339 1096,2339 1096,657"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="310,690 337,691 365,691 392,691 420,692 447,692 475,693 502,693 530,693 557,693 585,693 613,693 640,693 668,693 695,692 723,692 750,692 778,691 805,690 833,690 861,689"
+                         HEIGHT="52"
+                         WIDTH="551"
+                         VPOS="657"
+                         HPOS="310">
+                  <String ID="string_r2l1"
+                          HEIGHT="52"
+                          WIDTH="551"
+                          VPOS="657"
+                          HPOS="310"
+                          CONTENT="Literatur."/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="332,882 357,882 382,883 407,883 432,884 457,884 482,885 507,885 532,885 557,885 583,885 608,885 633,885 658,885 683,885 708,885 733,885 758,885 783,884 808,884 834,884"
+                         HEIGHT="51"
+                         WIDTH="502"
+                         VPOS="850"
+                         HPOS="332">
+                  <String ID="string_r2l3"
+                          HEIGHT="51"
+                          WIDTH="502"
+                          VPOS="850"
+                          HPOS="332"
+                          CONTENT="Bibliſche Literatur."/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="168,996 214,998 260,999 307,1000 353,1001 400,1001 446,1001 492,1002 539,1001 585,1001 632,1001 678,1000 724,1000 771,999 817,998 864,997 910,996 956,995 1003,995 1049,994 1096,993"
+                         HEIGHT="57"
+                         WIDTH="928"
+                         VPOS="961"
+                         HPOS="168">
+                  <String ID="string_r2l4"
+                          HEIGHT="57"
+                          WIDTH="928"
+                          VPOS="961"
+                          HPOS="168"
+                          CONTENT="Chriſtologie des Alten Teſtaments und Com⸗"/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="150,1060 197,1062 244,1063 291,1064 338,1064 386,1065 433,1065 480,1065 527,1066 574,1066 622,1065 669,1065 716,1065 763,1064 810,1064 858,1063 905,1062 952,1061 999,1061 1046,1060 1094,1059"
+                         HEIGHT="53"
+                         WIDTH="944"
+                         VPOS="1028"
+                         HPOS="150">
+                  <String ID="string_r2l5"
+                          HEIGHT="53"
+                          WIDTH="944"
+                          VPOS="1028"
+                          HPOS="150"
+                          CONTENT="mentar uͤber die Meſſianiſchen Weiſſagungen"/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="158,1123 204,1125 250,1126 297,1128 343,1128 390,1129 436,1130 482,1130 529,1130 575,1130 622,1130 668,1130 714,1129 761,1129 807,1128 854,1128 900,1128 946,1127 993,1127 1039,1126 1086,1126"
+                         HEIGHT="53"
+                         WIDTH="928"
+                         VPOS="1092"
+                         HPOS="158">
+                  <String ID="string_r2l6"
+                          HEIGHT="53"
+                          WIDTH="928"
+                          VPOS="1092"
+                          HPOS="158"
+                          CONTENT="der Propheten. Von E. W. Hengſtenberg."/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="162,1188 208,1189 254,1191 300,1192 346,1193 392,1193 438,1194 484,1194 530,1194 576,1194 622,1193 668,1193 714,1193 760,1192 806,1192 852,1191 898,1191 944,1191 990,1191 1036,1191 1083,1191"
+                         HEIGHT="52"
+                         WIDTH="921"
+                         VPOS="1157"
+                         HPOS="162">
+                  <String ID="string_r2l7"
+                          HEIGHT="52"
+                          WIDTH="921"
+                          VPOS="1157"
+                          HPOS="162"
+                          CONTENT="Zweiten Theiles erſte und zweite Abtheilung,"/>
+               </TextLine>
+               <TextLine ID="r2l8"
+                         BASELINE="153,1252 199,1254 246,1255 292,1256 339,1257 386,1257 432,1258 479,1258 526,1258 572,1258 619,1258 666,1257 712,1257 759,1257 806,1256 852,1256 899,1255 946,1255 992,1255 1039,1254 1086,1254"
+                         HEIGHT="52"
+                         WIDTH="933"
+                         VPOS="1221"
+                         HPOS="153">
+                  <String ID="string_r2l8"
+                          HEIGHT="52"
+                          WIDTH="933"
+                          VPOS="1221"
+                          HPOS="153"
+                          CONTENT="enthaltend Sacharjah und Daniel. Berlin"/>
+               </TextLine>
+               <TextLine ID="r2l9"
+                         BASELINE="157,1316 203,1318 250,1320 296,1322 343,1323 389,1324 436,1324 482,1325 529,1325 575,1325 622,1325 669,1325 715,1324 762,1324 808,1324 855,1323 901,1322 948,1322 994,1322 1041,1321 1088,1321"
+                         HEIGHT="55"
+                         WIDTH="931"
+                         VPOS="1285"
+                         HPOS="157">
+                  <String ID="string_r2l9"
+                          HEIGHT="55"
+                          WIDTH="931"
+                          VPOS="1285"
+                          HPOS="157"
+                          CONTENT="bei L. Oehmigke. 1832. gr. 8. S. IV. u. 581."/>
+               </TextLine>
+               <TextLine ID="r2l10"
+                         BASELINE="152,1383 177,1384 203,1385 229,1386 254,1388 280,1389 306,1389 331,1390 357,1390 383,1389 408,1388 434,1386 460,1383"
+                         HEIGHT="53"
+                         WIDTH="308"
+                         VPOS="1352"
+                         HPOS="152">
+                  <String ID="string_r2l10"
+                          HEIGHT="53"
+                          WIDTH="308"
+                          VPOS="1352"
+                          HPOS="152"
+                          CONTENT="(2 Thlr. 4 gr.)"/>
+               </TextLine>
+               <TextLine ID="r2l11"
+                         BASELINE="83,1469 133,1472 183,1474 233,1477 284,1479 334,1480 384,1481 435,1482 485,1483 535,1483 586,1483 636,1483 686,1482 736,1482 787,1481 837,1481 887,1480 938,1480 988,1479 1038,1478 1089,1478"
+                         HEIGHT="54"
+                         WIDTH="1006"
+                         VPOS="1442"
+                         HPOS="83">
+                  <String ID="string_r2l11"
+                          HEIGHT="54"
+                          WIDTH="1006"
+                          VPOS="1442"
+                          HPOS="83"
+                          CONTENT="Herr D. Hengſtenberg hat im erſten Theile ſei⸗"/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="89,1528 138,1530 188,1532 238,1533 288,1535 338,1536 387,1537 437,1538 487,1538 537,1538 587,1539 636,1538 686,1538 736,1538 786,1537 836,1537 885,1536 935,1535 985,1534 1035,1533 1085,1532"
+                         HEIGHT="51"
+                         WIDTH="996"
+                         VPOS="1501"
+                         HPOS="89">
+                  <String ID="string_r2l12"
+                          HEIGHT="51"
+                          WIDTH="996"
+                          VPOS="1501"
+                          HPOS="89"
+                          CONTENT="ner Schrift die allgemeine Vorbereitung zu einer Chri⸗"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="81,1583 131,1586 181,1589 231,1591 281,1593 332,1594 382,1595 432,1596 482,1596 532,1596 583,1596 633,1596 683,1595 733,1594 783,1593 834,1593 884,1592 934,1591 984,1590 1034,1589 1085,1589"
+                         HEIGHT="52"
+                         WIDTH="1004"
+                         VPOS="1557"
+                         HPOS="81">
+                  <String ID="string_r2l13"
+                          HEIGHT="52"
+                          WIDTH="1004"
+                          VPOS="1557"
+                          HPOS="81"
+                          CONTENT="ſtologie des A. und N. Bundes gegeben. Darauf laͤßt"/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="77,1639 127,1643 178,1645 228,1647 279,1649 330,1650 380,1650 431,1651 481,1651 532,1651 583,1650 633,1650 684,1649 734,1649 785,1648 836,1647 886,1647 937,1646 987,1646 1038,1646 1089,1646"
+                         HEIGHT="51"
+                         WIDTH="1012"
+                         VPOS="1613"
+                         HPOS="77">
+                  <String ID="string_r2l14"
+                          HEIGHT="51"
+                          WIDTH="1012"
+                          VPOS="1613"
+                          HPOS="77"
+                          CONTENT="er eine Geſchichte der meſſianiſchen Weiſſagungen bei"/>
+               </TextLine>
+               <TextLine ID="r2l15"
+                         BASELINE="83,1695 133,1699 183,1701 233,1704 283,1705 333,1706 383,1707 434,1707 484,1707 534,1707 584,1707 634,1706 684,1705 734,1704 785,1704 835,1703 885,1703 935,1703 985,1703 1035,1703 1086,1704"
+                         HEIGHT="52"
+                         WIDTH="1003"
+                         VPOS="1668"
+                         HPOS="83">
+                  <String ID="string_r2l15"
+                          HEIGHT="52"
+                          WIDTH="1003"
+                          VPOS="1668"
+                          HPOS="83"
+                          CONTENT="den Hebraͤern folgen, wobei er zuerſt die meſſianiſchen"/>
+               </TextLine>
+               <TextLine ID="r2l16"
+                         BASELINE="81,1750 131,1755 181,1757 231,1760 281,1762 331,1763 381,1763 431,1763 481,1763 531,1763 581,1762 631,1761 681,1761 731,1760 781,1760 831,1759 881,1759 931,1760 981,1761 1031,1762 1081,1765"
+                         HEIGHT="54"
+                         WIDTH="1000"
+                         VPOS="1724"
+                         HPOS="81">
+                  <String ID="string_r2l16"
+                          HEIGHT="54"
+                          WIDTH="1000"
+                          VPOS="1724"
+                          HPOS="81"
+                          CONTENT="Weiſſagungen im Pentateuch, dann in den Pſalmen,"/>
+               </TextLine>
+               <TextLine ID="r2l17"
+                         BASELINE="83,1806 133,1809 183,1813 233,1815 283,1817 334,1818 384,1819 434,1819 484,1819 534,1818 585,1818 635,1817 685,1817 735,1816 785,1816 836,1816 886,1816 936,1816 986,1817 1036,1819 1087,1821"
+                         HEIGHT="54"
+                         WIDTH="1004"
+                         VPOS="1780"
+                         HPOS="83">
+                  <String ID="string_r2l17"
+                          HEIGHT="54"
+                          WIDTH="1004"
+                          VPOS="1780"
+                          HPOS="83"
+                          CONTENT="dann im Allgemeinen bei den Propheten betrachtet."/>
+               </TextLine>
+               <TextLine ID="r2l18"
+                         BASELINE="79,1860 129,1865 179,1869 229,1871 279,1873 329,1874 379,1875 429,1875 479,1875 529,1875 580,1874 630,1873 680,1872 730,1872 780,1871 830,1871 880,1871 930,1872 980,1873 1030,1875 1081,1878"
+                         HEIGHT="58"
+                         WIDTH="1002"
+                         VPOS="1833"
+                         HPOS="79">
+                  <String ID="string_r2l18"
+                          HEIGHT="58"
+                          WIDTH="1002"
+                          VPOS="1833"
+                          HPOS="79"
+                          CONTENT="Hieran knuͤpft er einige Kapitel uͤber die Gottheit des"/>
+               </TextLine>
+               <TextLine ID="r2l19"
+                         BASELINE="83,1919 133,1923 183,1927 233,1929 283,1931 333,1932 383,1932 433,1932 483,1932 533,1932 583,1931 633,1931 683,1930 733,1929 783,1929 833,1929 883,1929 933,1930 983,1931 1033,1933 1083,1935"
+                         HEIGHT="56"
+                         WIDTH="1000"
+                         VPOS="1892"
+                         HPOS="83">
+                  <String ID="string_r2l19"
+                          HEIGHT="56"
+                          WIDTH="1000"
+                          VPOS="1892"
+                          HPOS="83"
+                          CONTENT="Meſſias, uͤber den leidenden und buͤßenden Meſſias im"/>
+               </TextLine>
+               <TextLine ID="r2l20"
+                         BASELINE="83,1977 133,1980 183,1982 233,1984 283,1986 334,1987 384,1987 434,1988 484,1988 534,1988 585,1988 635,1987 685,1987 735,1987 785,1987 836,1987 886,1987 936,1987 986,1988 1036,1989 1087,1991"
+                         HEIGHT="54"
+                         WIDTH="1004"
+                         VPOS="1950"
+                         HPOS="83">
+                  <String ID="string_r2l20"
+                          HEIGHT="54"
+                          WIDTH="1004"
+                          VPOS="1950"
+                          HPOS="83"
+                          CONTENT="A. T., uͤber die Beſchaffenheit der Weiſſagung, uͤber"/>
+               </TextLine>
+               <TextLine ID="r2l21"
+                         BASELINE="77,2032 127,2035 177,2038 228,2040 278,2042 329,2044 379,2045 429,2045 480,2046 530,2046 581,2046 631,2046 681,2045 732,2045 782,2045 833,2045 883,2044 933,2044 984,2044 1034,2045 1085,2045"
+                         HEIGHT="54"
+                         WIDTH="1008"
+                         VPOS="2005"
+                         HPOS="77">
+                  <String ID="string_r2l21"
+                          HEIGHT="54"
+                          WIDTH="1008"
+                          VPOS="2005"
+                          HPOS="77"
+                          CONTENT="Beweismittel der Meſſianitaͤt der einzelnen Stellen und"/>
+               </TextLine>
+               <TextLine ID="r2l22"
+                         BASELINE="77,2088 127,2092 177,2094 227,2097 277,2099 327,2100 377,2101 427,2102 477,2103 527,2103 577,2103 627,2102 677,2102 727,2102 777,2101 827,2101 877,2101 927,2101 977,2101 1027,2101 1077,2102"
+                         HEIGHT="54"
+                         WIDTH="1000"
+                         VPOS="2062"
+                         HPOS="77">
+                  <String ID="string_r2l22"
+                          HEIGHT="54"
+                          WIDTH="1000"
+                          VPOS="2062"
+                          HPOS="77"
+                          CONTENT="Literatur der meſſianiſchen Weiſſagungen. Die zweite"/>
+               </TextLine>
+               <TextLine ID="r2l23"
+                         BASELINE="73,2141 123,2146 173,2150 223,2153 274,2156 324,2158 374,2159 425,2160 475,2160 525,2161 576,2160 626,2160 676,2159 726,2159 777,2158 827,2157 877,2157 928,2156 978,2156 1028,2156 1079,2157"
+                         HEIGHT="59"
+                         WIDTH="1006"
+                         VPOS="2115"
+                         HPOS="73">
+                  <String ID="string_r2l23"
+                          HEIGHT="59"
+                          WIDTH="1006"
+                          VPOS="2115"
+                          HPOS="73"
+                          CONTENT="Abtheilung dieſes erſten Theils enthaͤlt die meſſian."/>
+               </TextLine>
+               <TextLine ID="r2l24"
+                         BASELINE="77,2196 127,2202 177,2206 227,2211 277,2214 328,2216 378,2218 428,2219 478,2220 528,2220 579,2220 629,2219 679,2218 729,2217 779,2216 830,2215 880,2214 930,2213 980,2212 1030,2211 1081,2211"
+                         HEIGHT="63"
+                         WIDTH="1004"
+                         VPOS="2170"
+                         HPOS="77">
+                  <String ID="string_r2l24"
+                          HEIGHT="63"
+                          WIDTH="1004"
+                          VPOS="2170"
+                          HPOS="77"
+                          CONTENT="Weiſſagungen des Jeſaias, im ganzen Umfange betrach⸗"/>
+               </TextLine>
+               <TextLine ID="r2l25"
+                         BASELINE="73,2255 123,2260 173,2264 224,2267 274,2270 325,2272 375,2275 425,2276 476,2277 526,2277 577,2277 627,2277 677,2277 728,2276 778,2275 829,2274 879,2272 929,2271 980,2270 1030,2268 1081,2267"
+                         HEIGHT="58"
+                         WIDTH="1008"
+                         VPOS="2231"
+                         HPOS="73">
+                  <String ID="string_r2l25"
+                          HEIGHT="58"
+                          WIDTH="1008"
+                          VPOS="2231"
+                          HPOS="73"
+                          CONTENT="tet. Der zweite, eben angezeigte Haupttheil giebt"/>
+               </TextLine>
+               <TextLine ID="line_1620799738967_227"
+                         BASELINE="101,2308 129,2309 157,2311 185,2315 213,2318 241,2322 252,2324 299,2323 326,2323 353,2325 369,2323 867,2326"
+                         HEIGHT="53"
+                         WIDTH="775"
+                         VPOS="2283"
+                         HPOS="101">
+                  <String ID="string_line_1620799738967_227"
+                          HEIGHT="53"
+                          WIDTH="775"
+                          VPOS="2283"
+                          HPOS="101"
+                          CONTENT="IVJahrg. 2 Bds. I Hft. A"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

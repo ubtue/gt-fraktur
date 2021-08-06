@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:48:04.021+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2453" WIDTH="1360">
+         <TopMargin HEIGHT="0" WIDTH="1360" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2453" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2453" WIDTH="0" VPOS="0" HPOS="1360"/>
+         <BottomMargin HEIGHT="0" WIDTH="1360" VPOS="2453" HPOS="0"/>
+         <PrintSpace HEIGHT="2453" WIDTH="1360" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1624" WIDTH="1198" VPOS="86" HPOS="69">
+               <Shape>
+                  <Polygon POINTS="69,86 69,1710 1267,1710 1267,86"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="407,107 436,107 465,108 495,108 524,109 553,109 583,110 612,110 641,110 671,110 700,111 729,111 759,111 788,111 817,112 847,112 876,112 905,113 935,113 964,114 994,115"
+                         HEIGHT="39"
+                         WIDTH="587"
+                         VPOS="86"
+                         HPOS="407">
+                  <String ID="string_r1l1"
+                          HEIGHT="39"
+                          WIDTH="587"
+                          VPOS="86"
+                          HPOS="407"
+                          CONTENT="Rust, Stimmen der Reformation etc."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="80,116 109,114 138,114 168,116"
+                         HEIGHT="33"
+                         WIDTH="88"
+                         VPOS="93"
+                         HPOS="80">
+                  <String ID="string_r1l2"
+                          HEIGHT="33"
+                          WIDTH="88"
+                          VPOS="93"
+                          HPOS="80"
+                          CONTENT="284"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="79,190 138,190 197,189 257,189 316,190 376,190 435,190 494,191 554,192 613,192 673,193 732,194 791,195 851,196 910,197 970,197 1029,198 1088,198 1148,199 1207,199 1267,199"
+                         HEIGHT="41"
+                         WIDTH="1188"
+                         VPOS="168"
+                         HPOS="79">
+                  <String ID="string_r1l3"
+                          HEIGHT="41"
+                          WIDTH="1188"
+                          VPOS="168"
+                          HPOS="79"
+                          CONTENT="das eigentlich gelehrte oder gar theologiſche. Um ſo mehr müſſen wir be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="83,238 142,238 201,238 260,238 319,238 378,239 437,239 496,240 555,240 614,241 673,242 732,243 791,244 850,244 909,245 968,246 1027,247 1086,248 1145,248 1204,249 1263,250"
+                         HEIGHT="43"
+                         WIDTH="1180"
+                         VPOS="217"
+                         HPOS="83">
+                  <String ID="string_r1l4"
+                          HEIGHT="43"
+                          WIDTH="1180"
+                          VPOS="217"
+                          HPOS="83"
+                          CONTENT="dauern, daß er den geſchichtlichen Blick eigentlich nur auf die Nachtſeite"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="77,288 136,288 195,287 254,287 313,288 373,288 432,288 491,289 550,289 609,290 669,291 728,291 787,292 846,293 905,294 965,294 1024,295 1083,296 1142,297 1201,298 1261,298"
+                         HEIGHT="42"
+                         WIDTH="1184"
+                         VPOS="266"
+                         HPOS="77">
+                  <String ID="string_r1l5"
+                          HEIGHT="42"
+                          WIDTH="1184"
+                          VPOS="266"
+                          HPOS="77"
+                          CONTENT="der neueren Zeit gewendet und nicht wenigſtens neben dem Gegebenen auch"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="80,339 139,338 198,338 257,337 316,337 375,337 434,337 494,338 553,338 612,339 671,340 730,340 789,341 848,342 908,343 967,344 1026,345 1085,346 1144,346 1203,347 1263,348"
+                         HEIGHT="42"
+                         WIDTH="1183"
+                         VPOS="316"
+                         HPOS="80">
+                  <String ID="string_r1l6"
+                          HEIGHT="42"
+                          WIDTH="1183"
+                          VPOS="316"
+                          HPOS="80"
+                          CONTENT="gezeigt, wie das durch die Reformation ausgeſprochene und lebendig ge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="76,384 135,385 194,385 253,386 312,386 371,387 430,387 489,388 548,388 607,389 666,389 725,390 784,390 843,391 902,392 961,393 1020,393 1079,394 1138,395 1197,396 1257,397"
+                         HEIGHT="44"
+                         WIDTH="1181"
+                         VPOS="363"
+                         HPOS="76">
+                  <String ID="string_r1l7"
+                          HEIGHT="44"
+                          WIDTH="1181"
+                          VPOS="363"
+                          HPOS="76"
+                          CONTENT="wordene Prinzip ſich da und dort erhalten und bewährt hat in der Pra⸗"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="76,433 135,434 194,434 254,434 313,435 373,435 432,436 492,436 551,437 611,437 670,438 729,439 789,439 848,440 908,441 967,442 1027,442 1086,443 1146,444 1205,445 1265,446"
+                         HEIGHT="44"
+                         WIDTH="1189"
+                         VPOS="412"
+                         HPOS="76">
+                  <String ID="string_r1l8"
+                          HEIGHT="44"
+                          WIDTH="1189"
+                          VPOS="412"
+                          HPOS="76"
+                          CONTENT="xis. Dazu hätte die Betrachtung des Entwickelungsganges der deutſchen"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="78,482 137,483 196,483 255,484 315,484 374,484 433,485 492,485 552,486 611,486 670,487 729,487 789,488 848,489 907,489 966,490 1026,491 1085,492 1144,492 1203,494 1263,495"
+                         HEIGHT="44"
+                         WIDTH="1185"
+                         VPOS="461"
+                         HPOS="78">
+                  <String ID="string_r1l9"
+                          HEIGHT="44"
+                          WIDTH="1185"
+                          VPOS="461"
+                          HPOS="78"
+                          CONTENT="Nation vielfache und erfreuliche Beweiſe geliefert. Selbſt der Zeit fehlte"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="72,532 134,532 196,533 258,533 320,534 382,534 444,535 506,535 568,535 630,536 692,536 754,537 816,537 878,538 940,539 1002,540 1064,540 1126,542 1188,543 1251,544"
+                         HEIGHT="43"
+                         WIDTH="1179"
+                         VPOS="511"
+                         HPOS="72">
+                  <String ID="string_r1l10"
+                          HEIGHT="43"
+                          WIDTH="1179"
+                          VPOS="511"
+                          HPOS="72"
+                          CONTENT="es nicht ganz, welche der Herr Vf. für die oberflächlichſte, in ſich zerriſſenſte"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="75,582 133,582 192,582 251,582 310,583 369,583 427,584 486,584 545,584 604,585 663,585 721,586 780,587 839,587 898,588 957,589 1015,589 1074,590 1133,591 1192,592 1251,592"
+                         HEIGHT="41"
+                         WIDTH="1176"
+                         VPOS="561"
+                         HPOS="75">
+                  <String ID="string_r1l11"
+                          HEIGHT="41"
+                          WIDTH="1176"
+                          VPOS="561"
+                          HPOS="75"
+                          CONTENT="hält. Auch Friedrich hätte verdient tiefer aufgefaßt zu werden, obſchon"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="69,632 128,632 187,632 247,632 306,632 366,632 425,633 484,633 544,634 603,634 663,635 722,635 781,636 841,637 900,637 960,638 1019,639 1078,639 1138,640 1197,641 1257,642"
+                         HEIGHT="41"
+                         WIDTH="1188"
+                         VPOS="611"
+                         HPOS="69">
+                  <String ID="string_r1l12"
+                          HEIGHT="41"
+                          WIDTH="1188"
+                          VPOS="611"
+                          HPOS="69"
+                          CONTENT="im Allgemeinen die hier gegebene Charakteriſtik der Wahrheit ziemlich nahe"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="69,681 128,681 187,681 246,681 306,681 365,681 424,681 484,682 543,682 602,683 662,684 721,684 780,685 839,686 899,687 958,687 1017,688 1077,689 1136,689 1195,690 1255,690"
+                         HEIGHT="40"
+                         WIDTH="1186"
+                         VPOS="660"
+                         HPOS="69">
+                  <String ID="string_r1l13"
+                          HEIGHT="40"
+                          WIDTH="1186"
+                          VPOS="660"
+                          HPOS="69"
+                          CONTENT="kommt, und die neuern Verſuche, das Gegentheil zu begründen, uns bis"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="72,731 104,731 136,730 169,730 201,729 234,729 266,729 298,729 331,729 363,730 396,730 428,730 460,731 493,731 525,731 558,731 590,732 622,732 655,732 687,732 791,733"
+                         HEIGHT="34"
+                         WIDTH="730"
+                         VPOS="708"
+                         HPOS="72">
+                  <String ID="string_r1l14"
+                          HEIGHT="34"
+                          WIDTH="730"
+                          VPOS="708"
+                          HPOS="72"
+                          CONTENT="jetzt wenigſtens nicht befriedigen konnten. —"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="148,780 203,779 258,779 313,779 369,779 424,779 479,780 535,780 590,781 645,782 701,782 756,783 811,784 866,785 922,785 977,786 1032,786 1088,787 1143,787 1198,787 1254,787"
+                         HEIGHT="39"
+                         WIDTH="1106"
+                         VPOS="758"
+                         HPOS="148">
+                  <String ID="string_r1l15"
+                          HEIGHT="39"
+                          WIDTH="1106"
+                          VPOS="758"
+                          HPOS="148"
+                          CONTENT="Zuletzt ſtellt der Herr Vf. noch die Frage auf: „Wie ſoll’s anders,"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="76,829 135,828 194,828 253,828 312,828 371,828 430,828 489,829 548,830 607,831 666,831 725,832 784,833 843,834 902,835 961,836 1020,837 1079,837 1138,838 1197,838 1256,838"
+                         HEIGHT="41"
+                         WIDTH="1180"
+                         VPOS="807"
+                         HPOS="76">
+                  <String ID="string_r1l16"
+                          HEIGHT="41"
+                          WIDTH="1180"
+                          VPOS="807"
+                          HPOS="76"
+                          CONTENT="wie beſſer werden?” Er beantwortet ſie in 10 Artikeln, wie man ſie von"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="75,879 101,879 127,879 153,879 179,879 205,878 231,878 257,878 283,878 309,878 335,878 361,878 387,878 413,878 439,879 465,879 491,880"
+                         HEIGHT="33"
+                         WIDTH="416"
+                         VPOS="857"
+                         HPOS="75">
+                  <String ID="string_r1l17"
+                          HEIGHT="33"
+                          WIDTH="416"
+                          VPOS="857"
+                          HPOS="75"
+                          CONTENT="einem Theologen erwartet."/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="166,1081 216,1081 266,1081 316,1082 366,1082 416,1082 466,1083 516,1083 566,1084 616,1084 666,1085 716,1085 766,1085 816,1086 866,1086 916,1087 966,1087 1016,1087 1066,1088 1116,1088 1166,1088"
+                         HEIGHT="38"
+                         WIDTH="1000"
+                         VPOS="1060"
+                         HPOS="166">
+                  <String ID="string_r1l18"
+                          HEIGHT="38"
+                          WIDTH="1000"
+                          VPOS="1060"
+                          HPOS="166"
+                          CONTENT="Nachfolgende Druckfehler wird der Leſer zu verbeſſern gebeten:"/>
+               </TextLine>
+               <TextLine ID="line_1615385921516_2739"
+                         BASELINE="74,1155 110,1153 147,1156 211,1154 236,1154 262,1154 287,1154 313,1155 338,1155 364,1155 389,1155 415,1156 440,1156 466,1156 491,1156 517,1156 543,1156 554,1153 579,1155 605,1156 631,1157 656,1157 682,1158 708,1158 734,1158 759,1157 785,1158 811,1158 837,1158"
+                         HEIGHT="36"
+                         WIDTH="763"
+                         VPOS="1132"
+                         HPOS="74">
+                  <String ID="string_line_1615385921516_2739"
+                          HEIGHT="36"
+                          WIDTH="763"
+                          VPOS="1132"
+                          HPOS="74"
+                          CONTENT="Seite 2 Zeile 17 v. o. lies: beide ſtatt: leider."/>
+               </TextLine>
+               <TextLine ID="line_1615385928915_2743"
+                         BASELINE="95,1195 228,1190 348,1187 375,1190 403,1192 430,1192 458,1193 562,1191 588,1192 614,1193 640,1193 666,1193 692,1194 718,1194 744,1193 770,1193 796,1193 822,1194 848,1194 874,1195"
+                         HEIGHT="38"
+                         WIDTH="779"
+                         VPOS="1167"
+                         HPOS="95">
+                  <String ID="string_line_1615385928915_2743"
+                          HEIGHT="38"
+                          WIDTH="779"
+                          VPOS="1167"
+                          HPOS="95"
+                          CONTENT="— 44 — 6 v. u. — von ihnen ſtatt: aus."/>
+               </TextLine>
+               <TextLine ID="line_1615385934633_2747"
+                         BASELINE="102,1222 122,1220 192,1224 234,1224 244,1221 270,1222 296,1223 322,1225 349,1225 375,1226 401,1227 427,1228 454,1229 548,1225 574,1227 600,1227 626,1228 652,1228 679,1229 705,1229 731,1229 757,1230 783,1230 810,1229 836,1229 862,1229 888,1229 914,1229 941,1229 967,1229 993,1229 1019,1230 1045,1230 1072,1230"
+                         HEIGHT="40"
+                         WIDTH="970"
+                         VPOS="1200"
+                         HPOS="102">
+                  <String ID="string_line_1615385934633_2747"
+                          HEIGHT="40"
+                          WIDTH="970"
+                          VPOS="1200"
+                          HPOS="102"
+                          CONTENT="— 72 — 14 v. ο. — dem B. Ordin. ſtatt: d. B. ordin."/>
+               </TextLine>
+               <TextLine ID="line_1615385946190_2752"
+                         BASELINE="94,1253 123,1258 192,1261 234,1261 274,1258 315,1261 335,1262 364,1262 394,1263 424,1264 454,1263 557,1262 582,1263 607,1264 633,1264 658,1264 684,1264 709,1264 734,1263 760,1263 785,1263 811,1264"
+                         HEIGHT="41"
+                         WIDTH="717"
+                         VPOS="1233"
+                         HPOS="94">
+                  <String ID="string_line_1615385946190_2752"
+                          HEIGHT="41"
+                          WIDTH="717"
+                          VPOS="1233"
+                          HPOS="94"
+                          CONTENT="— 74 — 14 v. o. — ſeinen ſtatt: ſeine."/>
+               </TextLine>
+               <TextLine ID="line_1615385955831_2758"
+                         BASELINE="93,1297 224,1296 265,1292 291,1294 317,1296 329,1296 354,1295 379,1297 404,1299 429,1300 454,1299 548,1297 573,1298 598,1298 624,1298 649,1298 675,1298 700,1298 726,1298 751,1298 777,1298 802,1298 828,1298 853,1298 879,1298 904,1299 930,1299 955,1300 981,1301 1006,1302 1032,1303"
+                         HEIGHT="41"
+                         WIDTH="941"
+                         VPOS="1272"
+                         HPOS="91">
+                  <String ID="string_line_1615385955831_2758"
+                          HEIGHT="41"
+                          WIDTH="941"
+                          VPOS="1272"
+                          HPOS="91"
+                          CONTENT="— 82 — 18 v. o. — Teich Bethesda ſtatt: Bethesda."/>
+               </TextLine>
+               <TextLine ID="line_1615385965397_2763"
+                         BASELINE="88,1331 224,1332 267,1330 294,1328 322,1329 348,1331 375,1333 403,1334 430,1335 458,1337 551,1335 576,1335 602,1335 627,1334 653,1334 678,1334 704,1334 730,1334 755,1335 781,1335 806,1335 832,1335 858,1336 883,1336 909,1336 934,1337 960,1338 986,1339"
+                         HEIGHT="41"
+                         WIDTH="900"
+                         VPOS="1308"
+                         HPOS="86">
+                  <String ID="string_line_1615385965397_2763"
+                          HEIGHT="41"
+                          WIDTH="900"
+                          VPOS="1308"
+                          HPOS="86"
+                          CONTENT="— 88 — 3 v. u. — ὤν ἐκ τοῦ ſtatt ὥν ἐν τοῦ."/>
+               </TextLine>
+               <TextLine ID="line_1615385979898_2769"
+                         BASELINE="95,1373 222,1368 272,1365 310,1368 324,1369 355,1369 386,1369 417,1371 448,1371 540,1368 565,1369 591,1370 617,1371 643,1371 669,1371 695,1372 721,1372 746,1372 772,1372 798,1372 824,1372 850,1373 876,1373 902,1373"
+                         HEIGHT="38"
+                         WIDTH="816"
+                         VPOS="1345"
+                         HPOS="86">
+                  <String ID="string_line_1615385979898_2769"
+                          HEIGHT="38"
+                          WIDTH="816"
+                          VPOS="1345"
+                          HPOS="86"
+                          CONTENT="— 127 — 13 v. u. — Hunnius ſtatt: Gunnius."/>
+               </TextLine>
+               <TextLine ID="line_1615385986286_2774"
+                         BASELINE="90,1409 220,1406 264,1400 290,1400 316,1402 342,1404 369,1407 395,1408 421,1408 448,1407 539,1406 564,1406 589,1407 615,1407 640,1408 666,1408 691,1408 716,1408 742,1408 767,1408 793,1408 818,1409 844,1409"
+                         HEIGHT="39"
+                         WIDTH="752"
+                         VPOS="1380"
+                         HPOS="92">
+                  <String ID="string_line_1615385986286_2774"
+                          HEIGHT="39"
+                          WIDTH="752"
+                          VPOS="1380"
+                          HPOS="92"
+                          CONTENT="— 128 — 11 v. u. — africae ſtatt: africa."/>
+               </TextLine>
+               <TextLine ID="line_1615385992991_2779"
+                         BASELINE="91,1447 220,1440 270,1440 294,1440 325,1440 355,1442 385,1443 415,1444 445,1446 551,1443 576,1443 601,1444 626,1444 651,1445 676,1445 701,1445 726,1445 751,1445 776,1445 801,1445 826,1446 851,1446 876,1446"
+                         HEIGHT="36"
+                         WIDTH="788"
+                         VPOS="1420"
+                         HPOS="88">
+                  <String ID="string_line_1615385992991_2779"
+                          HEIGHT="36"
+                          WIDTH="788"
+                          VPOS="1420"
+                          HPOS="88"
+                          CONTENT="— 129 — 16 v. o. — proprius ſtatt poprias."/>
+               </TextLine>
+               <TextLine ID="line_1615385997166_2783"
+                         BASELINE="78,1479 212,1478 331,1478 356,1477 381,1479 406,1481 431,1481 456,1480 549,1480 581,1480 614,1481 647,1481 680,1481 713,1481 746,1481 779,1481 812,1481 845,1481 878,1481 910,1481 943,1481 976,1481 1009,1482 1042,1482 1075,1482 1108,1483 1141,1483 1174,1484 1207,1485"
+                         HEIGHT="38"
+                         WIDTH="1127"
+                         VPOS="1457"
+                         HPOS="80">
+                  <String ID="string_line_1615385997166_2783"
+                          HEIGHT="38"
+                          WIDTH="1127"
+                          VPOS="1457"
+                          HPOS="80"
+                          CONTENT="— 150 — 18 v. o. — Sonnabendfaſtens ſtatt: Sonnabendſyſtems."/>
+               </TextLine>
+               <TextLine ID="line_1615386001129_2787"
+                         BASELINE="91,1517 197,1514 226,1514 266,1511 314,1513 363,1514 412,1514 461,1515 510,1516 559,1516 608,1517 657,1517 706,1517 755,1518 803,1518 852,1518 901,1518 950,1519 999,1519 1048,1519 1097,1520 1146,1520 1195,1520 1244,1521"
+                         HEIGHT="40"
+                         WIDTH="1164"
+                         VPOS="1491"
+                         HPOS="80">
+                  <String ID="string_line_1615386001129_2787"
+                          HEIGHT="40"
+                          WIDTH="1164"
+                          VPOS="1491"
+                          HPOS="80"
+                          CONTENT="— 151 — 18 und 19 ſoll es heißen: in der ſein eigenthümliches Ver⸗"/>
+               </TextLine>
+               <TextLine ID="r1l58"
+                         BASELINE="521,1552 548,1552 575,1552 602,1552 629,1553 656,1553 683,1554"
+                         HEIGHT="32"
+                         WIDTH="162"
+                         VPOS="1532"
+                         HPOS="521">
+                  <String ID="string_r1l58"
+                          HEIGHT="32"
+                          WIDTH="162"
+                          VPOS="1532"
+                          HPOS="521"
+                          CONTENT="dienſt volle."/>
+               </TextLine>
+               <TextLine ID="line_1615386008501_2791"
+                         BASELINE="90,1588 198,1586 224,1586 269,1582 295,1582 321,1583 347,1584 373,1585 399,1587 425,1588 452,1589 539,1586 565,1587 591,1588 617,1588 643,1588 669,1588 695,1588 721,1589 747,1590"
+                         HEIGHT="37"
+                         WIDTH="691"
+                         VPOS="1564"
+                         HPOS="78">
+                  <String ID="string_line_1615386008501_2791"
+                          HEIGHT="37"
+                          WIDTH="691"
+                          VPOS="1564"
+                          HPOS="78"
+                          CONTENT="— 172 — 6 v. u. — ces ſtatt: ses."/>
+               </TextLine>
+               <TextLine ID="line_1615386014061_2795"
+                         BASELINE="87,1625 222,1621 317,1620 343,1622 370,1623 397,1623 424,1624 451,1626 490,1622 514,1622 551,1624 576,1623 602,1623 627,1623 653,1623 679,1623 704,1624 730,1624 755,1624 781,1624 807,1625 832,1625 858,1625 883,1626 909,1626 935,1626 960,1626 986,1626 1012,1626"
+                         HEIGHT="36"
+                         WIDTH="933"
+                         VPOS="1600"
+                         HPOS="79">
+                  <String ID="string_line_1615386014061_2795"
+                          HEIGHT="36"
+                          WIDTH="933"
+                          VPOS="1600"
+                          HPOS="79"
+                          CONTENT="— 188 — 11 v. u. — pas tout — à ſtatt: partout à."/>
+               </TextLine>
+               <TextLine ID="line_1615386017552_2799"
+                         BASELINE="84,1661 196,1657 222,1656 248,1656 273,1656 299,1656 325,1657 351,1658 376,1659 402,1660 428,1661 454,1661 547,1660 572,1660 598,1660 624,1661 650,1661 676,1661 702,1662 727,1662 753,1662 779,1662 805,1662 831,1662 857,1663 882,1663 908,1663 934,1663 960,1664 986,1664 1012,1665"
+                         HEIGHT="39"
+                         WIDTH="929"
+                         VPOS="1636"
+                         HPOS="83">
+                  <String ID="string_line_1615386017552_2799"
+                          HEIGHT="39"
+                          WIDTH="929"
+                          VPOS="1636"
+                          HPOS="83"
+                          CONTENT="— 191 — 24 v. u. — “als klaſſiches Werk bezeichnen.”"/>
+               </TextLine>
+               <TextLine ID="line_1615386020702_2803"
+                         BASELINE="82,1694 184,1695 210,1694 235,1694 261,1694 286,1694 312,1695 337,1696 363,1697 388,1698 414,1699 440,1700 526,1697 553,1699 581,1700 609,1700 636,1700 664,1700 692,1699 719,1698 747,1699 775,1700"
+                         HEIGHT="37"
+                         WIDTH="694"
+                         VPOS="1673"
+                         HPOS="81">
+                  <String ID="string_line_1615386020702_2803"
+                          HEIGHT="37"
+                          WIDTH="694"
+                          VPOS="1673"
+                          HPOS="81"
+                          CONTENT="— 192 — 6 v. o. — das, ſtatt: dieß."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

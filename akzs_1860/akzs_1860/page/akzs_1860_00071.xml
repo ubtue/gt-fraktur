@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;ig_lb=true):v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-18T17:26:42.697+01:00</Created>
+        <LastChange>2021-05-11T09:12:49.546+02:00</LastChange>
+        <TranskribusMetadata docId="541181" pageId="22777162" pageNr="6" tsid="57717598" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=FTUNRSUXDKFORUIMVTHHAAOK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NFHYUSYGONTMITCIJCHYRHHN" imageId="17757281"/>
+    </Metadata>
+    <Page imageFilename="akzs_1860_00071.tif" imageWidth="1497" imageHeight="2610">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328187943" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,201 0,2462 1394,2495 1381,201"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="868,212 841,212 814,211 787,211 761,210 734,210 707,209 680,208 654,208 627,207 600,206 573,205 547,205 547,271 573,271 600,272 627,273 654,274 680,274 707,275 734,276 761,276 787,277 814,277 841,278 868,278"/>
+                <Baseline points="547,228 573,228 600,229 627,230 654,231 680,231 707,232 734,233 761,233 787,234 814,234 841,235 868,235"/>
+                <TextEquiv>
+                    <Unicode>l. Aufſätze.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} textStyle {offset:0; length:44;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1381,279 1313,276 1245,274 1177,272 1109,270 1042,269 974,268 906,266 838,265 770,265 703,264 635,263 567,261 499,260 431,259 364,257 296,255 228,253 160,250 92,247 25,244 25,368 92,371 160,374 228,377 296,379 364,381 431,383 499,384 567,385 635,387 703,388 770,389 838,389 906,390 974,392 1042,393 1109,394 1177,396 1245,398 1313,400 1381,403"/>
+                <Baseline points="25,345 92,348 160,351 228,354 296,356 364,358 431,360 499,361 567,362 635,364 703,365 770,366 838,366 906,367 974,369 1042,370 1109,371 1177,373 1245,375 1313,377 1381,380"/>
+                <TextEquiv>
+                    <Unicode>Der deutſche Staat, das römiſche Kirchenthum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} textStyle {offset:0; length:37;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1233,404 1179,403 1126,402 1072,401 1019,400 966,400 912,399 859,398 805,397 752,396 699,395 645,394 592,393 538,392 485,391 432,390 378,389 325,387 271,386 218,385 165,383 165,476 218,478 271,479 325,480 378,482 432,483 485,484 538,485 592,486 645,487 699,488 752,489 805,490 859,491 912,492 966,493 1019,493 1072,494 1126,495 1179,496 1233,497"/>
+                <Baseline points="165,437 218,439 271,440 325,441 378,443 432,444 485,445 538,446 592,447 645,448 699,449 752,450 805,451 859,452 912,453 966,454 1019,454 1072,455 1126,456 1179,457 1233,458"/>
+                <TextEquiv>
+                    <Unicode>und der evangeliſche Proteſtantismus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615971737007_419" custom="readingOrder {index:3;}">
+                <Coords points="676,487 724,487 724,537 676,537"/>
+                <Baseline points="676,532 724,532"/>
+                <TextEquiv>
+                    <Unicode>1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:4;} textStyle {offset:0; length:14;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="847,497 821,496 796,496 771,495 745,495 720,494 695,494 669,493 644,493 619,492 593,491 568,489 543,487 543,599 568,601 593,603 619,604 644,605 669,605 695,606 720,606 745,607 771,607 796,608 821,608 847,609"/>
+                <Baseline points="543,578 568,580 593,582 619,583 644,584 669,584 695,585 720,585 745,586 771,586 796,587 821,587 847,588"/>
+                <TextEquiv>
+                    <Unicode>Ein Rückblick.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:5;}">
+                <Coords points="1367,610 1303,609 1240,607 1177,606 1114,605 1051,604 988,603 925,602 862,601 799,599 736,598 672,597 609,595 546,594 483,593 420,591 357,590 294,588 231,587 168,585 105,584 105,651 168,652 231,654 294,655 357,657 420,658 483,660 546,661 609,662 672,664 736,665 799,666 862,668 925,669 988,670 1051,671 1114,672 1177,673 1240,674 1303,676 1367,677"/>
+                <Baseline points="105,635 168,636 231,638 294,639 357,641 420,642 483,644 546,645 609,646 672,648 736,649 799,650 862,652 925,653 988,654 1051,655 1114,656 1177,657 1240,658 1303,660 1367,661"/>
+                <TextEquiv>
+                    <Unicode>Es iſt eine doppelte Anforderung, welche gegenwärtig an die evangeliſch⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:6;}">
+                <Coords points="1371,678 1303,676 1236,673 1169,671 1102,669 1035,668 967,666 900,665 833,664 766,663 699,662 631,661 564,660 497,659 430,657 363,656 295,654 228,653 161,651 94,649 27,646 27,701 94,704 161,706 228,708 295,709 363,711 430,712 497,714 564,715 631,716 699,717 766,718 833,719 900,720 967,721 1035,723 1102,724 1169,726 1236,728 1303,731 1371,733"/>
+                <Baseline points="27,685 94,688 161,690 228,692 295,693 363,695 430,696 497,698 564,699 631,700 699,701 766,702 833,703 900,704 967,705 1035,707 1102,708 1169,710 1236,712 1303,715 1371,717"/>
+                <TextEquiv>
+                    <Unicode>proteſtantiſche Kirche Deutſchlands ergeht. Sie ſoll auf der einen Seite an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:7;}">
+                <Coords points="1371,734 1303,731 1236,729 1168,726 1101,725 1033,723 966,722 898,720 831,719 763,718 696,717 628,717 561,715 493,715 426,713 358,712 291,710 223,708 156,706 88,704 21,701 21,753 88,756 156,758 223,760 291,762 358,764 426,765 493,767 561,767 628,769 696,769 763,770 831,771 898,772 966,774 1033,775 1101,777 1168,778 1236,781 1303,783 1371,786"/>
+                <Baseline points="21,738 88,741 156,743 223,745 291,747 358,749 426,750 493,752 561,752 628,754 696,754 763,755 831,756 898,757 966,759 1033,760 1101,762 1168,763 1236,766 1303,768 1371,771"/>
+                <TextEquiv>
+                    <Unicode>ihren eignen innern Aufbau denken; ſie hat auf der andern ſich ihrer äußeren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:8;}">
+                <Coords points="1363,787 1296,785 1229,783 1162,781 1096,779 1029,777 962,776 896,774 829,773 762,772 696,771 629,769 562,768 495,767 429,766 362,765 295,763 229,762 162,760 95,759 29,757 29,807 95,809 162,810 229,812 295,813 362,815 429,816 495,817 562,818 629,819 696,821 762,822 829,823 896,824 962,826 1029,827 1096,829 1162,831 1229,833 1296,835 1363,837"/>
+                <Baseline points="29,794 95,796 162,797 229,799 295,800 362,802 429,803 495,804 562,805 629,806 696,808 762,809 829,810 896,811 962,813 1029,814 1096,816 1162,818 1229,820 1296,822 1363,824"/>
+                <TextEquiv>
+                    <Unicode>Unabhängigkeit und Selbſtſtändigkeit zu erwehren; daß ſie das Eine thue und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:9;}">
+                <Coords points="1051,838 999,836 948,835 896,834 845,833 794,832 742,831 691,831 639,830 588,829 537,829 485,828 434,827 382,826 331,825 280,824 228,822 177,821 125,819 74,816 23,814 23,862 74,864 125,867 177,869 228,870 280,872 331,873 382,874 434,875 485,876 537,877 588,877 639,878 691,879 742,879 794,880 845,881 896,882 948,883 999,884 1051,886"/>
+                <Baseline points="23,844 74,846 125,849 177,851 228,852 280,854 331,855 382,856 434,857 485,858 537,859 588,859 639,860 691,861 742,861 794,862 845,863 896,864 948,865 999,866 1051,868"/>
+                <TextEquiv>
+                    <Unicode>das Andere nicht laſſe, das iſt ihre ernſte zwiefache Pflicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:10;}">
+                <Coords points="1363,886 1299,884 1236,883 1172,881 1109,880 1045,878 982,877 918,876 855,875 791,874 728,873 664,872 601,871 537,870 474,869 410,868 347,867 283,866 220,865 156,863 93,862 93,920 156,921 220,923 283,924 347,925 410,926 474,927 537,928 601,929 664,930 728,931 791,932 855,933 918,934 982,935 1045,936 1109,938 1172,939 1236,941 1299,942 1363,944"/>
+                <Baseline points="93,904 156,905 220,907 283,908 347,909 410,910 474,911 537,912 601,913 664,914 728,915 791,916 855,917 918,918 982,919 1045,920 1109,922 1172,923 1236,925 1299,926 1363,928"/>
+                <TextEquiv>
+                    <Unicode>Die Stellung der deutſchen Proteſtanten zum römiſchen Katholicismus iſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:11;}">
+                <Coords points="1359,945 1291,942 1224,940 1157,938 1090,937 1023,935 955,934 888,933 821,932 754,930 687,929 619,928 552,927 485,926 418,925 351,923 283,922 216,920 149,918 82,915 15,912 15,966 82,969 149,972 216,974 283,976 351,977 418,979 485,980 552,981 619,982 687,983 754,984 821,986 888,987 955,988 1023,989 1090,991 1157,992 1224,994 1291,996 1359,999"/>
+                <Baseline points="15,951 82,954 149,957 216,959 283,961 351,962 418,964 485,965 552,966 619,967 687,968 754,969 821,971 888,972 955,973 1023,974 1090,976 1157,977 1224,979 1291,981 1359,984"/>
+                <TextEquiv>
+                    <Unicode>unzweifelhaft ſeit den letzten zehn Jahren eine weſentlich andere geworden. Vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:12;}">
+                <Coords points="1361,1000 1294,998 1227,996 1160,994 1093,992 1026,991 959,990 892,989 825,988 758,987 692,986 625,985 558,984 491,983 424,982 357,980 290,979 223,977 156,975 89,973 23,970 23,1021 89,1024 156,1026 223,1028 290,1030 357,1031 424,1033 491,1034 558,1035 625,1036 692,1037 758,1038 825,1039 892,1040 959,1041 1026,1042 1093,1043 1160,1045 1227,1047 1294,1049 1361,1051"/>
+                <Baseline points="23,1006 89,1009 156,1011 223,1013 290,1015 357,1016 424,1018 491,1019 558,1020 625,1021 692,1022 758,1023 825,1024 892,1025 959,1026 1026,1027 1093,1028 1160,1030 1227,1032 1294,1034 1361,1036"/>
+                <TextEquiv>
+                    <Unicode>dem Jahr 1848 übte die Staatsgewalt über die katholiſche wie über die prote⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:13;}">
+                <Coords points="1351,1052 1284,1049 1218,1047 1152,1045 1086,1044 1020,1042 953,1041 887,1040 821,1040 755,1039 689,1038 622,1037 556,1037 490,1036 424,1035 358,1033 291,1032 225,1030 159,1028 93,1025 27,1022 27,1074 93,1077 159,1080 225,1082 291,1084 358,1085 424,1087 490,1088 556,1089 622,1089 689,1090 755,1091 821,1092 887,1092 953,1093 1020,1094 1086,1096 1152,1097 1218,1099 1284,1101 1351,1104"/>
+                <Baseline points="27,1059 93,1062 159,1065 225,1067 291,1069 358,1070 424,1072 490,1073 556,1074 622,1074 689,1075 755,1076 821,1077 887,1077 953,1078 1020,1079 1086,1081 1152,1082 1218,1084 1284,1086 1351,1089"/>
+                <TextEquiv>
+                    <Unicode>ſtantiſche Kirche ein faſt unumſchränktes Aufſichtsrecht aus. Die joſephiniſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:14;}">
+                <Coords points="1353,1104 1286,1102 1220,1100 1153,1099 1087,1097 1021,1096 954,1096 888,1095 821,1094 755,1094 689,1093 622,1093 556,1092 489,1091 423,1090 357,1089 290,1087 224,1085 157,1083 91,1080 25,1076 25,1127 91,1131 157,1134 224,1136 290,1138 357,1140 423,1141 489,1142 556,1143 622,1144 689,1144 755,1145 821,1145 888,1146 954,1147 1021,1147 1087,1148 1153,1150 1220,1151 1286,1153 1353,1155"/>
+                <Baseline points="25,1111 91,1115 157,1118 224,1120 290,1122 357,1124 423,1125 489,1126 556,1127 622,1128 689,1128 755,1129 821,1129 888,1130 954,1131 1021,1131 1087,1132 1153,1134 1220,1135 1286,1137 1353,1139"/>
+                <TextEquiv>
+                    <Unicode>Grundſätze waren in den kirchlichen Geſetzgebungen allmälig herrſchend gewor⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:15;}">
+                <Coords points="1355,1156 1288,1153 1221,1150 1154,1148 1087,1146 1020,1145 953,1144 886,1144 819,1143 752,1143 685,1143 618,1142 551,1142 484,1141 417,1141 350,1140 283,1138 216,1136 149,1134 82,1130 15,1127 15,1181 82,1184 149,1188 216,1190 283,1192 350,1194 417,1195 484,1195 551,1196 618,1196 685,1197 752,1197 819,1197 886,1198 953,1198 1020,1199 1087,1200 1154,1202 1221,1204 1288,1207 1355,1210"/>
+                <Baseline points="15,1165 82,1168 149,1172 216,1174 283,1176 350,1178 417,1179 484,1179 551,1180 618,1180 685,1181 752,1181 819,1181 886,1182 953,1182 1020,1183 1087,1184 1154,1186 1221,1188 1288,1191 1355,1194"/>
+                <TextEquiv>
+                    <Unicode>den. Der Staat miſchte ſich zwar nicht in die katholiſche Glaubenslehre und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:16;}">
+                <Coords points="1357,1211 1290,1208 1223,1205 1156,1203 1089,1201 1022,1200 955,1199 888,1198 821,1197 754,1196 688,1196 621,1195 554,1195 487,1194 420,1193 353,1192 286,1190 219,1188 152,1186 85,1183 19,1179 19,1232 85,1236 152,1239 219,1241 286,1243 353,1245 420,1246 487,1247 554,1248 621,1248 688,1249 754,1249 821,1250 888,1251 955,1252 1022,1253 1089,1254 1156,1256 1223,1258 1290,1261 1357,1264"/>
+                <Baseline points="19,1217 85,1221 152,1224 219,1226 286,1228 353,1230 420,1231 487,1232 554,1233 621,1233 688,1234 754,1234 821,1235 888,1236 955,1237 1022,1238 1089,1239 1156,1241 1223,1243 1290,1246 1357,1249"/>
+                <TextEquiv>
+                    <Unicode>in die innern Verhältniſſe des katholiſchen Cultus ein; aber er betrachtete die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:17;}">
+                <Coords points="1355,1265 1288,1262 1221,1260 1154,1259 1087,1258 1020,1257 953,1256 886,1255 819,1254 752,1254 686,1253 619,1253 552,1252 485,1251 418,1250 351,1248 284,1246 217,1244 150,1242 83,1238 17,1235 17,1287 83,1290 150,1294 217,1296 284,1298 351,1300 418,1302 485,1303 552,1304 619,1305 686,1305 752,1306 819,1306 886,1307 953,1308 1020,1309 1087,1310 1154,1311 1221,1312 1288,1314 1355,1317"/>
+                <Baseline points="17,1271 83,1274 150,1278 217,1280 284,1282 351,1284 418,1286 485,1287 552,1288 619,1289 686,1289 752,1290 819,1290 886,1291 953,1292 1020,1293 1087,1294 1154,1295 1221,1296 1288,1298 1355,1301"/>
+                <TextEquiv>
+                    <Unicode>katholiſche Kirche in ihren hierarchiſchen Inſtitutionen als einen Staat im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:18;}">
+                <Coords points="1351,1318 1284,1315 1218,1313 1151,1311 1085,1310 1019,1308 952,1308 886,1307 819,1306 753,1305 687,1305 620,1304 554,1304 487,1303 421,1301 355,1300 288,1299 222,1296 155,1294 89,1291 23,1287 23,1340 89,1344 155,1347 222,1349 288,1352 355,1353 421,1354 487,1356 554,1357 620,1357 687,1358 753,1358 819,1359 886,1360 952,1361 1019,1361 1085,1363 1151,1364 1218,1366 1284,1368 1351,1371"/>
+                <Baseline points="23,1325 89,1329 155,1332 222,1334 288,1337 355,1338 421,1339 487,1341 554,1342 620,1342 687,1343 753,1343 819,1344 886,1345 952,1346 1019,1346 1085,1348 1151,1349 1218,1351 1284,1353 1351,1356"/>
+                <TextEquiv>
+                    <Unicode>Staate, welchen den allgemeinen Staatsgeſetzen unterzuordnen, er für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:19;}">
+                <Coords points="1357,1372 1290,1370 1224,1368 1157,1367 1091,1366 1024,1364 958,1363 891,1362 825,1362 758,1361 692,1360 625,1359 559,1358 492,1357 426,1356 359,1354 293,1353 226,1350 160,1348 93,1346 27,1343 27,1394 93,1397 160,1399 226,1401 293,1404 359,1405 426,1407 492,1408 559,1409 625,1410 692,1411 758,1412 825,1413 891,1413 958,1414 1024,1415 1091,1417 1157,1418 1224,1419 1290,1421 1357,1423"/>
+                <Baseline points="27,1379 93,1382 160,1384 226,1386 293,1389 359,1390 426,1392 492,1393 559,1394 625,1395 692,1396 758,1397 825,1398 891,1398 958,1399 1024,1400 1091,1402 1157,1403 1224,1404 1290,1406 1357,1408"/>
+                <TextEquiv>
+                    <Unicode>ſeiner Würde und der Billigkeit angemeſſen gehalten hatte. In gewiſſer Hin⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:20;}">
+                <Coords points="1351,1424 1284,1422 1218,1421 1151,1419 1085,1418 1018,1417 952,1416 885,1415 819,1414 752,1414 686,1413 619,1412 553,1411 486,1410 420,1409 353,1407 287,1406 220,1404 154,1402 87,1400 21,1397 21,1449 87,1452 154,1454 220,1456 287,1458 353,1459 420,1461 486,1462 553,1463 619,1464 686,1465 752,1466 819,1466 885,1467 952,1468 1018,1469 1085,1470 1151,1471 1218,1473 1284,1474 1351,1476"/>
+                <Baseline points="21,1433 87,1436 154,1438 220,1440 287,1442 353,1443 420,1445 486,1446 553,1447 619,1448 686,1449 752,1450 819,1450 885,1451 952,1452 1018,1453 1085,1454 1151,1455 1218,1457 1284,1458 1351,1460"/>
+                <TextEquiv>
+                    <Unicode>ſicht, nämlich in Betreff der kirchlichen Verfaſſungsgrundſätze, war allerdings</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:21;}">
+                <Coords points="1351,1477 1284,1474 1218,1471 1151,1470 1085,1468 1019,1467 952,1466 886,1466 819,1465 753,1464 687,1464 620,1463 554,1463 487,1462 421,1461 355,1459 288,1457 222,1455 155,1452 89,1448 23,1444 23,1498 89,1502 155,1506 222,1509 288,1511 355,1513 421,1515 487,1516 554,1517 620,1517 687,1518 753,1518 819,1519 886,1520 952,1520 1019,1521 1085,1522 1151,1524 1218,1525 1284,1528 1351,1531"/>
+                <Baseline points="23,1483 89,1487 155,1491 222,1494 288,1496 355,1498 421,1500 487,1501 554,1502 620,1502 687,1503 753,1503 819,1504 886,1505 952,1505 1019,1506 1085,1507 1151,1509 1218,1510 1284,1513 1351,1516"/>
+                <TextEquiv>
+                    <Unicode>Joſeph II. proteſtantiſch geſinnt. Er unterwarf die päpſtlichen Bullen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:22;}">
+                <Coords points="1339,1532 1272,1530 1206,1528 1139,1526 1073,1525 1007,1523 940,1522 874,1522 807,1521 741,1520 675,1520 608,1519 542,1518 475,1517 409,1515 343,1514 276,1512 210,1509 143,1506 77,1502 11,1498 11,1551 77,1555 143,1559 210,1562 276,1565 343,1567 409,1568 475,1570 542,1571 608,1572 675,1573 741,1573 807,1574 874,1575 940,1575 1007,1576 1073,1578 1139,1579 1206,1581 1272,1583 1339,1585"/>
+                <Baseline points="11,1535 77,1539 143,1543 210,1546 276,1549 343,1551 409,1552 475,1554 542,1555 608,1556 675,1557 741,1557 807,1558 874,1559 940,1559 1007,1560 1073,1562 1139,1563 1206,1565 1272,1567 1339,1569"/>
+                <TextEquiv>
+                    <Unicode>und Breven, die kirchlichen Geſetze und Verordnungen, vor ihrer Veröffent⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:23;}">
+                <Coords points="1341,1586 1274,1583 1207,1580 1140,1579 1074,1577 1007,1576 940,1575 874,1574 807,1573 740,1573 674,1572 607,1571 540,1571 473,1569 407,1568 340,1566 273,1564 207,1562 140,1559 73,1555 7,1550 7,1603 73,1608 140,1612 207,1615 273,1617 340,1619 407,1621 473,1622 540,1624 607,1624 674,1625 740,1626 807,1626 874,1627 940,1628 1007,1629 1074,1630 1140,1632 1207,1633 1274,1636 1341,1639"/>
+                <Baseline points="7,1588 73,1593 140,1597 207,1600 273,1602 340,1604 407,1606 473,1607 540,1609 607,1609 674,1610 740,1611 807,1611 874,1612 940,1613 1007,1614 1074,1615 1140,1617 1207,1618 1274,1621 1341,1624"/>
+                <TextEquiv>
+                    <Unicode>lichung in ſeinem Reichsgebiete der landesherrlichen Genehmigung; das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:24;}">
+                <Coords points="1343,1640 1276,1637 1210,1635 1143,1633 1077,1631 1010,1630 944,1629 877,1629 811,1628 744,1627 678,1627 611,1626 545,1625 478,1624 412,1623 345,1621 279,1619 212,1616 146,1614 79,1609 13,1605 13,1657 79,1661 146,1666 212,1668 279,1671 345,1673 412,1675 478,1676 545,1677 611,1678 678,1679 744,1679 811,1680 877,1681 944,1681 1010,1682 1077,1683 1143,1685 1210,1687 1276,1689 1343,1692"/>
+                <Baseline points="13,1642 79,1646 146,1651 212,1653 279,1656 345,1658 412,1660 478,1661 545,1662 611,1663 678,1664 744,1664 811,1665 877,1666 944,1666 1010,1667 1077,1668 1143,1670 1210,1672 1276,1674 1343,1677"/>
+                <TextEquiv>
+                    <Unicode>päpſtliche Eherecht hob er innerhalb ſeiner Gerichtsbarkeit auf; den Appellationen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:25;}">
+                <Coords points="1343,1693 1276,1690 1209,1688 1142,1686 1075,1685 1008,1684 941,1683 874,1683 807,1682 740,1682 674,1681 607,1681 540,1680 473,1679 406,1678 339,1676 272,1674 205,1671 138,1668 71,1664 5,1659 5,1710 71,1715 138,1719 205,1722 272,1725 339,1727 406,1729 473,1730 540,1731 607,1732 674,1732 740,1733 807,1733 874,1734 941,1734 1008,1735 1075,1736 1142,1737 1209,1739 1276,1741 1343,1744"/>
+                <Baseline points="5,1695 71,1700 138,1704 205,1707 272,1710 339,1712 406,1714 473,1715 540,1716 607,1717 674,1717 740,1718 807,1718 874,1719 941,1719 1008,1720 1075,1721 1142,1722 1209,1724 1276,1726 1343,1729"/>
+                <TextEquiv>
+                    <Unicode>nach Rom, die ſo viel deutſches Gold nach dem Vatican entführten, machte er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:26;}">
+                <Coords points="1349,1744 1281,1742 1214,1741 1147,1740 1080,1739 1013,1738 945,1738 878,1738 811,1737 744,1737 677,1736 609,1736 542,1735 475,1734 408,1732 341,1730 273,1728 206,1725 139,1722 72,1717 5,1713 5,1763 72,1767 139,1772 206,1775 273,1778 341,1780 408,1782 475,1784 542,1785 609,1786 677,1786 744,1787 811,1787 878,1788 945,1788 1013,1788 1080,1789 1147,1790 1214,1791 1281,1792 1349,1794"/>
+                <Baseline points="5,1748 72,1752 139,1757 206,1760 273,1763 341,1765 408,1767 475,1769 542,1770 609,1771 677,1771 744,1772 811,1772 878,1773 945,1773 1013,1773 1080,1774 1147,1775 1214,1776 1281,1777 1349,1779"/>
+                <TextEquiv>
+                    <Unicode>nebſt den ſogenannten Papſtmonaten ein Ende; Seminarien und geiſtliche Col⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:27;}">
+                <Coords points="1339,1795 1272,1793 1206,1791 1139,1790 1073,1790 1006,1789 940,1789 873,1789 807,1789 740,1788 674,1788 607,1788 541,1787 474,1786 408,1785 341,1783 275,1780 208,1778 142,1774 75,1770 9,1765 9,1816 75,1821 142,1825 208,1829 275,1831 341,1834 408,1836 474,1837 541,1838 607,1839 674,1839 740,1839 807,1840 873,1840 940,1840 1006,1840 1073,1841 1139,1841 1206,1842 1272,1844 1339,1846"/>
+                <Baseline points="9,1802 75,1807 142,1811 208,1815 275,1817 341,1820 408,1822 474,1823 541,1824 607,1825 674,1825 740,1825 807,1826 873,1826 940,1826 1006,1826 1073,1827 1139,1827 1206,1828 1272,1830 1339,1832"/>
+                <TextEquiv>
+                    <Unicode>legien ſtellte er unter ſeine Aufſicht; er zog überhaupt der Kirchengewalt, ſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:28;}">
+                <Coords points="1334,1847 1267,1846 1201,1845 1134,1845 1068,1845 1002,1845 935,1845 869,1845 803,1845 736,1845 670,1845 604,1844 537,1844 471,1843 405,1841 338,1839 272,1837 206,1834 139,1830 73,1826 7,1821 7,1871 73,1876 139,1880 206,1884 272,1887 338,1889 405,1891 471,1893 537,1894 604,1894 670,1895 736,1895 803,1895 869,1895 935,1895 1002,1895 1068,1895 1134,1895 1201,1895 1267,1896 1334,1897"/>
+                <Baseline points="7,1854 73,1859 139,1863 206,1867 272,1870 338,1872 405,1874 471,1876 537,1877 604,1877 670,1878 736,1878 803,1878 869,1878 935,1878 1002,1878 1068,1878 1134,1878 1201,1878 1267,1879 1334,1880"/>
+                <TextEquiv>
+                    <Unicode>weit ſie in das öffentliche Recht eingriff, die förmlichſten Schranken. Es iſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:29;}">
+                <Coords points="1341,1898 1274,1895 1207,1893 1140,1891 1074,1891 1007,1890 940,1890 874,1890 807,1891 740,1891 674,1891 607,1891 540,1891 473,1890 407,1889 340,1887 273,1885 207,1882 140,1878 73,1873 7,1867 7,1922 73,1928 140,1933 207,1937 273,1940 340,1942 407,1944 473,1945 540,1946 607,1946 674,1946 740,1946 807,1946 874,1945 940,1945 1007,1945 1074,1946 1140,1946 1207,1948 1274,1950 1341,1953"/>
+                <Baseline points="7,1907 73,1913 140,1918 207,1922 273,1925 340,1927 407,1929 473,1930 540,1931 607,1931 674,1931 740,1931 807,1931 874,1930 940,1930 1007,1930 1074,1931 1140,1931 1207,1933 1274,1935 1341,1938"/>
+                <TextEquiv>
+                    <Unicode>jedoch nicht richtig, wenn man behauptet, die joſephiniſchen Verordnungen ſeien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:30;}">
+                <Coords points="1343,1954 1275,1951 1208,1949 1141,1948 1074,1948 1007,1947 940,1948 872,1948 805,1948 738,1949 671,1949 604,1949 537,1949 470,1948 402,1947 335,1945 268,1942 201,1938 134,1933 67,1927 0,1920 0,1972 67,1979 134,1985 201,1990 268,1994 335,1997 402,1999 470,2000 537,2001 604,2001 671,2001 738,2001 805,2000 872,2000 940,2000 1007,1999 1074,2000 1141,2000 1208,2001 1275,2003 1343,2006"/>
+                <Baseline points="0,1956 67,1963 134,1969 201,1974 268,1978 335,1981 402,1983 470,1984 537,1985 604,1985 671,1985 738,1985 805,1984 872,1984 940,1984 1007,1983 1074,1984 1141,1984 1208,1985 1275,1987 1343,1990"/>
+                <TextEquiv>
+                    <Unicode>der Religion ſelbſt zu nahe getreten. Sie gingen umgekehrt von der allein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:31;}">
+                <Coords points="1331,2007 1264,2004 1198,2002 1132,2000 1065,2000 999,1999 933,1999 866,1999 800,2000 734,2000 668,2000 601,2000 535,2000 469,1999 402,1998 336,1996 270,1993 203,1989 137,1984 71,1978 5,1971 5,2025 71,2032 137,2038 203,2043 270,2047 336,2050 402,2052 469,2053 535,2054 601,2054 668,2054 734,2054 800,2054 866,2053 933,2053 999,2053 1065,2054 1132,2054 1198,2056 1264,2058 1331,2061"/>
+                <Baseline points="5,2009 71,2016 137,2022 203,2027 270,2031 336,2034 402,2036 469,2037 535,2038 601,2038 668,2038 734,2038 800,2038 866,2037 933,2037 999,2037 1065,2038 1132,2038 1198,2040 1264,2042 1331,2045"/>
+                <TextEquiv>
+                    <Unicode>ſchriftgemäßen Vorſtellung in Betreff der Religion aus. Da nämlich die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:32;}">
+                <Coords points="1335,2062 1268,2059 1202,2057 1135,2056 1069,2055 1003,2055 936,2055 870,2055 803,2055 737,2055 671,2055 604,2055 538,2055 471,2054 405,2052 339,2050 272,2047 206,2043 139,2039 73,2033 7,2026 7,2079 73,2086 139,2092 206,2096 272,2100 339,2103 405,2105 471,2107 538,2108 604,2108 671,2108 737,2108 803,2108 870,2108 936,2108 1003,2108 1069,2108 1135,2109 1202,2110 1268,2112 1335,2115"/>
+                <Baseline points="7,2063 73,2070 139,2076 206,2080 272,2084 339,2087 405,2089 471,2091 538,2092 604,2092 671,2092 737,2092 803,2092 870,2092 936,2092 1003,2092 1069,2092 1135,2093 1202,2094 1268,2096 1335,2099"/>
+                <TextEquiv>
+                    <Unicode>Religion nichts Auswendiges iſt, ſo kann ſie auch nicht in der äußeren Macht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:33;}">
+                <Coords points="1337,2116 1270,2112 1204,2109 1137,2108 1071,2107 1004,2106 938,2106 871,2106 805,2107 738,2107 672,2107 605,2108 539,2107 472,2107 406,2105 339,2103 273,2101 206,2096 140,2092 73,2085 7,2077 7,2131 73,2139 140,2146 206,2150 273,2155 339,2157 406,2159 472,2161 539,2161 605,2162 672,2161 738,2161 805,2161 871,2160 938,2160 1004,2160 1071,2161 1137,2162 1204,2163 1270,2166 1337,2170"/>
+                <Baseline points="7,2115 73,2123 140,2130 206,2134 273,2139 339,2141 406,2143 472,2145 539,2145 605,2146 672,2145 738,2145 805,2145 871,2144 938,2144 1004,2144 1071,2145 1137,2146 1204,2147 1270,2150 1337,2154"/>
+                <TextEquiv>
+                    <Unicode>und dem irdiſchen Glanze des Kirchenthums beſtehen; je mächtiger die Kirche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:34;}">
+                <Coords points="1333,2171 1266,2167 1200,2164 1133,2162 1067,2161 1000,2161 934,2160 867,2161 801,2161 734,2161 668,2162 601,2162 535,2161 468,2161 402,2159 335,2157 269,2154 202,2150 136,2145 69,2138 3,2130 3,2183 69,2191 136,2198 202,2203 269,2207 335,2210 402,2212 468,2214 535,2214 601,2215 668,2215 734,2214 801,2214 867,2214 934,2213 1000,2214 1067,2214 1133,2215 1200,2217 1266,2220 1333,2224"/>
+                <Baseline points="3,2168 69,2176 136,2183 202,2188 269,2192 335,2195 402,2197 468,2199 535,2199 601,2200 668,2200 734,2199 801,2199 867,2199 934,2198 1000,2199 1067,2199 1133,2200 1200,2202 1266,2205 1333,2209"/>
+                <TextEquiv>
+                    <Unicode>nach außen, deſto ohnmächtiger iſt in der Regel die Religion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:35;}">
+                <Coords points="1335,2225 1268,2221 1202,2218 1135,2216 1069,2215 1003,2214 936,2214 870,2215 803,2215 737,2216 671,2216 604,2217 538,2217 471,2216 405,2215 339,2213 272,2209 206,2205 139,2199 73,2192 7,2183 7,2236 73,2245 139,2252 206,2258 272,2262 339,2266 405,2268 471,2269 538,2270 604,2270 671,2269 737,2269 803,2268 870,2268 936,2267 1003,2267 1069,2268 1135,2269 1202,2271 1268,2274 1335,2278"/>
+                <Baseline points="7,2220 73,2229 139,2236 206,2242 272,2246 339,2250 405,2252 471,2253 538,2254 604,2254 671,2253 737,2253 803,2252 870,2252 936,2251 1003,2251 1069,2252 1135,2253 1202,2255 1268,2258 1335,2262"/>
+                <TextEquiv>
+                    <Unicode>nach innen. Joſeph II. hatte ein frommes und ein deutſches Herz. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:36;}">
+                <Coords points="1337,2279 1270,2274 1204,2271 1137,2268 1071,2267 1005,2266 938,2266 872,2266 805,2266 739,2267 673,2267 606,2268 540,2267 473,2267 407,2266 341,2263 274,2261 208,2256 141,2251 75,2244 9,2235 9,2289 75,2298 141,2305 208,2310 274,2315 341,2317 407,2320 473,2321 540,2321 606,2322 673,2321 739,2321 805,2320 872,2320 938,2320 1005,2320 1071,2321 1137,2322 1204,2325 1270,2328 1337,2333"/>
+                <Baseline points="9,2274 75,2283 141,2290 208,2295 274,2300 341,2302 407,2305 473,2306 540,2306 606,2307 673,2306 739,2306 805,2305 872,2305 938,2305 1005,2305 1071,2306 1137,2307 1204,2310 1270,2313 1337,2318"/>
+                <TextEquiv>
+                    <Unicode>Gedanke einer deutſchen katholiſchen Nationalkirche erfüllte ſeine Seele mit ſtiller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:37;}">
+                <Coords points="1335,2334 1268,2329 1202,2326 1135,2323 1069,2322 1002,2321 936,2321 869,2321 803,2321 736,2322 670,2322 603,2323 537,2322 470,2322 404,2320 337,2318 271,2315 204,2310 138,2304 71,2297 5,2287 5,2340 71,2350 138,2357 204,2363 271,2368 337,2371 404,2373 470,2375 537,2375 603,2376 670,2375 736,2375 803,2374 869,2374 936,2374 1002,2374 1069,2375 1135,2376 1202,2379 1268,2382 1335,2387"/>
+                <Baseline points="5,2324 71,2334 138,2341 204,2347 271,2352 337,2355 404,2357 470,2359 537,2359 603,2360 670,2359 736,2359 803,2358 869,2358 936,2358 1002,2358 1069,2359 1135,2360 1202,2363 1268,2366 1335,2371"/>
+                <TextEquiv>
+                    <Unicode>Freude. Deshalb erſchien ihm auch der Gebrauch der lateiniſchen Sprache</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:38;}">
+                <Coords points="1339,2388 1268,2383 1198,2380 1127,2377 1057,2375 986,2375 916,2374 845,2375 775,2375 704,2375 634,2376 563,2375 493,2375 422,2373 352,2371 281,2367 211,2362 140,2355 70,2348 0,2337 0,2382 70,2393 140,2400 211,2407 281,2412 352,2416 422,2418 493,2420 563,2420 634,2421 704,2420 775,2420 845,2420 916,2419 986,2420 1057,2420 1127,2422 1198,2425 1268,2428 1339,2433"/>
+                <Baseline points="0,2375 70,2386 140,2393 211,2400 281,2405 352,2409 422,2411 493,2413 563,2413 634,2414 704,2413 775,2413 845,2413 916,2412 986,2413 1057,2413 1127,2415 1198,2418 1268,2421 1339,2426"/>
+                <TextEquiv>
+                    <Unicode>beim Gottesdienſte als eine Unſitte und er führte deutſche Geſänge ein. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:39;}">
+                <Coords points="223,2434 193,2433 164,2431 134,2428 105,2424 105,2443 134,2447 164,2450 193,2452 223,2453"/>
+                <Baseline points="105,2440 134,2444 164,2447 193,2449 223,2450"/>
+                <TextEquiv>
+                    <Unicode>1860. II.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615971680195_404" custom="readingOrder {index:40;}">
+                <Coords points="977,2431 1059,2433 1058,2483 976,2481"/>
+                <Baseline points="976,2476 1058,2478"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>l. Aufſätze.
+Der deutſche Staat, das römiſche Kirchenthum
+und der evangeliſche Proteſtantismus.
+1.
+Ein Rückblick.
+Es iſt eine doppelte Anforderung, welche gegenwärtig an die evangeliſch⸗
+proteſtantiſche Kirche Deutſchlands ergeht. Sie ſoll auf der einen Seite an
+ihren eignen innern Aufbau denken; ſie hat auf der andern ſich ihrer äußeren
+Unabhängigkeit und Selbſtſtändigkeit zu erwehren; daß ſie das Eine thue und
+das Andere nicht laſſe, das iſt ihre ernſte zwiefache Pflicht.
+Die Stellung der deutſchen Proteſtanten zum römiſchen Katholicismus iſt
+unzweifelhaft ſeit den letzten zehn Jahren eine weſentlich andere geworden. Vor
+dem Jahr 1848 übte die Staatsgewalt über die katholiſche wie über die prote⸗
+ſtantiſche Kirche ein faſt unumſchränktes Aufſichtsrecht aus. Die joſephiniſchen
+Grundſätze waren in den kirchlichen Geſetzgebungen allmälig herrſchend gewor⸗
+den. Der Staat miſchte ſich zwar nicht in die katholiſche Glaubenslehre und
+in die innern Verhältniſſe des katholiſchen Cultus ein; aber er betrachtete die
+katholiſche Kirche in ihren hierarchiſchen Inſtitutionen als einen Staat im
+Staate, welchen den allgemeinen Staatsgeſetzen unterzuordnen, er für
+ſeiner Würde und der Billigkeit angemeſſen gehalten hatte. In gewiſſer Hin⸗
+ſicht, nämlich in Betreff der kirchlichen Verfaſſungsgrundſätze, war allerdings
+Joſeph II. proteſtantiſch geſinnt. Er unterwarf die päpſtlichen Bullen
+und Breven, die kirchlichen Geſetze und Verordnungen, vor ihrer Veröffent⸗
+lichung in ſeinem Reichsgebiete der landesherrlichen Genehmigung; das
+päpſtliche Eherecht hob er innerhalb ſeiner Gerichtsbarkeit auf; den Appellationen
+nach Rom, die ſo viel deutſches Gold nach dem Vatican entführten, machte er
+nebſt den ſogenannten Papſtmonaten ein Ende; Seminarien und geiſtliche Col⸗
+legien ſtellte er unter ſeine Aufſicht; er zog überhaupt der Kirchengewalt, ſo
+weit ſie in das öffentliche Recht eingriff, die förmlichſten Schranken. Es iſt
+jedoch nicht richtig, wenn man behauptet, die joſephiniſchen Verordnungen ſeien
+der Religion ſelbſt zu nahe getreten. Sie gingen umgekehrt von der allein
+ſchriftgemäßen Vorſtellung in Betreff der Religion aus. Da nämlich die
+Religion nichts Auswendiges iſt, ſo kann ſie auch nicht in der äußeren Macht
+und dem irdiſchen Glanze des Kirchenthums beſtehen; je mächtiger die Kirche
+nach außen, deſto ohnmächtiger iſt in der Regel die Religion
+nach innen. Joſeph II. hatte ein frommes und ein deutſches Herz. Der
+Gedanke einer deutſchen katholiſchen Nationalkirche erfüllte ſeine Seele mit ſtiller
+Freude. Deshalb erſchien ihm auch der Gebrauch der lateiniſchen Sprache
+beim Gottesdienſte als eine Unſitte und er führte deutſche Geſänge ein. Die
+1860. II.
+1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

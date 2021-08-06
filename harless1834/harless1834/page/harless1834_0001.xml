@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:26.872+01:00</Created>
+        <LastChange>2021-05-11T12:53:02.358+02:00</LastChange>
+        <TranskribusMetadata docId="543223" pageId="22808918" pageNr="1" tsid="57730291" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=QVWKYFESXHZRFTCXJDUONLES&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NNUPQYTJHKNJFSUWZCHPHHTF" imageId="17784596"/>
+    </Metadata>
+    <Page imageFilename="harless1834_0001.tif" imageWidth="1418" imageHeight="2273">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327857018" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="157,125 157,2048 1268,2048 1268,125"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="657,192 687,194 717,194 747,196 747,129 717,127 687,127 657,125"/>
+                <Baseline points="657,170 687,172 717,172 747,174"/>
+                <TextEquiv>
+                    <Unicode>Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="339,324 376,324 413,325 451,325 488,325 525,325 563,325 600,325 637,324 675,324 712,324 749,324 787,324 824,324 861,325 899,325 936,326 973,328 1011,329 1048,331 1086,333 1086,266 1048,264 1011,262 973,261 936,259 899,258 861,258 824,257 787,257 749,257 712,257 675,257 637,257 600,258 563,258 525,258 488,258 451,258 413,258 376,257 339,257"/>
+                <Baseline points="339,302 376,302 413,303 451,303 488,303 525,303 563,303 600,303 637,302 675,302 712,302 749,302 787,302 824,302 861,303 899,303 936,304 973,306 1011,307 1048,309 1086,311"/>
+                <TextEquiv>
+                    <Unicode>kritiſche Bearbeitung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="662,436 690,435 719,435 748,436 748,369 719,368 690,368 662,369"/>
+                <Baseline points="662,414 690,413 719,413 748,414"/>
+                <TextEquiv>
+                    <Unicode>des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="175,608 229,606 284,605 338,605 393,605 448,606 502,607 557,609 612,610 666,612 721,614 776,616 830,617 885,619 940,620 994,621 1049,621 1104,620 1158,619 1213,618 1268,615 1270,462 1109,478 170,465 168,466"/>
+                <Baseline points="175,587 229,585 284,584 338,584 393,584 448,585 502,586 557,588 612,589 666,591 721,593 776,595 830,596 885,598 940,599 994,600 1049,600 1104,599 1158,598 1213,597 1268,594"/>
+                <TextEquiv>
+                    <Unicode>Lebens Jeſu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="677,699 702,699 727,701 727,637 702,635 677,635"/>
+                <Baseline points="677,678 702,678 727,680"/>
+                <TextEquiv>
+                    <Unicode>von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="362,809 395,810 428,811 461,811 495,812 528,812 561,813 595,813 628,813 661,813 695,813 728,814 761,814 794,814 828,814 861,813 894,813 928,813 961,813 994,813 1028,813 1028,746 994,746 961,746 928,746 894,746 861,746 828,747 794,747 761,747 728,747 695,746 661,746 628,746 595,746 561,746 528,745 495,745 461,744 428,744 395,743 362,742"/>
+                <Baseline points="362,787 395,788 428,789 461,789 495,790 528,790 561,791 595,791 628,791 661,791 695,791 728,792 761,792 794,792 828,792 861,791 894,791 928,791 961,791 994,791 1028,791"/>
+                <TextEquiv>
+                    <Unicode>Dr. Dav. Friedr. Strauſs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="648,925 674,922 700,921 726,922 753,924 753,857 726,855 700,854 674,855 648,858"/>
+                <Baseline points="648,903 674,900 700,899 726,900 753,902"/>
+                <TextEquiv>
+                    <Unicode>nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="157,1031 210,1032 263,1033 316,1034 369,1034 422,1035 475,1035 528,1035 581,1035 634,1035 688,1035 741,1035 794,1035 847,1035 900,1035 953,1035 1006,1036 1059,1036 1112,1037 1165,1037 1219,1038 1219,971 1165,970 1112,970 1059,969 1006,969 953,968 900,968 847,968 794,968 741,968 688,968 634,968 581,968 528,968 475,968 422,968 369,967 316,967 263,966 210,965 157,964"/>
+                <Baseline points="157,1009 210,1010 263,1011 316,1012 369,1012 422,1013 475,1013 528,1013 581,1013 634,1013 688,1013 741,1013 794,1013 847,1013 900,1013 953,1013 1006,1014 1059,1014 1112,1015 1165,1015 1219,1016"/>
+                <TextEquiv>
+                    <Unicode>ihrem wiſſenſchaftlichen Werthe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="577,1138 603,1140 629,1140 655,1141 681,1141 708,1140 734,1140 760,1139 786,1139 813,1139 813,1075 786,1075 760,1075 734,1076 708,1076 681,1077 655,1077 629,1076 603,1076 577,1074"/>
+                <Baseline points="577,1117 603,1119 629,1119 655,1120 681,1120 708,1119 734,1119 760,1118 786,1118 813,1118"/>
+                <TextEquiv>
+                    <Unicode>beleuchtet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="660,1228 686,1229 712,1231 738,1230 738,1166 712,1167 686,1165 660,1164"/>
+                <Baseline points="660,1207 686,1208 712,1210 738,1209"/>
+                <TextEquiv>
+                    <Unicode>von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="282,1336 324,1334 366,1332 408,1331 450,1331 492,1331 534,1331 576,1331 618,1332 660,1333 703,1334 745,1335 787,1336 829,1337 871,1337 913,1338 955,1337 997,1337 1039,1335 1081,1333 1124,1331 1124,1264 1081,1266 1039,1268 997,1270 955,1270 913,1271 871,1270 829,1270 787,1269 745,1268 703,1267 660,1266 618,1265 576,1264 534,1264 492,1264 450,1264 408,1264 366,1265 324,1267 282,1269"/>
+                <Baseline points="282,1314 324,1312 366,1310 408,1309 450,1309 492,1309 534,1309 576,1309 618,1310 660,1311 703,1312 745,1313 787,1314 829,1315 871,1315 913,1316 955,1315 997,1315 1039,1313 1081,1311 1124,1309"/>
+                <TextEquiv>
+                    <Unicode>Prof. Dr. G. C. Adolph Harleſs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="524,1928 550,1928 577,1929 604,1930 631,1931 657,1932 684,1932 711,1933 738,1933 764,1934 791,1933 818,1932 845,1931 872,1930 872,1890 845,1891 818,1892 791,1893 764,1894 738,1893 711,1893 684,1892 657,1892 631,1891 604,1890 577,1889 550,1888 524,1888"/>
+                <Baseline points="524,1915 550,1915 577,1916 604,1917 631,1918 657,1919 684,1919 711,1920 738,1920 764,1921 791,1920 818,1919 845,1918 872,1917"/>
+                <TextEquiv>
+                    <Unicode>Erlangen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="178,1989 229,1989 281,1988 332,1988 384,1988 436,1988 487,1988 539,1988 590,1988 642,1988 694,1988 745,1988 797,1988 848,1988 900,1988 952,1988 1003,1988 1055,1988 1106,1988 1158,1988 1210,1988 1210,1948 1158,1948 1106,1948 1055,1948 1003,1948 952,1948 900,1948 848,1948 797,1948 745,1948 694,1948 642,1948 590,1948 539,1948 487,1948 436,1948 384,1948 332,1948 281,1948 229,1949 178,1949"/>
+                <Baseline points="178,1976 229,1976 281,1975 332,1975 384,1975 436,1975 487,1975 539,1975 590,1975 642,1975 694,1975 745,1975 797,1975 848,1975 900,1975 952,1975 1003,1975 1055,1975 1106,1975 1158,1975 1210,1975"/>
+                <TextEquiv>
+                    <Unicode>Verlag von Carl Heyder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="619,2041 644,2043 670,2043 696,2042 722,2042 748,2044 774,2048 774,2009 748,2005 722,2003 696,2003 670,2004 644,2004 619,2002"/>
+                <Baseline points="619,2028 644,2030 670,2030 696,2029 722,2029 748,2031 774,2035"/>
+                <TextEquiv>
+                    <Unicode>1836.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die
+kritiſche Bearbeitung
+des
+Lebens Jeſu
+von
+Dr. Dav. Friedr. Strauſs
+nach
+ihrem wiſſenſchaftlichen Werthe
+beleuchtet
+von
+Prof. Dr. G. C. Adolph Harleſs.
+Erlangen.
+Verlag von Carl Heyder.
+1836.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

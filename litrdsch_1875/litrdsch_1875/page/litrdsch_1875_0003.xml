@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-20T17:15:08.496+01:00</Created>
+        <LastChange>2021-04-30T15:26:51.564+02:00</LastChange>
+        <TranskribusMetadata docId="542279" pageId="22797898" pageNr="1" tsid="57487563" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=JZZQDVYOGOFLEALPFNOWHFEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OBWNFYWTNXMEBTWHGDDYMEJQ" imageId="17775090"/>
+    </Metadata>
+    <Page imageFilename="litrdsch_1875_0003.tif" imageWidth="2443" imageHeight="3385">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328129376" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="345,182 345,3225 2174,3225 2174,182"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="333,357 424,358 515,360 607,361 698,361 790,361 881,361 973,361 1064,361 1156,363 1247,363 1338,363 1430,363 1521,364 1613,366 1704,367 1796,369 1887,372 1979,376 2070,379 2162,384 2165,236 2136,174 2024,191 2023,173 1897,171 1755,174 1597,181 1441,176 337,171 333,290"/>
+                <Baseline points="333,335 424,336 515,338 607,339 698,339 790,339 881,339 973,339 1064,339 1156,341 1247,341 1338,341 1430,341 1521,342 1613,344 1704,345 1796,347 1887,350 1979,354 2070,357 2140,359"/>
+                <TextEquiv>
+                    <Unicode>Literariſche Rundſchau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1031,829 1056,829 1082,829 1108,830 1134,831 1160,832 1185,832 1211,834 1237,835 1263,835 1289,837 1314,837 1340,837 1366,835 1392,835 1418,832 1418,765 1392,768 1366,768 1340,770 1314,770 1289,770 1263,768 1237,768 1211,767 1185,765 1160,765 1134,764 1108,763 1082,762 1056,762 1031,762"/>
+                <Baseline points="1031,807 1056,807 1082,807 1108,808 1134,809 1160,810 1185,810 1211,812 1237,813 1263,813 1289,815 1314,815 1340,815 1366,813 1392,813 1418,810"/>
+                <TextEquiv>
+                    <Unicode>Redigirt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1206,927 1268,916 1271,867 1206,860"/>
+                <Baseline points="1206,905 1220,908"/>
+                <TextEquiv>
+                    <Unicode>von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} textStyle {offset:0; length:14;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="924,1044 954,1045 985,1046 1016,1047 1047,1048 1077,1048 1108,1049 1139,1050 1170,1050 1200,1050 1231,1051 1262,1051 1293,1051 1323,1051 1354,1051 1385,1051 1416,1051 1446,1051 1477,1051 1508,1050 1539,1050 1539,983 1508,983 1477,984 1446,984 1416,984 1385,984 1354,984 1323,984 1293,984 1262,984 1231,984 1200,983 1170,983 1139,983 1108,982 1077,981 1047,981 1016,980 985,979 954,978 924,977"/>
+                <Baseline points="924,1022 954,1023 985,1024 1016,1025 1047,1026 1077,1026 1108,1027 1139,1028 1170,1028 1200,1028 1231,1029 1262,1029 1293,1029 1323,1029 1354,1029 1385,1029 1416,1029 1446,1029 1477,1029 1508,1028 1539,1028"/>
+                <TextEquiv>
+                    <Unicode>Joſeph Köhler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} textStyle {offset:0; length:22;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="705,1698 756,1701 808,1702 860,1704 912,1705 964,1707 1016,1708 1068,1708 1120,1710 1172,1711 1224,1712 1275,1713 1327,1714 1379,1714 1431,1714 1483,1714 1535,1714 1587,1714 1639,1714 1691,1714 1743,1713 1743,1646 1691,1647 1639,1647 1587,1647 1535,1647 1483,1647 1431,1647 1379,1647 1327,1647 1275,1646 1224,1645 1172,1644 1120,1643 1068,1641 1016,1641 964,1640 912,1638 860,1637 808,1635 756,1634 705,1631"/>
+                <Baseline points="705,1676 756,1679 808,1680 860,1682 912,1683 964,1685 1016,1686 1068,1686 1120,1688 1172,1689 1224,1690 1275,1691 1327,1692 1379,1692 1431,1692 1483,1692 1535,1692 1587,1692 1639,1692 1691,1692 1743,1691"/>
+                <TextEquiv>
+                    <Unicode>Erſter Jahrgang. 1875.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1038,2977 1064,2977 1091,2978 1118,2978 1145,2978 1171,2977 1198,2977 1225,2975 1252,2975 1278,2975 1305,2975 1332,2976 1359,2977 1386,2980 1386,2929 1359,2926 1332,2925 1305,2924 1278,2924 1252,2924 1225,2924 1198,2926 1171,2926 1145,2927 1118,2927 1091,2927 1064,2926 1038,2926"/>
+                <Baseline points="1038,2960 1064,2960 1091,2961 1118,2961 1145,2961 1171,2960 1198,2960 1225,2958 1252,2958 1278,2958 1305,2958 1332,2959 1359,2960 1386,2963"/>
+                <TextEquiv>
+                    <Unicode>Aachen 1875.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="887,3043 919,3044 951,3044 984,3046 1016,3047 1049,3047 1081,3047 1114,3047 1146,3047 1179,3047 1211,3047 1243,3046 1276,3046 1308,3046 1341,3046 1373,3046 1406,3046 1438,3047 1471,3047 1503,3049 1536,3049 1536,2998 1503,2998 1471,2996 1438,2996 1406,2995 1373,2995 1341,2995 1308,2995 1276,2995 1243,2995 1211,2996 1179,2996 1146,2996 1114,2996 1081,2996 1049,2996 1016,2996 984,2995 951,2993 919,2993 887,2992"/>
+                <Baseline points="887,3026 919,3027 951,3027 984,3029 1016,3030 1049,3030 1081,3030 1114,3030 1146,3030 1179,3030 1211,3030 1243,3029 1276,3029 1308,3029 1341,3029 1373,3029 1406,3029 1438,3030 1471,3030 1503,3032 1536,3032"/>
+                <TextEquiv>
+                    <Unicode>Verlag von Rudolf Barth.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Literariſche Rundſchau.&#13;
+Redigirt&#13;
+von&#13;
+Joſeph Köhler.&#13;
+Erſter Jahrgang. 1875.&#13;
+Aachen 1875.&#13;
+Verlag von Rudolf Barth.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

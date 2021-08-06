@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-20T17:30:30.577+01:00</Created>
+        <LastChange>2021-05-11T09:05:33.246+02:00</LastChange>
+        <TranskribusMetadata docId="542280" pageId="22797936" pageNr="1" tsid="57717209" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=EIRQLRADPDGFJLAAUSBXGHMH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTDYVIPWPBQGLVHVYSTVBBTA" imageId="17775128"/>
+    </Metadata>
+    <Page imageFilename="artl_001_00005.tif" imageWidth="1362" imageHeight="2456">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328069259" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1615358555868_11"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1615358555868_11" custom="readingOrder {index:0;}">
+            <Coords points="116,304 1325,291 1324,824 1314,2285 1240,2299 119,2299"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:25;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="412,380 440,378 469,377 497,376 526,375 554,375 583,374 611,373 640,373 668,372 697,372 726,371 754,371 783,371 811,370 840,369 868,369 897,368 925,367 954,367 983,365 983,329 954,331 925,331 897,332 868,333 840,333 811,334 783,335 754,335 726,335 697,336 668,336 640,337 611,337 583,338 554,339 526,339 497,340 469,341 440,342 412,344"/>
+                <Baseline points="412,368 440,366 469,365 497,364 526,363 554,363 583,362 611,361 640,361 668,360 697,360 726,359 754,359 783,359 811,358 840,357 868,357 897,356 925,355 954,355 983,353"/>
+                <TextEquiv>
+                    <Unicode>Inhalt des erſten Bandes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="429,568 456,568 483,568 510,568 537,568 564,567 591,567 618,567 645,567 672,566 699,566 726,566 753,565 780,565 807,564 834,564 861,563 888,563 915,562 942,561 969,560 969,524 942,525 915,526 888,527 861,527 834,528 807,528 780,529 753,529 726,530 699,530 672,530 645,531 618,531 591,531 564,531 537,532 510,532 483,532 456,532 429,532"/>
+                <Baseline points="429,556 456,556 483,556 510,556 537,556 564,555 591,555 618,555 645,555 672,554 699,554 726,554 753,553 780,553 807,552 834,552 861,551 888,551 915,550 942,549 969,548"/>
+                <TextEquiv>
+                    <Unicode>I. Theologische Kritik.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} textStyle {offset:0; length:22;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="518,628 543,628 568,629 593,628 619,628 644,628 669,627 694,627 720,626 745,625 770,625 795,624 821,624 846,624 871,624 897,624 897,588 871,588 846,588 821,588 795,588 770,589 745,589 720,590 694,591 669,591 644,592 619,592 593,592 568,593 543,592 518,592"/>
+                <Baseline points="518,616 543,616 568,617 593,616 619,616 644,616 669,615 694,615 720,614 745,613 770,613 795,612 821,612 846,612 871,612 897,612"/>
+                <TextEquiv>
+                    <Unicode>1. Deutſche Literatur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="597,696 624,695 652,694 679,693 707,693 734,694 762,694 789,693 817,693 817,657 789,657 762,658 734,658 707,657 679,657 652,658 624,659 597,660"/>
+                <Baseline points="597,684 624,683 652,682 679,681 707,681 734,682 762,682 789,681 817,681"/>
+                <TextEquiv>
+                    <Unicode>Buͤcher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} textStyle {offset:0; length:22;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="541,761 567,760 593,759 619,758 645,758 671,758 697,758 723,757 749,757 775,757 801,757 827,757 853,755 879,755 879,719 853,719 827,721 801,721 775,721 749,721 723,721 697,722 671,722 645,722 619,722 593,723 567,724 541,725"/>
+                <Baseline points="541,749 567,748 593,747 619,746 645,746 671,746 697,746 723,745 749,745 775,745 801,745 827,745 853,743 879,743"/>
+                <TextEquiv>
+                    <Unicode>Exegetiſche Theologie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l1" custom="readingOrder {index:5;}">
+                <Coords points="1232,805 1257,807 1282,806 1308,807 1308,777 1282,776 1257,777 1232,775"/>
+                <Baseline points="1232,795 1257,797 1282,796 1308,797"/>
+                <TextEquiv>
+                    <Unicode>Seite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358589153_25" custom="readingOrder {index:6;}">
+                <Coords points="119,823 428,819 506,818 1277,810 1302,810 1302,840 635,849 273,853 119,853"/>
+                <Baseline points="119,843 144,843 170,843 196,843 222,843 248,843 273,843 299,842 325,842 351,841 377,841 402,840 428,839 454,839 480,839 506,838 531,838 557,838 583,838 609,838 635,839 1277,830 1302,830"/>
+                <TextEquiv>
+                    <Unicode>Steiger, der erſte Brief Petri . . . . . . . . 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358597220_29" custom="readingOrder {index:7;}">
+                <Coords points="129,867 165,866 1277,850 1302,854 1302,884 1126,889 1050,890 940,891 129,897"/>
+                <Baseline points="129,887 165,886 202,886 239,885 276,885 313,885 349,884 386,884 423,884 460,883 497,883 533,882 570,882 607,882 644,881 681,881 717,880 754,880 791,879 828,878 865,877 940,880 972,878 1030,880 1050,880 1116,877 1126,879 1202,876 1227,875 1252,874 1277,870 1302,874"/>
+                <TextEquiv>
+                    <Unicode>Lücke, Einleitung in die Offenbarung Johannis . . . . 50</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358616634_37" custom="readingOrder {index:8;}">
+                <Coords points="125,911 159,910 813,901 1270,897 1302,897 1302,928 1133,934 866,936 125,941"/>
+                <Baseline points="125,931 159,930 193,930 228,930 262,930 297,929 331,929 365,929 400,928 434,928 469,928 503,927 537,927 572,926 606,925 641,925 675,924 709,923 744,923 778,922 813,921 866,926 886,924 955,925 965,923 1114,921 1133,924 1270,918 1302,918"/>
+                <TextEquiv>
+                    <Unicode>Böhme, Tiefen des erſten Briefes Johannis . . . . . 82</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358624499_41" custom="readingOrder {index:9;}">
+                <Coords points="125,953 1266,940 1306,942 1306,973 1114,982 196,983 125,983"/>
+                <Baseline points="125,973 160,973 196,973 232,972 268,972 304,972 339,971 375,971 411,971 447,970 483,970 518,970 554,970 590,969 626,969 662,969 697,968 733,968 769,968 805,967 841,967 866,969 884,969 957,969 967,967 1034,971 1046,969 1114,972 1134,970 1266,961 1306,963"/>
+                <TextEquiv>
+                    <Unicode>Das Unterſcheidende d. Evangel. von Johannes . . . . . 82</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358633787_45" custom="readingOrder {index:10;}">
+                <Coords points="126,997 156,996 278,994 369,993 491,992 643,991 963,989 1032,989 1304,990 1304,1020 953,1027 126,1027"/>
+                <Baseline points="126,1017 156,1016 186,1016 217,1015 247,1015 278,1014 308,1014 339,1014 369,1013 400,1013 430,1013 460,1013 491,1012 521,1012 552,1012 582,1012 613,1012 643,1011 674,1011 704,1011 735,1011 747,1014 772,1014 797,1014 953,1015 963,1013 1032,1009 1042,1011 1118,1013 1130,1013 1264,1010 1304,1010"/>
+                <TextEquiv>
+                    <Unicode>Schott, Chronologie des Lebens Pauli . . . . . . 97</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358641696_49" custom="readingOrder {index:11;}">
+                <Coords points="123,1040 435,1035 573,1033 677,1032 1266,1031 1306,1031 1306,1061 1126,1065 1036,1067 192,1070 123,1070"/>
+                <Baseline points="123,1060 157,1060 192,1060 227,1059 261,1059 296,1058 331,1057 365,1057 400,1056 435,1055 469,1055 504,1054 539,1054 573,1053 608,1053 643,1053 677,1052 712,1052 747,1053 782,1053 1036,1057 1046,1055 1116,1055 1126,1055 1266,1051 1306,1051"/>
+                <TextEquiv>
+                    <Unicode>Köhler, Zeitdauer der Lehrthätigkeit Jeſu . . . . . 98</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358653164_55" custom="readingOrder {index:12;}">
+                <Coords points="129,1084 562,1076 695,1074 762,1074 1279,1075 1304,1076 1304,1106 1254,1108 1128,1111 195,1115 129,1115"/>
+                <Baseline points="129,1105 162,1105 195,1105 229,1104 262,1104 295,1103 329,1103 362,1102 395,1101 429,1100 462,1099 495,1099 529,1098 562,1097 595,1097 629,1096 662,1096 695,1095 729,1095 762,1095 796,1096 1118,1101 1128,1101 1254,1098 1279,1095 1304,1096"/>
+                <TextEquiv>
+                    <Unicode>Schrader, der Apoſtel Paulus, 2r Theil . . . . . . 113</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358660530_59" custom="readingOrder {index:13;}">
+                <Coords points="127,1129 591,1120 668,1119 746,1118 1304,1118 1304,1148 1278,1150 1136,1158 204,1160 127,1160"/>
+                <Baseline points="127,1150 165,1150 204,1150 243,1149 281,1149 320,1148 359,1147 397,1146 436,1145 475,1144 514,1143 552,1142 591,1141 630,1141 668,1140 707,1140 746,1139 784,1139 823,1139 862,1140 901,1140 1126,1142 1136,1146 1252,1140 1278,1140 1304,1138"/>
+                <TextEquiv>
+                    <Unicode>Scheffer, De usu Philonis in Interpretat. N. T. . . . . 129</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358668513_64" custom="readingOrder {index:14;}">
+                <Coords points="126,1176 167,1175 628,1166 754,1164 1298,1164 1298,1195 126,1209"/>
+                <Baseline points="126,1198 167,1197 209,1197 251,1196 293,1196 335,1195 377,1194 419,1193 461,1192 503,1191 545,1190 586,1189 628,1188 670,1188 712,1187 754,1186 796,1186 838,1186 880,1186 922,1186 964,1186 1258,1185 1298,1185"/>
+                <TextEquiv>
+                    <Unicode>Sieffert, Urſprung der erſten kanoniſschen Evangelien . . . 161</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358676043_68" custom="readingOrder {index:15;}">
+                <Coords points="134,1223 167,1222 571,1213 961,1207 1297,1208 1297,1239 1036,1246 951,1247 134,1254"/>
+                <Baseline points="134,1244 167,1243 201,1243 234,1243 268,1242 302,1241 335,1240 369,1239 403,1239 436,1238 470,1237 504,1236 537,1235 571,1234 605,1234 638,1233 672,1233 706,1233 739,1232 773,1233 807,1233 951,1235 961,1231 1036,1234 1046,1232 1255,1229 1297,1229"/>
+                <TextEquiv>
+                    <Unicode>Schrader, der Apoſtel Paulus, 3r Theil . . . . . . 193</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358680051_72" custom="readingOrder {index:16;}">
+                <Coords points="134,1268 581,1258 744,1255 1280,1252 1305,1252 1305,1283 1255,1285 256,1298 174,1299 134,1299"/>
+                <Baseline points="134,1289 174,1289 215,1288 256,1288 296,1287 337,1286 378,1285 418,1284 459,1283 500,1282 541,1281 581,1279 622,1279 663,1278 703,1277 744,1276 785,1276 825,1276 866,1276 907,1277 948,1278 1255,1275 1280,1273 1305,1273"/>
+                <TextEquiv>
+                    <Unicode>Schneckenburger, Beiträge zur Einleit. ins N. T. . . . 209</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358683860_76" custom="readingOrder {index:17;}">
+                <Coords points="130,1313 259,1310 605,1302 649,1301 735,1300 1299,1298 1299,1329 1250,1332 130,1344"/>
+                <Baseline points="130,1334 173,1333 216,1332 259,1331 303,1330 346,1329 389,1328 432,1327 476,1326 519,1325 562,1324 605,1323 649,1322 692,1322 735,1321 778,1321 822,1321 865,1321 908,1321 951,1322 995,1323 1250,1322 1299,1319"/>
+                <TextEquiv>
+                    <Unicode>Stickel, Commentatio in Iobi locum c. XIX, 25—27. . . . 242</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358687902_80" custom="readingOrder {index:18;}">
+                <Coords points="130,1357 423,1350 510,1348 598,1346 686,1345 1282,1343 1312,1344 1312,1375 1253,1376 188,1388 130,1388"/>
+                <Baseline points="130,1378 159,1378 188,1378 217,1377 247,1376 276,1375 305,1375 335,1374 364,1373 393,1372 423,1371 452,1371 481,1370 510,1369 540,1369 569,1368 598,1367 628,1367 657,1367 686,1366 716,1366 1253,1366 1282,1364 1312,1365"/>
+                <TextEquiv>
+                    <Unicode>Moeller, Comment. in Matth. V, 13 . . . . . . 244</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358691305_84" custom="readingOrder {index:19;}">
+                <Coords points="132,1403 238,1400 345,1397 505,1394 772,1389 879,1388 1039,1388 1299,1390 1299,1420 132,1434"/>
+                <Baseline points="132,1424 185,1423 238,1421 292,1420 345,1418 399,1417 452,1416 505,1415 559,1414 612,1413 666,1412 719,1411 772,1410 826,1410 879,1409 933,1409 986,1409 1039,1409 1093,1410 1146,1410 1200,1411 1257,1410 1299,1410"/>
+                <TextEquiv>
+                    <Unicode>Meier, Dissert. Notiones veter. Ebraeor. de reb. post mortem futuris 257</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358695146_88" custom="readingOrder {index:20;}">
+                <Coords points="133,1446 766,1433 1309,1431 1309,1461 1279,1464 1250,1466 259,1478 175,1478 133,1477"/>
+                <Baseline points="133,1467 175,1468 217,1468 259,1468 301,1467 344,1466 386,1465 428,1464 470,1462 512,1461 555,1459 597,1458 639,1457 681,1456 723,1455 766,1454 808,1454 850,1454 892,1455 934,1457 977,1459 1250,1456 1279,1454 1309,1451"/>
+                <TextEquiv>
+                    <Unicode>Schneckenburger, Annotatio ad epistolam Jacobi. . . . . 258</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:21;}">
+                <Coords points="505,1559 530,1557 556,1555 581,1553 607,1553 632,1552 658,1551 683,1551 709,1551 734,1551 760,1552 785,1552 811,1552 836,1553 862,1553 887,1553 913,1553 913,1517 887,1517 862,1517 836,1517 811,1516 785,1516 760,1516 734,1515 709,1515 683,1515 658,1515 632,1516 607,1517 581,1517 556,1519 530,1521 505,1523"/>
+                <Baseline points="505,1547 530,1545 556,1543 581,1541 607,1541 632,1540 658,1539 683,1539 709,1539 734,1539 760,1540 785,1540 811,1540 836,1541 862,1541 887,1541 913,1541"/>
+                <TextEquiv>
+                    <Unicode>Hiſtoriſsche Theologie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:22;}">
+                <Coords points="137,1627 163,1627 189,1626 215,1625 241,1624 267,1623 293,1622 319,1622 345,1621 371,1620 397,1620 423,1619 449,1618 475,1617 501,1617 527,1616 553,1615 579,1615 605,1614 1325,1620 1324,1577 605,1583 579,1584 553,1584 527,1585 501,1586 475,1586 449,1587 423,1588 397,1589 371,1589 345,1590 319,1591 293,1591 267,1592 241,1593 215,1594 189,1595 163,1596 137,1596"/>
+                <Baseline points="137,1617 163,1617 189,1616 215,1615 241,1614 267,1613 293,1612 319,1612 345,1611 371,1610 397,1610 423,1609 449,1608 475,1607 501,1607 527,1606 553,1605 579,1605 605,1604 1315,1610"/>
+                <TextEquiv>
+                    <Unicode>Liebner, Hugo von St. Victor . . . . . . . 5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358720711_96" custom="readingOrder {index:23;}">
+                <Coords points="129,1642 264,1636 331,1634 365,1633 567,1629 635,1628 736,1627 1265,1625 1305,1625 1305,1656 129,1673"/>
+                <Baseline points="129,1663 162,1662 196,1661 230,1659 264,1657 297,1657 331,1655 365,1654 399,1654 432,1653 466,1652 500,1652 534,1651 567,1650 601,1650 635,1649 669,1649 702,1649 736,1648 770,1648 804,1648 1265,1646 1305,1646"/>
+                <TextEquiv>
+                    <Unicode>Joachim Schlüter, dargeſtellt von Gryſen . . . . . 21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358727141_100" custom="readingOrder {index:24;}">
+                <Coords points="140,1685 179,1683 491,1675 608,1673 686,1672 946,1669 1240,1669 1240,1705 140,1718"/>
+                <Baseline points="140,1707 179,1705 218,1704 257,1703 296,1702 335,1701 374,1700 413,1699 452,1698 491,1697 530,1697 569,1696 608,1695 647,1695 686,1694 725,1694 764,1694 803,1693 842,1693 881,1694 920,1694 946,1693 972,1694 999,1694 1026,1694 1052,1694 1079,1693 1106,1693 1133,1693 1159,1693 1186,1693 1213,1693 1240,1693"/>
+                <TextEquiv>
+                    <Unicode>Neander, Geſchichte der Pflanzung u. Leitung der chriſtl. Kirche durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358730565_104" custom="readingOrder {index:25;}">
+                <Coords points="165,1728 1311,1714 1311,1745 1265,1749 221,1760 193,1760 165,1759"/>
+                <Baseline points="165,1749 193,1750 221,1750 249,1749 277,1749 305,1748 333,1747 1265,1739 1311,1735"/>
+                <TextEquiv>
+                    <Unicode>die Apoſtel . . . . . . . . . . . 56</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358734585_108" custom="readingOrder {index:26;}">
+                <Coords points="134,1777 212,1773 410,1767 567,1764 646,1763 1272,1760 1312,1760 1312,1791 134,1808"/>
+                <Baseline points="134,1798 173,1796 212,1794 252,1793 291,1792 331,1791 370,1790 410,1788 449,1788 489,1787 528,1786 567,1785 607,1785 646,1784 686,1784 725,1784 765,1784 804,1784 844,1784 883,1784 923,1784 1272,1781 1312,1781"/>
+                <TextEquiv>
+                    <Unicode>Bach, Geſchichte der kurheſſiſchen Kirchenverfaſſung . . . . 66</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358738231_112" custom="readingOrder {index:27;}">
+                <Coords points="138,1820 165,1819 497,1809 1268,1802 1312,1806 1312,1837 138,1851"/>
+                <Baseline points="138,1841 165,1840 193,1840 220,1839 248,1839 276,1838 303,1837 331,1836 359,1835 386,1834 414,1833 442,1832 469,1831 497,1830 525,1830 552,1830 580,1830 608,1830 635,1831 663,1832 691,1833 1268,1823 1312,1827"/>
+                <TextEquiv>
+                    <Unicode>Stellung des römiſchen Stuhles etc. . . . . . . . 67</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358742005_116" custom="readingOrder {index:28;}">
+                <Coords points="137,1864 328,1860 383,1859 1276,1849 1308,1849 1308,1880 246,1894 164,1895 137,1895"/>
+                <Baseline points="137,1885 164,1885 191,1884 219,1884 246,1884 274,1883 301,1882 328,1881 356,1881 383,1880 411,1880 1276,1870 1308,1870"/>
+                <TextEquiv>
+                    <Unicode>Felix Neff’s Leben . . . . . . . . . 83</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358746213_120" custom="readingOrder {index:29;}">
+                <Coords points="138,1909 172,1908 207,1907 553,1899 657,1897 726,1896 1274,1893 1304,1893 1304,1924 138,1940"/>
+                <Baseline points="138,1930 172,1929 207,1928 241,1928 276,1927 311,1926 345,1925 380,1924 414,1924 449,1923 484,1922 518,1921 553,1920 587,1920 622,1919 657,1918 691,1918 726,1917 760,1917 795,1917 830,1917 1274,1914 1304,1914"/>
+                <TextEquiv>
+                    <Unicode>Melanchthon’s Leben, dargeſtellt von Facius . . . . . 99</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358749893_124" custom="readingOrder {index:30;}">
+                <Coords points="142,1953 659,1941 745,1940 1287,1937 1314,1937 1314,1968 1260,1970 271,1983 185,1984 142,1984"/>
+                <Baseline points="142,1974 185,1974 228,1973 271,1973 314,1972 357,1971 400,1970 443,1968 486,1967 529,1966 573,1964 616,1963 659,1962 702,1962 745,1961 788,1961 831,1961 874,1961 917,1962 961,1963 1260,1960 1287,1958 1314,1958"/>
+                <TextEquiv>
+                    <Unicode>Eichhoff, die Kirchenreformation in Naſſau⸗Weilburg . . . 115</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358754138_128" custom="readingOrder {index:31;}">
+                <Coords points="133,1996 656,1986 1312,1981 1312,2012 1283,2014 1255,2015 272,2028 167,2028 133,2027"/>
+                <Baseline points="133,2017 167,2018 202,2018 237,2018 272,2018 307,2017 342,2016 377,2015 412,2014 447,2013 482,2012 516,2011 551,2010 586,2009 621,2008 656,2007 691,2007 726,2007 761,2007 796,2007 831,2008 1255,2005 1283,2004 1312,2002"/>
+                <TextEquiv>
+                    <Unicode>Schulze, Eiſabeth, Herzogin zu Sachſen etc. . . . . . 130</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358761368_132" custom="readingOrder {index:32;}">
+                <Coords points="133,2041 863,2025 1066,2025 1305,2026 1305,2057 1263,2059 1092,2062 204,2073 133,2072"/>
+                <Baseline points="133,2062 168,2062 204,2063 240,2062 276,2062 312,2061 348,2061 383,2060 419,2059 455,2058 491,2056 527,2055 563,2054 599,2053 634,2052 670,2052 706,2051 742,2051 778,2051 814,2051 850,2052 863,2049 888,2050 913,2051 939,2051 964,2051 990,2050 1015,2049 1041,2049 1066,2049 1092,2050 1263,2049 1305,2047"/>
+                <TextEquiv>
+                    <Unicode>Bibel⸗Atlas, gezeichnet von Weiland, erläutert von Ackermann . . 227</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358765043_136" custom="readingOrder {index:33;}">
+                <Coords points="134,2087 652,2076 721,2075 1312,2069 1312,2100 1258,2104 168,2118 134,2118"/>
+                <Baseline points="134,2108 168,2108 203,2107 237,2107 272,2106 306,2106 341,2105 375,2104 410,2103 444,2102 479,2101 514,2100 548,2100 583,2099 617,2098 652,2097 686,2097 721,2096 755,2096 790,2096 825,2095 1258,2094 1285,2092 1312,2090"/>
+                <TextEquiv>
+                    <Unicode>Oſiander, zum Andenken Dr. G. Menken’s . . . . . 228</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358769695_140" custom="readingOrder {index:34;}">
+                <Coords points="133,2131 805,2118 1276,2117 1306,2117 1306,2148 166,2162 133,2162"/>
+                <Baseline points="133,2152 166,2152 200,2151 233,2151 267,2150 301,2150 334,2149 368,2148 401,2148 435,2147 469,2146 502,2146 536,2145 569,2144 603,2143 637,2143 670,2142 704,2141 737,2141 771,2140 805,2139 1276,2138 1306,2138"/>
+                <TextEquiv>
+                    <Unicode>Das Leben Fletſchers. Aus dem Engliſchen . . . . . 28</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358773481_144" custom="readingOrder {index:35;}">
+                <Coords points="130,2175 608,2166 681,2165 1262,2160 1306,2160 1306,2191 166,2206 130,2206"/>
+                <Baseline points="130,2196 166,2196 203,2195 240,2195 277,2194 313,2194 350,2193 387,2192 424,2191 461,2191 497,2190 534,2189 571,2188 608,2187 645,2187 681,2186 718,2186 755,2186 792,2186 829,2186 1262,2181 1306,2181"/>
+                <TextEquiv>
+                    <Unicode>Mueller, Lutheri de praedestinatione doctr. . . . . 273</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615358778234_149" custom="readingOrder {index:36;}">
+                <Coords points="134,2219 726,2210 862,2208 953,2207 1283,2205 1310,2205 1310,2236 1256,2238 316,2251 225,2252 134,2252"/>
+                <Baseline points="134,2241 179,2241 225,2241 270,2240 316,2240 361,2239 407,2238 452,2237 498,2236 543,2236 589,2235 635,2234 680,2233 726,2232 771,2232 817,2231 862,2230 908,2230 953,2229 999,2229 1045,2229 1256,2228 1283,2226 1310,2226"/>
+                <TextEquiv>
+                    <Unicode>Knust, Comment. de fontibus Ps.-Isidorianae collectionis . . . 276</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Inhalt des erſten Bandes.
+I. Theologische Kritik.
+1. Deutſche Literatur.
+Buͤcher.
+Exegetiſche Theologie.
+Seite
+Steiger, der erſte Brief Petri . . . . . . . . 2
+Lücke, Einleitung in die Offenbarung Johannis . . . . 50
+Böhme, Tiefen des erſten Briefes Johannis . . . . . 82
+Das Unterſcheidende d. Evangel. von Johannes . . . . . 82
+Schott, Chronologie des Lebens Pauli . . . . . . 97
+Köhler, Zeitdauer der Lehrthätigkeit Jeſu . . . . . 98
+Schrader, der Apoſtel Paulus, 2r Theil . . . . . . 113
+Scheffer, De usu Philonis in Interpretat. N. T. . . . . 129
+Sieffert, Urſprung der erſten kanoniſschen Evangelien . . . 161
+Schrader, der Apoſtel Paulus, 3r Theil . . . . . . 193
+Schneckenburger, Beiträge zur Einleit. ins N. T. . . . 209
+Stickel, Commentatio in Iobi locum c. XIX, 25—27. . . . 242
+Moeller, Comment. in Matth. V, 13 . . . . . . 244
+Meier, Dissert. Notiones veter. Ebraeor. de reb. post mortem futuris 257
+Schneckenburger, Annotatio ad epistolam Jacobi. . . . . 258
+Hiſtoriſsche Theologie.
+Liebner, Hugo von St. Victor . . . . . . . 5
+Joachim Schlüter, dargeſtellt von Gryſen . . . . . 21
+Neander, Geſchichte der Pflanzung u. Leitung der chriſtl. Kirche durch
+die Apoſtel . . . . . . . . . . . 56
+Bach, Geſchichte der kurheſſiſchen Kirchenverfaſſung . . . . 66
+Stellung des römiſchen Stuhles etc. . . . . . . . 67
+Felix Neff’s Leben . . . . . . . . . 83
+Melanchthon’s Leben, dargeſtellt von Facius . . . . . 99
+Eichhoff, die Kirchenreformation in Naſſau⸗Weilburg . . . 115
+Schulze, Eiſabeth, Herzogin zu Sachſen etc. . . . . . 130
+Bibel⸗Atlas, gezeichnet von Weiland, erläutert von Ackermann . . 227
+Oſiander, zum Andenken Dr. G. Menken’s . . . . . 228
+Das Leben Fletſchers. Aus dem Engliſchen . . . . . 28
+Mueller, Lutheri de praedestinatione doctr. . . . . 273
+Knust, Comment. de fontibus Ps.-Isidorianae collectionis . . . 276</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:47:50.97+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2456" WIDTH="1362">
+         <TopMargin HEIGHT="0" WIDTH="1362" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2456" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2456" WIDTH="0" VPOS="0" HPOS="1362"/>
+         <BottomMargin HEIGHT="0" WIDTH="1362" VPOS="2456" HPOS="0"/>
+         <PrintSpace HEIGHT="2456" WIDTH="1362" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1615358555868_11"
+                       HEIGHT="2008"
+                       WIDTH="1209"
+                       VPOS="291"
+                       HPOS="116">
+               <Shape>
+                  <Polygon POINTS="116,304 1325,291 1324,824 1314,2285 1240,2299 119,2299"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="412,368 440,366 469,365 497,364 526,363 554,363 583,362 611,361 640,361 668,360 697,360 726,359 754,359 783,359 811,358 840,357 868,357 897,356 925,355 954,355 983,353"
+                         HEIGHT="51"
+                         WIDTH="571"
+                         VPOS="329"
+                         HPOS="412">
+                  <String ID="string_r1l1"
+                          HEIGHT="51"
+                          WIDTH="571"
+                          VPOS="329"
+                          HPOS="412"
+                          CONTENT="Inhalt des erſten Bandes."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="429,556 456,556 483,556 510,556 537,556 564,555 591,555 618,555 645,555 672,554 699,554 726,554 753,553 780,553 807,552 834,552 861,551 888,551 915,550 942,549 969,548"
+                         HEIGHT="44"
+                         WIDTH="540"
+                         VPOS="524"
+                         HPOS="429">
+                  <String ID="string_r1l2"
+                          HEIGHT="44"
+                          WIDTH="540"
+                          VPOS="524"
+                          HPOS="429"
+                          CONTENT="I. Theologische Kritik."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="518,616 543,616 568,617 593,616 619,616 644,616 669,615 694,615 720,614 745,613 770,613 795,612 821,612 846,612 871,612 897,612"
+                         HEIGHT="41"
+                         WIDTH="379"
+                         VPOS="588"
+                         HPOS="518">
+                  <String ID="string_r1l3"
+                          HEIGHT="41"
+                          WIDTH="379"
+                          VPOS="588"
+                          HPOS="518"
+                          CONTENT="1. Deutſche Literatur."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="597,684 624,683 652,682 679,681 707,681 734,682 762,682 789,681 817,681"
+                         HEIGHT="39"
+                         WIDTH="220"
+                         VPOS="657"
+                         HPOS="597">
+                  <String ID="string_r1l4"
+                          HEIGHT="39"
+                          WIDTH="220"
+                          VPOS="657"
+                          HPOS="597"
+                          CONTENT="Buͤcher."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="541,749 567,748 593,747 619,746 645,746 671,746 697,746 723,745 749,745 775,745 801,745 827,745 853,743 879,743"
+                         HEIGHT="42"
+                         WIDTH="338"
+                         VPOS="719"
+                         HPOS="541">
+                  <String ID="string_r1l5"
+                          HEIGHT="42"
+                          WIDTH="338"
+                          VPOS="719"
+                          HPOS="541"
+                          CONTENT="Exegetiſche Theologie."/>
+               </TextLine>
+               <TextLine ID="r3l1"
+                         BASELINE="1232,795 1257,797 1282,796 1308,797"
+                         HEIGHT="32"
+                         WIDTH="76"
+                         VPOS="775"
+                         HPOS="1232">
+                  <String ID="string_r3l1"
+                          HEIGHT="32"
+                          WIDTH="76"
+                          VPOS="775"
+                          HPOS="1232"
+                          CONTENT="Seite"/>
+               </TextLine>
+               <TextLine ID="line_1615358589153_25"
+                         BASELINE="119,843 144,843 170,843 196,843 222,843 248,843 273,843 299,842 325,842 351,841 377,841 402,840 428,839 454,839 480,839 506,838 531,838 557,838 583,838 609,838 635,839 1277,830 1302,830"
+                         HEIGHT="43"
+                         WIDTH="1183"
+                         VPOS="810"
+                         HPOS="119">
+                  <String ID="string_line_1615358589153_25"
+                          HEIGHT="43"
+                          WIDTH="1183"
+                          VPOS="810"
+                          HPOS="119"
+                          CONTENT="Steiger, der erſte Brief Petri . . . . . . . . 2"/>
+               </TextLine>
+               <TextLine ID="line_1615358597220_29"
+                         BASELINE="129,887 165,886 202,886 239,885 276,885 313,885 349,884 386,884 423,884 460,883 497,883 533,882 570,882 607,882 644,881 681,881 717,880 754,880 791,879 828,878 865,877 940,880 972,878 1030,880 1050,880 1116,877 1126,879 1202,876 1227,875 1252,874 1277,870 1302,874"
+                         HEIGHT="47"
+                         WIDTH="1173"
+                         VPOS="850"
+                         HPOS="129">
+                  <String ID="string_line_1615358597220_29"
+                          HEIGHT="47"
+                          WIDTH="1173"
+                          VPOS="850"
+                          HPOS="129"
+                          CONTENT="Lücke, Einleitung in die Offenbarung Johannis . . . . 50"/>
+               </TextLine>
+               <TextLine ID="line_1615358616634_37"
+                         BASELINE="125,931 159,930 193,930 228,930 262,930 297,929 331,929 365,929 400,928 434,928 469,928 503,927 537,927 572,926 606,925 641,925 675,924 709,923 744,923 778,922 813,921 866,926 886,924 955,925 965,923 1114,921 1133,924 1270,918 1302,918"
+                         HEIGHT="44"
+                         WIDTH="1177"
+                         VPOS="897"
+                         HPOS="125">
+                  <String ID="string_line_1615358616634_37"
+                          HEIGHT="44"
+                          WIDTH="1177"
+                          VPOS="897"
+                          HPOS="125"
+                          CONTENT="Böhme, Tiefen des erſten Briefes Johannis . . . . . 82"/>
+               </TextLine>
+               <TextLine ID="line_1615358624499_41"
+                         BASELINE="125,973 160,973 196,973 232,972 268,972 304,972 339,971 375,971 411,971 447,970 483,970 518,970 554,970 590,969 626,969 662,969 697,968 733,968 769,968 805,967 841,967 866,969 884,969 957,969 967,967 1034,971 1046,969 1114,972 1134,970 1266,961 1306,963"
+                         HEIGHT="43"
+                         WIDTH="1181"
+                         VPOS="940"
+                         HPOS="125">
+                  <String ID="string_line_1615358624499_41"
+                          HEIGHT="43"
+                          WIDTH="1181"
+                          VPOS="940"
+                          HPOS="125"
+                          CONTENT="Das Unterſcheidende d. Evangel. von Johannes . . . . . 82"/>
+               </TextLine>
+               <TextLine ID="line_1615358633787_45"
+                         BASELINE="126,1017 156,1016 186,1016 217,1015 247,1015 278,1014 308,1014 339,1014 369,1013 400,1013 430,1013 460,1013 491,1012 521,1012 552,1012 582,1012 613,1012 643,1011 674,1011 704,1011 735,1011 747,1014 772,1014 797,1014 953,1015 963,1013 1032,1009 1042,1011 1118,1013 1130,1013 1264,1010 1304,1010"
+                         HEIGHT="38"
+                         WIDTH="1178"
+                         VPOS="989"
+                         HPOS="126">
+                  <String ID="string_line_1615358633787_45"
+                          HEIGHT="38"
+                          WIDTH="1178"
+                          VPOS="989"
+                          HPOS="126"
+                          CONTENT="Schott, Chronologie des Lebens Pauli . . . . . . 97"/>
+               </TextLine>
+               <TextLine ID="line_1615358641696_49"
+                         BASELINE="123,1060 157,1060 192,1060 227,1059 261,1059 296,1058 331,1057 365,1057 400,1056 435,1055 469,1055 504,1054 539,1054 573,1053 608,1053 643,1053 677,1052 712,1052 747,1053 782,1053 1036,1057 1046,1055 1116,1055 1126,1055 1266,1051 1306,1051"
+                         HEIGHT="39"
+                         WIDTH="1183"
+                         VPOS="1031"
+                         HPOS="123">
+                  <String ID="string_line_1615358641696_49"
+                          HEIGHT="39"
+                          WIDTH="1183"
+                          VPOS="1031"
+                          HPOS="123"
+                          CONTENT="Köhler, Zeitdauer der Lehrthätigkeit Jeſu . . . . . 98"/>
+               </TextLine>
+               <TextLine ID="line_1615358653164_55"
+                         BASELINE="129,1105 162,1105 195,1105 229,1104 262,1104 295,1103 329,1103 362,1102 395,1101 429,1100 462,1099 495,1099 529,1098 562,1097 595,1097 629,1096 662,1096 695,1095 729,1095 762,1095 796,1096 1118,1101 1128,1101 1254,1098 1279,1095 1304,1096"
+                         HEIGHT="41"
+                         WIDTH="1175"
+                         VPOS="1074"
+                         HPOS="129">
+                  <String ID="string_line_1615358653164_55"
+                          HEIGHT="41"
+                          WIDTH="1175"
+                          VPOS="1074"
+                          HPOS="129"
+                          CONTENT="Schrader, der Apoſtel Paulus, 2r Theil . . . . . . 113"/>
+               </TextLine>
+               <TextLine ID="line_1615358660530_59"
+                         BASELINE="127,1150 165,1150 204,1150 243,1149 281,1149 320,1148 359,1147 397,1146 436,1145 475,1144 514,1143 552,1142 591,1141 630,1141 668,1140 707,1140 746,1139 784,1139 823,1139 862,1140 901,1140 1126,1142 1136,1146 1252,1140 1278,1140 1304,1138"
+                         HEIGHT="42"
+                         WIDTH="1177"
+                         VPOS="1118"
+                         HPOS="127">
+                  <String ID="string_line_1615358660530_59"
+                          HEIGHT="42"
+                          WIDTH="1177"
+                          VPOS="1118"
+                          HPOS="127"
+                          CONTENT="Scheffer, De usu Philonis in Interpretat. N. T. . . . . 129"/>
+               </TextLine>
+               <TextLine ID="line_1615358668513_64"
+                         BASELINE="126,1198 167,1197 209,1197 251,1196 293,1196 335,1195 377,1194 419,1193 461,1192 503,1191 545,1190 586,1189 628,1188 670,1188 712,1187 754,1186 796,1186 838,1186 880,1186 922,1186 964,1186 1258,1185 1298,1185"
+                         HEIGHT="45"
+                         WIDTH="1172"
+                         VPOS="1164"
+                         HPOS="126">
+                  <String ID="string_line_1615358668513_64"
+                          HEIGHT="45"
+                          WIDTH="1172"
+                          VPOS="1164"
+                          HPOS="126"
+                          CONTENT="Sieffert, Urſprung der erſten kanoniſschen Evangelien . . . 161"/>
+               </TextLine>
+               <TextLine ID="line_1615358676043_68"
+                         BASELINE="134,1244 167,1243 201,1243 234,1243 268,1242 302,1241 335,1240 369,1239 403,1239 436,1238 470,1237 504,1236 537,1235 571,1234 605,1234 638,1233 672,1233 706,1233 739,1232 773,1233 807,1233 951,1235 961,1231 1036,1234 1046,1232 1255,1229 1297,1229"
+                         HEIGHT="47"
+                         WIDTH="1163"
+                         VPOS="1207"
+                         HPOS="134">
+                  <String ID="string_line_1615358676043_68"
+                          HEIGHT="47"
+                          WIDTH="1163"
+                          VPOS="1207"
+                          HPOS="134"
+                          CONTENT="Schrader, der Apoſtel Paulus, 3r Theil . . . . . . 193"/>
+               </TextLine>
+               <TextLine ID="line_1615358680051_72"
+                         BASELINE="134,1289 174,1289 215,1288 256,1288 296,1287 337,1286 378,1285 418,1284 459,1283 500,1282 541,1281 581,1279 622,1279 663,1278 703,1277 744,1276 785,1276 825,1276 866,1276 907,1277 948,1278 1255,1275 1280,1273 1305,1273"
+                         HEIGHT="47"
+                         WIDTH="1171"
+                         VPOS="1252"
+                         HPOS="134">
+                  <String ID="string_line_1615358680051_72"
+                          HEIGHT="47"
+                          WIDTH="1171"
+                          VPOS="1252"
+                          HPOS="134"
+                          CONTENT="Schneckenburger, Beiträge zur Einleit. ins N. T. . . . 209"/>
+               </TextLine>
+               <TextLine ID="line_1615358683860_76"
+                         BASELINE="130,1334 173,1333 216,1332 259,1331 303,1330 346,1329 389,1328 432,1327 476,1326 519,1325 562,1324 605,1323 649,1322 692,1322 735,1321 778,1321 822,1321 865,1321 908,1321 951,1322 995,1323 1250,1322 1299,1319"
+                         HEIGHT="46"
+                         WIDTH="1169"
+                         VPOS="1298"
+                         HPOS="130">
+                  <String ID="string_line_1615358683860_76"
+                          HEIGHT="46"
+                          WIDTH="1169"
+                          VPOS="1298"
+                          HPOS="130"
+                          CONTENT="Stickel, Commentatio in Iobi locum c. XIX, 25—27. . . . 242"/>
+               </TextLine>
+               <TextLine ID="line_1615358687902_80"
+                         BASELINE="130,1378 159,1378 188,1378 217,1377 247,1376 276,1375 305,1375 335,1374 364,1373 393,1372 423,1371 452,1371 481,1370 510,1369 540,1369 569,1368 598,1367 628,1367 657,1367 686,1366 716,1366 1253,1366 1282,1364 1312,1365"
+                         HEIGHT="45"
+                         WIDTH="1182"
+                         VPOS="1343"
+                         HPOS="130">
+                  <String ID="string_line_1615358687902_80"
+                          HEIGHT="45"
+                          WIDTH="1182"
+                          VPOS="1343"
+                          HPOS="130"
+                          CONTENT="Moeller, Comment. in Matth. V, 13 . . . . . . 244"/>
+               </TextLine>
+               <TextLine ID="line_1615358691305_84"
+                         BASELINE="132,1424 185,1423 238,1421 292,1420 345,1418 399,1417 452,1416 505,1415 559,1414 612,1413 666,1412 719,1411 772,1410 826,1410 879,1409 933,1409 986,1409 1039,1409 1093,1410 1146,1410 1200,1411 1257,1410 1299,1410"
+                         HEIGHT="46"
+                         WIDTH="1167"
+                         VPOS="1388"
+                         HPOS="132">
+                  <String ID="string_line_1615358691305_84"
+                          HEIGHT="46"
+                          WIDTH="1167"
+                          VPOS="1388"
+                          HPOS="132"
+                          CONTENT="Meier, Dissert. Notiones veter. Ebraeor. de reb. post mortem futuris 257"/>
+               </TextLine>
+               <TextLine ID="line_1615358695146_88"
+                         BASELINE="133,1467 175,1468 217,1468 259,1468 301,1467 344,1466 386,1465 428,1464 470,1462 512,1461 555,1459 597,1458 639,1457 681,1456 723,1455 766,1454 808,1454 850,1454 892,1455 934,1457 977,1459 1250,1456 1279,1454 1309,1451"
+                         HEIGHT="47"
+                         WIDTH="1176"
+                         VPOS="1431"
+                         HPOS="133">
+                  <String ID="string_line_1615358695146_88"
+                          HEIGHT="47"
+                          WIDTH="1176"
+                          VPOS="1431"
+                          HPOS="133"
+                          CONTENT="Schneckenburger, Annotatio ad epistolam Jacobi. . . . . 258"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="505,1547 530,1545 556,1543 581,1541 607,1541 632,1540 658,1539 683,1539 709,1539 734,1539 760,1540 785,1540 811,1540 836,1541 862,1541 887,1541 913,1541"
+                         HEIGHT="44"
+                         WIDTH="408"
+                         VPOS="1515"
+                         HPOS="505">
+                  <String ID="string_r1l43"
+                          HEIGHT="44"
+                          WIDTH="408"
+                          VPOS="1515"
+                          HPOS="505"
+                          CONTENT="Hiſtoriſsche Theologie."/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="137,1617 163,1617 189,1616 215,1615 241,1614 267,1613 293,1612 319,1612 345,1611 371,1610 397,1610 423,1609 449,1608 475,1607 501,1607 527,1606 553,1605 579,1605 605,1604 1315,1610"
+                         HEIGHT="50"
+                         WIDTH="1188"
+                         VPOS="1577"
+                         HPOS="137">
+                  <String ID="string_r1l44"
+                          HEIGHT="50"
+                          WIDTH="1188"
+                          VPOS="1577"
+                          HPOS="137"
+                          CONTENT="Liebner, Hugo von St. Victor . . . . . . . 5"/>
+               </TextLine>
+               <TextLine ID="line_1615358720711_96"
+                         BASELINE="129,1663 162,1662 196,1661 230,1659 264,1657 297,1657 331,1655 365,1654 399,1654 432,1653 466,1652 500,1652 534,1651 567,1650 601,1650 635,1649 669,1649 702,1649 736,1648 770,1648 804,1648 1265,1646 1305,1646"
+                         HEIGHT="48"
+                         WIDTH="1176"
+                         VPOS="1625"
+                         HPOS="129">
+                  <String ID="string_line_1615358720711_96"
+                          HEIGHT="48"
+                          WIDTH="1176"
+                          VPOS="1625"
+                          HPOS="129"
+                          CONTENT="Joachim Schlüter, dargeſtellt von Gryſen . . . . . 21"/>
+               </TextLine>
+               <TextLine ID="line_1615358727141_100"
+                         BASELINE="140,1707 179,1705 218,1704 257,1703 296,1702 335,1701 374,1700 413,1699 452,1698 491,1697 530,1697 569,1696 608,1695 647,1695 686,1694 725,1694 764,1694 803,1693 842,1693 881,1694 920,1694 946,1693 972,1694 999,1694 1026,1694 1052,1694 1079,1693 1106,1693 1133,1693 1159,1693 1186,1693 1213,1693 1240,1693"
+                         HEIGHT="49"
+                         WIDTH="1100"
+                         VPOS="1669"
+                         HPOS="140">
+                  <String ID="string_line_1615358727141_100"
+                          HEIGHT="49"
+                          WIDTH="1100"
+                          VPOS="1669"
+                          HPOS="140"
+                          CONTENT="Neander, Geſchichte der Pflanzung u. Leitung der chriſtl. Kirche durch"/>
+               </TextLine>
+               <TextLine ID="line_1615358730565_104"
+                         BASELINE="165,1749 193,1750 221,1750 249,1749 277,1749 305,1748 333,1747 1265,1739 1311,1735"
+                         HEIGHT="46"
+                         WIDTH="1146"
+                         VPOS="1714"
+                         HPOS="165">
+                  <String ID="string_line_1615358730565_104"
+                          HEIGHT="46"
+                          WIDTH="1146"
+                          VPOS="1714"
+                          HPOS="165"
+                          CONTENT="die Apoſtel . . . . . . . . . . . 56"/>
+               </TextLine>
+               <TextLine ID="line_1615358734585_108"
+                         BASELINE="134,1798 173,1796 212,1794 252,1793 291,1792 331,1791 370,1790 410,1788 449,1788 489,1787 528,1786 567,1785 607,1785 646,1784 686,1784 725,1784 765,1784 804,1784 844,1784 883,1784 923,1784 1272,1781 1312,1781"
+                         HEIGHT="48"
+                         WIDTH="1178"
+                         VPOS="1760"
+                         HPOS="134">
+                  <String ID="string_line_1615358734585_108"
+                          HEIGHT="48"
+                          WIDTH="1178"
+                          VPOS="1760"
+                          HPOS="134"
+                          CONTENT="Bach, Geſchichte der kurheſſiſchen Kirchenverfaſſung . . . . 66"/>
+               </TextLine>
+               <TextLine ID="line_1615358738231_112"
+                         BASELINE="138,1841 165,1840 193,1840 220,1839 248,1839 276,1838 303,1837 331,1836 359,1835 386,1834 414,1833 442,1832 469,1831 497,1830 525,1830 552,1830 580,1830 608,1830 635,1831 663,1832 691,1833 1268,1823 1312,1827"
+                         HEIGHT="49"
+                         WIDTH="1174"
+                         VPOS="1802"
+                         HPOS="138">
+                  <String ID="string_line_1615358738231_112"
+                          HEIGHT="49"
+                          WIDTH="1174"
+                          VPOS="1802"
+                          HPOS="138"
+                          CONTENT="Stellung des römiſchen Stuhles etc. . . . . . . . 67"/>
+               </TextLine>
+               <TextLine ID="line_1615358742005_116"
+                         BASELINE="137,1885 164,1885 191,1884 219,1884 246,1884 274,1883 301,1882 328,1881 356,1881 383,1880 411,1880 1276,1870 1308,1870"
+                         HEIGHT="46"
+                         WIDTH="1171"
+                         VPOS="1849"
+                         HPOS="137">
+                  <String ID="string_line_1615358742005_116"
+                          HEIGHT="46"
+                          WIDTH="1171"
+                          VPOS="1849"
+                          HPOS="137"
+                          CONTENT="Felix Neff’s Leben . . . . . . . . . 83"/>
+               </TextLine>
+               <TextLine ID="line_1615358746213_120"
+                         BASELINE="138,1930 172,1929 207,1928 241,1928 276,1927 311,1926 345,1925 380,1924 414,1924 449,1923 484,1922 518,1921 553,1920 587,1920 622,1919 657,1918 691,1918 726,1917 760,1917 795,1917 830,1917 1274,1914 1304,1914"
+                         HEIGHT="47"
+                         WIDTH="1166"
+                         VPOS="1893"
+                         HPOS="138">
+                  <String ID="string_line_1615358746213_120"
+                          HEIGHT="47"
+                          WIDTH="1166"
+                          VPOS="1893"
+                          HPOS="138"
+                          CONTENT="Melanchthon’s Leben, dargeſtellt von Facius . . . . . 99"/>
+               </TextLine>
+               <TextLine ID="line_1615358749893_124"
+                         BASELINE="142,1974 185,1974 228,1973 271,1973 314,1972 357,1971 400,1970 443,1968 486,1967 529,1966 573,1964 616,1963 659,1962 702,1962 745,1961 788,1961 831,1961 874,1961 917,1962 961,1963 1260,1960 1287,1958 1314,1958"
+                         HEIGHT="47"
+                         WIDTH="1172"
+                         VPOS="1937"
+                         HPOS="142">
+                  <String ID="string_line_1615358749893_124"
+                          HEIGHT="47"
+                          WIDTH="1172"
+                          VPOS="1937"
+                          HPOS="142"
+                          CONTENT="Eichhoff, die Kirchenreformation in Naſſau⸗Weilburg . . . 115"/>
+               </TextLine>
+               <TextLine ID="line_1615358754138_128"
+                         BASELINE="133,2017 167,2018 202,2018 237,2018 272,2018 307,2017 342,2016 377,2015 412,2014 447,2013 482,2012 516,2011 551,2010 586,2009 621,2008 656,2007 691,2007 726,2007 761,2007 796,2007 831,2008 1255,2005 1283,2004 1312,2002"
+                         HEIGHT="47"
+                         WIDTH="1179"
+                         VPOS="1981"
+                         HPOS="133">
+                  <String ID="string_line_1615358754138_128"
+                          HEIGHT="47"
+                          WIDTH="1179"
+                          VPOS="1981"
+                          HPOS="133"
+                          CONTENT="Schulze, Eiſabeth, Herzogin zu Sachſen etc. . . . . . 130"/>
+               </TextLine>
+               <TextLine ID="line_1615358761368_132"
+                         BASELINE="133,2062 168,2062 204,2063 240,2062 276,2062 312,2061 348,2061 383,2060 419,2059 455,2058 491,2056 527,2055 563,2054 599,2053 634,2052 670,2052 706,2051 742,2051 778,2051 814,2051 850,2052 863,2049 888,2050 913,2051 939,2051 964,2051 990,2050 1015,2049 1041,2049 1066,2049 1092,2050 1263,2049 1305,2047"
+                         HEIGHT="48"
+                         WIDTH="1172"
+                         VPOS="2025"
+                         HPOS="133">
+                  <String ID="string_line_1615358761368_132"
+                          HEIGHT="48"
+                          WIDTH="1172"
+                          VPOS="2025"
+                          HPOS="133"
+                          CONTENT="Bibel⸗Atlas, gezeichnet von Weiland, erläutert von Ackermann . . 227"/>
+               </TextLine>
+               <TextLine ID="line_1615358765043_136"
+                         BASELINE="134,2108 168,2108 203,2107 237,2107 272,2106 306,2106 341,2105 375,2104 410,2103 444,2102 479,2101 514,2100 548,2100 583,2099 617,2098 652,2097 686,2097 721,2096 755,2096 790,2096 825,2095 1258,2094 1285,2092 1312,2090"
+                         HEIGHT="49"
+                         WIDTH="1178"
+                         VPOS="2069"
+                         HPOS="134">
+                  <String ID="string_line_1615358765043_136"
+                          HEIGHT="49"
+                          WIDTH="1178"
+                          VPOS="2069"
+                          HPOS="134"
+                          CONTENT="Oſiander, zum Andenken Dr. G. Menken’s . . . . . 228"/>
+               </TextLine>
+               <TextLine ID="line_1615358769695_140"
+                         BASELINE="133,2152 166,2152 200,2151 233,2151 267,2150 301,2150 334,2149 368,2148 401,2148 435,2147 469,2146 502,2146 536,2145 569,2144 603,2143 637,2143 670,2142 704,2141 737,2141 771,2140 805,2139 1276,2138 1306,2138"
+                         HEIGHT="45"
+                         WIDTH="1173"
+                         VPOS="2117"
+                         HPOS="133">
+                  <String ID="string_line_1615358769695_140"
+                          HEIGHT="45"
+                          WIDTH="1173"
+                          VPOS="2117"
+                          HPOS="133"
+                          CONTENT="Das Leben Fletſchers. Aus dem Engliſchen . . . . . 28"/>
+               </TextLine>
+               <TextLine ID="line_1615358773481_144"
+                         BASELINE="130,2196 166,2196 203,2195 240,2195 277,2194 313,2194 350,2193 387,2192 424,2191 461,2191 497,2190 534,2189 571,2188 608,2187 645,2187 681,2186 718,2186 755,2186 792,2186 829,2186 1262,2181 1306,2181"
+                         HEIGHT="46"
+                         WIDTH="1176"
+                         VPOS="2160"
+                         HPOS="130">
+                  <String ID="string_line_1615358773481_144"
+                          HEIGHT="46"
+                          WIDTH="1176"
+                          VPOS="2160"
+                          HPOS="130"
+                          CONTENT="Mueller, Lutheri de praedestinatione doctr. . . . . 273"/>
+               </TextLine>
+               <TextLine ID="line_1615358778234_149"
+                         BASELINE="134,2241 179,2241 225,2241 270,2240 316,2240 361,2239 407,2238 452,2237 498,2236 543,2236 589,2235 635,2234 680,2233 726,2232 771,2232 817,2231 862,2230 908,2230 953,2229 999,2229 1045,2229 1256,2228 1283,2226 1310,2226"
+                         HEIGHT="47"
+                         WIDTH="1176"
+                         VPOS="2205"
+                         HPOS="134">
+                  <String ID="string_line_1615358778234_149"
+                          HEIGHT="47"
+                          WIDTH="1176"
+                          VPOS="2205"
+                          HPOS="134"
+                          CONTENT="Knust, Comment. de fontibus Ps.-Isidorianae collectionis . . . 276"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

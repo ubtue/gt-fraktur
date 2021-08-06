@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:49:56.804+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2586" WIDTH="1501">
+         <TopMargin HEIGHT="0" WIDTH="1501" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2586" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2586" WIDTH="0" VPOS="0" HPOS="1501"/>
+         <BottomMargin HEIGHT="0" WIDTH="1501" VPOS="2586" HPOS="0"/>
+         <PrintSpace HEIGHT="2586" WIDTH="1501" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2277" WIDTH="1371" VPOS="164" HPOS="99">
+               <Shape>
+                  <Polygon POINTS="103,168 99,2441 1460,2441 1470,164"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="252,260 309,257 367,255 425,254 483,254 541,253 599,253 656,254 714,254 772,255 830,256 888,257 946,258 1003,258 1061,259 1119,260 1177,260 1235,260 1293,259 1351,258"
+                         HEIGHT="118"
+                         WIDTH="1102"
+                         VPOS="163"
+                         HPOS="249">
+                  <String ID="string_r1l1"
+                          HEIGHT="118"
+                          WIDTH="1102"
+                          VPOS="163"
+                          HPOS="249"
+                          CONTENT="Leben und ausgewählte Schriften"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="550,319 585,319 621,320 657,320 693,320 729,320 765,321 800,321 836,322 872,322 908,323 944,324 980,324 1016,325 1051,326 1087,327 1123,328 1159,329 1195,330 1231,332 1267,333"
+                         HEIGHT="80"
+                         WIDTH="717"
+                         VPOS="268"
+                         HPOS="550">
+                  <String ID="string_r1l2"
+                          HEIGHT="80"
+                          WIDTH="717"
+                          VPOS="268"
+                          HPOS="550"
+                          CONTENT="der Väter und Begründer"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="361,387 404,387 448,387 492,387 536,387 579,387 623,387 667,388 711,388 754,389 798,389 842,390 886,391 929,391 973,392 1017,393 1061,393 1104,394 1148,394 1192,395 1236,395"
+                         HEIGHT="68"
+                         WIDTH="879"
+                         VPOS="341"
+                         HPOS="357">
+                  <String ID="string_r1l4"
+                          HEIGHT="68"
+                          WIDTH="879"
+                          VPOS="341"
+                          HPOS="357"
+                          CONTENT="der reformirten Kirche."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="663,439 689,439 716,440 742,441 769,441 795,442 822,442 848,443 875,443 901,444 928,444 955,444"
+                         HEIGHT="53"
+                         WIDTH="292"
+                         VPOS="405"
+                         HPOS="663">
+                  <String ID="string_r1l5"
+                          HEIGHT="53"
+                          WIDTH="292"
+                          VPOS="405"
+                          HPOS="663"
+                          CONTENT="Herausgegeben von"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="124,489 190,487 257,486 324,485 391,485 458,485 524,485 591,486 658,487 725,487 792,488 858,489 925,490 992,490 1059,491 1126,491 1192,491 1259,491 1326,490 1393,489 1460,487"
+                         HEIGHT="48"
+                         WIDTH="1336"
+                         VPOS="453"
+                         HPOS="124">
+                  <String ID="string_r1l6"
+                          HEIGHT="48"
+                          WIDTH="1336"
+                          VPOS="453"
+                          HPOS="124"
+                          CONTENT="Dr. J. W. Baum, Profeſſor in Straßburg, R. Chriſtoffel, Pfarrer in Winterſingen, Dr."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="130,525 196,523 262,522 328,521 394,520 461,520 527,520 593,521 659,521 725,522 792,523 858,524 924,525 990,526 1056,526 1123,526 1189,526 1255,526 1321,525 1387,524 1454,522"
+                         HEIGHT="40"
+                         WIDTH="1324"
+                         VPOS="496"
+                         HPOS="130">
+                  <String ID="string_r1l7"
+                          HEIGHT="40"
+                          WIDTH="1324"
+                          VPOS="496"
+                          HPOS="130"
+                          CONTENT="K. R. Hagenbach, Profeſſor in Baſel, C. Peſtalozzi, Pfarrer in Zürich, Dr. C. Schmidt,"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="126,560 192,558 259,557 325,556 392,555 458,555 525,555 591,556 658,556 724,557 791,558 857,559 924,559 990,560 1057,561 1123,561 1190,561 1256,561 1323,561 1389,560 1456,559"
+                         HEIGHT="40"
+                         WIDTH="1330"
+                         VPOS="531"
+                         HPOS="126">
+                  <String ID="string_r1l8"
+                          HEIGHT="40"
+                          WIDTH="1330"
+                          VPOS="531"
+                          HPOS="126"
+                          CONTENT="Profeſſor in Straßburg, Lic. E. Stähelin, Pfarrer in Baſel, Lic. K. Sudhoff, Pfarrer"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="659,591 684,592 710,593 736,593 762,594 788,594 813,594 839,595 865,595 891,595 917,595 943,596"
+                         HEIGHT="42"
+                         WIDTH="284"
+                         VPOS="567"
+                         HPOS="659">
+                  <String ID="string_r1l9"
+                          HEIGHT="42"
+                          WIDTH="284"
+                          VPOS="567"
+                          HPOS="659"
+                          CONTENT="in Frankfurt a. M."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="691,636 718,639 745,640 772,640 799,640 826,640 853,640 880,640 907,642"
+                         HEIGHT="53"
+                         WIDTH="216"
+                         VPOS="604"
+                         HPOS="691">
+                  <String ID="string_r1l10"
+                          HEIGHT="53"
+                          WIDTH="216"
+                          VPOS="604"
+                          HPOS="691"
+                          CONTENT="Eingeleitet von"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="542,687 567,688 592,689 617,690 642,691 667,692 692,692 717,693 742,693 767,694 792,694 817,694 842,695 867,695 892,695 917,695 942,695 967,695 992,695 1017,695 1042,695"
+                         HEIGHT="73"
+                         WIDTH="500"
+                         VPOS="650"
+                         HPOS="542">
+                  <String ID="string_r1l11"
+                          HEIGHT="73"
+                          WIDTH="500"
+                          VPOS="650"
+                          HPOS="542"
+                          CONTENT="Dr. K. R. Hagenbach."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="663,786 688,787 714,788 740,789 765,789 791,790 817,790 842,790 868,790 894,789 920,789"
+                         HEIGHT="84"
+                         WIDTH="257"
+                         VPOS="720"
+                         HPOS="663">
+                  <String ID="string_r1l12"
+                          HEIGHT="84"
+                          WIDTH="257"
+                          VPOS="720"
+                          HPOS="663"
+                          CONTENT="Proſpectus."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="188,833 251,833 314,833 378,833 441,833 505,834 568,834 631,835 695,835 758,836 822,837 885,837 948,838 1012,838 1075,838 1139,838 1202,838 1265,837 1329,837 1392,835 1456,834"
+                         HEIGHT="48"
+                         WIDTH="1268"
+                         VPOS="800"
+                         HPOS="188">
+                  <String ID="string_r1l13"
+                          HEIGHT="48"
+                          WIDTH="1268"
+                          VPOS="800"
+                          HPOS="188"
+                          CONTENT="Das klarſte Bild von der Tendenz und Ausführung dieſes für die evangeliſche Kirche"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="128,872 194,870 261,869 327,869 394,869 460,869 527,869 593,870 660,870 726,871 793,872 859,872 926,873 992,873 1059,874 1125,874 1192,873 1258,873 1325,872 1391,870 1458,868"
+                         HEIGHT="41"
+                         WIDTH="1330"
+                         VPOS="843"
+                         HPOS="128">
+                  <String ID="string_r1l14"
+                          HEIGHT="41"
+                          WIDTH="1330"
+                          VPOS="843"
+                          HPOS="128"
+                          CONTENT="ſo bedeutungsvollen Unternehmens dürfte wohl am beſten die „Einleitung von Profeſſor"/>
+               </TextLine>
+               <TextLine ID="line_1615987063602_1528"
+                         BASELINE="122,906 148,905 174,905 200,905 226,905 252,907 278,907 304,908 330,909 356,910 382,910 408,910 434,909 460,906 486,903 523,903 569,903 616,904 662,904 709,905 755,906 802,906 848,907 895,908 941,908 988,908 1035,909 1081,909 1128,909 1174,909 1221,909 1267,908 1314,907 1360,906 1407,904 1454,903"
+                         HEIGHT="41"
+                         WIDTH="1332"
+                         VPOS="879"
+                         HPOS="122">
+                  <String ID="string_line_1615987063602_1528"
+                          HEIGHT="41"
+                          WIDTH="1332"
+                          VPOS="879"
+                          HPOS="122"
+                          CONTENT="Dr. K. R. Hagenbach” im erſten Bande (H. Zwingli) bieten, auf welche die unter⸗"/>
+               </TextLine>
+               <TextLine ID="line_1615987068208_1533"
+                         BASELINE="128,942 153,941 179,941 205,941 231,941 257,942 283,942 309,943 334,943 360,944 386,944 412,945 438,945 464,945 490,944 520,938 561,939 602,940 643,940 684,941 725,941 766,942 807,942 848,942 889,943 931,943 972,944 1013,944 1054,944 1095,944 1136,944 1177,944 1218,944 1259,944 1300,944 1342,944"
+                         HEIGHT="45"
+                         WIDTH="1214"
+                         VPOS="915"
+                         HPOS="128">
+                  <String ID="string_line_1615987068208_1533"
+                          HEIGHT="45"
+                          WIDTH="1214"
+                          VPOS="915"
+                          HPOS="128"
+                          CONTENT="zeichnete Verlagshandlung denn hiermit ſpeziell aufmerkſam zu machen ſich erlaubt."/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="703,995 731,994 760,993 789,993 818,994 847,993 876,992"
+                         HEIGHT="54"
+                         WIDTH="173"
+                         VPOS="957"
+                         HPOS="703">
+                  <String ID="string_r1l19"
+                          HEIGHT="54"
+                          WIDTH="173"
+                          VPOS="957"
+                          HPOS="703"
+                          CONTENT="Inhalt:"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="511,1045 539,1045 567,1045 595,1045 623,1046 652,1046 680,1046 708,1047 736,1047 764,1047 793,1048 821,1048 849,1048 877,1048 905,1049 934,1049 962,1049 990,1049 1018,1050 1046,1050 1075,1050"
+                         HEIGHT="57"
+                         WIDTH="564"
+                         VPOS="1007"
+                         HPOS="511">
+                  <String ID="string_r1l20"
+                          HEIGHT="57"
+                          WIDTH="564"
+                          VPOS="1007"
+                          HPOS="511"
+                          CONTENT="Leben und ausgewählte Schriften."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="193,1083 256,1084 319,1086 382,1087 445,1089 508,1090 571,1091 634,1093 697,1094 760,1095 823,1096 886,1096 949,1097 1012,1097 1075,1098 1138,1098 1201,1097 1264,1097 1327,1096 1390,1095 1453,1094"
+                         HEIGHT="58"
+                         WIDTH="1260"
+                         VPOS="1050"
+                         HPOS="193">
+                  <String ID="string_r1l21"
+                          HEIGHT="58"
+                          WIDTH="1260"
+                          VPOS="1050"
+                          HPOS="193"
+                          CONTENT="I. Band. Huldreich Zwingli. Von R. Chriſtoffel. 49 Bogen. II. Band. J. Oeco-"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="123,1119 189,1120 256,1121 322,1122 389,1123 456,1125 522,1126 589,1127 656,1129 722,1130 789,1131 856,1132 922,1133 989,1133 1056,1133 1122,1133 1189,1133 1256,1132 1322,1131 1389,1129 1456,1127"
+                         HEIGHT="48"
+                         WIDTH="1333"
+                         VPOS="1095"
+                         HPOS="123">
+                  <String ID="string_r1l22"
+                          HEIGHT="48"
+                          WIDTH="1333"
+                          VPOS="1095"
+                          HPOS="123"
+                          CONTENT="lampad und O. Myconius. Von Dr. K. R. Hagenbach. 31 Bogen. III. Band. W. F. Capito"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="127,1154 193,1155 260,1156 326,1157 393,1159 459,1160 526,1161 592,1162 659,1164 725,1165 792,1166 858,1167 925,1168 991,1168 1058,1168 1124,1168 1191,1167 1257,1167 1324,1165 1390,1164 1457,1162"
+                         HEIGHT="48"
+                         WIDTH="1330"
+                         VPOS="1130"
+                         HPOS="127">
+                  <String ID="string_r1l23"
+                          HEIGHT="48"
+                          WIDTH="1330"
+                          VPOS="1130"
+                          HPOS="127"
+                          CONTENT="und M. Butzer. Von Dr. J. W. Baum. 40 Bogen. IV. Band. Johannes Calvin. Von"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="127,1188 193,1189 259,1191 325,1192 391,1193 458,1194 524,1196 590,1197 656,1198 722,1200 789,1201 855,1202 921,1202 987,1203 1053,1203 1120,1203 1186,1203 1252,1202 1318,1202 1384,1200 1451,1199"
+                         HEIGHT="49"
+                         WIDTH="1324"
+                         VPOS="1164"
+                         HPOS="127">
+                  <String ID="string_r1l24"
+                          HEIGHT="49"
+                          WIDTH="1324"
+                          VPOS="1164"
+                          HPOS="127"
+                          CONTENT="Lic. E. Stähelin. circa 50 Bogen. V. Band. H. Bullinger. Von C. Peſtalozzi."/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="125,1222 191,1224 257,1226 323,1227 389,1229 455,1230 521,1231 587,1233 653,1234 719,1235 785,1236 851,1237 917,1238 983,1238 1049,1238 1115,1238 1181,1238 1247,1237 1313,1236 1379,1235 1445,1233"
+                         HEIGHT="50"
+                         WIDTH="1320"
+                         VPOS="1198"
+                         HPOS="125">
+                  <String ID="string_r1l25"
+                          HEIGHT="50"
+                          WIDTH="1320"
+                          VPOS="1198"
+                          HPOS="125"
+                          CONTENT="42 Bogen. VI. Band. Theodor Beza. Von Dr. J. W. Baum. circa 25 Bogen. VII. Band."/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="125,1260 191,1261 258,1262 324,1263 391,1264 457,1265 524,1266 590,1268 657,1269 723,1270 790,1271 856,1272 923,1273 989,1273 1056,1273 1122,1273 1189,1273 1255,1272 1322,1271 1388,1270 1455,1268"
+                         HEIGHT="46"
+                         WIDTH="1330"
+                         VPOS="1236"
+                         HPOS="125">
+                  <String ID="string_r1l26"
+                          HEIGHT="46"
+                          WIDTH="1330"
+                          VPOS="1236"
+                          HPOS="125"
+                          CONTENT="Peter Martyr. Von Dr. C. Schmidt. 20 Bogen. VIII. Band. C. Olevianus und Z. Urſinus."/>
+               </TextLine>
+               <TextLine ID="line_1615987077595_1537"
+                         BASELINE="121,1294 154,1294 188,1295 222,1295 256,1296 290,1297 324,1297 358,1298 392,1299 426,1299 460,1300 493,1301 527,1301 561,1302 595,1303 629,1303 663,1304 697,1304 731,1305 765,1305 799,1306 809,1307 834,1307 859,1307 885,1307 910,1308 935,1308 961,1308 986,1308 1011,1309 1037,1309 1062,1308 1087,1308 1113,1307 1131,1307 1157,1308 1184,1308 1211,1309 1238,1309 1264,1309 1291,1309 1318,1309 1345,1307 1371,1307 1398,1304 1425,1301 1452,1298"
+                         HEIGHT="48"
+                         WIDTH="1331"
+                         VPOS="1271"
+                         HPOS="121">
+                  <String ID="string_line_1615987077595_1537"
+                          HEIGHT="48"
+                          WIDTH="1331"
+                          VPOS="1271"
+                          HPOS="121"
+                          CONTENT="Von Lic. K. Sudhoff. 41 Bogen. IX ( Supplement⸗) Band. Dr. Joachim Vadianus,"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="115,1329 181,1330 248,1331 315,1332 382,1333 449,1335 516,1336 583,1338 650,1339 717,1340 784,1342 850,1343 917,1344 984,1345 1051,1345 1118,1345 1185,1345 1252,1344 1319,1343 1386,1341 1453,1339"
+                         HEIGHT="50"
+                         WIDTH="1338"
+                         VPOS="1304"
+                         HPOS="115">
+                  <String ID="string_r1l30"
+                          HEIGHT="50"
+                          WIDTH="1338"
+                          VPOS="1304"
+                          HPOS="115"
+                          CONTENT="Berthold Haller, Leo Jud, Sebaſtian Hofmeiſter, Ambroſius Blaarer, Franciscus Lambert,"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="120,1365 154,1365 189,1366 224,1366 259,1367 294,1367 329,1368 364,1369 399,1370 434,1371 469,1372 503,1373 538,1373 573,1374 608,1375 643,1375 678,1376 713,1376 748,1377 783,1377 818,1377"
+                         HEIGHT="49"
+                         WIDTH="698"
+                         VPOS="1343"
+                         HPOS="120">
+                  <String ID="string_r1l31"
+                          HEIGHT="49"
+                          WIDTH="698"
+                          VPOS="1343"
+                          HPOS="120"
+                          CONTENT="Johannes Lasky, Wilhelm Farel und Peter Viret."/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="628,1426 654,1427 680,1427 706,1428 733,1428 759,1429 785,1429 811,1430 838,1430 864,1430 890,1430 916,1430 943,1430"
+                         HEIGHT="49"
+                         WIDTH="315"
+                         VPOS="1389"
+                         HPOS="628">
+                  <String ID="string_r1l32"
+                          HEIGHT="49"
+                          WIDTH="315"
+                          VPOS="1389"
+                          HPOS="628"
+                          CONTENT="Bedingungen."/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="190,1453 216,1453 243,1454 270,1454 297,1455 324,1455 351,1456 377,1457 404,1458 431,1458 458,1459 485,1459 512,1459"
+                         HEIGHT="35"
+                         WIDTH="322"
+                         VPOS="1433"
+                         HPOS="190">
+                  <String ID="string_r1l33"
+                          HEIGHT="35"
+                          WIDTH="322"
+                          VPOS="1433"
+                          HPOS="190"
+                          CONTENT="Der bereits erſchienene"/>
+               </TextLine>
+               <TextLine ID="line_1615987082524_1541"
+                         BASELINE="115,1488 141,1489 167,1490 194,1490 220,1490 247,1491 273,1493 332,1493 391,1493 450,1493 509,1494 568,1495 627,1496 687,1497 746,1498 805,1499 864,1500 923,1502 982,1502 1041,1503 1101,1503 1160,1503 1219,1502 1278,1501 1337,1499 1396,1497 1456,1494"
+                         HEIGHT="47"
+                         WIDTH="1341"
+                         VPOS="1466"
+                         HPOS="115">
+                  <String ID="string_line_1615987082524_1541"
+                          HEIGHT="47"
+                          WIDTH="1341"
+                          VPOS="1466"
+                          HPOS="115"
+                          CONTENT="Band I.: „Huldreich Zwingli von R. Chriſtoffel. Mit dem Portrait Zwingli’s"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="273,1526 331,1527 390,1527 449,1528 508,1530 567,1531 625,1532 684,1533 743,1534 802,1535 861,1536 919,1537 978,1537 1037,1538 1096,1538 1155,1538 1213,1538 1272,1537 1331,1536 1390,1535 1449,1533"
+                         HEIGHT="45"
+                         WIDTH="1176"
+                         VPOS="1502"
+                         HPOS="273">
+                  <String ID="string_r1l36"
+                          HEIGHT="45"
+                          WIDTH="1176"
+                          VPOS="1502"
+                          HPOS="273"
+                          CONTENT="in Stahl geſtochen” koſtet im Subſcriptionspreiſe nur 1 Thlr. 10 Sgr.,"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="276,1558 302,1560 328,1562 354,1563 380,1564 407,1564 433,1565 459,1565 485,1565 511,1566 538,1566 564,1566 590,1566 616,1567 642,1567 669,1568"
+                         HEIGHT="38"
+                         WIDTH="393"
+                         VPOS="1537"
+                         HPOS="276">
+                  <String ID="string_r1l37"
+                          HEIGHT="38"
+                          WIDTH="393"
+                          VPOS="1537"
+                          HPOS="276"
+                          CONTENT="im Ladenpreiſe 2 Thlr."/>
+               </TextLine>
+               <TextLine ID="line_1615987089162_1545"
+                         BASELINE="107,1591 133,1594 160,1594 187,1594 214,1593 241,1594 279,1597 337,1597 396,1597 455,1598 513,1599 572,1600 631,1601 689,1602 748,1603 807,1604 866,1605 924,1606 983,1607 1042,1607 1100,1607 1159,1607 1218,1606 1276,1605 1335,1604 1394,1602 1453,1599"
+                         HEIGHT="44"
+                         WIDTH="1346"
+                         VPOS="1573"
+                         HPOS="107">
+                  <String ID="string_line_1615987089162_1545"
+                          HEIGHT="44"
+                          WIDTH="1346"
+                          VPOS="1573"
+                          HPOS="107"
+                          CONTENT="Band II. (der ganzen Folge 8. Band): „C. Olevianus und Z. Urſinus von K."/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="273,1629 332,1630 391,1630 450,1631 509,1632 568,1633 627,1634 686,1636 745,1638 804,1639 864,1640 923,1641 982,1642 1041,1643 1100,1643 1159,1643 1218,1643 1277,1642 1336,1640 1395,1638 1455,1635"
+                         HEIGHT="47"
+                         WIDTH="1182"
+                         VPOS="1604"
+                         HPOS="273">
+                  <String ID="string_r1l40"
+                          HEIGHT="47"
+                          WIDTH="1182"
+                          VPOS="1604"
+                          HPOS="273"
+                          CONTENT="Sudhoff” koſtet im Subſcriptionspreiſe nur 1 Thlr. 10 Sgr., im"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="277,1665 303,1665 330,1666 357,1666 384,1667 411,1667 438,1668 464,1668 491,1668 518,1669 545,1669 572,1670 599,1670"
+                         HEIGHT="31"
+                         WIDTH="322"
+                         VPOS="1647"
+                         HPOS="277">
+                  <String ID="string_r1l41"
+                          HEIGHT="31"
+                          WIDTH="322"
+                          VPOS="1647"
+                          HPOS="277"
+                          CONTENT="Ladenpreiſe 2 Thlr."/>
+               </TextLine>
+               <TextLine ID="line_1615987092476_1549"
+                         BASELINE="113,1697 143,1698 173,1698 203,1698 233,1697 280,1701 337,1701 395,1702 453,1702 511,1703 569,1704 626,1705 684,1706 742,1707 800,1708 858,1710 915,1710 973,1711 1031,1712 1089,1712 1147,1712 1204,1712 1262,1711 1320,1710 1378,1708 1436,1705"
+                         HEIGHT="45"
+                         WIDTH="1323"
+                         VPOS="1678"
+                         HPOS="113">
+                  <String ID="string_line_1615987092476_1549"
+                          HEIGHT="45"
+                          WIDTH="1323"
+                          VPOS="1678"
+                          HPOS="113"
+                          CONTENT="Band III. (der ganzen Folge 7. Band): „Peter Martyr Vermigli von C. Schmidt”"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="276,1736 334,1736 393,1736 451,1737 510,1738 569,1739 627,1741 686,1742 744,1744 803,1745 862,1746 920,1747 979,1748 1037,1749 1096,1749 1155,1749 1213,1749 1272,1747 1330,1745 1389,1743 1448,1739"
+                         HEIGHT="45"
+                         WIDTH="1172"
+                         VPOS="1711"
+                         HPOS="276">
+                  <String ID="string_r1l44"
+                          HEIGHT="45"
+                          WIDTH="1172"
+                          VPOS="1711"
+                          HPOS="276"
+                          CONTENT="koſtet im Subſcriptionspreiſe nur 1 Thlr., im Ladenpreiſe 1 Thlr."/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="277,1770 303,1771 330,1771 356,1772 383,1774"
+                         HEIGHT="30"
+                         WIDTH="106"
+                         VPOS="1753"
+                         HPOS="277">
+                  <String ID="string_r1l45"
+                          HEIGHT="30"
+                          WIDTH="106"
+                          VPOS="1753"
+                          HPOS="277"
+                          CONTENT="15 Sgr."/>
+               </TextLine>
+               <TextLine ID="line_1615987096121_1553"
+                         BASELINE="108,1803 135,1804 162,1805 189,1805 216,1805 243,1806 284,1809 342,1808 400,1808 458,1809 516,1809 574,1810 632,1811 690,1812 748,1814 806,1815 864,1816 922,1817 980,1818 1038,1818 1096,1819 1154,1818 1212,1818 1270,1816 1328,1814 1386,1812 1444,1808"
+                         HEIGHT="48"
+                         WIDTH="1336"
+                         VPOS="1781"
+                         HPOS="108">
+                  <String ID="string_line_1615987096121_1553"
+                          HEIGHT="48"
+                          WIDTH="1336"
+                          VPOS="1781"
+                          HPOS="108"
+                          CONTENT="Band IV. (der ganzen Folge 5. Band): „Heinrich Bullinger von C. Peſtalozzi”"/>
+               </TextLine>
+               <TextLine ID="r1l48"
+                         BASELINE="266,1844 325,1844 384,1844 443,1844 502,1845 561,1846 620,1847 679,1848 738,1849 797,1851 856,1852 915,1853 974,1854 1033,1854 1092,1855 1151,1854 1210,1854 1269,1853 1328,1851 1387,1849 1446,1845"
+                         HEIGHT="44"
+                         WIDTH="1180"
+                         VPOS="1819"
+                         HPOS="266">
+                  <String ID="string_r1l48"
+                          HEIGHT="44"
+                          WIDTH="1180"
+                          VPOS="1819"
+                          HPOS="266"
+                          CONTENT="koſtet im Subſcriptionspreiſe nur 1 Thlr. 20 Sgr., im Ladenpreiſe"/>
+               </TextLine>
+               <TextLine ID="r1l49"
+                         BASELINE="267,1876 292,1878 317,1879 342,1880 367,1880 392,1880 417,1880 442,1880 467,1880 492,1882 517,1884"
+                         HEIGHT="36"
+                         WIDTH="250"
+                         VPOS="1856"
+                         HPOS="267">
+                  <String ID="string_r1l49"
+                          HEIGHT="36"
+                          WIDTH="250"
+                          VPOS="1856"
+                          HPOS="267"
+                          CONTENT="2 Thlr. 15 Sgr."/>
+               </TextLine>
+               <TextLine ID="line_1615987099224_1557"
+                         BASELINE="112,1909 141,1911 171,1911 201,1910 231,1912 280,1917 338,1916 397,1916 455,1916 514,1916 573,1917 631,1918 690,1919 748,1920 807,1921 866,1922 924,1922 983,1923 1041,1923 1100,1923 1159,1923 1217,1922 1276,1920 1334,1918 1393,1916 1452,1912"
+                         HEIGHT="43"
+                         WIDTH="1340"
+                         VPOS="1890"
+                         HPOS="112">
+                  <String ID="string_line_1615987099224_1557"
+                          HEIGHT="43"
+                          WIDTH="1340"
+                          VPOS="1890"
+                          HPOS="112"
+                          CONTENT="Band V. (der ganzen Folge 2. Band): „J. Oecolampad und O. Myconius von"/>
+               </TextLine>
+               <TextLine ID="r1l52"
+                         BASELINE="274,1953 332,1951 391,1951 450,1950 509,1951 568,1951 626,1952 685,1953 744,1954 803,1955 862,1957 920,1958 979,1959 1038,1959 1097,1959 1156,1959 1214,1959 1273,1958 1332,1956 1391,1953 1450,1950"
+                         HEIGHT="43"
+                         WIDTH="1176"
+                         VPOS="1925"
+                         HPOS="274">
+                  <String ID="string_r1l52"
+                          HEIGHT="43"
+                          WIDTH="1176"
+                          VPOS="1925"
+                          HPOS="274"
+                          CONTENT="K. R. Hagenbach” koſtet im Subſcriptionspreiſe nur 1 Thlr. 10 Sgr."/>
+               </TextLine>
+               <TextLine ID="r1l53"
+                         BASELINE="272,1983 297,1984 323,1986 349,1986 375,1987 401,1987 427,1988 453,1988 479,1988 505,1988 531,1988 557,1988 583,1988 609,1989 635,1989 661,1990"
+                         HEIGHT="36"
+                         WIDTH="389"
+                         VPOS="1962"
+                         HPOS="272">
+                  <String ID="string_r1l53"
+                          HEIGHT="36"
+                          WIDTH="389"
+                          VPOS="1962"
+                          HPOS="272"
+                          CONTENT="im Ladenpreiſe 2 Thlr."/>
+               </TextLine>
+               <TextLine ID="line_1615987101993_1561"
+                         BASELINE="110,2015 135,2017 161,2017 187,2017 213,2017 239,2018 284,2023 342,2022 400,2021 459,2021 517,2021 576,2022 634,2023 692,2024 751,2025 809,2026 868,2027 926,2028 984,2029 1043,2029 1101,2029 1160,2028 1218,2027 1276,2025 1335,2023 1393,2019 1452,2014"
+                         HEIGHT="43"
+                         WIDTH="1342"
+                         VPOS="1996"
+                         HPOS="110">
+                  <String ID="string_line_1615987101993_1561"
+                          HEIGHT="43"
+                          WIDTH="1342"
+                          VPOS="1996"
+                          HPOS="110"
+                          CONTENT="Band VI. (der ganzen Folge 3. Band): „Capito und Butzer von J. W. Baum koſtet"/>
+               </TextLine>
+               <TextLine ID="r1l56"
+                         BASELINE="270,2056 328,2056 387,2055 446,2056 505,2056 564,2057 622,2058 681,2059 740,2060 799,2062 858,2062 916,2063 975,2064 1034,2064 1093,2064 1152,2063 1210,2062 1269,2061 1328,2058 1387,2055 1446,2051"
+                         HEIGHT="47"
+                         WIDTH="1176"
+                         VPOS="2027"
+                         HPOS="270">
+                  <String ID="string_r1l56"
+                          HEIGHT="47"
+                          WIDTH="1176"
+                          VPOS="2027"
+                          HPOS="270"
+                          CONTENT="im Subſcriptionspreiſe nur 1 Thlr. 10 Sgr., im Ladenpreiſe 2 Thlr."/>
+               </TextLine>
+               <TextLine ID="r1l57"
+                         BASELINE="184,2089 247,2089 310,2090 373,2090 436,2091 499,2092 562,2093 625,2094 688,2096 751,2097 815,2097 878,2098 941,2099 1004,2099 1067,2099 1130,2099 1193,2098 1256,2096 1319,2094 1382,2092 1446,2088"
+                         HEIGHT="44"
+                         WIDTH="1262"
+                         VPOS="2064"
+                         HPOS="184">
+                  <String ID="string_r1l57"
+                          HEIGHT="44"
+                          WIDTH="1262"
+                          VPOS="2064"
+                          HPOS="184"
+                          CONTENT="Man kann noch fortwährend auf das ganze Werk ſubſcribiren. — Einzeln iſt jeder"/>
+               </TextLine>
+               <TextLine ID="r1l58"
+                         BASELINE="99,2120 144,2122 189,2124 234,2125 279,2127 324,2128 369,2128 415,2129 460,2130 505,2130 550,2130 595,2130 640,2130 685,2130 731,2130 776,2130 821,2130 866,2130 911,2130 956,2130 1002,2130"
+                         HEIGHT="53"
+                         WIDTH="903"
+                         VPOS="2099"
+                         HPOS="99">
+                  <String ID="string_r1l58"
+                          HEIGHT="53"
+                          WIDTH="903"
+                          VPOS="2099"
+                          HPOS="99"
+                          CONTENT="Band um die Hälfte theurer, als im Subſcriptionspreis."/>
+               </TextLine>
+               <TextLine ID="r1l59"
+                         BASELINE="190,2194 253,2194 316,2194 379,2195 442,2196 505,2197 568,2198 631,2199 694,2201 757,2202 820,2204 883,2205 946,2205 1009,2205 1072,2205 1135,2205 1198,2203 1261,2201 1324,2199 1387,2195 1450,2190"
+                         HEIGHT="77"
+                         WIDTH="1260"
+                         VPOS="2138"
+                         HPOS="190">
+                  <String ID="string_r1l59"
+                          HEIGHT="77"
+                          WIDTH="1260"
+                          VPOS="2138"
+                          HPOS="190"
+                          CONTENT="So ſei denn dieſes wichtige Unternehmen der kräftigſten Unterſtützung des kirchlichen"/>
+               </TextLine>
+               <TextLine ID="line_1615987106986_1565"
+                         BASELINE="101,2223 137,2225 174,2226 210,2228 247,2229 284,2230 320,2231 357,2232 393,2232 430,2233 467,2233 503,2234 540,2234 576,2235 613,2235 650,2236 686,2236 723,2237 759,2237 796,2238 833,2239 934,2238 959,2239 985,2239 1010,2240 1036,2241 1061,2241 1087,2242 1113,2242 1138,2243 1164,2243 1189,2243 1215,2242 1240,2242 1266,2241 1292,2240 1317,2238 1343,2236 1368,2233 1394,2231 1420,2227"
+                         HEIGHT="55"
+                         WIDTH="1319"
+                         VPOS="2200"
+                         HPOS="101">
+                  <String ID="string_line_1615987106986_1565"
+                          HEIGHT="55"
+                          WIDTH="1319"
+                          VPOS="2200"
+                          HPOS="101"
+                          CONTENT="Publikums auch ferner vertrauensvoll empfohlen! Die Verlagshandlung von"/>
+               </TextLine>
+               <TextLine ID="r1l62"
+                         BASELINE="1019,2281 1044,2282 1070,2282 1096,2283 1122,2283 1147,2283 1173,2283 1199,2283 1225,2282 1250,2281 1276,2281 1302,2279 1328,2278"
+                         HEIGHT="77"
+                         WIDTH="309"
+                         VPOS="2250"
+                         HPOS="1019">
+                  <String ID="string_r1l62"
+                          HEIGHT="77"
+                          WIDTH="309"
+                          VPOS="2250"
+                          HPOS="1019"
+                          CONTENT="R. L. Friderichs."/>
+               </TextLine>
+               <TextLine ID="r1l63"
+                         BASELINE="159,2414 184,2415 210,2418 236,2419 262,2420 287,2421 313,2422 339,2423 365,2424 390,2425 416,2426 442,2426 468,2427 493,2427 519,2428 545,2428 571,2429 596,2429 622,2429 648,2429 674,2430"
+                         HEIGHT="121"
+                         WIDTH="515"
+                         VPOS="2312"
+                         HPOS="159">
+                  <String ID="string_r1l63"
+                          HEIGHT="121"
+                          WIDTH="515"
+                          VPOS="2312"
+                          HPOS="159"
+                          CONTENT="Gedruckt bei Sam. Lucas in Elberfeld."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

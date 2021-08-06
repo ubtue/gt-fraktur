@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:49:55.662+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2586" WIDTH="1501">
+         <TopMargin HEIGHT="0" WIDTH="1501" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2586" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2586" WIDTH="0" VPOS="0" HPOS="1501"/>
+         <BottomMargin HEIGHT="0" WIDTH="1501" VPOS="2586" HPOS="0"/>
+         <PrintSpace HEIGHT="2586" WIDTH="1501" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2349" WIDTH="1342" VPOS="100" HPOS="107">
+               <Shape>
+                  <Polygon POINTS="107,100 107,2449 1449,2449 1449,100"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="762,126 790,126 818,126"
+                         HEIGHT="53"
+                         WIDTH="56"
+                         VPOS="108"
+                         HPOS="762">
+                  <String ID="string_r1l1"
+                          HEIGHT="53"
+                          WIDTH="56"
+                          VPOS="108"
+                          HPOS="762"
+                          CONTENT="60"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="200,227 262,227 324,228 387,229 449,230 511,231 574,232 636,234 698,235 761,236 823,238 885,239 948,240 1010,241 1072,242 1135,242 1197,242 1259,243 1322,242 1384,242 1447,241"
+                         HEIGHT="112"
+                         WIDTH="1247"
+                         VPOS="146"
+                         HPOS="200">
+                  <String ID="string_r1l2"
+                          HEIGHT="112"
+                          WIDTH="1247"
+                          VPOS="146"
+                          HPOS="200"
+                          CONTENT="Zunächſt wäre es nun an der lutheriſchen Kirche des Königreichs Sachſen,"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="111,277 177,279 244,280 311,281 378,283 445,284 511,286 578,287 645,289 712,290 779,291 845,293 912,294 979,295 1046,295 1113,296 1179,296 1246,296 1313,296 1380,295 1447,294"
+                         HEIGHT="71"
+                         WIDTH="1336"
+                         VPOS="240"
+                         HPOS="111">
+                  <String ID="string_r1l3"
+                          HEIGHT="71"
+                          WIDTH="1336"
+                          VPOS="240"
+                          HPOS="111"
+                          CONTENT="dem Vorgange Preußens in Sachen der Kirchenverfaſſung zu folgen. Anfangs"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="109,331 175,332 242,333 309,335 376,336 443,338 510,339 577,341 644,342 711,343 778,345 844,346 911,347 978,348 1045,349 1112,349 1179,349 1246,349 1313,349 1380,348 1447,347"
+                         HEIGHT="71"
+                         WIDTH="1338"
+                         VPOS="294"
+                         HPOS="109">
+                  <String ID="string_r1l4"
+                          HEIGHT="71"
+                          WIDTH="1338"
+                          VPOS="294"
+                          HPOS="109"
+                          CONTENT="Juli wurde die große ſächſiſche Kirchenviſitation, die erſte ſeit Beginn des vorigen"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="116,387 182,387 249,388 315,388 382,389 449,391 515,392 582,393 649,395 715,396 782,398 849,399 915,401 982,402 1049,403 1115,403 1182,404 1249,404 1315,403 1382,402 1449,401"
+                         HEIGHT="71"
+                         WIDTH="1333"
+                         VPOS="349"
+                         HPOS="116">
+                  <String ID="string_r1l5"
+                          HEIGHT="71"
+                          WIDTH="1333"
+                          VPOS="349"
+                          HPOS="116"
+                          CONTENT="Jahrhunderts, vollendet. Kirchengemeinderäthe hatten die Viſitatoren freilich nirgends"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="107,441 173,441 240,441 307,442 374,443 441,444 508,446 575,447 642,449 709,451 776,453 842,454 909,455 976,457 1043,458 1110,458 1177,459 1244,459 1311,458 1378,457 1445,456"
+                         HEIGHT="80"
+                         WIDTH="1338"
+                         VPOS="403"
+                         HPOS="107">
+                  <String ID="string_r1l6"
+                          HEIGHT="80"
+                          WIDTH="1338"
+                          VPOS="403"
+                          HPOS="107"
+                          CONTENT="zu ſehen bekommen. — Wie dort ſcheinbar tiefe Ruhe, ſo herrſcht dagegen die lebhafteſte"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="210,525 251,526 293,527 334,528 376,528 417,529 459,530 500,531 542,531 583,532 625,532 667,533 708,534 750,534 791,535 833,536 874,536 916,537 957,538 999,538 1041,539"
+                         HEIGHT="84"
+                         WIDTH="831"
+                         VPOS="469"
+                         HPOS="210">
+                  <String ID="string_r1l7"
+                          HEIGHT="84"
+                          WIDTH="831"
+                          VPOS="469"
+                          HPOS="210"
+                          CONTENT="3) unter Leitung des engeren und weiteren Ausſchuſſes:"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="323,574 379,574 435,575 491,576 548,577 604,578 660,579 717,580 773,582 829,583 886,584 942,585 998,586 1054,587 1111,588 1167,588 1223,588 1280,588 1336,587 1392,586 1449,584"
+                         HEIGHT="62"
+                         WIDTH="1126"
+                         VPOS="540"
+                         HPOS="323">
+                  <String ID="string_r1l8"
+                          HEIGHT="62"
+                          WIDTH="1126"
+                          VPOS="540"
+                          HPOS="323"
+                          CONTENT="Die Bedeutung des alten Teſtamentes für die chriſtliche Erkenntniß und die"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="317,618 373,619 429,620 485,621 541,622 597,624 653,625 709,626 765,628 821,629 877,630 933,632 989,633 1045,634 1101,634 1157,635 1213,635 1269,635 1325,634 1381,633 1437,632"
+                         HEIGHT="59"
+                         WIDTH="1120"
+                         VPOS="586"
+                         HPOS="317">
+                  <String ID="string_r1l9"
+                          HEIGHT="59"
+                          WIDTH="1120"
+                          VPOS="586"
+                          HPOS="317"
+                          CONTENT="chriſtliche Bildung überhaupt, eingeleitet durch Herrn Profeſſor Dr. Schlott⸗"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="318,663 343,664 369,665 395,665 420,665 446,665 472,666 497,666 523,666 549,668 575,670"
+                         HEIGHT="47"
+                         WIDTH="257"
+                         VPOS="639"
+                         HPOS="318">
+                  <String ID="string_r1l10"
+                          HEIGHT="47"
+                          WIDTH="257"
+                          VPOS="639"
+                          HPOS="318"
+                          CONTENT="mann aus Bonn."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="209,708 270,709 332,710 393,711 455,712 517,714 578,715 640,717 701,718 763,720 825,721 886,722 948,724 1009,725 1071,725 1133,726 1194,726 1256,726 1317,726 1379,725 1441,723"
+                         HEIGHT="71"
+                         WIDTH="1232"
+                         VPOS="669"
+                         HPOS="209">
+                  <String ID="string_r1l11"
+                          HEIGHT="71"
+                          WIDTH="1232"
+                          VPOS="669"
+                          HPOS="209"
+                          CONTENT="4) Begrüßungen und Mittheilungen der „Abgeordneten der verſchiedenen Kirchenge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="267,754 320,755 373,757 426,758 479,760 532,761 585,762 639,764 692,765 745,766 798,767 851,768 904,769 957,770 1011,770 1064,771 1117,772 1170,772 1223,773 1276,773 1330,773"
+                         HEIGHT="64"
+                         WIDTH="1063"
+                         VPOS="722"
+                         HPOS="267">
+                  <String ID="string_r1l12"
+                          HEIGHT="64"
+                          WIDTH="1063"
+                          VPOS="722"
+                          HPOS="267"
+                          CONTENT="meinſchaften und Vereine, welche ſich dem Kirchentage angeſchloſſen haben."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="560,807 586,808 613,809 640,810 667,810 694,811 721,812 748,812 775,813 802,813 829,814 855,814 882,814 909,815 936,815 963,815 990,816 1017,816 1044,816 1071,817 1098,817"
+                         HEIGHT="49"
+                         WIDTH="538"
+                         VPOS="777"
+                         HPOS="560">
+                  <String ID="string_r1l13"
+                          HEIGHT="49"
+                          WIDTH="538"
+                          VPOS="777"
+                          HPOS="560"
+                          CONTENT="Mittwoch, den 12. September."/>
+               </TextLine>
+               <TextLine ID="line_1615985348103_1343"
+                         BASELINE="216,847 236,847 259,846 297,848 336,849 374,850 413,851 451,852 490,853 528,854 567,855 605,855 644,856 683,856 721,857 760,858 798,858 837,859 875,860 914,860 952,861 991,862 1030,862"
+                         HEIGHT="50"
+                         WIDTH="814"
+                         VPOS="826"
+                         HPOS="216">
+                  <String ID="string_line_1615985348103_1343"
+                          HEIGHT="50"
+                          WIDTH="814"
+                          VPOS="826"
+                          HPOS="216"
+                          CONTENT="1) Unter Leitung des engeren und weiteren Ausſchuſſes:"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="315,896 371,896 427,897 484,898 540,899 597,900 653,902 709,903 766,904 822,905 879,906 935,907 991,908 1048,908 1104,909 1161,909 1217,909 1273,909 1330,909 1386,908 1443,907"
+                         HEIGHT="59"
+                         WIDTH="1128"
+                         VPOS="864"
+                         HPOS="315">
+                  <String ID="string_r1l16"
+                          HEIGHT="59"
+                          WIDTH="1128"
+                          VPOS="864"
+                          HPOS="315"
+                          CONTENT="Die Stellung unſerer weltlichen Literatur zum Chriſtenthum und ihr Einfluß"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="313,943 369,943 425,943 482,944 538,945 595,946 651,947 707,948 764,949 820,951 877,952 933,953 989,954 1046,955 1102,956 1159,956 1215,956 1271,956 1328,956 1384,955 1441,954"
+                         HEIGHT="58"
+                         WIDTH="1128"
+                         VPOS="911"
+                         HPOS="313">
+                  <String ID="string_r1l17"
+                          HEIGHT="58"
+                          WIDTH="1128"
+                          VPOS="911"
+                          HPOS="313"
+                          CONTENT="auf unſere Geſellſchaft, eingeleitet durch Herrn Prof. Dr. Lange aus Bonn."/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="209,988 254,989 300,989 346,990 391,990 437,991 483,991 528,992 574,992 620,993 666,994 711,994 757,995 803,996 848,997 894,997 940,998 985,999 1031,1000 1077,1001 1123,1002"
+                         HEIGHT="59"
+                         WIDTH="914"
+                         VPOS="956"
+                         HPOS="209">
+                  <String ID="string_r1l18"
+                          HEIGHT="59"
+                          WIDTH="914"
+                          VPOS="956"
+                          HPOS="209"
+                          CONTENT="2) Feier des Miſſionsfeſtes der Rheiniſchen Miſſionsgeſellſchaft."/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="543,1039 571,1039 599,1039 628,1039 656,1040 685,1041 713,1041 741,1042 770,1042 798,1043 827,1044 855,1044 883,1045 912,1045 940,1046 969,1046 997,1046 1025,1047 1054,1046 1082,1046 1111,1046"
+                         HEIGHT="53"
+                         WIDTH="568"
+                         VPOS="1008"
+                         HPOS="543">
+                  <String ID="string_r1l19"
+                          HEIGHT="53"
+                          WIDTH="568"
+                          VPOS="1008"
+                          HPOS="543"
+                          CONTENT="Donnerſtag, den 13. September."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="310,1081 355,1082 400,1083 445,1083 491,1084 536,1085 581,1086 627,1086 672,1087 717,1088 763,1089 808,1089 853,1090 898,1091 944,1092 989,1092 1034,1093 1080,1094 1125,1094 1170,1095 1216,1095"
+                         HEIGHT="56"
+                         WIDTH="906"
+                         VPOS="1048"
+                         HPOS="310">
+                  <String ID="string_r1l20"
+                          HEIGHT="56"
+                          WIDTH="906"
+                          VPOS="1048"
+                          HPOS="310"
+                          CONTENT="Unter Leitung des Central⸗Ausſchuſſes für die innere Miſſion:"/>
+               </TextLine>
+               <TextLine ID="line_1615985351698_1347"
+                         BASELINE="208,1128 238,1128 263,1128 321,1128 380,1128 439,1129 498,1130 557,1131 615,1132 674,1133 733,1135 792,1136 851,1137 909,1139 968,1140 1027,1141 1086,1141 1145,1142 1203,1142 1262,1142 1321,1141 1380,1140 1439,1139"
+                         HEIGHT="49"
+                         WIDTH="1231"
+                         VPOS="1105"
+                         HPOS="208">
+                  <String ID="string_line_1615985351698_1347"
+                          HEIGHT="49"
+                          WIDTH="1231"
+                          VPOS="1105"
+                          HPOS="208"
+                          CONTENT="4) Eröffnung des Congreſſes für innere Miſſion und Berichterſtattung des Präſidiums."/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="263,1175 293,1175 323,1175 354,1175 384,1175 415,1176 445,1176 476,1176 506,1177 537,1177 567,1178 597,1178 628,1179 658,1179 689,1180 719,1181 750,1181 780,1182 811,1183 841,1183 872,1184"
+                         HEIGHT="40"
+                         WIDTH="609"
+                         VPOS="1146"
+                         HPOS="263">
+                  <String ID="string_r1l23"
+                          HEIGHT="40"
+                          WIDTH="609"
+                          VPOS="1146"
+                          HPOS="263"
+                          CONTENT="Herr Ober⸗Conſiſtorialrath Dr. Wichern."/>
+               </TextLine>
+               <TextLine ID="line_1615985354768_1351"
+                         BASELINE="203,1220 237,1220 257,1222 315,1222 374,1222 433,1223 492,1224 551,1225 609,1225 668,1227 727,1228 786,1229 845,1230 903,1231 962,1232 1021,1233 1080,1233 1139,1234 1197,1234 1256,1234 1315,1233 1374,1232 1433,1231"
+                         HEIGHT="47"
+                         WIDTH="1230"
+                         VPOS="1201"
+                         HPOS="203">
+                  <String ID="string_line_1615985354768_1351"
+                          HEIGHT="47"
+                          WIDTH="1230"
+                          VPOS="1201"
+                          HPOS="203"
+                          CONTENT="2 Die Sammlung und geiſtliche Pflege der lebendigen Glieder der Gemeinde in ihrer"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="257,1268 316,1268 375,1268 434,1269 493,1270 552,1271 611,1272 670,1273 729,1275 788,1276 847,1277 906,1278 965,1279 1024,1280 1083,1281 1142,1281 1201,1281 1260,1281 1319,1280 1378,1279 1437,1278"
+                         HEIGHT="56"
+                         WIDTH="1180"
+                         VPOS="1236"
+                         HPOS="257">
+                  <String ID="string_r1l27"
+                          HEIGHT="56"
+                          WIDTH="1180"
+                          VPOS="1236"
+                          HPOS="257"
+                          CONTENT="Bedeutung für das Werk der innern Miſſion, eingeleitet durch Herrn Conſiſtorial⸗"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="262,1311 287,1312 312,1312 337,1313 362,1314 387,1314 412,1315 437,1315 462,1316 487,1316 512,1317 537,1317 562,1318 587,1319 613,1320"
+                         HEIGHT="47"
+                         WIDTH="351"
+                         VPOS="1284"
+                         HPOS="262">
+                  <String ID="string_r1l28"
+                          HEIGHT="47"
+                          WIDTH="351"
+                          VPOS="1284"
+                          HPOS="262"
+                          CONTENT="rath Carus aus Poſen."/>
+               </TextLine>
+               <TextLine ID="line_1615985358199_1355"
+                         BASELINE="198,1358 232,1358 257,1358 294,1359 332,1359 370,1361 408,1361 446,1362 483,1363 521,1364 559,1364 597,1365 635,1366 672,1366 710,1367 748,1367 786,1368 824,1368 861,1369 899,1369 937,1370 975,1370 1013,1371"
+                         HEIGHT="50"
+                         WIDTH="815"
+                         VPOS="1332"
+                         HPOS="198">
+                  <String ID="string_line_1615985358199_1355"
+                          HEIGHT="50"
+                          WIDTH="815"
+                          VPOS="1332"
+                          HPOS="198"
+                          CONTENT="3) Erſte Berichterſtattung aus den Spezial⸗Conferenzen."/>
+               </TextLine>
+               <TextLine ID="line_1615985361639_1359"
+                         BASELINE="203,1406 223,1408 259,1408 317,1408 376,1408 434,1409 493,1409 552,1410 610,1411 669,1412 727,1413 786,1414 845,1416 903,1417 962,1417 1020,1418 1079,1419 1138,1419 1196,1419 1255,1418 1313,1418 1372,1417 1431,1415"
+                         HEIGHT="52"
+                         WIDTH="1228"
+                         VPOS="1381"
+                         HPOS="203">
+                  <String ID="string_line_1615985361639_1359"
+                          HEIGHT="52"
+                          WIDTH="1228"
+                          VPOS="1381"
+                          HPOS="203"
+                          CONTENT="4) Fortſetzung der Begrüßungen und Mittheilungen der Abgeordneten der verſchie⸗"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="256,1454 314,1453 373,1453 432,1454 490,1455 549,1456 608,1457 666,1458 725,1459 784,1461 843,1462 901,1463 960,1464 1019,1465 1077,1466 1136,1466 1195,1466 1253,1466 1312,1465 1371,1464 1430,1462"
+                         HEIGHT="56"
+                         WIDTH="1174"
+                         VPOS="1421"
+                         HPOS="256">
+                  <String ID="string_r1l33"
+                          HEIGHT="56"
+                          WIDTH="1174"
+                          VPOS="1421"
+                          HPOS="256"
+                          CONTENT="denen Kirchengemeinſchaften, Vereine und Anſtalten, welche ſich dem Kirchentage"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="254,1497 280,1499 306,1500 333,1501 359,1501 386,1501 412,1501 438,1502 465,1502 491,1502 518,1503"
+                         HEIGHT="47"
+                         WIDTH="264"
+                         VPOS="1472"
+                         HPOS="254">
+                  <String ID="string_r1l34"
+                          HEIGHT="47"
+                          WIDTH="264"
+                          VPOS="1472"
+                          HPOS="254"
+                          CONTENT="angeſchloſſen haben."/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="562,1549 587,1550 613,1551 639,1552 665,1552 691,1553 717,1553 743,1553 769,1554 795,1554 821,1554 846,1554 872,1554 898,1554 924,1555 950,1555 976,1555 1002,1556 1028,1556 1054,1557 1080,1557"
+                         HEIGHT="58"
+                         WIDTH="518"
+                         VPOS="1512"
+                         HPOS="562">
+                  <String ID="string_r1l35"
+                          HEIGHT="58"
+                          WIDTH="518"
+                          VPOS="1512"
+                          HPOS="562"
+                          CONTENT="Freitag, den 14. September."/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="309,1592 354,1593 399,1593 444,1594 489,1594 534,1595 579,1595 625,1596 670,1596 715,1597 760,1597 805,1598 850,1599 895,1599 941,1600 986,1600 1031,1601 1076,1601 1121,1602 1166,1603 1212,1603"
+                         HEIGHT="52"
+                         WIDTH="903"
+                         VPOS="1560"
+                         HPOS="309">
+                  <String ID="string_r1l36"
+                          HEIGHT="52"
+                          WIDTH="903"
+                          VPOS="1560"
+                          HPOS="309"
+                          CONTENT="Unter Leitung des Central⸗Ausſchuſſes für die innere Miſſion:"/>
+               </TextLine>
+               <TextLine ID="line_1615985365754_1363"
+                         BASELINE="203,1634 230,1633 257,1639 315,1638 373,1638 431,1638 490,1638 548,1639 606,1639 665,1640 723,1641 781,1643 840,1644 898,1645 956,1646 1014,1647 1073,1648 1131,1648 1189,1648 1248,1648 1306,1648 1364,1647 1423,1646"
+                         HEIGHT="50"
+                         WIDTH="1220"
+                         VPOS="1612"
+                         HPOS="203">
+                  <String ID="string_line_1615985365754_1363"
+                          HEIGHT="50"
+                          WIDTH="1220"
+                          VPOS="1612"
+                          HPOS="203"
+                          CONTENT="1) Die Erziehung des weiblichen Geſchlechts in den arbeitenden Ständen mit beſon⸗"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="253,1683 311,1683 370,1683 428,1683 487,1683 545,1684 604,1685 662,1686 721,1688 779,1689 838,1690 896,1691 955,1693 1013,1694 1072,1695 1130,1695 1189,1696 1247,1696 1306,1696 1364,1695 1423,1694"
+                         HEIGHT="59"
+                         WIDTH="1170"
+                         VPOS="1650"
+                         HPOS="253">
+                  <String ID="string_r1l39"
+                          HEIGHT="59"
+                          WIDTH="1170"
+                          VPOS="1650"
+                          HPOS="253"
+                          CONTENT="derer Rückſicht auf die desfallſigen ſittlichen Aufgaben für die Fabrikbevölkerung,"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="251,1728 294,1728 337,1729 381,1730 424,1730 468,1731 511,1731 554,1732 598,1732 641,1733 685,1733 728,1734 771,1734 815,1735 858,1736 902,1737 945,1738 988,1738 1032,1740 1075,1741 1119,1742"
+                         HEIGHT="57"
+                         WIDTH="868"
+                         VPOS="1696"
+                         HPOS="251">
+                  <String ID="string_r1l40"
+                          HEIGHT="57"
+                          WIDTH="868"
+                          VPOS="1696"
+                          HPOS="251"
+                          CONTENT="eingeleitet durch Herrn Ober⸗Conſiſtorialrath Dr. Wichern."/>
+               </TextLine>
+               <TextLine ID="line_1615985368312_1367"
+                         BASELINE="197,1778 218,1780 255,1778 314,1777 373,1777 432,1777 491,1777 550,1778 609,1779 668,1780 727,1781 786,1783 845,1784 904,1785 963,1786 1022,1787 1081,1787 1140,1788 1199,1787 1258,1787 1317,1786 1376,1784 1435,1782"
+                         HEIGHT="50"
+                         WIDTH="1238"
+                         VPOS="1752"
+                         HPOS="197">
+                  <String ID="string_line_1615985368312_1367"
+                          HEIGHT="50"
+                          WIDTH="1238"
+                          VPOS="1752"
+                          HPOS="197"
+                          CONTENT="2 Fortſetzung der Begrüßungen und Mittheilungen der verſchiedenen Kirchengemein⸗"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="248,1826 307,1825 366,1825 425,1825 484,1825 543,1825 602,1826 661,1827 720,1828 779,1830 839,1831 898,1832 957,1833 1016,1834 1075,1834 1134,1835 1193,1835 1252,1834 1311,1833 1370,1832 1430,1829"
+                         HEIGHT="53"
+                         WIDTH="1182"
+                         VPOS="1793"
+                         HPOS="248">
+                  <String ID="string_r1l43"
+                          HEIGHT="53"
+                          WIDTH="1182"
+                          VPOS="1793"
+                          HPOS="248"
+                          CONTENT="ſchaften, Vereine und Anſtalten, welche ſich dem Kirchentage angeſchloſſen haben."/>
+               </TextLine>
+               <TextLine ID="line_1615985371455_1371"
+                         BASELINE="197,1874 218,1874 245,1874 284,1874 323,1873 363,1873 402,1873 442,1873 481,1873 520,1874 560,1874 599,1874 639,1874 678,1874 717,1875 757,1875 796,1876 836,1876 875,1877 914,1877 954,1878 993,1879 1033,1880"
+                         HEIGHT="47"
+                         WIDTH="836"
+                         VPOS="1847"
+                         HPOS="197">
+                  <String ID="string_line_1615985371455_1371"
+                          HEIGHT="47"
+                          WIDTH="836"
+                          VPOS="1847"
+                          HPOS="197"
+                          CONTENT="3) Zweite Berichterſtattung aus den Spezial⸗Conferenzen."/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="255,1921 313,1920 372,1919 430,1918 489,1918 548,1919 606,1920 665,1920 723,1921 782,1922 841,1924 899,1925 958,1926 1016,1927 1075,1927 1134,1928 1192,1927 1251,1927 1309,1926 1368,1924 1427,1921"
+                         HEIGHT="56"
+                         WIDTH="1172"
+                         VPOS="1885"
+                         HPOS="255">
+                  <String ID="string_r1l46"
+                          HEIGHT="56"
+                          WIDTH="1172"
+                          VPOS="1885"
+                          HPOS="255"
+                          CONTENT="Außerdem hat der Central⸗Ausſchuß für die innere Miſſion über folgende Gegen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l47"
+                         BASELINE="202,1968 263,1967 324,1966 385,1966 446,1966 507,1966 568,1967 629,1968 690,1968 751,1969 813,1970 874,1971 935,1972 996,1973 1057,1973 1118,1974 1179,1974 1240,1973 1301,1972 1362,1970 1424,1969"
+                         HEIGHT="53"
+                         WIDTH="1222"
+                         VPOS="1934"
+                         HPOS="202">
+                  <String ID="string_r1l47"
+                          HEIGHT="53"
+                          WIDTH="1222"
+                          VPOS="1934"
+                          HPOS="202"
+                          CONTENT="ſtände Spezial⸗Conferenzen, die zum Theil in näherer Verbindung mit den Haupt⸗"/>
+               </TextLine>
+               <TextLine ID="r1l48"
+                         BASELINE="196,2015 257,2013 319,2013 380,2013 442,2013 503,2013 565,2014 626,2015 688,2016 749,2017 811,2018 872,2019 934,2020 995,2020 1057,2020 1118,2020 1180,2020 1241,2019 1303,2017 1364,2016 1426,2013"
+                         HEIGHT="53"
+                         WIDTH="1230"
+                         VPOS="1981"
+                         HPOS="196">
+                  <String ID="string_r1l48"
+                          HEIGHT="53"
+                          WIDTH="1230"
+                          VPOS="1981"
+                          HPOS="196"
+                          CONTENT="thematen des 3. und 4. Tages ſtehen werden, veranlaßt. Dieſelben werden vom"/>
+               </TextLine>
+               <TextLine ID="r1l49"
+                         BASELINE="196,2060 257,2060 319,2059 380,2059 442,2060 504,2060 565,2061 627,2062 688,2063 750,2064 812,2065 873,2065 935,2066 996,2066 1058,2067 1120,2066 1181,2066 1243,2065 1304,2064 1366,2062 1428,2060"
+                         HEIGHT="52"
+                         WIDTH="1232"
+                         VPOS="2027"
+                         HPOS="196">
+                  <String ID="string_r1l49"
+                          HEIGHT="52"
+                          WIDTH="1232"
+                          VPOS="2027"
+                          HPOS="196"
+                          CONTENT="11. —14. September in erſt ſpäter zu beſtimmenden Früh⸗ und Nachmittagsſtunden"/>
+               </TextLine>
+               <TextLine ID="r1l50"
+                         BASELINE="195,2106 224,2104 253,2103 283,2105 312,2106 342,2107"
+                         HEIGHT="47"
+                         WIDTH="147"
+                         VPOS="2075"
+                         HPOS="195">
+                  <String ID="string_r1l50"
+                          HEIGHT="47"
+                          WIDTH="147"
+                          VPOS="2075"
+                          HPOS="195"
+                          CONTENT="ſtattfinden."/>
+               </TextLine>
+               <TextLine ID="r1l51"
+                         BASELINE="192,2153 253,2152 315,2151 377,2151 439,2152 501,2152 562,2153 624,2154 686,2155 748,2156 810,2158 871,2159 933,2159 995,2160 1057,2160 1119,2159 1180,2159 1242,2157 1304,2155 1366,2152 1428,2148"
+                         HEIGHT="63"
+                         WIDTH="1236"
+                         VPOS="2111"
+                         HPOS="192">
+                  <String ID="string_r1l51"
+                          HEIGHT="63"
+                          WIDTH="1236"
+                          VPOS="2111"
+                          HPOS="192"
+                          CONTENT="1) Ueber Erziehungsvereine und Rettungsanſtalten und deren Verhältniß"/>
+               </TextLine>
+               <TextLine ID="r1l52"
+                         BASELINE="236,2201 295,2200 354,2198 413,2198 473,2198 532,2199 591,2199 651,2200 710,2202 769,2203 829,2204 888,2205 947,2206 1006,2207 1066,2207 1125,2207 1184,2206 1244,2205 1303,2203 1362,2200 1422,2196"
+                         HEIGHT="55"
+                         WIDTH="1186"
+                         VPOS="2164"
+                         HPOS="236">
+                  <String ID="string_r1l52"
+                          HEIGHT="55"
+                          WIDTH="1186"
+                          VPOS="2164"
+                          HPOS="236"
+                          CONTENT="zu einander, unter Leitung des Herrn Paſtors Bräm aus Neukirchen und Direc—"/>
+               </TextLine>
+               <TextLine ID="r1l53"
+                         BASELINE="240,2243 265,2243 291,2243 317,2244 343,2244 368,2244 394,2244 420,2245 446,2245 471,2245 497,2245 523,2246 549,2246 574,2246 600,2247 626,2247 652,2247 678,2247"
+                         HEIGHT="47"
+                         WIDTH="438"
+                         VPOS="2215"
+                         HPOS="240">
+                  <String ID="string_r1l53"
+                          HEIGHT="47"
+                          WIDTH="438"
+                          VPOS="2215"
+                          HPOS="240"
+                          CONTENT="tors Georgi aus Düſſelthal."/>
+               </TextLine>
+               <TextLine ID="r1l54"
+                         BASELINE="184,2291 246,2290 308,2290 370,2290 432,2290 494,2291 556,2292 618,2293 680,2294 742,2295 804,2296 866,2297 928,2298 990,2298 1052,2298 1114,2298 1176,2298 1238,2296 1300,2295 1362,2293 1424,2290"
+                         HEIGHT="56"
+                         WIDTH="1240"
+                         VPOS="2255"
+                         HPOS="184">
+                  <String ID="string_r1l54"
+                          HEIGHT="56"
+                          WIDTH="1240"
+                          VPOS="2255"
+                          HPOS="184"
+                          CONTENT="2) Ueber die Pflege und Erziehung blödſinniger Kinder, unter Leitung"/>
+               </TextLine>
+               <TextLine ID="r1l55"
+                         BASELINE="240,2333 268,2334 297,2335 326,2336 355,2336 383,2337 412,2337 441,2337 470,2338 498,2338 527,2338 556,2339 585,2339 613,2339 642,2339 671,2340 700,2340 728,2341 757,2341 786,2342 815,2343"
+                         HEIGHT="55"
+                         WIDTH="575"
+                         VPOS="2302"
+                         HPOS="240">
+                  <String ID="string_r1l55"
+                          HEIGHT="55"
+                          WIDTH="575"
+                          VPOS="2302"
+                          HPOS="240"
+                          CONTENT="des Herrn Paſtors Balke aus Rheydt."/>
+               </TextLine>
+               <TextLine ID="r1l56"
+                         BASELINE="189,2379 250,2379 312,2380 373,2380 435,2381 497,2382 558,2384 620,2385 681,2386 743,2387 805,2388 866,2389 928,2390 989,2391 1051,2391 1113,2391 1174,2390 1236,2390 1297,2388 1359,2386 1421,2384"
+                         HEIGHT="59"
+                         WIDTH="1232"
+                         VPOS="2346"
+                         HPOS="189">
+                  <String ID="string_r1l56"
+                          HEIGHT="59"
+                          WIDTH="1232"
+                          VPOS="2346"
+                          HPOS="189"
+                          CONTENT="3) Ueber die Aufgaben der Schriften⸗Vereine und der Bücher⸗Colportage,"/>
+               </TextLine>
+               <TextLine ID="r1l57"
+                         BASELINE="241,2424 278,2426 316,2427 353,2429 391,2430 429,2431 466,2431 504,2432 542,2432 579,2432 617,2433 655,2433 692,2433 730,2433 768,2434 805,2434 843,2434 881,2435 918,2436 956,2437 994,2438"
+                         HEIGHT="49"
+                         WIDTH="753"
+                         VPOS="2392"
+                         HPOS="241">
+                  <String ID="string_r1l57"
+                          HEIGHT="49"
+                          WIDTH="753"
+                          VPOS="2392"
+                          HPOS="241"
+                          CONTENT="unter Leitung des Herrn Prof. Krafft aus Bonn."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

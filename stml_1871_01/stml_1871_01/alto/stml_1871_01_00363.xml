@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:40:08.5+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2339" WIDTH="1420">
+         <TopMargin HEIGHT="0" WIDTH="1420" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="1420"/>
+         <BottomMargin HEIGHT="0" WIDTH="1420" VPOS="2339" HPOS="0"/>
+         <PrintSpace HEIGHT="2339" WIDTH="1420" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2289" WIDTH="1280" VPOS="21" HPOS="79">
+               <Shape>
+                  <Polygon POINTS="79,21 79,2310 1359,2310 1359,21"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="669,43 697,47 725,47 753,48"
+                         HEIGHT="38"
+                         WIDTH="84"
+                         VPOS="21"
+                         HPOS="669">
+                  <String ID="string_r1l1"
+                          HEIGHT="38"
+                          WIDTH="84"
+                          VPOS="21"
+                          HPOS="669"
+                          CONTENT="355"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="92,140 154,140 217,141 279,141 342,141 404,142 467,142 529,142 592,142 654,142 717,142 779,143 842,143 904,143 967,143 1029,143 1092,143 1154,143 1217,143 1279,143 1342,143"
+                         HEIGHT="34"
+                         WIDTH="1250"
+                         VPOS="119"
+                         HPOS="92">
+                  <String ID="string_r1l2"
+                          HEIGHT="34"
+                          WIDTH="1250"
+                          VPOS="119"
+                          HPOS="92"
+                          CONTENT="ſich und der Kirche Achtung zu verſchaffen. Hier ein Beiſpiel davon. Ein Dr."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="81,182 144,183 207,183 270,184 333,185 396,185 459,185 522,185 585,186 648,186 712,186 775,186 838,186 901,186 964,186 1027,186 1090,186 1153,186 1216,186 1279,186 1343,186"
+                         HEIGHT="35"
+                         WIDTH="1262"
+                         VPOS="161"
+                         HPOS="81">
+                  <String ID="string_r1l3"
+                          HEIGHT="35"
+                          WIDTH="1262"
+                          VPOS="161"
+                          HPOS="81"
+                          CONTENT="Bromby, Clergyman der Hochkirche und Vorſtand der hochkirchlichen Lehranſtalt, hielt"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="83,228 146,229 209,229 272,229 335,230 398,230 461,230 525,230 588,230 651,230 714,230 777,230 840,230 903,230 967,230 1030,230 1093,230 1156,231 1219,231 1282,232 1346,232"
+                         HEIGHT="35"
+                         WIDTH="1263"
+                         VPOS="207"
+                         HPOS="83">
+                  <String ID="string_r1l4"
+                          HEIGHT="35"
+                          WIDTH="1263"
+                          VPOS="207"
+                          HPOS="83"
+                          CONTENT="vor einigen Monaten in der großartigen neuen Stadthalle einen Vortrag (lecture),"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="79,272 142,273 205,273 268,274 332,274 395,274 458,274 522,274 585,274 648,274 712,274 775,274 838,274 901,274 965,274 1028,274 1091,274 1155,275 1218,275 1281,275 1345,276"
+                         HEIGHT="35"
+                         WIDTH="1266"
+                         VPOS="251"
+                         HPOS="79">
+                  <String ID="string_r1l5"
+                          HEIGHT="35"
+                          WIDTH="1266"
+                          VPOS="251"
+                          HPOS="79"
+                          CONTENT="worin er unter anderen Thorheiten auch die behauptete, daß der Gottloſe nach ſeinem"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="81,317 144,318 207,318 270,318 333,318 397,319 460,319 523,319 586,319 649,319 713,319 776,319 839,319 902,319 965,319 1029,319 1092,320 1155,320 1218,320 1281,320 1345,321"
+                         HEIGHT="34"
+                         WIDTH="1264"
+                         VPOS="297"
+                         HPOS="81">
+                  <String ID="string_r1l6"
+                          HEIGHT="34"
+                          WIDTH="1264"
+                          VPOS="297"
+                          HPOS="81"
+                          CONTENT="Tode, ſtatt in die Hölle zu ſtürzen, in's Nichts zurückkehre, etwa wie eine Thierſeele."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="88,363 150,363 213,363 276,363 339,363 402,363 465,363 528,363 591,363 654,363 717,363 779,363 842,363 905,363 968,363 1031,363 1094,363 1157,363 1220,363 1283,363 1346,363"
+                         HEIGHT="31"
+                         WIDTH="1258"
+                         VPOS="342"
+                         HPOS="88">
+                  <String ID="string_r1l7"
+                          HEIGHT="31"
+                          WIDTH="1258"
+                          VPOS="342"
+                          HPOS="88"
+                          CONTENT="Der Mann genoß großes Anſehen, und ſeine Behauptung, die er bald durch den"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="84,407 147,407 210,407 273,408 336,408 399,408 462,408 525,408 588,408 651,408 715,407 778,407 841,407 904,407 967,407 1030,407 1093,407 1156,407 1219,407 1282,408 1346,408"
+                         HEIGHT="32"
+                         WIDTH="1262"
+                         VPOS="386"
+                         HPOS="84">
+                  <String ID="string_r1l8"
+                          HEIGHT="32"
+                          WIDTH="1262"
+                          VPOS="386"
+                          HPOS="84"
+                          CONTENT="Druck herausgab, fand beim leichtſinnigen Publikum großen Anklang. Da hielt nun"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="81,450 144,451 207,451 270,451 334,451 397,452 460,452 523,452 587,452 650,452 713,452 776,452 840,453 903,453 966,453 1029,453 1093,453 1156,453 1219,453 1282,453 1346,452"
+                         HEIGHT="34"
+                         WIDTH="1265"
+                         VPOS="429"
+                         HPOS="81">
+                  <String ID="string_r1l9"
+                          HEIGHT="34"
+                          WIDTH="1265"
+                          VPOS="429"
+                          HPOS="81"
+                          CONTENT="P. William Kelly einen Vortrag über dieſe gefährliche Lehre in derſelben Halle, welche"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="85,496 148,496 211,496 274,496 338,496 401,496 464,496 527,496 591,497 654,497 717,497 780,497 844,497 907,497 970,497 1033,497 1097,497 1160,497 1223,497 1286,497 1350,497"
+                         HEIGHT="32"
+                         WIDTH="1265"
+                         VPOS="475"
+                         HPOS="85">
+                  <String ID="string_r1l10"
+                          HEIGHT="32"
+                          WIDTH="1265"
+                          VPOS="475"
+                          HPOS="85"
+                          CONTENT="von Zuhörern aller Stände und Confeſſionen gedrängt voll war. Lautlos horchte die"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="87,540 149,540 212,541 275,541 338,541 401,542 464,542 526,542 589,542 652,542 715,542 778,542 841,542 904,541 966,541 1029,542 1092,542 1155,542 1218,542 1281,543 1344,543"
+                         HEIGHT="34"
+                         WIDTH="1257"
+                         VPOS="519"
+                         HPOS="87">
+                  <String ID="string_r1l11"
+                          HEIGHT="34"
+                          WIDTH="1257"
+                          VPOS="519"
+                          HPOS="87"
+                          CONTENT="Menge faſt drei Stunden lang dem fließenden Strome der Beredſamkeit des Paters,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="86,586 148,586 211,586 274,586 336,586 399,586 462,586 524,586 587,586 650,586 713,586 775,586 838,586 901,586 963,586 1026,586 1089,586 1151,586 1214,586 1277,586 1340,586"
+                         HEIGHT="31"
+                         WIDTH="1254"
+                         VPOS="565"
+                         HPOS="86">
+                  <String ID="string_r1l12"
+                          HEIGHT="31"
+                          WIDTH="1254"
+                          VPOS="565"
+                          HPOS="86"
+                          CONTENT="und ein rauſchender allgemeiner Beifall am Schluſſe beſiegelte den Erfolg. Der hoch⸗"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="91,630 153,630 216,630 279,630 342,630 405,630 467,630 530,630 593,630 656,631 719,631 781,631 844,631 907,631 970,631 1033,631 1095,631 1158,631 1221,631 1284,632 1347,632"
+                         HEIGHT="33"
+                         WIDTH="1256"
+                         VPOS="609"
+                         HPOS="91">
+                  <String ID="string_r1l13"
+                          HEIGHT="33"
+                          WIDTH="1256"
+                          VPOS="609"
+                          HPOS="91"
+                          CONTENT="kirchliche Biſchof ſelbſt war zugegen und ſchloß ſich dem Ausdrucke des Beifalles an."/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="83,675 146,675 209,674 272,674 335,674 399,674 462,674 525,674 588,674 651,674 715,674 778,674 841,674 904,674 967,675 1031,675 1094,675 1157,675 1220,676 1283,676 1347,676"
+                         HEIGHT="33"
+                         WIDTH="1264"
+                         VPOS="653"
+                         HPOS="83">
+                  <String ID="string_r1l14"
+                          HEIGHT="33"
+                          WIDTH="1264"
+                          VPOS="653"
+                          HPOS="83"
+                          CONTENT="Am folgenden Tage waren die (proteſtantiſchen) Zeitungen, welche die lecture am"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="83,720 146,720 209,719 272,719 335,719 399,719 462,719 525,719 588,719 651,718 715,718 778,718 841,718 904,719 967,719 1031,719 1094,719 1157,719 1220,719 1283,719 1347,720"
+                         HEIGHT="33"
+                         WIDTH="1264"
+                         VPOS="697"
+                         HPOS="83">
+                  <String ID="string_r1l15"
+                          HEIGHT="33"
+                          WIDTH="1264"
+                          VPOS="697"
+                          HPOS="83"
+                          CONTENT="ausführlichſten gaben, um 10 Uhr alle vergriffen; P. Kelly gab dem allgemeinen"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="81,764 144,763 207,763 270,763 333,763 396,762 459,762 522,762 585,762 648,762 711,763 774,763 837,763 900,763 963,763 1026,763 1089,763 1152,763 1215,763 1278,763 1341,763"
+                         HEIGHT="33"
+                         WIDTH="1260"
+                         VPOS="741"
+                         HPOS="81">
+                  <String ID="string_r1l16"
+                          HEIGHT="33"
+                          WIDTH="1260"
+                          VPOS="741"
+                          HPOS="81"
+                          CONTENT="Wunſche nach und veröffentlichte ſeine Vorlesung im Druck, und Dr. Bromby ließ"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="87,807 113,807 139,808 166,808 192,808 218,808 245,808 271,808 298,807 324,807 350,806 377,806 403,805 429,805 456,805 482,805 509,805"
+                         HEIGHT="34"
+                         WIDTH="422"
+                         VPOS="784"
+                         HPOS="87">
+                  <String ID="string_r1l17"
+                          HEIGHT="34"
+                          WIDTH="422"
+                          VPOS="784"
+                          HPOS="87"
+                          CONTENT="weiter nichts von ſich hören.”"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="149,905 209,905 269,905 329,905 389,905 449,905 509,905 570,905 630,905 690,905 750,905 810,905 870,905 930,905 991,905 1051,905 1111,905 1171,905 1231,905 1291,905 1352,906"
+                         HEIGHT="32"
+                         WIDTH="1203"
+                         VPOS="884"
+                         HPOS="149">
+                  <String ID="string_r1l18"
+                          HEIGHT="32"
+                          WIDTH="1203"
+                          VPOS="884"
+                          HPOS="149"
+                          CONTENT="Südamerika. Während die Revolution jetzt wiederum ihren blutigen Umgang"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="87,950 149,950 212,949 275,949 338,949 400,949 463,949 526,949 589,949 651,950 714,950 777,950 840,950 902,950 965,950 1028,950 1091,950 1153,950 1216,950 1279,949 1342,949"
+                         HEIGHT="32"
+                         WIDTH="1255"
+                         VPOS="928"
+                         HPOS="87">
+                  <String ID="string_r1l19"
+                          HEIGHT="32"
+                          WIDTH="1255"
+                          VPOS="928"
+                          HPOS="87"
+                          CONTENT="in den Republiken Centralamerika’s hält, zeigen ſich in den südamerikaniſchen gün⸗"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="87,993 149,994 212,994 275,994 338,994 401,995 464,995 526,995 589,995 652,995 715,995 778,994 841,994 904,994 966,994 1029,994 1092,994 1155,994 1218,994 1281,994 1344,995"
+                         HEIGHT="33"
+                         WIDTH="1257"
+                         VPOS="972"
+                         HPOS="87">
+                  <String ID="string_r1l20"
+                          HEIGHT="33"
+                          WIDTH="1257"
+                          VPOS="972"
+                          HPOS="87"
+                          CONTENT="ſtigere Ausſichten für die Kirche. In Peru kann endlich der päpſtliche Delegat ſeinen"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="83,1037 145,1038 208,1038 271,1039 334,1039 397,1039 460,1039 523,1039 586,1039 649,1039 712,1039 774,1039 837,1039 900,1039 963,1039 1026,1039 1089,1039 1152,1039 1215,1039 1278,1039 1341,1039"
+                         HEIGHT="35"
+                         WIDTH="1258"
+                         VPOS="1015"
+                         HPOS="83">
+                  <String ID="string_r1l21"
+                          HEIGHT="35"
+                          WIDTH="1258"
+                          VPOS="1015"
+                          HPOS="83"
+                          CONTENT="Sitz nehmen. Nach Neu⸗Granada konnten die katholiſchen Biſchöfe, welche in Folge"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="83,1083 149,1083 215,1083 281,1083 348,1084 414,1084 480,1084 546,1084 613,1084 679,1084 745,1084 811,1084 878,1084 944,1084 1010,1084 1076,1084 1143,1084 1209,1084 1275,1084 1342,1084"
+                         HEIGHT="32"
+                         WIDTH="1259"
+                         VPOS="1062"
+                         HPOS="83">
+                  <String ID="string_r1l22"
+                          HEIGHT="32"
+                          WIDTH="1259"
+                          VPOS="1062"
+                          HPOS="83"
+                          CONTENT="der Revolution vom Juli 1861 (nicht 1851, wie irrthümlich im vorigen Heft, S. 218,"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="85,1130 148,1130 211,1130 274,1129 337,1129 400,1129 463,1129 526,1129 589,1129 652,1129 716,1129 779,1129 842,1129 905,1129 968,1129 1031,1129 1094,1129 1157,1129 1220,1128 1283,1128 1347,1127"
+                         HEIGHT="34"
+                         WIDTH="1262"
+                         VPOS="1106"
+                         HPOS="85">
+                  <String ID="string_r1l23"
+                          HEIGHT="34"
+                          WIDTH="1262"
+                          VPOS="1106"
+                          HPOS="85"
+                          CONTENT="Z. 7, gedruckt worden) in die Verbannung gehen mußten, längſt ſchon zurückkehren"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="90,1173 152,1173 215,1173 277,1173 340,1173 403,1173 465,1173 528,1173 590,1173 653,1173 716,1173 778,1173 841,1173 903,1173 966,1173 1029,1173 1091,1173 1154,1173 1216,1172 1279,1172 1342,1172"
+                         HEIGHT="32"
+                         WIDTH="1252"
+                         VPOS="1151"
+                         HPOS="90">
+                  <String ID="string_r1l24"
+                          HEIGHT="32"
+                          WIDTH="1252"
+                          VPOS="1151"
+                          HPOS="90"
+                          CONTENT="und am 29. Juni 1868 eine Synode feiern, deren heilſame Beſchlüſſe in Rom be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="86,1218 149,1218 212,1218 275,1218 338,1219 402,1219 465,1219 528,1219 591,1219 654,1219 718,1218 781,1218 844,1218 907,1218 970,1218 1034,1217 1097,1217 1160,1217 1223,1217 1286,1216 1350,1216"
+                         HEIGHT="36"
+                         WIDTH="1264"
+                         VPOS="1194"
+                         HPOS="86">
+                  <String ID="string_r1l25"
+                          HEIGHT="36"
+                          WIDTH="1264"
+                          VPOS="1194"
+                          HPOS="86"
+                          CONTENT="ſtätigt wurden und dann ſammt einer ſpaniſchen Überſetzung in der Metropolitan⸗"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="88,1264 151,1264 214,1264 277,1264 340,1264 403,1264 466,1264 529,1264 592,1264 655,1264 719,1264 782,1264 845,1264 908,1264 971,1263 1034,1263 1097,1263 1160,1262 1223,1262 1286,1261 1350,1261"
+                         HEIGHT="34"
+                         WIDTH="1262"
+                         VPOS="1240"
+                         HPOS="88">
+                  <String ID="string_r1l26"
+                          HEIGHT="34"
+                          WIDTH="1262"
+                          VPOS="1240"
+                          HPOS="88"
+                          CONTENT="druckerei von Bogota erſchienen. Ebendort wird auch ein officielles kirchliches Wochen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="83,1307 116,1308 150,1308 183,1309 217,1309 250,1309 284,1309 317,1309 351,1309 384,1308 418,1308 451,1308 485,1308 518,1307 552,1307 585,1307 619,1307 652,1308 686,1308 719,1309 753,1310"
+                         HEIGHT="34"
+                         WIDTH="670"
+                         VPOS="1286"
+                         HPOS="83">
+                  <String ID="string_r1l27"
+                          HEIGHT="34"
+                          WIDTH="670"
+                          VPOS="1286"
+                          HPOS="83"
+                          CONTENT="blatt, „La Unidad catolica,“ herausgegeben."/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="163,1397 222,1398 281,1398 340,1398 400,1399 459,1399 518,1399 577,1399 637,1399 696,1399 755,1398 814,1398 874,1398 933,1397 992,1397 1051,1396 1111,1396 1170,1395 1229,1395 1288,1394 1358,1396"
+                         HEIGHT="37"
+                         WIDTH="1185"
+                         VPOS="1372"
+                         HPOS="163">
+                  <String ID="string_r1l28"
+                          HEIGHT="37"
+                          WIDTH="1185"
+                          VPOS="1372"
+                          HPOS="163"
+                          CONTENT="Literariſches. Die populären Schriften, welche in der Gegenwart die päpſt⸗"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="89,1442 152,1443 215,1443 278,1444 341,1444 405,1444 468,1444 531,1444 594,1443 657,1443 721,1443 784,1442 847,1442 910,1441 973,1441 1037,1440 1100,1440 1163,1440 1226,1439 1289,1439 1353,1439"
+                         HEIGHT="36"
+                         WIDTH="1264"
+                         VPOS="1418"
+                         HPOS="89">
+                  <String ID="string_r1l29"
+                          HEIGHT="36"
+                          WIDTH="1264"
+                          VPOS="1418"
+                          HPOS="89"
+                          CONTENT="liche Unfehlbarkeit vertheidigten, behandelten gewöhnlich dieſen Gegenſtand abgeriſſen"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="87,1487 149,1488 212,1488 275,1488 338,1488 401,1488 463,1488 526,1488 589,1487 652,1487 715,1486 777,1486 840,1486 903,1485 966,1485 1029,1484 1091,1484 1154,1484 1217,1483 1280,1483 1343,1483"
+                         HEIGHT="36"
+                         WIDTH="1256"
+                         VPOS="1462"
+                         HPOS="87">
+                  <String ID="string_r1l30"
+                          HEIGHT="36"
+                          WIDTH="1256"
+                          VPOS="1462"
+                          HPOS="87"
+                          CONTENT="für ſich, weil derſelbe das am meiſten angegriffene Dogma war. Hierdurch geht aber"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="89,1533 151,1533 214,1533 277,1533 340,1533 403,1532 466,1532 529,1531 592,1531 655,1530 718,1530 780,1529 843,1529 906,1529 969,1528 1032,1528 1095,1528 1158,1528 1221,1528 1284,1529 1347,1529"
+                         HEIGHT="36"
+                         WIDTH="1258"
+                         VPOS="1507"
+                         HPOS="89">
+                  <String ID="string_r1l31"
+                          HEIGHT="36"
+                          WIDTH="1258"
+                          VPOS="1507"
+                          HPOS="89"
+                          CONTENT="für deſſen Verſtändniß viel Licht verloren; denn die genannte Prärogative des Papſtes"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="85,1577 148,1577 211,1577 274,1577 337,1577 400,1576 463,1576 526,1576 589,1575 652,1575 715,1575 778,1574 841,1574 904,1574 967,1574 1030,1574 1093,1574 1156,1574 1219,1574 1282,1574 1346,1574"
+                         HEIGHT="34"
+                         WIDTH="1261"
+                         VPOS="1553"
+                         HPOS="85">
+                  <String ID="string_r1l32"
+                          HEIGHT="34"
+                          WIDTH="1261"
+                          VPOS="1553"
+                          HPOS="85"
+                          CONTENT="ergibt ſich, ſelbſt nach dem Zugeſtändniſſe gelehrter Proteſtanten, mit Evidenz aus"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="87,1623 153,1623 219,1622 285,1622 352,1622 418,1621 484,1621 550,1621 617,1621 683,1620 749,1620 815,1620 882,1619 948,1619 1014,1619 1080,1619 1147,1619 1213,1619 1279,1619 1346,1619"
+                         HEIGHT="35"
+                         WIDTH="1259"
+                         VPOS="1598"
+                         HPOS="87">
+                  <String ID="string_r1l33"
+                          HEIGHT="35"
+                          WIDTH="1259"
+                          VPOS="1598"
+                          HPOS="87"
+                          CONTENT="der katholiſchen Idee der Kirche und kirchlichen Verfaſſung, deren Schlußſtein ſie"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="86,1668 149,1667 212,1667 275,1666 338,1666 402,1666 465,1666 528,1665 591,1665 654,1665 718,1665 781,1665 844,1665 907,1665 970,1665 1034,1665 1097,1665 1160,1664 1223,1664 1286,1664 1350,1664"
+                         HEIGHT="35"
+                         WIDTH="1264"
+                         VPOS="1643"
+                         HPOS="86">
+                  <String ID="string_r1l34"
+                          HEIGHT="35"
+                          WIDTH="1264"
+                          VPOS="1643"
+                          HPOS="86"
+                          CONTENT="bildet. Darum freut es uns, daß, nachdem der heftigſte Sturm wider die päpſtliche"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="88,1712 151,1711 214,1711 277,1711 340,1710 403,1710 466,1710 529,1710 592,1710 655,1710 718,1710 781,1710 844,1710 907,1710 970,1710 1033,1710 1096,1709 1159,1709 1222,1708 1285,1708 1348,1707"
+                         HEIGHT="36"
+                         WIDTH="1260"
+                         VPOS="1686"
+                         HPOS="88">
+                  <String ID="string_r1l35"
+                          HEIGHT="36"
+                          WIDTH="1260"
+                          VPOS="1686"
+                          HPOS="88"
+                          CONTENT="Unfehlbarkeit vorübergebrauſt iſt, populäre Schriften dieſe jetzt auch im Zuſammen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="88,1758 151,1757 214,1756 277,1756 340,1755 403,1755 466,1755 529,1755 592,1755 655,1755 718,1755 781,1755 844,1755 907,1755 970,1755 1033,1755 1096,1755 1159,1754 1222,1753 1285,1752 1349,1751"
+                         HEIGHT="38"
+                         WIDTH="1261"
+                         VPOS="1730"
+                         HPOS="88">
+                  <String ID="string_r1l36"
+                          HEIGHT="38"
+                          WIDTH="1261"
+                          VPOS="1730"
+                          HPOS="88"
+                          CONTENT="hange mit der ganzen kirchlichen Verfaſſung zu behandeln beginnen, wie es z. B."/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="87,1802 150,1801 213,1800 276,1800 339,1800 402,1801 465,1801 528,1801 591,1802 654,1802 717,1802 780,1803 843,1803 906,1803 969,1802 1032,1802 1095,1801 1158,1800 1221,1798 1284,1796 1348,1794"
+                         HEIGHT="40"
+                         WIDTH="1261"
+                         VPOS="1773"
+                         HPOS="87">
+                  <String ID="string_r1l37"
+                          HEIGHT="40"
+                          WIDTH="1261"
+                          VPOS="1773"
+                          HPOS="87"
+                          CONTENT="in der trefflichen Schrift Grundkötter's, „Die Verfaſſung der Kirche“ (Ruſſel,"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="87,1847 113,1847 139,1848 166,1848 192,1848 219,1848 245,1848 272,1847 298,1847 325,1847 351,1846 377,1846 404,1846 430,1845 457,1845 483,1845 510,1845 536,1845 563,1846 589,1847 616,1847"
+                         HEIGHT="34"
+                         WIDTH="529"
+                         VPOS="1824"
+                         HPOS="87">
+                  <String ID="string_r1l38"
+                          HEIGHT="34"
+                          WIDTH="529"
+                          VPOS="1824"
+                          HPOS="87"
+                          CONTENT="Münſter 1871. SS. 308), geſchieht."/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="162,1946 221,1945 280,1944 339,1944 399,1944 458,1943 517,1943 576,1943 636,1943 695,1943 754,1943 813,1942 873,1942 932,1942 991,1941 1050,1941 1110,1940 1169,1938 1228,1937 1287,1935 1347,1933"
+                         HEIGHT="44"
+                         WIDTH="1185"
+                         VPOS="1912"
+                         HPOS="162">
+                  <String ID="string_r1l39"
+                          HEIGHT="44"
+                          WIDTH="1185"
+                          VPOS="1912"
+                          HPOS="162"
+                          CONTENT="Todtenzettel eines Proteſtkatholiken. Um einen neuen Beweis zu liefern,"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="88,1989 151,1989 214,1990 277,1990 340,1990 403,1990 466,1990 529,1990 592,1990 655,1989 718,1989 781,1988 844,1988 907,1987 970,1986 1033,1985 1096,1984 1159,1983 1222,1981 1285,1979 1349,1977"
+                         HEIGHT="44"
+                         WIDTH="1261"
+                         VPOS="1956"
+                         HPOS="88">
+                  <String ID="string_r1l40"
+                          HEIGHT="44"
+                          WIDTH="1261"
+                          VPOS="1956"
+                          HPOS="88"
+                          CONTENT="wie die Proteſtkatholiken den Tod eines ihrer Mitglieder zur Propaganda mißbrauchen,"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="96,2034 141,2034 187,2034 233,2034 279,2034 325,2034 371,2035 417,2035 463,2035 509,2035 555,2035 600,2034 646,2034 692,2034 738,2033 784,2033 830,2032 876,2032 922,2031 968,2030 1014,2029"
+                         HEIGHT="37"
+                         WIDTH="918"
+                         VPOS="2008"
+                         HPOS="96">
+                  <String ID="string_r1l41"
+                          HEIGHT="37"
+                          WIDTH="918"
+                          VPOS="2008"
+                          HPOS="96"
+                          CONTENT="theilen wir folgenden in Bonn ausgegebenen Todtenzettel mit:"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="159,2091 218,2091 277,2091 336,2091 396,2090 455,2090 514,2089 574,2089 633,2088 692,2087 752,2087 811,2086 870,2085 929,2084 989,2083 1048,2082 1107,2080 1167,2079 1226,2077 1285,2076 1345,2074"
+                         HEIGHT="48"
+                         WIDTH="1186"
+                         VPOS="2053"
+                         HPOS="159">
+                  <String ID="string_r1l42"
+                          HEIGHT="48"
+                          WIDTH="1186"
+                          VPOS="2053"
+                          HPOS="159"
+                          CONTENT="„Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt.“"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="94,2129 119,2131 144,2132 169,2133 194,2133 219,2133 244,2133 269,2134 295,2136"
+                         HEIGHT="37"
+                         WIDTH="201"
+                         VPOS="2109"
+                         HPOS="94">
+                  <String ID="string_r1l43"
+                          HEIGHT="37"
+                          WIDTH="201"
+                          VPOS="2109"
+                          HPOS="94"
+                          CONTENT="II. Tim. 4, 7."/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="161,2178 220,2179 280,2180 340,2180 400,2180 460,2180 520,2179 580,2179 640,2178 700,2177 760,2176 819,2174 879,2173 939,2172 999,2171 1059,2169 1119,2168 1179,2167 1239,2166 1299,2165 1359,2164"
+                         HEIGHT="47"
+                         WIDTH="1198"
+                         VPOS="2143"
+                         HPOS="161">
+                  <String ID="string_r1l44"
+                          HEIGHT="47"
+                          WIDTH="1198"
+                          VPOS="2143"
+                          HPOS="161"
+                          CONTENT="„Zum Andenken an den hochw. Herrn Johann Baptiſt Baltzer, Doctor"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="84,2217 147,2219 211,2222 274,2224 338,2224 402,2225 465,2225 529,2224 593,2223 656,2222 720,2221 784,2219 847,2218 911,2216 975,2215 1038,2213 1102,2212 1166,2211 1229,2210 1293,2210 1357,2210"
+                         HEIGHT="46"
+                         WIDTH="1273"
+                         VPOS="2189"
+                         HPOS="84">
+                  <String ID="string_r1l45"
+                          HEIGHT="46"
+                          WIDTH="1273"
+                          VPOS="2189"
+                          HPOS="84"
+                          CONTENT="der Philoſophie und Theologie, Domcapitular und Profeſſor der Dogmatik an der"/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="92,2264 155,2267 218,2269 281,2271 344,2271 407,2272 470,2272 533,2271 596,2270 659,2269 722,2267 785,2265 848,2263 911,2262 974,2260 1037,2259 1100,2257 1163,2256 1226,2256 1289,2256 1352,2256"
+                         HEIGHT="49"
+                         WIDTH="1260"
+                         VPOS="2234"
+                         HPOS="92">
+                  <String ID="string_r1l46"
+                          HEIGHT="49"
+                          WIDTH="1260"
+                          VPOS="2234"
+                          HPOS="92"
+                          CONTENT="Univerſität zu Breslau, Ritter ꝛc., welcher, 68 Jahre alt, nach einem kurzen, aber"/>
+               </TextLine>
+               <TextLine ID="r1l47"
+                         BASELINE="1085,2299 1113,2299 1141,2297"
+                         HEIGHT="35"
+                         WIDTH="56"
+                         VPOS="2275"
+                         HPOS="1085">
+                  <String ID="string_r1l47"
+                          HEIGHT="35"
+                          WIDTH="56"
+                          VPOS="2275"
+                          HPOS="1085"
+                          CONTENT="24*"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

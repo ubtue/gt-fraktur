@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:51:14.841+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2354" WIDTH="1249">
+         <TopMargin HEIGHT="0" WIDTH="1249" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2354" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2354" WIDTH="0" VPOS="0" HPOS="1249"/>
+         <BottomMargin HEIGHT="0" WIDTH="1249" VPOS="2354" HPOS="0"/>
+         <PrintSpace HEIGHT="2354" WIDTH="1249" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2162" WIDTH="1028" VPOS="101" HPOS="31">
+               <Shape>
+                  <Polygon POINTS="31,101 31,2263 1059,2263 1059,101"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="983,128 1019,130 1055,132"
+                         HEIGHT="44"
+                         WIDTH="72"
+                         VPOS="101"
+                         HPOS="983">
+                  <String ID="string_r1l1"
+                          HEIGHT="44"
+                          WIDTH="72"
+                          VPOS="101"
+                          HPOS="983"
+                          CONTENT="295"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="53,203 103,205 153,207 203,209 253,211 303,212 353,213 403,213 453,214 503,214 554,214 604,214 654,214 704,215 754,215 804,215 854,215 904,216 954,217 1004,218 1055,219"
+                         HEIGHT="56"
+                         WIDTH="1002"
+                         VPOS="176"
+                         HPOS="53">
+                  <String ID="string_r1l2"
+                          HEIGHT="56"
+                          WIDTH="1002"
+                          VPOS="176"
+                          HPOS="53"
+                          CONTENT="denden anſtellte, bald ohne eine ſolche ihn geſund"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="57,260 107,263 157,265 207,266 257,268 307,269 357,269 407,270 457,270 507,270 558,270 608,270 658,270 708,271 758,271 808,271 858,272 908,273 958,274 1008,276 1059,278"
+                         HEIGHT="58"
+                         WIDTH="1002"
+                         VPOS="233"
+                         HPOS="57">
+                  <String ID="string_r1l3"
+                          HEIGHT="58"
+                          WIDTH="1002"
+                          VPOS="233"
+                          HPOS="57"
+                          CONTENT="machte, zu der einen Zeit gen Himmel ſah und betete,"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="55,318 104,319 154,321 203,321 253,322 303,323 352,323 402,324 451,324 501,324 551,325 600,325 650,326 699,326 749,327 799,327 848,328 898,330 947,331 997,332 1047,334"
+                         HEIGHT="55"
+                         WIDTH="992"
+                         VPOS="292"
+                         HPOS="55">
+                  <String ID="string_r1l4"
+                          HEIGHT="55"
+                          WIDTH="992"
+                          VPOS="292"
+                          HPOS="55"
+                          CONTENT="zu einer andern aber dieſes unterlaſſen zu muͤſſen glaubte."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="55,372 104,375 154,376 203,378 253,379 303,380 352,380 402,381 451,381 501,381 551,381 600,381 650,382 699,382 749,382 799,383 848,383 898,384 947,386 997,387 1047,389"
+                         HEIGHT="56"
+                         WIDTH="992"
+                         VPOS="346"
+                         HPOS="55">
+                  <String ID="string_r1l5"
+                          HEIGHT="56"
+                          WIDTH="992"
+                          VPOS="346"
+                          HPOS="55"
+                          CONTENT="So unabhaͤngig erſcheint hier der Erloͤſer von den Men¬"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="53,428 102,430 152,433 202,434 252,436 302,436 352,437 402,437 452,438 502,438 552,438 601,438 651,438 701,438 751,438 801,439 851,439 901,440 951,442 1001,444 1051,446"
+                         HEIGHT="58"
+                         WIDTH="998"
+                         VPOS="401"
+                         HPOS="53">
+                  <String ID="string_r1l6"
+                          HEIGHT="58"
+                          WIDTH="998"
+                          VPOS="401"
+                          HPOS="53"
+                          CONTENT="ſchen, daß er mit ſeinem allwiſſenden Auge es allein"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="51,485 100,487 150,489 199,490 249,492 299,492 348,493 398,494 447,494 497,494 547,495 596,495 646,495 695,495 745,495 795,496 844,496 894,497 943,497 993,498 1043,500"
+                         HEIGHT="55"
+                         WIDTH="992"
+                         VPOS="458"
+                         HPOS="51">
+                  <String ID="string_r1l7"
+                          HEIGHT="55"
+                          WIDTH="992"
+                          VPOS="458"
+                          HPOS="51"
+                          CONTENT="entdeckte, unter welcher Form jedesmal ſeine Wunder"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="55,539 104,542 154,544 203,546 253,548 302,549 352,550 401,550 451,551 500,551 550,551 599,551 649,551 698,551 748,552 797,552 847,553 896,554 946,555 995,556 1045,558"
+                         HEIGHT="58"
+                         WIDTH="990"
+                         VPOS="513"
+                         HPOS="55">
+                  <String ID="string_r1l8"
+                          HEIGHT="58"
+                          WIDTH="990"
+                          VPOS="513"
+                          HPOS="55"
+                          CONTENT="hervortreten ſollten. Zu einer ſolchen Unabhaͤngigkeit"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="53,598 103,600 153,601 203,603 253,604 303,604 353,605 403,606 453,606 503,607 553,607 603,607 653,608 703,608 753,608 803,609 853,609 903,610 953,611 1003,612 1053,613"
+                         HEIGHT="55"
+                         WIDTH="1000"
+                         VPOS="571"
+                         HPOS="53">
+                  <String ID="string_r1l9"
+                          HEIGHT="55"
+                          WIDTH="1000"
+                          VPOS="571"
+                          HPOS="53"
+                          CONTENT="gehoͤrt endlich noch die Anweiſung, mit welcher die"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="51,652 100,655 150,657 199,659 249,661 298,662 348,662 397,663 447,663 496,663 546,663 595,663 645,664 694,664 744,664 793,665 843,665 892,666 942,668 991,670 1041,672"
+                         HEIGHT="60"
+                         WIDTH="990"
+                         VPOS="625"
+                         HPOS="51">
+                  <String ID="string_r1l10"
+                          HEIGHT="60"
+                          WIDTH="990"
+                          VPOS="625"
+                          HPOS="51"
+                          CONTENT="Geheilten entlaſſen wurden. Einigen von ihnen wurde"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="49,707 98,710 148,713 198,715 248,717 298,718 347,719 397,719 447,720 497,720 547,720 596,720 646,720 696,720 746,721 796,721 845,722 895,723 945,724 995,726 1045,728"
+                         HEIGHT="61"
+                         WIDTH="996"
+                         VPOS="680"
+                         HPOS="49">
+                  <String ID="string_r1l11"
+                          HEIGHT="61"
+                          WIDTH="996"
+                          VPOS="680"
+                          HPOS="49"
+                          CONTENT="die Beobachtung beſtehender Geſetze (Matth. 8, 4.) vor⸗"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="49,765 98,768 147,770 197,772 246,774 296,775 345,776 394,776 444,776 493,777 543,777 592,777 641,777 691,777 740,777 790,777 839,778 888,779 938,780 987,782 1037,783"
+                         HEIGHT="58"
+                         WIDTH="988"
+                         VPOS="738"
+                         HPOS="49">
+                  <String ID="string_r1l12"
+                          HEIGHT="58"
+                          WIDTH="988"
+                          VPOS="738"
+                          HPOS="49"
+                          CONTENT="geſchrieben, waͤhrend ſie andern erlaſſen wurde. Eben"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="51,822 100,824 150,827 199,828 249,829 299,831 348,831 398,832 447,833 497,833 547,833 596,833 646,833 695,834 745,834 795,834 844,835 894,836 943,836 993,838 1043,839"
+                         HEIGHT="57"
+                         WIDTH="992"
+                         VPOS="795"
+                         HPOS="51">
+                  <String ID="string_r1l13"
+                          HEIGHT="57"
+                          WIDTH="992"
+                          VPOS="795"
+                          HPOS="51"
+                          CONTENT="ſo erhielten Manche den Auftrag, die Wunder gar nicht"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="51,877 100,880 150,883 199,885 249,887 298,888 348,889 397,890 447,890 496,890 546,890 595,890 645,890 694,890 744,891 793,891 843,892 892,892 942,894 991,896 1041,898"
+                         HEIGHT="60"
+                         WIDTH="990"
+                         VPOS="851"
+                         HPOS="51">
+                  <String ID="string_r1l14"
+                          HEIGHT="60"
+                          WIDTH="990"
+                          VPOS="851"
+                          HPOS="51"
+                          CONTENT="bekannt zu machen, waͤhrend Andere an einer ſolchen"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="41,929 90,933 140,937 190,940 240,942 290,944 340,945 390,946 440,946 490,946 540,947 589,947 639,947 689,947 739,947 789,947 839,948 889,949 939,951 989,953 1039,956"
+                         HEIGHT="66"
+                         WIDTH="998"
+                         VPOS="903"
+                         HPOS="41">
+                  <String ID="string_r1l15"
+                          HEIGHT="66"
+                          WIDTH="998"
+                          VPOS="903"
+                          HPOS="41"
+                          CONTENT="Bekanntmachung im mindeſten nicht gehindert wurden."/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="39,989 89,992 139,994 189,997 239,999 289,1000 339,1001 389,1002 439,1003 489,1003 539,1004 589,1004 639,1004 689,1004 739,1005 789,1005 839,1006 889,1007 939,1008 989,1009 1039,1011"
+                         HEIGHT="62"
+                         WIDTH="1000"
+                         VPOS="962"
+                         HPOS="39">
+                  <String ID="string_r1l16"
+                          HEIGHT="62"
+                          WIDTH="1000"
+                          VPOS="962"
+                          HPOS="39"
+                          CONTENT="Hält man ſich nicht an dieſe voͤllige Unabhaͤngigkeit"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="35,1044 85,1048 135,1051 186,1053 236,1055 287,1057 337,1059 387,1060 438,1060 488,1061 539,1061 589,1062 639,1062 690,1062 740,1062 791,1062 841,1063 891,1063 942,1064 992,1065 1043,1067"
+                         HEIGHT="63"
+                         WIDTH="1008"
+                         VPOS="1017"
+                         HPOS="35">
+                  <String ID="string_r1l17"
+                          HEIGHT="63"
+                          WIDTH="1008"
+                          VPOS="1017"
+                          HPOS="35"
+                          CONTENT="Chriſti, ſo kann man in einzelne Wunder, wer weiß"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="41,1099 90,1103 140,1107 189,1110 239,1112 289,1114 338,1116 388,1117 437,1117 487,1118 537,1118 586,1119 636,1119 685,1119 735,1119 785,1119 834,1120 884,1120 933,1122 983,1123 1033,1124"
+                         HEIGHT="65"
+                         WIDTH="992"
+                         VPOS="1072"
+                         HPOS="41">
+                  <String ID="string_r1l18"
+                          HEIGHT="65"
+                          WIDTH="992"
+                          VPOS="1072"
+                          HPOS="41"
+                          CONTENT="was, hineinlegen, und auch alles aus ihnen heraus⸗"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="43,1152 70,1156 97,1160 124,1163 152,1166 179,1167 206,1168 233,1169 261,1171"
+                         HEIGHT="58"
+                         WIDTH="218"
+                         VPOS="1126"
+                         HPOS="43">
+                  <String ID="string_r1l19"
+                          HEIGHT="58"
+                          WIDTH="218"
+                          VPOS="1126"
+                          HPOS="43"
+                          CONTENT="demonſtriren."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="49,1212 98,1216 147,1219 196,1221 246,1223 295,1225 344,1226 394,1226 443,1227 492,1227 542,1227 591,1227 640,1227 689,1227 739,1227 788,1228 837,1228 887,1230 936,1232 985,1234 1035,1237"
+                         HEIGHT="64"
+                         WIDTH="986"
+                         VPOS="1186"
+                         HPOS="49">
+                  <String ID="string_r1l20"
+                          HEIGHT="64"
+                          WIDTH="986"
+                          VPOS="1186"
+                          HPOS="49"
+                          CONTENT="Wir eilen zu der letzten Frage: Wie hat ſich Je⸗"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="39,1266 88,1270 138,1273 188,1276 238,1279 288,1280 337,1282 387,1282 437,1283 487,1283 537,1283 586,1283 636,1283 686,1283 736,1283 786,1284 835,1284 885,1285 935,1287 985,1289 1035,1291"
+                         HEIGHT="64"
+                         WIDTH="996"
+                         VPOS="1240"
+                         HPOS="39">
+                  <String ID="string_r1l21"
+                          HEIGHT="64"
+                          WIDTH="996"
+                          VPOS="1240"
+                          HPOS="39"
+                          CONTENT="ſus ſelbſt uͤber ſeine außerordentlichen Thaten erklaͤrt?"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="39,1322 88,1327 138,1330 187,1333 237,1336 287,1337 336,1338 386,1339 435,1340 485,1340 535,1340 584,1340 634,1340 683,1340 733,1340 783,1341 832,1342 882,1343 931,1345 981,1347 1031,1350"
+                         HEIGHT="67"
+                         WIDTH="992"
+                         VPOS="1296"
+                         HPOS="39">
+                  <String ID="string_r1l22"
+                          HEIGHT="67"
+                          WIDTH="992"
+                          VPOS="1296"
+                          HPOS="39"
+                          CONTENT="Hier muͤſſen zuvoͤrderſt die verſchiedenen Aeußerungen,"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="41,1376 90,1381 139,1385 189,1388 238,1391 288,1393 337,1395 386,1396 436,1396 485,1397 535,1397 584,1397 633,1397 683,1397 732,1397 782,1398 831,1398 880,1399 930,1401 979,1403 1029,1405"
+                         HEIGHT="68"
+                         WIDTH="988"
+                         VPOS="1350"
+                         HPOS="41">
+                  <String ID="string_r1l23"
+                          HEIGHT="68"
+                          WIDTH="988"
+                          VPOS="1350"
+                          HPOS="41"
+                          CONTENT="wie ſie ſich in den Stellen der Evangeliſten finden,"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="37,1431 86,1436 136,1441 185,1444 235,1448 284,1450 334,1452 383,1453 433,1454 482,1454 532,1454 581,1455 631,1455 680,1454 730,1454 779,1454 829,1455 878,1455 928,1456 977,1457 1027,1458"
+                         HEIGHT="66"
+                         WIDTH="990"
+                         VPOS="1405"
+                         HPOS="37">
+                  <String ID="string_r1l24"
+                          HEIGHT="66"
+                          WIDTH="990"
+                          VPOS="1405"
+                          HPOS="37"
+                          CONTENT="claſſificirt, und darnach dann unſere Urtheile beſtimmt"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="35,1487 84,1493 134,1497 184,1500 234,1504 284,1506 333,1507 383,1509 433,1510 483,1510 533,1511 582,1511 632,1511 682,1511 732,1511 782,1511 831,1511 881,1512 931,1513 981,1514 1031,1515"
+                         HEIGHT="68"
+                         WIDTH="996"
+                         VPOS="1460"
+                         HPOS="35">
+                  <String ID="string_r1l25"
+                          HEIGHT="68"
+                          WIDTH="996"
+                          VPOS="1460"
+                          HPOS="35"
+                          CONTENT="werden. Wir machen mit ſolchen Stellen den Anfang,"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="37,1543 86,1549 135,1553 184,1556 234,1559 283,1562 332,1564 382,1565 431,1566 480,1567 530,1567 579,1567 628,1567 677,1567 727,1567 776,1567 825,1567 875,1567 924,1568 973,1569 1023,1570"
+                         HEIGHT="67"
+                         WIDTH="986"
+                         VPOS="1516"
+                         HPOS="37">
+                  <String ID="string_r1l26"
+                          HEIGHT="67"
+                          WIDTH="986"
+                          VPOS="1516"
+                          HPOS="37"
+                          CONTENT="in denen der Heiland ſelbst ſeine Wunder herabzuſetzen"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="43,1601 92,1606 142,1610 191,1614 241,1617 290,1619 340,1620 389,1622 439,1622 488,1623 538,1623 587,1623 637,1623 686,1623 736,1623 785,1623 835,1623 884,1623 934,1624 983,1625 1033,1627"
+                         HEIGHT="66"
+                         WIDTH="990"
+                         VPOS="1574"
+                         HPOS="43">
+                  <String ID="string_r1l27"
+                          HEIGHT="66"
+                          WIDTH="990"
+                          VPOS="1574"
+                          HPOS="43"
+                          CONTENT="ſcheint, denn waͤre dieſes mehr, als Schein, ſo wuͤrden"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="39,1655 88,1661 137,1665 187,1669 236,1672 286,1675 335,1676 384,1678 434,1679 483,1680 533,1680 582,1681 631,1681 681,1681 730,1681 780,1680 829,1680 878,1681 928,1681 977,1682 1027,1682"
+                         HEIGHT="66"
+                         WIDTH="988"
+                         VPOS="1629"
+                         HPOS="39">
+                  <String ID="string_r1l28"
+                          HEIGHT="66"
+                          WIDTH="988"
+                          VPOS="1629"
+                          HPOS="39"
+                          CONTENT="natuͤrlich ſeine uͤbrigen Ausſpruͤche uͤber dieſen Gegen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="33,1708 61,1712 90,1716 119,1720 148,1722 177,1725 206,1727 234,1729 263,1730 292,1731 321,1732 350,1733 379,1733 408,1734 436,1734 465,1734 494,1734 523,1734 552,1735 581,1735 610,1735"
+                         HEIGHT="66"
+                         WIDTH="577"
+                         VPOS="1682"
+                         HPOS="33">
+                  <String ID="string_r1l29"
+                          HEIGHT="66"
+                          WIDTH="577"
+                          VPOS="1682"
+                          HPOS="33"
+                          CONTENT="ſtand ihre Beweiskraft verlieren."/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="113,1777 158,1780 204,1783 250,1786 295,1787 341,1789 387,1790 432,1791 478,1791 524,1792 570,1792 615,1792 661,1792 707,1793 752,1793 798,1793 844,1794 889,1794 935,1795 981,1797 1027,1799"
+                         HEIGHT="61"
+                         WIDTH="914"
+                         VPOS="1751"
+                         HPOS="113">
+                  <String ID="string_r1l30"
+                          HEIGHT="61"
+                          WIDTH="914"
+                          VPOS="1751"
+                          HPOS="113"
+                          CONTENT="Halten wir uns aber an die bekannte Stelle Joh."/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="39,1823 88,1829 138,1833 188,1837 237,1840 287,1843 337,1845 386,1847 436,1848 486,1849 536,1850 585,1850 635,1850 685,1850 734,1850 784,1850 834,1850 883,1850 933,1851 983,1851 1033,1852"
+                         HEIGHT="68"
+                         WIDTH="994"
+                         VPOS="1797"
+                         HPOS="39">
+                  <String ID="string_r1l31"
+                          HEIGHT="68"
+                          WIDTH="994"
+                          VPOS="1797"
+                          HPOS="39"
+                          CONTENT="4, 48., ſo iſt dieſe allerdings um ſo auffallender, als"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="34,1876 83,1883 133,1889 182,1893 232,1897 282,1900 331,1902 381,1904 431,1905 480,1906 530,1906 580,1906 629,1906 679,1906 729,1906 778,1906 828,1906 878,1906 927,1906 977,1907 1027,1908"
+                         HEIGHT="71"
+                         WIDTH="993"
+                         VPOS="1850"
+                         HPOS="34">
+                  <String ID="string_r1l32"
+                          HEIGHT="71"
+                          WIDTH="993"
+                          VPOS="1850"
+                          HPOS="34"
+                          CONTENT="Jeſus nur erſt ein Wunder, Joh. 2, 1—11., verrichtet"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="31,1930 80,1938 130,1943 180,1949 229,1952 279,1956 329,1959 378,1960 428,1962 478,1963 528,1963 577,1964 627,1964 677,1963 726,1963 776,1963 826,1963 875,1963 925,1964 975,1965 1025,1967"
+                         HEIGHT="74"
+                         WIDTH="994"
+                         VPOS="1905"
+                         HPOS="31">
+                  <String ID="string_r1l33"
+                          HEIGHT="74"
+                          WIDTH="994"
+                          VPOS="1905"
+                          HPOS="31"
+                          CONTENT="hatte. Hieraus geht nun aber auch gleich hervor, daß"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="39,1987 88,1995 138,2000 187,2005 237,2010 286,2013 336,2015 385,2017 435,2018 484,2019 534,2019 583,2019 633,2019 682,2019 732,2018 781,2018 831,2018 880,2018 930,2018 979,2018 1029,2019"
+                         HEIGHT="71"
+                         WIDTH="990"
+                         VPOS="1961"
+                         HPOS="39">
+                  <String ID="string_r1l34"
+                          HEIGHT="71"
+                          WIDTH="990"
+                          VPOS="1961"
+                          HPOS="39"
+                          CONTENT="Chriſtus eine ſolche Aeußerung keineswegs mit Bezie⸗"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="35,2043 84,2050 134,2056 184,2061 234,2065 284,2068 333,2071 383,2073 433,2075 483,2076 533,2076 582,2077 632,2077 682,2077 732,2076 782,2076 831,2076 881,2075 931,2075 981,2075 1031,2075"
+                         HEIGHT="73"
+                         WIDTH="996"
+                         VPOS="2017"
+                         HPOS="35">
+                  <String ID="string_r1l35"
+                          HEIGHT="73"
+                          WIDTH="996"
+                          VPOS="2017"
+                          HPOS="35"
+                          CONTENT="hung auf ſeine Wunder uͤberhaupt, ſondern nur mit"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="33,2096 82,2104 132,2111 182,2117 231,2122 281,2126 331,2129 380,2131 430,2132 480,2133 530,2134 579,2134 629,2133 679,2133 728,2132 778,2131 828,2131 877,2130 927,2130 977,2131 1027,2131"
+                         HEIGHT="77"
+                         WIDTH="994"
+                         VPOS="2070"
+                         HPOS="33">
+                  <String ID="string_r1l36"
+                          HEIGHT="77"
+                          WIDTH="994"
+                          VPOS="2070"
+                          HPOS="33"
+                          CONTENT="Beziehung auf den vorliegenden Fall, wo ſein Auge"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="40,2154 89,2162 138,2169 187,2174 236,2178 285,2183 334,2186 384,2188 433,2189 482,2190 531,2191 580,2191 629,2191 678,2190 728,2190 777,2189 826,2188 875,2188 924,2187 973,2187 1023,2187"
+                         HEIGHT="77"
+                         WIDTH="983"
+                         VPOS="2127"
+                         HPOS="40">
+                  <String ID="string_r1l37"
+                          HEIGHT="77"
+                          WIDTH="983"
+                          VPOS="2127"
+                          HPOS="40"
+                          CONTENT="genau das Herz des Hauptmanns durchſchaute, thun"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="35,2208 84,2216 134,2224 183,2230 233,2236 282,2240 332,2243 381,2246 431,2248 480,2249 530,2250 579,2250 629,2250 678,2249 728,2249 777,2248 827,2247 876,2246 926,2245 975,2245 1025,2245"
+                         HEIGHT="82"
+                         WIDTH="990"
+                         VPOS="2181"
+                         HPOS="35">
+                  <String ID="string_r1l38"
+                          HEIGHT="82"
+                          WIDTH="990"
+                          VPOS="2181"
+                          HPOS="35"
+                          CONTENT="wollte. Und dieſer erſcheint wirklich in einer ganz an⸗"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

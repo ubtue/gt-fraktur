@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T16:20:23.608+01:00</Created>
+        <LastChange>2021-05-12T11:43:32.780+02:00</LastChange>
+        <TranskribusMetadata docId="543405" pageId="22812824" pageNr="21" tsid="57776481" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=WMJAUTLJWYZWOGHHSNBCGTMZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UESSSIMEWAMHZVOONTFMDZXB" imageId="17787874"/>
+    </Metadata>
+    <Page imageFilename="stml_1871_01_00541.tif" imageWidth="1420" imageHeight="2340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327610489" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1620812410644_2984"/>
+                <RegionRefIndexed index="1" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1620812410644_2984" custom="readingOrder {index:0;}">
+            <Coords points="667,18 667,68 746,68 746,18"/>
+            <TextLine id="line_1620812410761_2987" custom="readingOrder {index:0;}">
+                <Coords points="667,18 746,18 746,68 667,68"/>
+                <Baseline points="667,63 746,63"/>
+                <TextEquiv>
+                    <Unicode>533</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>533</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:1;}">
+            <Coords points="73,129 73,2316 1343,2316 1343,129"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="139,161 198,161 257,161 317,161 376,161 436,161 495,161 554,161 614,161 673,161 733,160 792,160 851,160 911,161 970,161 1030,161 1089,161 1148,162 1208,163 1267,164 1327,165 1327,134 1267,133 1208,132 1148,131 1089,130 1030,130 970,130 911,130 851,129 792,129 733,129 673,130 614,130 554,130 495,130 436,130 376,130 317,130 257,130 198,130 139,130"/>
+                <Baseline points="139,151 198,151 257,151 317,151 376,151 436,151 495,151 554,151 614,151 673,151 733,150 792,150 851,150 911,151 970,151 1030,151 1089,151 1148,152 1208,153 1267,154 1327,155"/>
+                <TextEquiv>
+                    <Unicode>Daß der Verfaſſer es auf Vernichtung der katholiſchen Kirche abgeſehen hat, be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="77,207 139,206 202,206 265,205 328,205 391,205 453,204 516,204 579,204 642,204 705,204 767,204 830,204 893,204 956,204 1019,205 1081,205 1144,206 1207,207 1270,208 1333,209 1333,178 1270,177 1207,176 1144,175 1081,174 1019,174 956,173 893,173 830,173 767,173 705,173 642,173 579,173 516,173 453,173 391,174 328,174 265,174 202,175 139,175 77,176"/>
+                <Baseline points="77,197 139,196 202,196 265,195 328,195 391,195 453,194 516,194 579,194 642,194 705,194 767,194 830,194 893,194 956,194 1019,195 1081,195 1144,196 1207,197 1270,198 1333,199"/>
+                <TextEquiv>
+                    <Unicode>weist, außer ſeinen ſonſtigen Geſtändniſſen, vor Allem der Umſtand, daß er (S. 62</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="80,252 142,251 205,250 268,249 330,249 393,248 456,248 518,248 581,248 644,248 707,248 769,248 832,249 895,249 957,249 1020,250 1083,250 1145,251 1208,251 1271,252 1334,252 1334,221 1271,221 1208,220 1145,220 1083,219 1020,219 957,218 895,218 832,218 769,217 707,217 644,217 581,217 518,217 456,217 393,217 330,218 268,218 205,219 142,220 80,221"/>
+                <Baseline points="80,242 142,241 205,240 268,239 330,239 393,238 456,238 518,238 581,238 644,238 707,238 769,238 832,239 895,239 957,239 1020,240 1083,240 1145,241 1208,241 1271,242 1334,242"/>
+                <TextEquiv>
+                    <Unicode>n. 6), ähnlich dem Julianus Apoſtata die Katholiken von allen Religionslehrerſtellen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="77,295 116,295 156,294 196,294 236,293 276,293 316,293 355,293 395,292 435,292 475,292 515,292 555,292 595,292 634,292 674,292 714,292 754,292 794,292 834,292 874,292 874,261 834,261 794,261 754,261 714,261 674,261 634,261 595,261 555,261 515,261 475,261 435,261 395,261 355,262 316,262 276,262 236,262 196,263 156,263 116,264 77,264"/>
+                <Baseline points="77,285 116,285 156,284 196,284 236,283 276,283 316,283 355,283 395,282 435,282 475,282 515,282 555,282 595,282 634,282 674,282 714,282 754,282 794,282 834,282 874,282"/>
+                <TextEquiv>
+                    <Unicode>an Staats⸗ und Communal⸗Schulen ausſchließen will.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="145,340 204,339 263,338 323,337 382,337 442,336 501,336 560,336 620,336 679,336 739,336 798,336 857,337 917,337 976,338 1036,339 1095,339 1154,340 1214,341 1273,342 1333,343 1333,312 1273,311 1214,310 1154,309 1095,308 1036,308 976,307 917,306 857,306 798,305 739,305 679,305 620,305 560,305 501,305 442,305 382,306 323,306 263,307 204,308 145,309"/>
+                <Baseline points="145,330 204,329 263,328 323,327 382,327 442,326 501,326 560,326 620,326 679,326 739,326 798,326 857,327 917,327 976,328 1036,329 1095,329 1154,330 1214,331 1273,332 1333,333"/>
+                <TextEquiv>
+                    <Unicode>Doch kommen wir zum Schluß! — So habe ich denn Ihre Prophezeihung, Herr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="76,383 138,382 201,382 263,382 326,382 388,382 451,382 513,382 576,382 638,382 701,382 763,382 826,382 888,382 951,382 1013,383 1076,383 1138,384 1201,384 1263,385 1326,386 1326,355 1263,354 1201,353 1138,353 1076,352 1013,352 951,351 888,351 826,351 763,351 701,351 638,351 576,351 513,351 451,351 388,351 326,351 263,351 201,351 138,351 76,352"/>
+                <Baseline points="76,373 138,372 201,372 263,372 326,372 388,372 451,372 513,372 576,372 638,372 701,372 763,372 826,372 888,372 951,372 1013,373 1076,373 1138,374 1201,374 1263,375 1326,376"/>
+                <TextEquiv>
+                    <Unicode>Profeſſor, verwirklicht, daß Ihr Buch von Seiten der „Utramontanen“ nicht ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="77,427 139,427 202,427 265,427 327,426 390,426 453,426 515,426 578,426 641,426 704,426 766,426 829,427 892,427 954,427 1017,428 1080,428 1142,429 1205,429 1268,430 1331,431 1331,400 1268,399 1205,398 1142,398 1080,397 1017,397 954,396 892,396 829,396 766,395 704,395 641,395 578,395 515,395 453,395 390,395 327,395 265,396 202,396 139,396 77,396"/>
+                <Baseline points="77,417 139,417 202,417 265,417 327,416 390,416 453,416 515,416 578,416 641,416 704,416 766,416 829,417 892,417 954,417 1017,418 1080,418 1142,419 1205,419 1268,420 1331,421"/>
+                <TextEquiv>
+                    <Unicode>Anfechtung bleiben werde. Wenn daraus folgen ſoll (S. 92), daß Sie eben, „das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="83,472 144,471 206,471 268,470 329,470 391,470 453,470 514,470 576,470 638,470 700,470 761,470 823,471 885,471 946,471 1008,472 1070,472 1131,472 1193,473 1255,473 1317,474 1317,443 1255,442 1193,442 1131,441 1070,441 1008,441 946,440 885,440 823,440 761,439 700,439 638,439 576,439 514,439 453,439 391,439 329,439 268,439 206,440 144,440 83,441"/>
+                <Baseline points="83,462 144,461 206,461 268,460 329,460 391,460 453,460 514,460 576,460 638,460 700,460 761,460 823,461 885,461 946,461 1008,462 1070,462 1131,462 1193,463 1255,463 1317,464"/>
+                <TextEquiv>
+                    <Unicode>Richtige“ getroffen haben, ſo kommt es darauf an, was man unter dem „Richtigen“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="80,516 142,516 205,516 268,515 331,515 394,515 457,515 520,515 583,515 646,515 709,515 771,515 834,515 897,515 960,516 1023,516 1086,517 1149,517 1212,518 1275,519 1338,520 1338,489 1275,488 1212,487 1149,486 1086,486 1023,485 960,485 897,484 834,484 771,484 709,484 646,484 583,484 520,484 457,484 394,484 331,484 268,484 205,485 142,485 80,485"/>
+                <Baseline points="80,506 142,506 205,506 268,505 331,505 394,505 457,505 520,505 583,505 646,505 709,505 771,505 834,505 897,505 960,506 1023,506 1086,507 1149,507 1212,508 1275,509 1338,510"/>
+                <TextEquiv>
+                    <Unicode>verſteht. Darüber gehen aber die Anſichten heutzutage leider vielleicht mehr als je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="76,559 101,560 126,559 151,559 176,559 201,560 226,561 251,562 251,531 226,530 201,529 176,528 151,528 126,528 101,529 76,528"/>
+                <Baseline points="76,549 101,550 126,549 151,549 176,549 201,550 226,551 251,552"/>
+                <TextEquiv>
+                    <Unicode>auseinander.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="861,604 886,606 911,608 937,609 962,609 988,610 1013,610 1039,610 1064,609 1089,609 1115,609 1140,609 1166,609 1191,609 1217,609 1242,610 1268,611 1268,575 1242,574 1217,573 1191,573 1166,573 1140,573 1115,573 1089,573 1064,573 1039,574 1013,574 988,574 962,573 937,573 911,572 886,570 861,568"/>
+                <Baseline points="861,592 886,594 911,596 937,597 962,597 988,598 1013,598 1039,598 1064,597 1089,597 1115,597 1140,597 1166,597 1191,597 1217,597 1242,598 1268,599"/>
+                <TextEquiv>
+                    <Unicode>L. v. Hammerſtein, S. J.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} textStyle {offset:0; length:31;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="336,847 372,848 409,848 445,848 482,849 519,849 555,850 592,850 629,851 665,851 702,851 739,852 775,852 812,852 849,853 885,853 922,853 959,853 995,853 1032,854 1069,854 1069,818 1032,818 995,817 959,817 922,817 885,817 849,817 812,816 775,816 739,816 702,815 665,815 629,815 592,814 555,814 519,813 482,813 445,812 409,812 372,812 336,811"/>
+                <Baseline points="336,835 372,836 409,836 445,836 482,837 519,837 555,838 592,838 629,839 665,839 702,839 739,840 775,840 812,840 849,841 885,841 922,841 959,841 995,841 1032,842 1069,842"/>
+                <TextEquiv>
+                    <Unicode>Rundſchau zur kirchlichen Lage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} textStyle {offset:1; length:68;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="155,1016 213,1015 272,1015 331,1015 390,1015 449,1015 508,1015 566,1016 625,1016 684,1017 743,1018 802,1019 861,1019 920,1020 978,1021 1037,1021 1096,1021 1155,1021 1214,1021 1273,1020 1332,1020 1332,986 1273,986 1214,987 1155,987 1096,987 1037,987 978,987 920,986 861,985 802,985 743,984 684,983 625,982 566,982 508,981 449,981 390,981 331,981 272,981 213,981 155,982"/>
+                <Baseline points="155,1005 213,1004 272,1004 331,1004 390,1004 449,1004 508,1004 566,1005 625,1005 684,1006 743,1007 802,1008 861,1008 920,1009 978,1010 1037,1010 1096,1010 1155,1010 1214,1010 1273,1009 1332,1009"/>
+                <TextEquiv>
+                    <Unicode>1. Die Adreſſe der Biſchöfe Preußens und die Adreſſe des elſäſſiſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} textStyle {offset:0; length:15;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="73,1065 136,1064 199,1063 262,1062 325,1062 388,1062 451,1062 514,1063 577,1063 640,1064 703,1065 766,1066 829,1066 892,1067 955,1068 1018,1069 1081,1069 1144,1069 1207,1069 1270,1069 1333,1068 1333,1034 1270,1035 1207,1035 1144,1035 1081,1035 1018,1035 955,1034 892,1033 829,1032 766,1032 703,1031 640,1030 577,1029 514,1029 451,1028 388,1028 325,1028 262,1028 199,1029 136,1030 73,1031"/>
+                <Baseline points="73,1054 136,1053 199,1052 262,1051 325,1051 388,1051 451,1051 514,1052 577,1052 640,1053 703,1054 766,1055 829,1055 892,1056 955,1057 1018,1058 1081,1058 1144,1058 1207,1058 1270,1058 1333,1057"/>
+                <TextEquiv>
+                    <Unicode>Geſammt-Klerus. Die Adreſſe der Biſchöfe Preußens an Se. Majeſtät</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="75,1113 137,1111 200,1110 263,1109 326,1109 389,1109 452,1109 514,1110 577,1110 640,1111 703,1112 766,1113 829,1113 892,1114 954,1115 1017,1116 1080,1116 1143,1117 1206,1117 1269,1117 1332,1116 1332,1083 1269,1084 1206,1084 1143,1084 1080,1083 1017,1083 954,1082 892,1081 829,1080 766,1080 703,1079 640,1078 577,1077 514,1077 452,1076 389,1076 326,1076 263,1076 200,1077 137,1078 75,1080"/>
+                <Baseline points="75,1102 137,1100 200,1099 263,1098 326,1098 389,1098 452,1098 514,1099 577,1099 640,1100 703,1101 766,1102 829,1102 892,1103 954,1104 1017,1105 1080,1105 1143,1106 1206,1106 1269,1106 1332,1105"/>
+                <TextEquiv>
+                    <Unicode>den Kaiſer, datirt vom 7. September, gelangte ihrem Wortlaute nach erſt im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="82,1162 144,1161 207,1160 269,1159 332,1159 395,1158 457,1158 520,1158 583,1158 645,1158 708,1158 771,1159 833,1159 896,1160 959,1161 1021,1161 1084,1162 1147,1163 1209,1164 1272,1165 1335,1166 1335,1133 1272,1132 1209,1131 1147,1130 1084,1129 1021,1128 959,1128 896,1127 833,1126 771,1126 708,1125 645,1125 583,1125 520,1125 457,1125 395,1125 332,1126 269,1126 207,1127 144,1128 82,1129"/>
+                <Baseline points="82,1151 144,1150 207,1149 269,1148 332,1148 395,1147 457,1147 520,1147 583,1147 645,1147 708,1147 771,1148 833,1148 896,1149 959,1150 1021,1150 1084,1151 1147,1152 1209,1153 1272,1154 1335,1155"/>
+                <TextEquiv>
+                    <Unicode>verfloſſenen Monat zur öffentlichen Kenntniß. Ein klares und feſtes Wort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="81,1212 143,1211 206,1210 268,1209 331,1208 394,1208 456,1207 519,1207 581,1207 644,1207 707,1207 769,1207 832,1207 894,1208 957,1208 1020,1209 1082,1210 1145,1210 1207,1211 1270,1212 1333,1214 1333,1180 1270,1178 1207,1177 1145,1176 1082,1176 1020,1175 957,1174 894,1174 832,1173 769,1173 707,1173 644,1173 581,1173 519,1173 456,1173 394,1174 331,1174 268,1175 206,1176 143,1177 81,1178"/>
+                <Baseline points="81,1201 143,1200 206,1199 268,1198 331,1197 394,1197 456,1196 519,1196 581,1196 644,1196 707,1196 769,1196 832,1196 894,1197 957,1197 1020,1198 1082,1199 1145,1199 1207,1200 1270,1201 1333,1203"/>
+                <TextEquiv>
+                    <Unicode>haben die Biſchöfe zum Landesherrn geredet. Der kernige Inhalt des denk⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="87,1260 147,1259 207,1258 267,1258 327,1257 387,1256 447,1256 507,1255 567,1255 627,1255 687,1254 747,1254 807,1254 867,1254 927,1254 987,1255 1047,1255 1107,1256 1167,1257 1227,1258 1288,1259 1288,1226 1227,1225 1167,1224 1107,1223 1047,1222 987,1222 927,1221 867,1221 807,1221 747,1221 687,1221 627,1222 567,1222 507,1222 447,1223 387,1223 327,1224 267,1225 207,1225 147,1226 87,1227"/>
+                <Baseline points="87,1249 147,1248 207,1247 267,1247 327,1246 387,1245 447,1245 507,1244 567,1244 627,1244 687,1243 747,1243 807,1243 867,1243 927,1243 987,1244 1047,1244 1107,1245 1167,1246 1227,1247 1288,1248"/>
+                <TextEquiv>
+                    <Unicode>würdigen Schriftſtückes läßt ſich füglich in folgende Sätze zuſammenfaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="163,1305 222,1305 281,1305 340,1305 399,1305 458,1305 517,1305 576,1304 635,1304 694,1304 753,1303 812,1303 871,1303 930,1303 989,1303 1048,1303 1107,1303 1166,1304 1225,1304 1284,1305 1343,1306 1343,1273 1284,1272 1225,1271 1166,1271 1107,1270 1048,1270 989,1270 930,1270 871,1270 812,1270 753,1270 694,1271 635,1271 576,1271 517,1272 458,1272 399,1272 340,1272 281,1272 222,1272 163,1272"/>
+                <Baseline points="163,1294 222,1294 281,1294 340,1294 399,1294 458,1294 517,1294 576,1293 635,1293 694,1293 753,1292 812,1292 871,1292 930,1292 989,1292 1048,1292 1107,1292 1166,1293 1225,1293 1284,1294 1343,1295"/>
+                <TextEquiv>
+                    <Unicode>Während die deutſchen Biſchöfe mit den Oberhirten der katholiſchen Welt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="84,1352 146,1353 209,1353 272,1354 335,1354 398,1354 461,1354 524,1354 587,1353 650,1353 713,1353 775,1353 838,1353 901,1352 964,1352 1027,1352 1090,1352 1153,1353 1216,1353 1279,1353 1342,1354 1342,1320 1279,1319 1216,1319 1153,1319 1090,1318 1027,1318 964,1318 901,1318 838,1319 775,1319 713,1319 650,1319 587,1319 524,1320 461,1320 398,1320 335,1320 272,1320 209,1319 146,1319 84,1318"/>
+                <Baseline points="84,1341 146,1342 209,1342 272,1343 335,1343 398,1343 461,1343 524,1343 587,1342 650,1342 713,1342 775,1342 838,1342 901,1341 964,1341 1027,1341 1090,1341 1153,1342 1216,1342 1279,1342 1342,1343"/>
+                <TextEquiv>
+                    <Unicode>in Rom verſammelt waren, erhob ſich in Deutſchland eine planmäßige Agi⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="87,1401 149,1401 211,1401 274,1401 336,1402 398,1401 461,1401 523,1401 585,1401 648,1401 710,1401 772,1401 835,1400 897,1400 959,1400 1022,1400 1084,1401 1146,1401 1209,1401 1271,1402 1334,1403 1334,1369 1271,1368 1209,1367 1146,1367 1084,1367 1022,1366 959,1366 897,1366 835,1366 772,1367 710,1367 648,1367 585,1367 523,1367 461,1367 398,1367 336,1368 274,1367 211,1367 149,1367 87,1367"/>
+                <Baseline points="87,1390 149,1390 211,1390 274,1390 336,1391 398,1390 461,1390 523,1390 585,1390 648,1390 710,1390 772,1390 835,1389 897,1389 959,1389 1022,1389 1084,1390 1146,1390 1209,1390 1271,1391 1334,1392"/>
+                <TextEquiv>
+                    <Unicode>tation wider die im Concil gepflogenen Verhandlungen. Eine der perfideſten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="79,1451 141,1450 204,1450 267,1449 330,1449 392,1448 455,1448 518,1448 581,1447 643,1447 706,1447 769,1447 832,1447 894,1447 957,1447 1020,1448 1083,1448 1145,1448 1208,1449 1271,1450 1334,1451 1334,1418 1271,1417 1208,1416 1145,1415 1083,1415 1020,1415 957,1414 894,1414 832,1414 769,1414 706,1414 643,1414 581,1414 518,1415 455,1415 392,1415 330,1416 267,1416 204,1417 141,1417 79,1418"/>
+                <Baseline points="79,1440 141,1439 204,1439 267,1438 330,1438 392,1437 455,1437 518,1437 581,1436 643,1436 706,1436 769,1436 832,1436 894,1436 957,1436 1020,1437 1083,1437 1145,1437 1208,1438 1271,1439 1334,1440"/>
+                <TextEquiv>
+                    <Unicode>Machinationen dieſer Agitation beſtand darin, den Geiſt des Concils als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="77,1500 140,1498 203,1497 266,1496 330,1496 393,1495 456,1495 520,1494 583,1494 646,1494 710,1494 773,1494 836,1495 899,1495 963,1496 1026,1496 1089,1497 1153,1497 1216,1498 1279,1498 1343,1499 1343,1466 1279,1465 1216,1465 1153,1464 1089,1464 1026,1463 963,1463 899,1462 836,1462 773,1461 710,1461 646,1461 583,1461 520,1461 456,1462 393,1462 330,1463 266,1463 203,1464 140,1465 77,1467"/>
+                <Baseline points="77,1489 140,1487 203,1486 266,1485 330,1485 393,1484 456,1484 520,1483 583,1483 646,1483 710,1483 773,1483 836,1484 899,1484 963,1485 1026,1485 1089,1486 1153,1486 1216,1487 1279,1487 1343,1488"/>
+                <TextEquiv>
+                    <Unicode>einen humanitäts⸗ und ſtaatsfeindlichen darzuſtellen und durch Erregung von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="87,1549 149,1547 211,1546 274,1544 336,1543 399,1542 461,1542 524,1541 586,1541 649,1541 711,1541 773,1541 836,1542 898,1542 961,1543 1023,1544 1086,1545 1148,1545 1211,1546 1273,1547 1336,1548 1336,1514 1273,1513 1211,1512 1148,1511 1086,1511 1023,1510 961,1509 898,1508 836,1508 773,1507 711,1507 649,1507 586,1507 524,1507 461,1508 399,1508 336,1509 274,1510 211,1512 149,1513 87,1515"/>
+                <Baseline points="87,1538 149,1536 211,1535 274,1533 336,1532 399,1531 461,1531 524,1530 586,1530 649,1530 711,1530 773,1530 836,1531 898,1531 961,1532 1023,1533 1086,1534 1148,1534 1211,1535 1273,1536 1336,1537"/>
+                <TextEquiv>
+                    <Unicode>Mißtrauen gegen die Kirche die hohen Staatsbehörden zu feindſeligen Maß⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="87,1598 149,1596 211,1594 273,1593 336,1592 398,1591 460,1590 523,1589 585,1589 647,1589 710,1589 772,1589 834,1590 896,1590 959,1591 1021,1592 1083,1592 1146,1593 1208,1594 1270,1595 1333,1596 1333,1562 1270,1561 1208,1560 1146,1559 1083,1558 1021,1558 959,1557 896,1556 834,1556 772,1555 710,1555 647,1555 585,1555 523,1555 460,1556 398,1557 336,1558 273,1559 211,1560 149,1562 87,1564"/>
+                <Baseline points="87,1587 149,1585 211,1583 273,1582 336,1581 398,1580 460,1579 523,1578 585,1578 647,1578 710,1578 772,1578 834,1579 896,1579 959,1580 1021,1581 1083,1581 1146,1582 1208,1583 1270,1584 1333,1585"/>
+                <TextEquiv>
+                    <Unicode>regeln gegen dieſelbe zu veranlaſſen. Indeſſen die Biſchöfe Preußens hielten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="86,1645 148,1643 211,1642 273,1640 336,1639 398,1638 461,1638 523,1637 586,1637 648,1637 711,1637 773,1638 836,1638 898,1639 961,1639 1023,1640 1086,1641 1148,1642 1211,1643 1273,1644 1336,1645 1336,1612 1273,1611 1211,1610 1148,1609 1086,1608 1023,1607 961,1606 898,1606 836,1605 773,1605 711,1604 648,1604 586,1604 523,1604 461,1605 398,1605 336,1606 273,1607 211,1609 148,1610 86,1612"/>
+                <Baseline points="86,1634 148,1632 211,1631 273,1629 336,1628 398,1627 461,1627 523,1626 586,1626 648,1626 711,1626 773,1627 836,1627 898,1628 961,1628 1023,1629 1086,1630 1148,1631 1211,1632 1273,1633 1336,1634"/>
+                <TextEquiv>
+                    <Unicode>im Vertrauen auf die angeſtammte Weisheit und Gerechtigkeit des erhabenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="86,1695 148,1692 211,1690 273,1689 336,1687 398,1686 461,1685 523,1685 586,1684 648,1685 711,1685 773,1685 836,1686 898,1686 961,1687 1023,1688 1086,1689 1148,1689 1211,1690 1273,1691 1336,1691 1336,1658 1273,1658 1211,1657 1148,1656 1086,1656 1023,1655 961,1654 898,1653 836,1653 773,1652 711,1652 648,1652 586,1651 523,1652 461,1652 398,1653 336,1654 273,1656 211,1657 148,1659 86,1662"/>
+                <Baseline points="86,1684 148,1681 211,1679 273,1678 336,1676 398,1675 461,1674 523,1674 586,1673 648,1674 711,1674 773,1674 836,1675 898,1675 961,1676 1023,1677 1086,1678 1148,1678 1211,1679 1273,1680 1336,1680"/>
+                <TextEquiv>
+                    <Unicode>Herrſcherhauſes die Durchführung eines ſolchen Planes im engeren Vaterlande</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="88,1742 150,1739 212,1737 274,1736 337,1735 399,1734 461,1733 524,1733 586,1733 648,1733 711,1734 773,1734 835,1735 897,1735 960,1736 1022,1737 1084,1737 1147,1738 1209,1738 1271,1738 1334,1738 1334,1704 1271,1704 1209,1704 1147,1704 1084,1703 1022,1703 960,1702 897,1701 835,1701 773,1700 711,1700 648,1699 586,1699 524,1699 461,1699 399,1700 337,1701 274,1702 212,1703 150,1705 88,1708"/>
+                <Baseline points="88,1731 150,1728 212,1726 274,1725 337,1724 399,1723 461,1722 524,1722 586,1722 648,1722 711,1723 773,1723 835,1724 897,1724 960,1725 1022,1726 1084,1726 1147,1727 1209,1727 1271,1727 1334,1727"/>
+                <TextEquiv>
+                    <Unicode>für unmöglich. Nichts deſto weniger hat es in letzterer Zeit den Anſchein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="84,1791 146,1788 209,1786 271,1784 334,1782 397,1782 459,1781 522,1781 584,1781 647,1781 710,1782 772,1783 835,1783 897,1784 960,1785 1023,1785 1085,1786 1148,1786 1210,1786 1273,1785 1336,1785 1336,1751 1273,1751 1210,1752 1148,1752 1085,1752 1023,1751 960,1751 897,1750 835,1749 772,1749 710,1748 647,1747 584,1747 522,1747 459,1747 397,1748 334,1748 271,1750 209,1752 146,1754 84,1757"/>
+                <Baseline points="84,1780 146,1777 209,1775 271,1773 334,1771 397,1771 459,1770 522,1770 584,1770 647,1770 710,1771 772,1772 835,1772 897,1773 960,1774 1023,1774 1085,1775 1148,1775 1210,1775 1273,1774 1336,1774"/>
+                <TextEquiv>
+                    <Unicode>genommen, als ob jene Verdächtigungen und Ketzereien nicht ganz des beab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="94,1838 156,1836 218,1833 281,1832 343,1830 406,1829 468,1829 530,1829 593,1829 655,1829 718,1830 780,1830 842,1831 905,1831 967,1832 1030,1833 1092,1833 1154,1833 1217,1833 1279,1833 1342,1832 1342,1798 1279,1799 1217,1799 1154,1799 1092,1799 1030,1799 967,1798 905,1797 842,1797 780,1796 718,1796 655,1795 593,1795 530,1795 468,1795 406,1795 343,1796 281,1798 218,1799 156,1802 94,1804"/>
+                <Baseline points="94,1827 156,1825 218,1822 281,1821 343,1819 406,1818 468,1818 530,1818 593,1818 655,1818 718,1819 780,1819 842,1820 905,1820 967,1821 1030,1822 1092,1822 1154,1822 1217,1822 1279,1822 1342,1821"/>
+                <TextEquiv>
+                    <Unicode>ſichtigten Erfolges entbehrten und Mißverſtändniſſe und tiefer gehenden Arg⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="86,1889 148,1885 210,1883 273,1881 335,1879 397,1878 460,1878 522,1878 584,1878 647,1878 709,1879 771,1879 834,1880 896,1881 958,1881 1021,1881 1083,1882 1145,1881 1208,1881 1270,1880 1333,1879 1333,1845 1270,1846 1208,1847 1145,1847 1083,1848 1021,1847 958,1847 896,1847 834,1846 771,1845 709,1845 647,1844 584,1844 522,1844 460,1844 397,1844 335,1845 273,1847 210,1849 148,1851 86,1855"/>
+                <Baseline points="86,1878 148,1874 210,1872 273,1870 335,1868 397,1867 460,1867 522,1867 584,1867 647,1867 709,1868 771,1868 834,1869 896,1870 958,1870 1021,1870 1083,1871 1145,1870 1208,1870 1270,1869 1333,1868"/>
+                <TextEquiv>
+                    <Unicode>wohn auch in ſolchen Regionen hervorgerufen hätten, welche durch ihre Stel⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="92,1937 154,1934 216,1932 278,1930 341,1928 403,1927 465,1927 527,1926 590,1926 652,1927 714,1927 776,1927 839,1928 901,1928 963,1929 1025,1929 1088,1929 1150,1929 1212,1929 1274,1928 1337,1927 1337,1893 1274,1894 1212,1895 1150,1895 1088,1895 1025,1895 963,1895 901,1894 839,1894 776,1893 714,1893 652,1893 590,1892 527,1892 465,1893 403,1893 341,1894 278,1896 216,1898 154,1900 92,1903"/>
+                <Baseline points="92,1926 154,1923 216,1921 278,1919 341,1917 403,1916 465,1916 527,1915 590,1915 652,1916 714,1916 776,1916 839,1917 901,1917 963,1918 1025,1918 1088,1918 1150,1918 1212,1918 1274,1917 1337,1916"/>
+                <TextEquiv>
+                    <Unicode>lung über die unreifen Tageserzeugniſſe leidenſchaftlichen Parteigetriebes er⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="84,1987 146,1984 209,1981 271,1979 334,1977 396,1976 459,1976 521,1975 584,1975 646,1975 709,1976 772,1976 834,1976 897,1977 959,1978 1022,1978 1084,1978 1147,1978 1209,1978 1272,1978 1335,1977 1335,1943 1272,1944 1209,1944 1147,1944 1084,1944 1022,1944 959,1944 897,1943 834,1942 772,1942 709,1942 646,1941 584,1941 521,1941 459,1942 396,1942 334,1943 271,1945 209,1947 146,1950 84,1953"/>
+                <Baseline points="84,1976 146,1973 209,1970 271,1968 334,1966 396,1965 459,1965 521,1964 584,1964 646,1964 709,1965 772,1965 834,1965 897,1966 959,1967 1022,1967 1084,1967 1147,1967 1209,1967 1272,1967 1335,1966"/>
+                <TextEquiv>
+                    <Unicode>haben zu ſein pflegen. Dieſe Furcht haben zumal die Erlaſſe des hohen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="88,2035 150,2031 213,2028 276,2026 339,2024 401,2023 464,2022 527,2022 590,2022 652,2022 715,2023 778,2023 841,2024 903,2025 966,2025 1029,2026 1092,2026 1154,2027 1217,2026 1280,2026 1343,2025 1343,1991 1280,1992 1217,1992 1154,1993 1092,1992 1029,1992 966,1991 903,1991 841,1990 778,1989 715,1989 652,1988 590,1988 527,1988 464,1988 401,1989 339,1990 276,1992 213,1994 150,1997 88,2001"/>
+                <Baseline points="88,2024 150,2020 213,2017 276,2015 339,2013 401,2012 464,2011 527,2011 590,2011 652,2011 715,2012 778,2012 841,2013 903,2014 966,2014 1029,2015 1092,2015 1154,2016 1217,2015 1280,2015 1343,2014"/>
+                <TextEquiv>
+                    <Unicode>Cultusminiſteriums an den Biſchof von Ermland¹ wach gerufen. „Nach den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="90,2082 149,2079 209,2077 269,2074 329,2073 389,2072 449,2071 508,2071 568,2071 628,2071 688,2071 748,2072 808,2072 868,2073 927,2073 987,2073 1047,2074 1107,2074 1167,2073 1227,2073 1287,2072 1287,2038 1227,2039 1167,2039 1107,2040 1047,2040 987,2039 927,2039 868,2039 808,2038 748,2038 688,2037 628,2037 568,2037 508,2037 449,2037 389,2038 329,2039 269,2040 209,2043 149,2045 90,2048"/>
+                <Baseline points="90,2071 149,2068 209,2066 269,2063 329,2062 389,2061 449,2060 508,2060 568,2060 628,2060 688,2060 748,2061 808,2061 868,2062 927,2062 987,2062 1047,2063 1107,2063 1167,2062 1227,2062 1343,2061"/>
+                <TextEquiv>
+                    <Unicode>Grundſätzen, die dort als Motive der Verfügungen ausgeſprochen werden, —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="90,2130 152,2128 215,2126 277,2124 340,2123 402,2122 465,2121 527,2120 590,2120 652,2120 715,2120 778,2121 840,2121 903,2121 965,2122 1028,2122 1090,2122 1153,2122 1215,2122 1278,2122 1341,2122 1341,2088 1278,2088 1215,2088 1153,2088 1090,2088 1028,2088 965,2088 903,2087 840,2087 778,2087 715,2086 652,2086 590,2086 527,2086 465,2087 402,2088 340,2089 277,2090 215,2092 152,2094 90,2096"/>
+                <Baseline points="90,2119 152,2117 215,2115 277,2113 340,2112 402,2111 465,2110 527,2109 590,2109 652,2109 715,2109 778,2110 840,2110 903,2110 965,2111 1028,2111 1090,2111 1153,2111 1215,2111 1278,2111 1341,2111"/>
+                <TextEquiv>
+                    <Unicode>erſchiene die ganze gegenwärtige katholiſche Kirche in Preußen als recht⸗ und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:36;}">
+                <Coords points="90,2180 152,2177 215,2175 277,2173 340,2171 403,2170 465,2169 528,2169 590,2169 653,2169 716,2169 778,2169 841,2170 903,2170 966,2171 1029,2171 1091,2172 1154,2172 1216,2173 1279,2173 1342,2173 1342,2139 1279,2139 1216,2139 1154,2138 1091,2138 1029,2137 966,2137 903,2136 841,2136 778,2135 716,2135 653,2135 590,2135 528,2135 465,2135 403,2136 340,2137 277,2139 215,2141 152,2143 90,2146"/>
+                <Baseline points="90,2169 152,2166 215,2164 277,2162 340,2160 403,2159 465,2158 528,2158 590,2158 653,2158 716,2158 778,2158 841,2159 903,2159 966,2160 1029,2160 1091,2161 1154,2161 1216,2162 1279,2162 1342,2162"/>
+                <TextEquiv>
+                    <Unicode>ſchutzlos, und als wären die wenigen Abtrünnigen die allein berechtigten Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:37;}">
+                <Coords points="166,2271 191,2273 217,2274 243,2275 268,2275 294,2275 320,2274 345,2274 371,2273 397,2271 422,2270 448,2270 474,2270 500,2270 500,2240 474,2240 448,2240 422,2240 397,2241 371,2243 345,2244 320,2244 294,2245 268,2245 243,2245 217,2244 191,2243 166,2241"/>
+                <Baseline points="166,2261 191,2263 217,2264 243,2265 268,2265 294,2265 320,2264 345,2264 371,2263 397,2261 422,2260 448,2260 474,2260 500,2260"/>
+                <TextEquiv>
+                    <Unicode>¹ Vgl. 2. Heft S. 151.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1606985223994_639" custom="readingOrder {index:38;}">
+                <Coords points="1155,2300 1065,2300 1065,2262 1155,2262"/>
+                <Baseline points="1065,2297 1155,2297"/>
+                <TextEquiv>
+                    <Unicode>36</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:39;}">
+                <Coords points="127,2314 152,2315 177,2316 202,2316 227,2315 253,2315 278,2314 303,2314 328,2314 354,2315 354,2285 328,2284 303,2284 278,2284 253,2285 227,2285 202,2286 177,2286 152,2285 127,2284"/>
+                <Baseline points="127,2304 152,2305 177,2306 202,2306 227,2305 253,2305 278,2304 303,2304 328,2304 354,2305"/>
+                <TextEquiv>
+                    <Unicode>Stimmen. I. 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Daß der Verfaſſer es auf Vernichtung der katholiſchen Kirche abgeſehen hat, be⸗
+weist, außer ſeinen ſonſtigen Geſtändniſſen, vor Allem der Umſtand, daß er (S. 62
+n. 6), ähnlich dem Julianus Apoſtata die Katholiken von allen Religionslehrerſtellen
+an Staats⸗ und Communal⸗Schulen ausſchließen will.
+Doch kommen wir zum Schluß! — So habe ich denn Ihre Prophezeihung, Herr
+Profeſſor, verwirklicht, daß Ihr Buch von Seiten der „Utramontanen“ nicht ohne
+Anfechtung bleiben werde. Wenn daraus folgen ſoll (S. 92), daß Sie eben, „das
+Richtige“ getroffen haben, ſo kommt es darauf an, was man unter dem „Richtigen“
+verſteht. Darüber gehen aber die Anſichten heutzutage leider vielleicht mehr als je
+auseinander.
+L. v. Hammerſtein, S. J.
+Rundſchau zur kirchlichen Lage.
+1. Die Adreſſe der Biſchöfe Preußens und die Adreſſe des elſäſſiſchen
+Geſammt-Klerus. Die Adreſſe der Biſchöfe Preußens an Se. Majeſtät
+den Kaiſer, datirt vom 7. September, gelangte ihrem Wortlaute nach erſt im
+verfloſſenen Monat zur öffentlichen Kenntniß. Ein klares und feſtes Wort
+haben die Biſchöfe zum Landesherrn geredet. Der kernige Inhalt des denk⸗
+würdigen Schriftſtückes läßt ſich füglich in folgende Sätze zuſammenfaſſen.
+Während die deutſchen Biſchöfe mit den Oberhirten der katholiſchen Welt
+in Rom verſammelt waren, erhob ſich in Deutſchland eine planmäßige Agi⸗
+tation wider die im Concil gepflogenen Verhandlungen. Eine der perfideſten
+Machinationen dieſer Agitation beſtand darin, den Geiſt des Concils als
+einen humanitäts⸗ und ſtaatsfeindlichen darzuſtellen und durch Erregung von
+Mißtrauen gegen die Kirche die hohen Staatsbehörden zu feindſeligen Maß⸗
+regeln gegen dieſelbe zu veranlaſſen. Indeſſen die Biſchöfe Preußens hielten
+im Vertrauen auf die angeſtammte Weisheit und Gerechtigkeit des erhabenen
+Herrſcherhauſes die Durchführung eines ſolchen Planes im engeren Vaterlande
+für unmöglich. Nichts deſto weniger hat es in letzterer Zeit den Anſchein
+genommen, als ob jene Verdächtigungen und Ketzereien nicht ganz des beab⸗
+ſichtigten Erfolges entbehrten und Mißverſtändniſſe und tiefer gehenden Arg⸗
+wohn auch in ſolchen Regionen hervorgerufen hätten, welche durch ihre Stel⸗
+lung über die unreifen Tageserzeugniſſe leidenſchaftlichen Parteigetriebes er⸗
+haben zu ſein pflegen. Dieſe Furcht haben zumal die Erlaſſe des hohen
+Cultusminiſteriums an den Biſchof von Ermland¹ wach gerufen. „Nach den
+Grundſätzen, die dort als Motive der Verfügungen ausgeſprochen werden, —
+erſchiene die ganze gegenwärtige katholiſche Kirche in Preußen als recht⸗ und
+ſchutzlos, und als wären die wenigen Abtrünnigen die allein berechtigten Ver⸗
+¹ Vgl. 2. Heft S. 151.
+36
+Stimmen. I. 6.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:40:04.037+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2339" WIDTH="1420">
+         <TopMargin HEIGHT="0" WIDTH="1420" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="1420"/>
+         <BottomMargin HEIGHT="0" WIDTH="1420" VPOS="2339" HPOS="0"/>
+         <PrintSpace HEIGHT="2339" WIDTH="1420" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2244" WIDTH="1273" VPOS="53" HPOS="99">
+               <Shape>
+                  <Polygon POINTS="99,53 99,2297 1372,2297 1372,53"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="710,81 756,83"
+                         HEIGHT="44"
+                         WIDTH="46"
+                         VPOS="53"
+                         HPOS="710">
+                  <String ID="string_r1l1"
+                          HEIGHT="44"
+                          WIDTH="46"
+                          VPOS="53"
+                          HPOS="710"
+                          CONTENT="31"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="186,173 245,173 304,174 363,175 422,175 481,176 540,176 599,177 658,177 717,178 776,178 835,179 894,179 953,179 1012,179 1071,179 1130,179 1189,179 1248,178 1307,178 1366,177"
+                         HEIGHT="48"
+                         WIDTH="1180"
+                         VPOS="145"
+                         HPOS="186">
+                  <String ID="string_r1l2"
+                          HEIGHT="48"
+                          WIDTH="1180"
+                          VPOS="145"
+                          HPOS="186"
+                          CONTENT="So lautet das merkwürdige Actenſtück, welches mehrere der Unter⸗"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="105,234 167,234 230,234 293,234 356,234 419,234 481,234 544,235 607,235 670,235 733,235 795,236 858,236 921,236 984,237 1047,237 1109,237 1172,237 1235,238 1298,238 1361,238"
+                         HEIGHT="43"
+                         WIDTH="1256"
+                         VPOS="208"
+                         HPOS="105">
+                  <String ID="string_r1l3"
+                          HEIGHT="43"
+                          WIDTH="1256"
+                          VPOS="208"
+                          HPOS="105"
+                          CONTENT="zeichner nicht geleſen, jedenfalls nicht verſtanden zu haben ſcheinen, da"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="109,288 154,289 200,290 246,291 292,291 337,292 383,292 429,292 475,292 520,292 566,292 612,292 658,291 703,291 749,291 795,291 841,291 886,292 932,292 978,293 1024,294"
+                         HEIGHT="45"
+                         WIDTH="915"
+                         VPOS="262"
+                         HPOS="109">
+                  <String ID="string_r1l4"
+                          HEIGHT="45"
+                          WIDTH="915"
+                          VPOS="262"
+                          HPOS="109"
+                          CONTENT="ſie es wohl ſonſt nicht unterſchrieben haben würden."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="883,365 909,365 935,365 962,365 988,365 1015,366 1041,366 1068,366 1094,366 1121,366 1147,367 1174,367 1200,366 1227,366 1253,366 1280,365"
+                         HEIGHT="44"
+                         WIDTH="397"
+                         VPOS="337"
+                         HPOS="883">
+                  <String ID="string_r1l5"
+                          HEIGHT="44"
+                          WIDTH="397"
+                          VPOS="337"
+                          HPOS="883"
+                          CONTENT="Rudolf Cornely S. J."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="141,621 200,621 259,621 318,621 378,622 437,622 496,622 555,622 615,623 674,623 733,624 792,624 852,624 911,625 970,625 1029,625 1089,625 1148,625 1207,625 1266,625 1326,625"
+                         HEIGHT="46"
+                         WIDTH="1185"
+                         VPOS="593"
+                         HPOS="141">
+                  <String ID="string_r1l6"
+                          HEIGHT="46"
+                          WIDTH="1185"
+                          VPOS="593"
+                          HPOS="141"
+                          CONTENT="Die Kataſtrophe von Paris als äußerſte Folge des"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="572,702 598,702 624,702 650,702 676,702 702,703 728,703 754,703 780,703 806,704 832,705 858,705 884,706"
+                         HEIGHT="46"
+                         WIDTH="312"
+                         VPOS="674"
+                         HPOS="572">
+                  <String ID="string_r1l7"
+                          HEIGHT="46"
+                          WIDTH="312"
+                          VPOS="674"
+                          HPOS="572"
+                          CONTENT="Liberalismus."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="191,799 249,799 308,799 366,800 425,800 484,800 542,800 601,800 659,800 718,800 777,800 835,801 894,801 952,801 1011,801 1070,802 1128,802 1187,802 1245,803 1304,804 1363,804"
+                         HEIGHT="45"
+                         WIDTH="1172"
+                         VPOS="772"
+                         HPOS="191">
+                  <String ID="string_r1l8"
+                          HEIGHT="45"
+                          WIDTH="1172"
+                          VPOS="772"
+                          HPOS="191"
+                          CONTENT="Schauder und Entſetzen durchzuckt unſeren Erdtheil. Ein weiter"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="109,856 175,856 241,856 307,856 374,856 440,856 506,857 572,857 639,857 705,858 771,858 837,859 904,859 970,859 1036,859 1102,860 1169,860 1235,860 1301,859 1368,859"
+                         HEIGHT="44"
+                         WIDTH="1259"
+                         VPOS="829"
+                         HPOS="109">
+                  <String ID="string_r1l9"
+                          HEIGHT="44"
+                          WIDTH="1259"
+                          VPOS="829"
+                          HPOS="109"
+                          CONTENT="Abgrund ſittlicher Verkommenheit gähnt den ſogenannten Culturvölkern"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="110,913 172,913 235,913 298,914 361,914 424,914 487,915 550,915 613,916 676,916 739,916 801,917 864,917 927,917 990,917 1053,917 1116,917 1179,917 1242,917 1305,917 1368,917"
+                         HEIGHT="46"
+                         WIDTH="1258"
+                         VPOS="885"
+                         HPOS="110">
+                  <String ID="string_r1l10"
+                          HEIGHT="46"
+                          WIDTH="1258"
+                          VPOS="885"
+                          HPOS="110"
+                          CONTENT="entgegen; aus ihm entſteigen ganze Schaaren von Heroſtraten, die im"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="112,969 174,970 236,971 299,972 361,972 424,973 486,973 549,974 611,974 674,974 736,975 798,975 861,975 923,975 986,975 1048,975 1111,975 1173,975 1236,975 1298,975 1361,975"
+                         HEIGHT="46"
+                         WIDTH="1249"
+                         VPOS="942"
+                         HPOS="112">
+                  <String ID="string_r1l11"
+                          HEIGHT="46"
+                          WIDTH="1249"
+                          VPOS="942"
+                          HPOS="112"
+                          CONTENT="Augenblicke, da ſie die Waffen ſenken müſſen, an die monumentalen"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="105,1026 168,1027 231,1028 294,1028 357,1029 421,1030 484,1030 547,1031 610,1031 673,1031 737,1031 800,1032 863,1032 926,1032 989,1032 1053,1032 1116,1032 1179,1032 1242,1032 1305,1032 1369,1032"
+                         HEIGHT="46"
+                         WIDTH="1264"
+                         VPOS="999"
+                         HPOS="105">
+                  <String ID="string_r1l12"
+                          HEIGHT="46"
+                          WIDTH="1264"
+                          VPOS="999"
+                          HPOS="105"
+                          CONTENT="Bauten von Paris Feuer anlegen unter dem Rufe: „Weil ihr eure"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="101,1082 164,1083 227,1084 291,1085 354,1086 418,1087 481,1087 544,1088 608,1088 671,1088 735,1088 798,1088 861,1088 925,1088 988,1088 1052,1088 1115,1087 1178,1087 1242,1087 1305,1087 1369,1087"
+                         HEIGHT="46"
+                         WIDTH="1268"
+                         VPOS="1055"
+                         HPOS="101">
+                  <String ID="string_r1l13"
+                          HEIGHT="46"
+                          WIDTH="1268"
+                          VPOS="1055"
+                          HPOS="101"
+                          CONTENT="Paläſte uns nicht gönnet, ſo ſollet auch ihr ſie nicht haben; wir be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="113,1141 175,1141 238,1142 301,1142 364,1143 427,1143 489,1143 552,1143 615,1144 678,1144 741,1144 803,1144 866,1144 929,1144 992,1145 1055,1145 1117,1145 1180,1145 1243,1145 1306,1146 1369,1146"
+                         HEIGHT="45"
+                         WIDTH="1256"
+                         VPOS="1114"
+                         HPOS="113">
+                  <String ID="string_r1l14"
+                          HEIGHT="45"
+                          WIDTH="1256"
+                          VPOS="1114"
+                          HPOS="113"
+                          CONTENT="graben uns unter den Ruinen eures Luxus.“ Und während die Blou⸗"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="120,1199 182,1199 244,1199 306,1199 369,1199 431,1199 493,1199 555,1199 618,1200 680,1200 742,1200 804,1200 867,1200 929,1201 991,1201 1053,1201 1116,1201 1178,1202 1240,1202 1302,1202 1365,1202"
+                         HEIGHT="43"
+                         WIDTH="1245"
+                         VPOS="1172"
+                         HPOS="120">
+                  <String ID="string_r1l15"
+                          HEIGHT="43"
+                          WIDTH="1245"
+                          VPOS="1172"
+                          HPOS="120"
+                          CONTENT="ſenmänner in verzweifeltem Kampfe hinter ihren Barrikaden die letzten"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="103,1255 166,1255 229,1255 293,1256 356,1256 419,1256 483,1257 546,1257 609,1257 673,1258 736,1258 799,1258 863,1258 926,1258 989,1258 1053,1259 1116,1259 1179,1259 1243,1259 1306,1259 1370,1259"
+                         HEIGHT="44"
+                         WIDTH="1267"
+                         VPOS="1228"
+                         HPOS="103">
+                  <String ID="string_r1l16"
+                          HEIGHT="44"
+                          WIDTH="1267"
+                          VPOS="1228"
+                          HPOS="103"
+                          CONTENT="Augenblicke des Lebens im ſüßen Wahnſinne des Mordes ſchlürfen, eilen"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="107,1312 170,1312 233,1313 296,1313 360,1314 423,1314 486,1314 549,1314 613,1314 676,1314 739,1314 802,1314 866,1314 929,1314 992,1314 1055,1314 1119,1314 1182,1315 1245,1315 1308,1315 1372,1315"
+                         HEIGHT="43"
+                         WIDTH="1265"
+                         VPOS="1285"
+                         HPOS="107">
+                  <String ID="string_r1l17"
+                          HEIGHT="43"
+                          WIDTH="1265"
+                          VPOS="1285"
+                          HPOS="107"
+                          CONTENT="Hunderte von Petroleuſen umher, um aus der glänzendſten Stadt der"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="111,1367 173,1368 235,1369 298,1369 360,1370 423,1371 485,1371 547,1371 610,1371 672,1371 735,1371 797,1371 859,1371 922,1371 984,1371 1047,1372 1109,1372 1171,1372 1234,1372 1296,1373 1359,1374"
+                         HEIGHT="47"
+                         WIDTH="1248"
+                         VPOS="1340"
+                         HPOS="111">
+                  <String ID="string_r1l18"
+                          HEIGHT="47"
+                          WIDTH="1248"
+                          VPOS="1340"
+                          HPOS="111"
+                          CONTENT="Erde einen Aſchenhaufen zu machen. Nur das raſche Vordringen der"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="103,1424 166,1424 229,1425 293,1425 356,1426 420,1426 483,1427 546,1427 610,1427 673,1427 737,1428 800,1428 863,1428 927,1428 990,1428 1054,1428 1117,1429 1180,1429 1244,1429 1307,1429 1371,1429"
+                         HEIGHT="45"
+                         WIDTH="1268"
+                         VPOS="1397"
+                         HPOS="103">
+                  <String ID="string_r1l19"
+                          HEIGHT="45"
+                          WIDTH="1268"
+                          VPOS="1397"
+                          HPOS="103"
+                          CONTENT="Truppen, Verwirrung und Ungeſchicklichkeit der Verbrecher und Ver⸗"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="103,1480 166,1481 229,1482 293,1483 356,1483 419,1484 483,1484 546,1484 609,1485 673,1485 736,1485 799,1485 863,1485 926,1485 989,1485 1053,1485 1116,1485 1179,1485 1243,1485 1306,1485 1370,1485"
+                         HEIGHT="45"
+                         WIDTH="1267"
+                         VPOS="1453"
+                         HPOS="103">
+                  <String ID="string_r1l20"
+                          HEIGHT="45"
+                          WIDTH="1267"
+                          VPOS="1453"
+                          HPOS="103"
+                          CONTENT="brecherinnen, da und dort eine todesmuthige Hand, welche die Leitungs⸗"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="106,1536 168,1537 231,1538 294,1539 357,1539 420,1540 483,1540 546,1540 609,1540 672,1540 735,1540 797,1540 860,1540 923,1540 986,1540 1049,1541 1112,1541 1175,1541 1238,1542 1301,1542 1364,1543"
+                         HEIGHT="47"
+                         WIDTH="1258"
+                         VPOS="1509"
+                         HPOS="106">
+                  <String ID="string_r1l21"
+                          HEIGHT="47"
+                          WIDTH="1258"
+                          VPOS="1509"
+                          HPOS="106"
+                          CONTENT="drähte im letzten Augenblicke entzweiſchneidet, bringen es fertig, daß der"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="105,1594 168,1595 231,1595 295,1596 358,1596 421,1597 485,1597 548,1598 611,1598 675,1598 738,1598 801,1598 865,1599 928,1599 991,1599 1055,1599 1118,1600 1181,1600 1245,1600 1308,1601 1372,1601"
+                         HEIGHT="49"
+                         WIDTH="1267"
+                         VPOS="1566"
+                         HPOS="105">
+                  <String ID="string_r1l22"
+                          HEIGHT="49"
+                          WIDTH="1267"
+                          VPOS="1566"
+                          HPOS="105"
+                          CONTENT="Höllenplan nicht im ganzen Umfange ausgeführt wird. Sind ſolche"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="107,1652 170,1653 233,1653 296,1653 359,1654 423,1654 486,1654 549,1655 612,1655 675,1655 739,1655 802,1656 865,1656 928,1656 991,1657 1055,1657 1118,1657 1181,1658 1244,1658 1307,1659 1371,1659"
+                         HEIGHT="47"
+                         WIDTH="1264"
+                         VPOS="1625"
+                         HPOS="107">
+                  <String ID="string_r1l23"
+                          HEIGHT="47"
+                          WIDTH="1264"
+                          VPOS="1625"
+                          HPOS="107"
+                          CONTENT="Thaten nur in Paris möglich? Nein! Triumphirend verkündet es das"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="113,1710 179,1711 245,1711 311,1711 378,1711 444,1712 510,1712 576,1712 643,1713 709,1713 775,1713 841,1713 908,1714 974,1714 1040,1714 1106,1714 1173,1714 1239,1714 1305,1714 1372,1714"
+                         HEIGHT="44"
+                         WIDTH="1259"
+                         VPOS="1683"
+                         HPOS="113">
+                  <String ID="string_r1l24"
+                          HEIGHT="44"
+                          WIDTH="1259"
+                          VPOS="1683"
+                          HPOS="113"
+                          CONTENT="Centralcomité der Internationale zu London, daß die Föderirten in"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="107,1766 169,1766 232,1767 295,1767 358,1767 421,1768 483,1768 546,1769 609,1769 672,1770 735,1770 797,1771 860,1771 923,1772 986,1772 1049,1772 1111,1772 1174,1772 1237,1772 1300,1771 1363,1771"
+                         HEIGHT="46"
+                         WIDTH="1256"
+                         VPOS="1739"
+                         HPOS="107">
+                  <String ID="string_r1l25"
+                          HEIGHT="46"
+                          WIDTH="1256"
+                          VPOS="1739"
+                          HPOS="107"
+                          CONTENT="Europa dritthalb Millionen Mitglieder zählen, daß ſie Alle ſolidariſch"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="108,1822 171,1823 234,1824 297,1824 360,1825 423,1825 486,1826 549,1826 612,1827 675,1827 739,1827 802,1827 865,1828 928,1828 991,1828 1054,1828 1117,1828 1180,1828 1243,1828 1306,1828 1370,1828"
+                         HEIGHT="46"
+                         WIDTH="1262"
+                         VPOS="1795"
+                         HPOS="108">
+                  <String ID="string_r1l26"
+                          HEIGHT="46"
+                          WIDTH="1262"
+                          VPOS="1795"
+                          HPOS="108"
+                          CONTENT="für die Brüder in Paris einſtehen, daß die fürchterlichen Maitage da⸗"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="111,1880 173,1880 236,1880 298,1881 361,1881 424,1881 486,1882 549,1882 611,1883 674,1883 737,1884 799,1884 862,1885 924,1885 987,1885 1050,1885 1112,1885 1175,1885 1237,1885 1300,1885 1363,1885"
+                         HEIGHT="45"
+                         WIDTH="1252"
+                         VPOS="1853"
+                         HPOS="111">
+                  <String ID="string_r1l27"
+                          HEIGHT="45"
+                          WIDTH="1252"
+                          VPOS="1853"
+                          HPOS="111"
+                          CONTENT="ſelbſt nur erſt ein leiſes Morgenroth der kommenden Dinge ſeien. Wo"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="107,1937 169,1937 232,1937 294,1937 357,1937 420,1938 482,1938 545,1939 608,1939 670,1940 733,1940 796,1941 858,1941 921,1942 984,1942 1046,1942 1109,1942 1172,1942 1234,1942 1297,1942 1360,1941"
+                         HEIGHT="45"
+                         WIDTH="1253"
+                         VPOS="1910"
+                         HPOS="107">
+                  <String ID="string_r1l28"
+                          HEIGHT="45"
+                          WIDTH="1253"
+                          VPOS="1910"
+                          HPOS="107"
+                          CONTENT="immer eine Regierung durch unglücklichen Krieg, Hader der Parteien,"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="111,1994 173,1995 236,1995 298,1995 361,1996 424,1996 486,1996 549,1997 612,1997 674,1997 737,1998 800,1998 862,1998 925,1998 988,1999 1050,1999 1113,1999 1176,1999 1238,1999 1301,1999 1364,1999"
+                         HEIGHT="45"
+                         WIDTH="1253"
+                         VPOS="1967"
+                         HPOS="111">
+                  <String ID="string_r1l29"
+                          HEIGHT="45"
+                          WIDTH="1253"
+                          VPOS="1967"
+                          HPOS="111"
+                          CONTENT="Theurung oder Stockung der Geſchäfte in große Verlegenheiten gerathen"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="109,2049 175,2050 241,2051 307,2052 374,2052 440,2053 506,2053 572,2054 639,2054 705,2054 771,2055 837,2055 904,2055 970,2055 1036,2055 1102,2055 1169,2055 1235,2055 1301,2055 1368,2055"
+                         HEIGHT="46"
+                         WIDTH="1259"
+                         VPOS="2022"
+                         HPOS="109">
+                  <String ID="string_r1l30"
+                          HEIGHT="46"
+                          WIDTH="1259"
+                          VPOS="2022"
+                          HPOS="109"
+                          CONTENT="wird, da werden wir ebendieſelben Schauerſcenen ſich wiederholen ſehen."/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="103,2104 165,2105 228,2107 291,2108 354,2109 417,2110 480,2110 542,2111 605,2111 668,2112 731,2112 794,2112 857,2112 920,2112 982,2112 1045,2113 1108,2113 1171,2113 1234,2113 1297,2113 1360,2113"
+                         HEIGHT="49"
+                         WIDTH="1257"
+                         VPOS="2077"
+                         HPOS="103">
+                  <String ID="string_r1l31"
+                          HEIGHT="49"
+                          WIDTH="1257"
+                          VPOS="2077"
+                          HPOS="103"
+                          CONTENT="Wir machen furchtbare Fortſchritte zur Barbarei. Die Drachenſaat der"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="99,2158 160,2161 221,2163 282,2164 344,2165 405,2166 466,2167 527,2168 589,2168 650,2169 711,2169 772,2169 834,2169 895,2169 956,2169 1017,2169 1079,2169 1140,2169 1201,2170 1262,2170 1324,2171"
+                         HEIGHT="53"
+                         WIDTH="1225"
+                         VPOS="2131"
+                         HPOS="99">
+                  <String ID="string_r1l32"
+                          HEIGHT="53"
+                          WIDTH="1225"
+                          VPOS="2131"
+                          HPOS="99"
+                          CONTENT="liberalen Principien ſchießt in die Halme und bringt blutige Früchte."/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="195,2219 253,2221 312,2222 370,2223 429,2224 487,2225 546,2225 604,2226 663,2226 721,2226 780,2226 839,2226 897,2226 956,2226 1014,2226 1073,2226 1131,2226 1190,2226 1248,2226 1307,2226 1366,2227"
+                         HEIGHT="48"
+                         WIDTH="1171"
+                         VPOS="2192"
+                         HPOS="195">
+                  <String ID="string_r1l33"
+                          HEIGHT="48"
+                          WIDTH="1171"
+                          VPOS="2192"
+                          HPOS="195"
+                          CONTENT="Vor achtzehnhundert Jahren ſchrieb ein Ultramontaner, die Chriſten"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="103,2271 166,2274 229,2276 293,2278 356,2279 420,2280 483,2281 547,2282 610,2283 674,2283 737,2283 800,2283 864,2283 927,2283 991,2283 1054,2283 1118,2283 1181,2283 1245,2283 1308,2283 1372,2283"
+                         HEIGHT="54"
+                         WIDTH="1269"
+                         VPOS="2243"
+                         HPOS="103">
+                  <String ID="string_r1l34"
+                          HEIGHT="54"
+                          WIDTH="1269"
+                          VPOS="2243"
+                          HPOS="103"
+                          CONTENT="nennen ihn St. Paulus, an die Galater (VI, 8): „Wer auf das"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

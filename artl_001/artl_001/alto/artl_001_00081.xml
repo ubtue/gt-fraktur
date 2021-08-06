@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:47:59.371+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2457" WIDTH="1373">
+         <TopMargin HEIGHT="0" WIDTH="1373" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2457" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2457" WIDTH="0" VPOS="0" HPOS="1373"/>
+         <BottomMargin HEIGHT="0" WIDTH="1373" VPOS="2457" HPOS="0"/>
+         <PrintSpace HEIGHT="2457" WIDTH="1373" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2180" WIDTH="1210" VPOS="75" HPOS="68">
+               <Shape>
+                  <Polygon POINTS="68,75 68,2255 1278,2255 1278,75"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="528,99 554,100 580,100 607,101 633,101 660,102 686,102 712,102 739,102 765,103 792,103 818,103 845,104"
+                         HEIGHT="41"
+                         WIDTH="317"
+                         VPOS="75"
+                         HPOS="528">
+                  <String ID="string_r1l1"
+                          HEIGHT="41"
+                          WIDTH="317"
+                          VPOS="75"
+                          HPOS="528"
+                          CONTENT="Knapp Chriſtoterpe."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="1223,118 1248,120 1273,120"
+                         HEIGHT="38"
+                         WIDTH="50"
+                         VPOS="94"
+                         HPOS="1223">
+                  <String ID="string_r1l2"
+                          HEIGHT="38"
+                          WIDTH="50"
+                          VPOS="94"
+                          HPOS="1223"
+                          CONTENT="69"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="94,165 153,169 212,172 271,176 330,178 390,181 449,182 508,184 567,185 626,186 686,186 745,187 804,187 863,187 922,188 982,188 1041,188 1100,189 1159,189 1218,190 1278,191"
+                         HEIGHT="62"
+                         WIDTH="1184"
+                         VPOS="141"
+                         HPOS="94">
+                  <String ID="string_r1l3"
+                          HEIGHT="62"
+                          WIDTH="1184"
+                          VPOS="141"
+                          HPOS="94"
+                          CONTENT="zu vernehmen, erklärt, ſucht er zwiſchen ſtrengen Supernaturaliſten und"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="96,215 154,219 213,222 271,225 330,227 389,229 447,231 506,233 565,234 623,235 682,236 741,237 799,238 858,238 917,238 975,239 1034,239 1093,239 1151,239 1210,239 1269,240"
+                         HEIGHT="61"
+                         WIDTH="1173"
+                         VPOS="191"
+                         HPOS="96">
+                  <String ID="string_r1l4"
+                          HEIGHT="61"
+                          WIDTH="1173"
+                          VPOS="191"
+                          HPOS="96"
+                          CONTENT="Rationaliſten zu vermitteln, allein auf nur ſehr vage und eben daher un⸗"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="93,264 151,267 210,271 269,273 328,275 387,278 445,280 504,282 563,283 622,284 681,285 739,286 798,287 857,288 916,288 975,289 1033,289 1092,289 1151,290 1210,290 1269,290"
+                         HEIGHT="60"
+                         WIDTH="1176"
+                         VPOS="241"
+                         HPOS="93">
+                  <String ID="string_r1l5"
+                          HEIGHT="60"
+                          WIDTH="1176"
+                          VPOS="241"
+                          HPOS="93"
+                          CONTENT="fruchtbare Weiſe. Ein ſolches Thema iſt für wenige Seiten zu groß, und"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="95,312 154,316 213,319 272,321 331,325 390,327 449,329 508,331 567,332 626,333 685,334 744,335 803,336 862,337 921,337 980,338 1039,338 1098,338 1157,339 1216,339 1276,339"
+                         HEIGHT="61"
+                         WIDTH="1181"
+                         VPOS="289"
+                         HPOS="95">
+                  <String ID="string_r1l6"
+                          HEIGHT="61"
+                          WIDTH="1181"
+                          VPOS="289"
+                          HPOS="95"
+                          CONTENT="bei allen geiſtreichen Bemerkungen im Einzelnen hat Heinroth theils zu"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="93,360 151,365 210,369 269,372 328,375 387,378 446,379 505,381 564,382 623,383 682,384 740,385 799,385 858,386 917,386 976,387 1035,387 1094,388 1153,389 1212,390 1271,391"
+                         HEIGHT="65"
+                         WIDTH="1178"
+                         VPOS="337"
+                         HPOS="93">
+                  <String ID="string_r1l7"
+                          HEIGHT="65"
+                          WIDTH="1178"
+                          VPOS="337"
+                          HPOS="93"
+                          CONTENT="viel, theils zu wenig gegeben, und wird weder Gelehrte, noch Laien be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="93,408 119,409 146,413 172,415 199,418 226,419"
+                         HEIGHT="45"
+                         WIDTH="133"
+                         VPOS="385"
+                         HPOS="93">
+                  <String ID="string_r1l8"
+                          HEIGHT="45"
+                          WIDTH="133"
+                          VPOS="385"
+                          HPOS="93"
+                          CONTENT="friedigen."/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="170,467 225,469 280,471 335,472 390,474 445,475 500,477 555,478 610,479 665,480 721,482 776,483 831,483 886,484 941,485 996,486 1051,487 1106,488 1161,489 1216,490 1272,491"
+                         HEIGHT="58"
+                         WIDTH="1102"
+                         VPOS="444"
+                         HPOS="170">
+                  <String ID="string_r1l9"
+                          HEIGHT="58"
+                          WIDTH="1102"
+                          VPOS="444"
+                          HPOS="170"
+                          CONTENT="„Die Geſchichte Joſephs” hat Paſtor Kern ſehr ſchön mit ſeinen pſy⸗"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="95,509 153,512 212,515 271,518 330,520 389,522 447,524 506,526 565,527 624,529 683,530 741,531 800,532 859,533 918,534 977,535 1035,536 1094,537 1153,538 1212,540 1271,541"
+                         HEIGHT="66"
+                         WIDTH="1176"
+                         VPOS="486"
+                         HPOS="95">
+                  <String ID="string_r1l10"
+                          HEIGHT="66"
+                          WIDTH="1176"
+                          VPOS="486"
+                          HPOS="95"
+                          CONTENT="chologiſchen und aſcetiſchen Bemerkungen erzaͤhlt, und namentlich auf ihren"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="91,558 148,561 205,564 262,567 320,569 377,571 434,573 492,575 549,576 606,577 664,578 721,579 778,580 835,581 893,582 950,583 1007,584 1065,585 1122,587 1179,589 1237,590"
+                         HEIGHT="66"
+                         WIDTH="1146"
+                         VPOS="535"
+                         HPOS="91">
+                  <String ID="string_r1l11"
+                          HEIGHT="66"
+                          WIDTH="1146"
+                          VPOS="535"
+                          HPOS="91"
+                          CONTENT="inneren, Joſeph und die Seinigen bildenden Zuſammenhang hingewieſen."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="169,611 224,614 279,616 334,618 389,620 444,622 499,623 554,625 609,626 664,627 720,628 775,629 830,629 885,630 940,631 995,632 1050,633 1105,635 1160,636 1215,637 1271,639"
+                         HEIGHT="62"
+                         WIDTH="1102"
+                         VPOS="588"
+                         HPOS="169">
+                  <String ID="string_r1l12"
+                          HEIGHT="62"
+                          WIDTH="1102"
+                          VPOS="588"
+                          HPOS="169"
+                          CONTENT="Der „Rathſchluß Gottes zum Heile der Menſchen” wird in Erwäh⸗"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="83,654 141,658 200,661 259,664 318,666 377,669 436,670 495,672 554,673 613,675 672,676 730,677 789,678 848,679 907,680 966,681 1025,682 1084,684 1143,686 1202,688 1261,690"
+                         HEIGHT="70"
+                         WIDTH="1178"
+                         VPOS="631"
+                         HPOS="83">
+                  <String ID="string_r1l13"
+                          HEIGHT="70"
+                          WIDTH="1178"
+                          VPOS="631"
+                          HPOS="83"
+                          CONTENT="lung, Berufung, Gerechtſprechung und Verherrlichung zuſammengefaßt, und"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="84,702 143,706 202,710 261,713 321,716 380,717 439,720 498,721 558,723 617,724 676,725 735,726 795,727 854,728 913,729 972,730 1032,731 1091,733 1150,734 1209,737 1269,739"
+                         HEIGHT="71"
+                         WIDTH="1185"
+                         VPOS="679"
+                         HPOS="84">
+                  <String ID="string_r1l14"
+                          HEIGHT="71"
+                          WIDTH="1185"
+                          VPOS="679"
+                          HPOS="84"
+                          CONTENT="iſt eine recht praktiſche Paraphraſe von Röm. 8, 29 ff., bei welcher der"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="84,752 140,755 197,758 254,761 311,763 367,766 424,768 481,769 538,771 595,772 651,773 708,774 765,775 822,776 879,777 935,779 992,780 1049,781 1106,783 1163,785"
+                         HEIGHT="67"
+                         WIDTH="1079"
+                         VPOS="729"
+                         HPOS="84">
+                  <String ID="string_r1l15"
+                          HEIGHT="67"
+                          WIDTH="1079"
+                          VPOS="729"
+                          HPOS="84"
+                          CONTENT="Zweck der Erbauung durchaus auf glückliche Weiſe feſtgehalten wird."/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="160,808 215,810 270,812 326,813 381,815 436,817 492,818 547,819 602,821 658,822 713,823 768,824 824,826 879,827 934,828 990,829 1045,830 1100,831 1156,832 1211,834 1267,835"
+                         HEIGHT="61"
+                         WIDTH="1107"
+                         VPOS="785"
+                         HPOS="160">
+                  <String ID="string_r1l16"
+                          HEIGHT="61"
+                          WIDTH="1107"
+                          VPOS="785"
+                          HPOS="160"
+                          CONTENT="„Ueber das Zagen des Heilandes vor und in ſeinem Leiden auf Geth⸗"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="83,850 142,853 201,856 260,859 319,861 379,863 438,865 497,867 556,869 615,870 675,872 734,873 793,875 852,876 911,877 971,878 1030,879 1089,881 1148,882 1207,883 1267,885"
+                         HEIGHT="69"
+                         WIDTH="1184"
+                         VPOS="827"
+                         HPOS="83">
+                  <String ID="string_r1l17"
+                          HEIGHT="69"
+                          WIDTH="1184"
+                          VPOS="827"
+                          HPOS="83"
+                          CONTENT="ſemane und Golgatha” hat Dr. Olshauſen in bekannter ſinnreicher Weiſe"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="91,899 149,902 208,905 266,908 325,910 383,912 442,914 500,916 559,917 617,919 676,920 734,921 793,923 851,924 910,925 968,927 1027,928 1085,929 1144,931 1202,932 1261,934"
+                         HEIGHT="69"
+                         WIDTH="1170"
+                         VPOS="876"
+                         HPOS="91">
+                  <String ID="string_r1l18"
+                          HEIGHT="69"
+                          WIDTH="1170"
+                          VPOS="876"
+                          HPOS="91"
+                          CONTENT="ſich ausgeſprochen, und namentlich darzuthun verſucht, daß das Schwanken"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="87,947 145,950 204,953 263,955 322,958 381,960 439,962 498,963 557,965 616,966 675,968 733,969 792,971 851,972 910,973 969,975 1027,976 1086,978 1145,980 1204,982 1263,984"
+                         HEIGHT="70"
+                         WIDTH="1176"
+                         VPOS="925"
+                         HPOS="87">
+                  <String ID="string_r1l19"
+                          HEIGHT="70"
+                          WIDTH="1176"
+                          VPOS="925"
+                          HPOS="87"
+                          CONTENT="im Innern Jeſu nicht als etwas von der Schwäche des Willens Jeſu"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="79,998 138,1000 197,1001 256,1003 316,1004 375,1006 434,1007 494,1009 553,1011 612,1012 672,1014 731,1015 790,1017 849,1019 909,1020 968,1022 1027,1024 1087,1026 1146,1028 1205,1030 1265,1032"
+                         HEIGHT="67"
+                         WIDTH="1186"
+                         VPOS="976"
+                         HPOS="79">
+                  <String ID="string_r1l20"
+                          HEIGHT="67"
+                          WIDTH="1186"
+                          VPOS="976"
+                          HPOS="79"
+                          CONTENT="Ausgehendes, ſondern als etwas über ihn Verhängtes betrachtet werden"/>
+               </TextLine>
+               <TextLine ID="line_1615379864150_2208"
+                         BASELINE="83,1044 111,1046 140,1048 169,1050 180,1048 234,1049 288,1050 342,1051 396,1053 450,1054 504,1055 559,1057 613,1058 667,1060 721,1061 775,1063 829,1064 883,1066 938,1068 992,1069 1046,1071 1100,1073 1154,1075 1208,1076 1263,1078"
+                         HEIGHT="67"
+                         WIDTH="1180"
+                         VPOS="1022"
+                         HPOS="83">
+                  <String ID="string_line_1615379864150_2208"
+                          HEIGHT="67"
+                          WIDTH="1180"
+                          VPOS="1022"
+                          HPOS="83"
+                          CONTENT="müſſe. — Die finniſch⸗lappiſche Miſſion bis 1726 und das Leben des er⸗"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="80,1093 138,1095 197,1096 256,1098 315,1100 374,1101 433,1103 491,1104 550,1106 609,1107 668,1109 727,1111 786,1112 845,1114 903,1115 962,1117 1021,1119 1080,1121 1139,1123 1198,1124 1257,1127"
+                         HEIGHT="68"
+                         WIDTH="1177"
+                         VPOS="1070"
+                         HPOS="80">
+                  <String ID="string_r1l23"
+                          HEIGHT="68"
+                          WIDTH="1177"
+                          VPOS="1070"
+                          HPOS="80"
+                          CONTENT="ſten Apoſtels der norwegiſchen Finnen, Thomas von Veſten, von Dr. Ru⸗"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="84,1141 142,1144 200,1146 259,1148 317,1150 376,1152 434,1154 493,1156 551,1157 610,1159 668,1160 726,1162 785,1163 843,1165 902,1166 960,1168 1019,1169 1077,1171 1136,1173 1194,1174 1253,1176"
+                         HEIGHT="69"
+                         WIDTH="1169"
+                         VPOS="1118"
+                         HPOS="84">
+                  <String ID="string_r1l24"
+                          HEIGHT="69"
+                          WIDTH="1169"
+                          VPOS="1118"
+                          HPOS="84"
+                          CONTENT="delbach, iſt ein ſchätzbarer Beitrag zur Geſchichte der Ausbreitung des"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="77,1190 103,1192 129,1193 155,1194 181,1195 207,1196 233,1197 259,1198 285,1199 311,1200 337,1201 363,1202 389,1203 415,1204 441,1204 467,1205 493,1206 519,1206 545,1207 571,1208 598,1209"
+                         HEIGHT="55"
+                         WIDTH="521"
+                         VPOS="1166"
+                         HPOS="77">
+                  <String ID="string_r1l25"
+                          HEIGHT="55"
+                          WIDTH="521"
+                          VPOS="1166"
+                          HPOS="77"
+                          CONTENT="Evangeliums in jenen Gegenden."/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="155,1252 210,1254 265,1256 320,1258 375,1260 430,1262 485,1264 540,1266 595,1268 650,1270 705,1271 760,1273 815,1275 870,1276 925,1278 980,1279 1035,1281 1090,1282 1145,1283 1200,1285 1255,1286"
+                         HEIGHT="70"
+                         WIDTH="1100"
+                         VPOS="1228"
+                         HPOS="155">
+                  <String ID="string_r1l26"
+                          HEIGHT="70"
+                          WIDTH="1100"
+                          VPOS="1228"
+                          HPOS="155"
+                          CONTENT="Am unbedeutendſten unter den proſaiſchen Beiträgen ſind die „Anſich⸗"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="80,1293 138,1297 197,1300 256,1304 315,1307 373,1310 432,1312 491,1314 550,1316 608,1319 667,1320 726,1322 785,1324 843,1326 902,1327 961,1329 1020,1330 1078,1332 1137,1333 1196,1335 1255,1337"
+                         HEIGHT="77"
+                         WIDTH="1175"
+                         VPOS="1271"
+                         HPOS="80">
+                  <String ID="string_r1l27"
+                          HEIGHT="77"
+                          WIDTH="1175"
+                          VPOS="1271"
+                          HPOS="80"
+                          CONTENT="ten vom Vorhof des Heiligthums, v. R.”; das Neue in ihnen iſt nicht"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="84,1339 109,1341 135,1343 160,1345 186,1347 212,1348 237,1350 263,1352 289,1354 314,1355 340,1356 366,1358 391,1359 417,1361 443,1362 468,1363 494,1364 520,1365"
+                         HEIGHT="59"
+                         WIDTH="436"
+                         VPOS="1317"
+                         HPOS="84">
+                  <String ID="string_r1l28"
+                          HEIGHT="59"
+                          WIDTH="436"
+                          VPOS="1317"
+                          HPOS="84"
+                          CONTENT="wahr, das Wahre nicht neu."/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="156,1396 210,1402 265,1408 320,1411 375,1415 429,1418 484,1421 539,1423 594,1425 648,1426 703,1428 758,1429 813,1430 867,1431 922,1433 977,1434 1032,1435 1086,1437 1141,1439 1196,1442 1251,1445"
+                         HEIGHT="83"
+                         WIDTH="1095"
+                         VPOS="1373"
+                         HPOS="156">
+                  <String ID="string_r1l29"
+                          HEIGHT="83"
+                          WIDTH="1095"
+                          VPOS="1373"
+                          HPOS="156"
+                          CONTENT="Unter den poetiſchen Beiträgen iſt bei weitem das Ausgezeichnetſte"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="78,1435 136,1442 195,1449 253,1454 312,1459 370,1463 429,1466 487,1469 546,1472 604,1474 663,1475 722,1477 780,1479 839,1480 897,1481 956,1483 1014,1484 1073,1486 1131,1488 1190,1491 1249,1494"
+                         HEIGHT="92"
+                         WIDTH="1171"
+                         VPOS="1413"
+                         HPOS="78">
+                  <String ID="string_r1l30"
+                          HEIGHT="92"
+                          WIDTH="1171"
+                          VPOS="1413"
+                          HPOS="78"
+                          CONTENT="das 23 Seiten umfaſſende Gedicht des Herausgebers auf Göthe’s Hingang."/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="82,1485 140,1491 198,1497 257,1503 315,1507 374,1511 432,1514 490,1517 549,1520 607,1522 666,1524 724,1526 782,1528 841,1529 899,1531 958,1532 1016,1533 1074,1535 1133,1536 1191,1538 1250,1539"
+                         HEIGHT="87"
+                         WIDTH="1168"
+                         VPOS="1463"
+                         HPOS="82">
+                  <String ID="string_r1l31"
+                          HEIGHT="87"
+                          WIDTH="1168"
+                          VPOS="1463"
+                          HPOS="82"
+                          CONTENT="Der Verfaſſer klagt, daß Göthe bei ſeinem ſeltenen Talent kein chriſt⸗"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="70,1534 128,1540 187,1545 246,1551 305,1555 364,1559 423,1563 481,1565 540,1568 599,1571 658,1572 717,1574 776,1576 835,1577 893,1579 952,1580 1011,1582 1070,1583 1129,1584 1188,1586 1247,1588"
+                         HEIGHT="88"
+                         WIDTH="1177"
+                         VPOS="1511"
+                         HPOS="70">
+                  <String ID="string_r1l32"
+                          HEIGHT="88"
+                          WIDTH="1177"
+                          VPOS="1511"
+                          HPOS="70"
+                          CONTENT="licher Dichter geworden, und obwohl er dabei die Rückſicht vergißt, Göthe"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="80,1585 138,1590 196,1595 255,1600 313,1604 371,1608 430,1611 488,1614 546,1617 605,1619 663,1621 721,1624 780,1625 838,1627 896,1629 955,1630 1013,1631 1071,1633 1130,1634 1188,1635 1247,1636"
+                         HEIGHT="85"
+                         WIDTH="1167"
+                         VPOS="1562"
+                         HPOS="80">
+                  <String ID="string_r1l33"
+                          HEIGHT="85"
+                          WIDTH="1167"
+                          VPOS="1562"
+                          HPOS="80"
+                          CONTENT="aus ſeiner Zeit zu begreifen, und den Beweis ſchuldig bleibt, daß es nur"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="76,1634 134,1639 193,1644 251,1648 310,1652 368,1656 427,1660 485,1663 544,1665 602,1668 661,1670 719,1672 778,1674 836,1676 895,1678 953,1679 1012,1681 1070,1682 1129,1683 1187,1684 1246,1685"
+                         HEIGHT="87"
+                         WIDTH="1170"
+                         VPOS="1610"
+                         HPOS="76">
+                  <String ID="string_r1l34"
+                          HEIGHT="87"
+                          WIDTH="1170"
+                          VPOS="1610"
+                          HPOS="76"
+                          CONTENT="eine religiöſe Poeſie geben könne, ſo werden doch ſelbſt Göthe’s größte"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="82,1683 140,1688 198,1693 256,1697 314,1701 372,1705 430,1709 488,1712 546,1715 604,1718 663,1720 721,1722 779,1724 837,1726 895,1728 953,1729 1011,1731 1069,1732 1127,1733 1185,1734 1244,1735"
+                         HEIGHT="88"
+                         WIDTH="1162"
+                         VPOS="1659"
+                         HPOS="82">
+                  <String ID="string_r1l35"
+                          HEIGHT="88"
+                          WIDTH="1162"
+                          VPOS="1659"
+                          HPOS="82"
+                          CONTENT="Verehrer einen Gegner ihres Meiſters achten, der eben ſo anerkennend als"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="72,1735 97,1737 122,1738 147,1740 173,1741 198,1743 223,1745 249,1746 274,1748 299,1749 324,1750 350,1752 375,1754 400,1756 426,1757 451,1759 476,1761 502,1763"
+                         HEIGHT="64"
+                         WIDTH="430"
+                         VPOS="1711"
+                         HPOS="72">
+                  <String ID="string_r1l36"
+                          HEIGHT="64"
+                          WIDTH="430"
+                          VPOS="1711"
+                          HPOS="72"
+                          CONTENT="poetiſch von demſelben ſagt:"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="320,1830 353,1833 386,1835 419,1837 452,1839 485,1840 518,1841 551,1842 584,1843 617,1844 650,1845 683,1846 716,1846 749,1847 782,1848 815,1849 848,1851 881,1852 914,1854 947,1856 980,1858"
+                         HEIGHT="59"
+                         WIDTH="660"
+                         VPOS="1809"
+                         HPOS="320">
+                  <String ID="string_r1l37"
+                          HEIGHT="59"
+                          WIDTH="660"
+                          VPOS="1809"
+                          HPOS="320"
+                          CONTENT="Ja, wenn ſonſt Einer auf der Erde Höhen,"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="314,1873 345,1875 376,1878 407,1880 438,1882 469,1883 500,1885 531,1886 562,1887 593,1887 625,1888 656,1889 687,1890 718,1891 749,1891 780,1893 811,1894 842,1895 873,1896 904,1898 936,1901"
+                         HEIGHT="59"
+                         WIDTH="622"
+                         VPOS="1852"
+                         HPOS="314">
+                  <String ID="string_r1l38"
+                          HEIGHT="59"
+                          WIDTH="622"
+                          VPOS="1852"
+                          HPOS="314"
+                          CONTENT="So weit des Menſchen Genius ſich hebt,"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="320,1917 351,1920 383,1923 414,1924 446,1926 478,1928 509,1929 541,1930 573,1932 604,1932 636,1933 668,1934 699,1935 731,1935 763,1936 794,1937 826,1938 858,1940 889,1941 921,1943 953,1946"
+                         HEIGHT="60"
+                         WIDTH="633"
+                         VPOS="1896"
+                         HPOS="320">
+                  <String ID="string_r1l39"
+                          HEIGHT="60"
+                          WIDTH="633"
+                          VPOS="1896"
+                          HPOS="320"
+                          CONTENT="Sich durft’ in heit’rer Feuerkraft ergehen,"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="314,1962 345,1965 377,1967 409,1969 441,1971 473,1972 505,1974 537,1974 569,1975 601,1976 633,1977 664,1978 696,1979 728,1979 760,1980 792,1981 824,1982 856,1984 888,1985 920,1987 952,1989"
+                         HEIGHT="58"
+                         WIDTH="638"
+                         VPOS="1941"
+                         HPOS="314">
+                  <String ID="string_r1l40"
+                          HEIGHT="58"
+                          WIDTH="638"
+                          VPOS="1941"
+                          HPOS="314"
+                          CONTENT="Von aller Schönheit Feenſchmuck umwebt,"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="316,2005 344,2007 373,2010 402,2012 431,2014 460,2015 489,2017 517,2017 546,2019 575,2019 604,2020 633,2021 662,2021 691,2022 719,2023 748,2024 777,2025 806,2026 835,2027 864,2028 893,2030"
+                         HEIGHT="56"
+                         WIDTH="577"
+                         VPOS="1984"
+                         HPOS="316">
+                  <String ID="string_r1l41"
+                          HEIGHT="56"
+                          WIDTH="577"
+                          VPOS="1984"
+                          HPOS="316"
+                          CONTENT="Wenn Einem in azurner Lüfte Wehen"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="315,2050 345,2052 375,2055 405,2057 435,2058 466,2059 496,2061 526,2062 556,2063 586,2063 617,2064 647,2065 677,2066 707,2067 737,2067 768,2068 798,2069 828,2071 858,2072 888,2073 919,2076"
+                         HEIGHT="57"
+                         WIDTH="604"
+                         VPOS="2029"
+                         HPOS="315">
+                  <String ID="string_r1l42"
+                          HEIGHT="57"
+                          WIDTH="604"
+                          VPOS="2029"
+                          HPOS="315"
+                          CONTENT="Der Muſe Reiz urbildlich vorgeſchwebt:"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="311,2092 341,2095 372,2098 403,2101 433,2102 464,2104 495,2106 525,2107 556,2108 587,2109 618,2110 648,2111 679,2111 710,2112 740,2113 771,2113 802,2115 832,2116 863,2117 894,2118 925,2120"
+                         HEIGHT="59"
+                         WIDTH="614"
+                         VPOS="2071"
+                         HPOS="311">
+                  <String ID="string_r1l43"
+                          HEIGHT="59"
+                          WIDTH="614"
+                          VPOS="2071"
+                          HPOS="311"
+                          CONTENT="An Deinem Sarge ſteht es hell zu leſen"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="315,2137 347,2140 380,2143 413,2145 445,2147 478,2149 511,2151 543,2152 576,2154 609,2155 642,2156 674,2157 707,2158 740,2159 772,2160 805,2161 838,2162 870,2163 903,2164 936,2165 969,2167"
+                         HEIGHT="63"
+                         WIDTH="654"
+                         VPOS="2115"
+                         HPOS="315">
+                  <String ID="string_r1l44"
+                          HEIGHT="63"
+                          WIDTH="654"
+                          VPOS="2115"
+                          HPOS="315"
+                          CONTENT="Mit Roſenſchimmer: Das biſt Du geweſen."/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="68,2193 112,2198 157,2203 202,2207 247,2212 292,2215 337,2219 382,2222 427,2225 472,2228 517,2230 561,2232 606,2234 651,2236 696,2237 741,2238 786,2240 831,2240 876,2241 921,2242 966,2243"
+                         HEIGHT="86"
+                         WIDTH="898"
+                         VPOS="2169"
+                         HPOS="68">
+                  <String ID="string_r1l45"
+                          HEIGHT="86"
+                          WIDTH="898"
+                          VPOS="2169"
+                          HPOS="68"
+                          CONTENT="obſchon er dann wieder in ganz anderem Tone hinzuſetzt:"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

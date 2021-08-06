@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;ig_lb=true):v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-18T17:26:43.219+01:00</Created>
+        <LastChange>2021-05-11T09:14:32.187+02:00</LastChange>
+        <TranskribusMetadata docId="541181" pageId="22777176" pageNr="20" tsid="57717638" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=FEQWEPUUZSHQHIFSEWWOIXBI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VUGDKRJSAXNOPNVGIKIHLQGC" imageId="17757295"/>
+    </Metadata>
+    <Page imageFilename="akzs_1860_00510.tif" imageWidth="1501" imageHeight="2586">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328197296" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="136,90 136,2425 1478,2425 1478,90"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="847,98 817,98 787,96 787,146 817,148 847,148"/>
+                <Baseline points="787,113 817,115 847,115"/>
+                <TextEquiv>
+                    <Unicode>64</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1478,142 1410,144 1343,145 1276,147 1209,147 1142,148 1075,149 1008,149 941,149 874,149 807,148 739,148 672,148 605,147 538,147 471,147 404,147 337,147 270,147 203,148 136,149 136,243 203,242 270,241 337,241 404,241 471,241 538,241 605,241 672,242 739,242 807,242 874,243 941,243 1008,243 1075,243 1142,242 1209,241 1276,241 1343,239 1410,238 1478,236"/>
+                <Baseline points="136,228 203,227 270,226 337,226 404,226 471,226 538,226 605,226 672,227 739,227 807,227 874,228 941,228 1008,228 1075,228 1142,227 1209,226 1276,226 1343,224 1410,223 1478,221"/>
+                <TextEquiv>
+                    <Unicode>borough ſeinen, vom Biſchof von Oxford tapfer unterſtützten, Antrag auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1472,237 1405,239 1339,241 1273,242 1206,243 1140,243 1074,244 1007,244 941,244 875,244 809,244 742,243 676,243 610,243 543,243 477,242 411,242 344,242 278,242 212,242 146,243 146,296 212,295 278,295 344,295 411,295 477,295 543,296 610,296 676,296 742,296 809,297 875,297 941,297 1007,297 1074,297 1140,296 1206,296 1273,295 1339,294 1405,292 1472,290"/>
+                <Baseline points="146,280 212,279 278,279 344,279 411,279 477,279 543,280 610,280 676,280 742,280 809,281 875,281 941,281 1007,281 1074,281 1140,280 1206,280 1273,279 1339,278 1405,276 1472,274"/>
+                <TextEquiv>
+                    <Unicode>Aufhebung gewiſſer Zuſtände in Indien wieder fallen laſſen, da er keinen günſtigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1472,292 1405,293 1339,295 1272,296 1206,296 1139,297 1073,297 1006,298 940,298 873,298 807,297 740,297 674,297 607,297 541,296 474,296 408,295 341,295 275,294 208,294 142,294 142,346 208,346 275,346 341,347 408,347 474,348 541,348 607,349 674,349 740,349 807,349 873,350 940,350 1006,350 1073,349 1139,349 1206,348 1272,348 1339,347 1405,345 1472,344"/>
+                <Baseline points="142,331 208,331 275,331 341,332 408,332 474,333 541,333 607,334 674,334 740,334 807,334 873,335 940,335 1006,335 1073,334 1139,334 1206,333 1272,333 1339,332 1405,330 1472,329"/>
+                <TextEquiv>
+                    <Unicode>Erfolg dafür hoffen konnte. Um nämlich die Heiden bei guter Laune zu erhalten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1474,344 1407,346 1341,348 1274,349 1208,350 1141,350 1075,351 1008,351 942,351 875,350 809,350 742,350 676,349 609,349 543,349 476,348 410,348 343,348 277,349 210,349 144,351 144,404 210,402 277,402 343,401 410,401 476,401 543,402 609,402 676,402 742,403 809,403 875,403 942,404 1008,404 1075,404 1141,403 1208,403 1274,402 1341,401 1407,399 1474,397"/>
+                <Baseline points="144,388 210,386 277,386 343,385 410,385 476,385 543,386 609,386 676,386 742,387 809,387 875,387 942,388 1008,388 1075,388 1141,387 1208,387 1274,386 1341,385 1407,383 1474,381"/>
+                <TextEquiv>
+                    <Unicode>iſt das Leſen der Bibel in allen indiſchen Staatsſchulen verboten. Gerne knüpfen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1472,398 1405,400 1339,402 1273,403 1206,404 1140,404 1074,405 1007,405 941,405 875,404 809,404 742,404 676,403 610,403 543,402 477,402 411,402 344,402 278,402 212,403 146,403 146,456 212,456 278,455 344,455 411,455 477,455 543,455 610,456 676,456 742,457 809,457 875,457 941,458 1007,458 1074,458 1140,457 1206,457 1273,456 1339,455 1405,453 1472,451"/>
+                <Baseline points="146,440 212,440 278,439 344,439 411,439 477,439 543,439 610,440 676,440 742,441 809,441 875,441 941,442 1007,442 1074,442 1140,441 1206,441 1273,440 1339,439 1405,437 1472,435"/>
+                <TextEquiv>
+                    <Unicode>wir an dieſe wenig ehrenvolle Thatſache die erfreuliche Nachricht, daß es dem eng⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1474,450 1407,453 1340,455 1273,456 1207,457 1140,458 1073,458 1007,459 940,459 873,458 807,458 740,457 673,457 606,456 540,456 473,455 406,455 340,455 273,455 206,455 140,455 140,507 206,507 273,507 340,507 406,507 473,507 540,508 606,508 673,509 740,509 807,510 873,510 940,511 1007,511 1073,510 1140,510 1207,509 1273,508 1340,507 1407,505 1474,502"/>
+                <Baseline points="140,492 206,492 273,492 340,492 406,492 473,492 540,493 606,493 673,494 740,494 807,495 873,495 940,496 1007,496 1073,495 1140,495 1207,494 1273,493 1340,492 1407,490 1474,487"/>
+                <TextEquiv>
+                    <Unicode>liſchen Miniſter gelungen iſt, die Freiſprechung des in Spanien verurtheilten Bibel⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1472,505 1405,507 1338,509 1272,510 1205,511 1138,512 1072,512 1005,512 939,512 872,511 806,511 739,510 672,510 606,509 539,509 473,509 406,508 339,508 273,509 206,509 140,510 140,562 206,561 273,561 339,560 406,560 473,561 539,561 606,561 672,562 739,562 806,563 872,563 939,564 1005,564 1072,564 1138,564 1205,563 1272,562 1338,561 1405,559 1472,557"/>
+                <Baseline points="140,547 206,546 273,546 339,545 406,545 473,546 539,546 606,546 672,547 739,547 806,548 872,548 939,549 1005,549 1072,549 1138,549 1205,548 1272,547 1338,546 1405,544 1472,542"/>
+                <TextEquiv>
+                    <Unicode>Colporteurs Escalante zu erwirken. — Endlich hat in dieſen Tagen, von den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1476,558 1409,560 1342,562 1276,563 1209,564 1142,565 1076,565 1009,565 943,565 876,565 810,565 743,564 676,564 610,563 543,563 477,562 410,562 343,562 277,562 210,562 144,562 144,615 210,615 277,615 343,615 410,615 477,615 543,616 610,616 676,617 743,617 810,618 876,618 943,618 1009,618 1076,618 1142,618 1209,617 1276,616 1342,615 1409,613 1476,611"/>
+                <Baseline points="144,599 210,599 277,599 343,599 410,599 477,599 543,600 610,600 676,601 743,601 810,602 876,602 943,602 1009,602 1076,602 1142,602 1209,601 1276,600 1342,599 1409,597 1476,595"/>
+                <TextEquiv>
+                    <Unicode>Sympathieen der ganzen evangeliſchen Chriſtenheit begleitet und freudig zurückblickend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1470,614 1403,616 1337,617 1271,618 1205,619 1139,619 1072,619 1006,619 940,619 874,619 808,619 741,618 675,617 609,617 543,616 477,616 410,616 344,615 278,615 212,616 146,616 146,669 212,669 278,668 344,668 410,669 477,669 543,669 609,670 675,670 741,671 808,672 874,672 940,672 1006,672 1072,672 1139,672 1205,672 1271,671 1337,670 1403,669 1470,667"/>
+                <Baseline points="146,653 212,653 278,652 344,652 410,653 477,653 543,653 609,654 675,654 741,655 808,656 874,656 940,656 1006,656 1072,656 1139,656 1205,656 1271,655 1337,654 1403,653 1470,651"/>
+                <TextEquiv>
+                    <Unicode>auf eine, an Thaten und Opfern überreiche, Geſchichte, die ſchottiſche Kirche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1016,673 972,673 928,673 884,672 840,672 796,672 752,672 709,671 665,671 621,671 577,671 533,670 489,670 445,670 402,669 358,669 314,669 270,668 226,668 182,668 139,667 139,760 182,761 226,761 270,761 314,762 358,762 402,762 445,763 489,763 533,763 577,764 621,764 665,764 709,764 752,765 796,765 840,765 884,765 928,766 972,766 1016,766"/>
+                <Baseline points="139,704 182,705 226,705 270,705 314,706 358,706 402,706 445,707 489,707 533,707 577,708 621,708 665,708 709,708 752,709 796,709 840,709 884,709 928,710 972,710 1016,710"/>
+                <TextEquiv>
+                    <Unicode>ihr dreihundertjähriges Reformationsjubiläum gefeiert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} textStyle {offset:0; length:19;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1036,766 1009,767 983,767 956,767 930,767 903,767 877,767 851,767 824,767 798,767 771,766 745,766 719,766 692,766 666,766 639,766 613,766 587,766 587,912 613,912 639,912 666,912 692,912 719,912 745,912 771,912 798,913 824,913 851,913 877,913 903,913 930,913 956,913 983,913 1009,913 1036,912"/>
+                <Baseline points="587,897 613,897 639,897 666,897 692,897 719,897 745,897 771,897 798,898 824,898 851,898 877,898 903,898 930,898 956,898 983,898 1009,898 1036,897"/>
+                <TextEquiv>
+                    <Unicode>Druckberichtigungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988255237_1709" custom="readingOrder {index:12;}">
+                <Coords points="189,909 268,909 347,910 480,912 1412,944 1412,946 1224,968 1057,967 189,945"/>
+                <Baseline points="189,945 215,945 241,945 268,945 294,946 321,946 347,946 374,947 400,947 427,948 453,948 480,948 506,949 533,950 569,948 594,949 619,949 644,949 669,949 694,949 720,949 745,949 770,949 795,949 820,949 845,950 871,950 896,950 921,950 946,951 971,951 997,952 1030,951 1057,952 1085,951 1113,951 1140,951 1168,951 1196,952 1224,953 1250,956 1277,953 1304,951 1331,950 1358,949 1385,947 1412,946"/>
+                <TextEquiv>
+                    <Unicode>in der Correſpondenz: Aus Schleswig, in der „Allg. kirchl. Zeitschrift.”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="1060,969 1033,968 1007,968 981,967 955,967 929,967 903,966 876,966 850,966 824,966 798,965 772,965 746,965 719,965 693,965 667,965 641,965 615,965 589,965 563,965 563,1018 589,1018 615,1018 641,1018 667,1018 693,1018 719,1018 746,1018 772,1018 798,1018 824,1019 850,1019 876,1019 903,1019 929,1020 955,1020 981,1020 1007,1021 1033,1021 1060,1022"/>
+                <Baseline points="563,1002 589,1002 615,1002 641,1002 667,1002 693,1002 719,1002 746,1002 772,1002 798,1002 824,1003 850,1003 876,1003 903,1003 929,1004 955,1004 981,1004 1007,1005 1033,1005 1060,1006"/>
+                <TextEquiv>
+                    <Unicode>Heft 6. Seite 20 u. flgde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988261752_1714" custom="readingOrder {index:14;}">
+                <Coords points="253,1031 569,1031 1215,1038 1219,1072 1032,1076 1004,1077 895,1077 390,1065 340,1063 265,1059"/>
+                <Baseline points="265,1059 290,1060 315,1061 340,1063 365,1064 390,1065 415,1065 440,1064 465,1064 491,1062 532,1062 552,1062 584,1061 610,1062 636,1062 662,1062 688,1062 714,1062 740,1062 766,1061 895,1064 922,1063 949,1063 977,1063 1004,1064 1032,1063 1068,1061 1097,1063 1127,1063 1157,1064 1187,1064 1217,1066"/>
+                <TextEquiv>
+                    <Unicode>Seite 22, Zeile 9, ſtatt Heyeſen, ſoll ſtehen: Heynſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988268671_1718" custom="readingOrder {index:15;}">
+                <Coords points="291,1112 287,1077 681,1076 713,1075 752,1079 1215,1086 1209,1117 323,1114"/>
+                <Baseline points="291,1112 323,1114 355,1114 387,1113 451,1115 473,1113 519,1108 553,1112 589,1113 629,1109 649,1110 681,1108 713,1107 745,1108 980,1118 1000,1116 1058,1109 1083,1109 1108,1109 1133,1109 1158,1109 1183,1109 1208,1109"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 22. „ Nelſen, „ „  Neelſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988279253_1722" custom="readingOrder {index:16;}">
+                <Coords points="296,1160 289,1123 739,1128 798,1130 1260,1131 1260,1166 913,1173"/>
+                <Baseline points="296,1160 308,1160 364,1160 384,1160 451,1160 471,1161 516,1154 550,1154 588,1160 607,1157 652,1151 681,1152 710,1153 739,1153 768,1154 798,1155 893,1160 913,1162 988,1160 998,1160 1063,1154 1090,1155 1117,1155 1144,1155 1172,1155 1199,1155 1226,1156 1254,1157"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 28, „ Schneefeld, „ „ Schenefeld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988290500_1727" custom="readingOrder {index:17;}">
+                <Coords points="291,1174 1133,1172 1164,1176 1195,1173 1191,1204 292,1219 292,1206"/>
+                <Baseline points="292,1208 311,1205 352,1197 394,1201 452,1205 472,1205 512,1200 544,1200 594,1206 613,1201 655,1199 681,1201 707,1199 733,1197 892,1205 912,1206 986,1205 996,1205 1060,1201 1086,1202 1112,1201 1138,1201 1164,1202 1191,1204"/>
+                <TextEquiv>
+                    <Unicode>„ 23 „ 17, „ Maus, „ „ Mau’s.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988301316_1732" custom="readingOrder {index:18;}">
+                <Coords points="296,1254 296,1221 779,1220 1169,1222 1195,1220 1219,1221 1219,1261 1004,1265 984,1265 308,1259"/>
+                <Baseline points="300,1251 310,1253 368,1251 388,1253 452,1254 492,1248 514,1245 552,1249 587,1250 607,1252 617,1247 627,1247 655,1244 686,1246 717,1247 748,1247 779,1247 984,1253 1004,1253 1064,1247 1090,1248 1116,1248 1142,1248 1168,1247 1194,1249 1221,1252"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 24, „ Hegenſen, „ „ Heynſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988319441_1737" custom="readingOrder {index:19;}">
+                <Coords points="302,1298 301,1267 727,1264 1177,1266 1181,1309 990,1314"/>
+                <Baseline points="302,1298 322,1298 376,1297 386,1297 455,1298 475,1300 485,1298 514,1297 543,1300 590,1297 610,1297 651,1292 676,1294 701,1292 727,1292 906,1300 916,1300 990,1302 1000,1299 1064,1298 1092,1296 1121,1295 1149,1296 1178,1296"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ „ „ Haak, „ „ Haack.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988336093_1741" custom="readingOrder {index:20;}">
+                <Coords points="302,1345 297,1309 702,1309 727,1309 753,1310 1218,1313 1220,1358 986,1359"/>
+                <Baseline points="302,1345 312,1345 364,1343 386,1345 456,1344 490,1338 508,1337 533,1339 558,1341 567,1342 609,1346 620,1343 630,1342 651,1338 676,1338 702,1337 727,1337 753,1338 779,1342 892,1345 904,1345 986,1348 996,1348 1066,1341 1095,1342 1125,1341 1155,1341 1185,1341 1215,1342"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 25, „ Hegenſen, „ „ Heynſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988348843_1746" custom="readingOrder {index:21;}">
+                <Coords points="296,1391 294,1388 296,1359 720,1360 1128,1363 1163,1363 1169,1387 1169,1398 296,1392"/>
+                <Baseline points="296,1392 316,1389 366,1390 386,1390 456,1390 486,1386 513,1386 545,1386 578,1390 611,1390 650,1383 685,1385 720,1385 902,1392 912,1392 990,1393 999,1391 1064,1387 1095,1388 1126,1387 1158,1389"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 28, „ Haak, „ „ Haack.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988360203_1750" custom="readingOrder {index:22;}">
+                <Coords points="296,1435 291,1404 757,1402 1256,1408 1254,1443 993,1446 316,1437"/>
+                <Baseline points="296,1435 316,1437 366,1435 388,1437 457,1436 468,1438 516,1428 542,1431 569,1432 596,1433 623,1433 650,1432 676,1431 703,1431 730,1430 757,1430 784,1431 811,1433 898,1438 918,1438 994,1439 1003,1438 1067,1430 1093,1431 1120,1432 1147,1432 1173,1433 1200,1433 1227,1434 1254,1433"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 34, „ Dieckmann, „ „ Diekmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988369048_1754" custom="readingOrder {index:23;}">
+                <Coords points="292,1490 298,1452 1309,1453 1308,1495 992,1497"/>
+                <Baseline points="299,1481 384,1482 454,1482 474,1482 521,1474 547,1478 573,1479 599,1479 625,1479 651,1477 677,1476 703,1476 729,1475 755,1475 781,1477 807,1480 900,1483 910,1483 982,1483 992,1485 1065,1478 1092,1478 1119,1479 1146,1479 1173,1479 1201,1480 1228,1480 1255,1480 1282,1481 1310,1481"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 41, „ Kaufmann, „ „ v. Kauffmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988396724_1762" custom="readingOrder {index:24;}">
+                <Coords points="299,1533 299,1491 733,1493 787,1493 1307,1498 1307,1538 988,1544"/>
+                <Baseline points="300,1527 320,1527 362,1523 394,1525 453,1529 463,1529 519,1523 545,1524 572,1525 599,1525 626,1525 653,1524 680,1523 706,1522 733,1521 760,1521 787,1521 814,1523 841,1525 896,1532 906,1531 988,1532 998,1531 1062,1523 1088,1523 1115,1524 1141,1524 1168,1524 1194,1525 1221,1525 1247,1526 1274,1527 1301,1528"/>
+                <TextEquiv>
+                    <Unicode>„ 24, „ 21, „ Dr. Aswiſſen, „ „ Dr. Asmuſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988403743_1766" custom="readingOrder {index:25;}">
+                <Coords points="300,1577 295,1540 715,1539 765,1539 1286,1540 1283,1584 1000,1586 980,1586"/>
+                <Baseline points="297,1573 392,1571 460,1574 492,1568 515,1568 540,1570 565,1571 590,1571 615,1570 640,1570 665,1569 690,1568 715,1567 740,1567 765,1567 790,1568 815,1570 841,1572 980,1575 1000,1575 1059,1570 1084,1571 1109,1571 1134,1571 1159,1571 1184,1571 1209,1571 1234,1572 1259,1572 1284,1573"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 22, „ Prof. Janſen, „ „ Prof. Jenſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988418391_1772" custom="readingOrder {index:26;}">
+                <Coords points="300,1620 301,1587 650,1587 679,1586 1267,1584 1267,1617 1274,1633 1249,1630 1000,1633 990,1633"/>
+                <Baseline points="300,1620 320,1620 356,1613 398,1617 451,1621 471,1619 522,1613 549,1614 577,1617 604,1619 632,1613 650,1613 679,1612 708,1612 737,1612 766,1612 796,1612 901,1621 911,1619 990,1621 1000,1621 1065,1613 1090,1614 1115,1616 1140,1616 1166,1617 1191,1617 1216,1618 1241,1619 1267,1621"/>
+                <TextEquiv>
+                    <Unicode>„ 25, „ 3, „ Schneefeld, „ „ Schenefeld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988431337_1779" custom="readingOrder {index:27;}">
+                <Coords points="308,1633 514,1628 698,1629 724,1630 1204,1633 1204,1654 1204,1672 312,1679"/>
+                <Baseline points="296,1663 316,1665 367,1666 387,1670 454,1666 486,1662 514,1657 540,1661 566,1663 593,1663 619,1662 645,1660 672,1659 698,1658 724,1659 751,1662 900,1665 930,1669 984,1667 1004,1667 1066,1661 1093,1663 1120,1662 1148,1662 1175,1663 1203,1666"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 42, „ Haaſen, „ „ Hanſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988440414_1784" custom="readingOrder {index:28;}">
+                <Coords points="298,1713 298,1709 301,1682 748,1679 1224,1678 1248,1678 1249,1717 1002,1721 298,1714"/>
+                <Baseline points="298,1714 318,1711 368,1710 390,1714 456,1712 476,1712 521,1710 546,1712 571,1712 591,1711 623,1709 657,1702 687,1704 718,1704 748,1704 779,1706 981,1714 1002,1715 1064,1705 1089,1707 1114,1707 1139,1708 1165,1708 1190,1709 1215,1710 1241,1712"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ „ „ Grumby, „ „ Grumbye.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988447542_1788" custom="readingOrder {index:29;}">
+                <Coords points="304,1727 649,1726 767,1726 797,1727 1289,1726 1291,1769 293,1766 297,1745"/>
+                <Baseline points="309,1762 396,1755 452,1757 472,1759 520,1751 549,1753 578,1756 607,1755 637,1750 649,1751 678,1751 708,1751 737,1751 767,1751 797,1752 894,1759 914,1759 986,1761 996,1763 1065,1755 1092,1755 1120,1755 1148,1755 1176,1756 1203,1756 1231,1757 1259,1757 1287,1758"/>
+                <TextEquiv>
+                    <Unicode>„ 26, „ 24, „ Aſcherfeldt, „ „ Asſchenfeldt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988461303_1792" custom="readingOrder {index:30;}">
+                <Coords points="297,1814 300,1770 763,1770 1245,1773 1249,1813 389,1808"/>
+                <Baseline points="301,1813 389,1808 458,1805 480,1803 520,1798 547,1802 574,1804 601,1804 628,1803 655,1802 682,1800 709,1798 736,1798 763,1798 790,1801 902,1805 912,1807 984,1808 996,1810 1065,1795 1090,1799 1115,1801 1141,1802 1166,1802 1192,1802 1217,1803 1243,1804"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 25, „ Joedkirch, „ „ Jordkirch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988469792_1796" custom="readingOrder {index:31;}">
+                <Coords points="302,1852 300,1818 741,1818 1240,1820 1238,1863 896,1866"/>
+                <Baseline points="302,1852 322,1852 373,1853 384,1851 461,1851 472,1851 516,1845 541,1848 566,1850 591,1850 616,1849 641,1849 666,1848 691,1847 716,1846 741,1846 766,1847 896,1854 916,1853 989,1853 1010,1852 1071,1850 1098,1849 1125,1849 1152,1849 1179,1848 1206,1849 1233,1850"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 27, „ Ijelfrez, „ „ Fjelſtrup.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988481063_1800" custom="readingOrder {index:32;}">
+                <Coords points="308,1905 304,1863 674,1864 729,1863 783,1863 811,1864 838,1865 1305,1863 1298,1908 980,1914 314,1906 305,1898"/>
+                <Baseline points="305,1898 316,1902 372,1898 382,1900 456,1900 476,1898 506,1893 539,1899 572,1897 600,1898 634,1890 647,1893 674,1892 701,1892 729,1891 756,1891 783,1891 811,1892 838,1893 866,1895 894,1898 904,1900 980,1903 999,1899 1059,1895 1086,1895 1113,1895 1141,1895 1168,1895 1195,1895 1223,1895 1250,1895 1277,1895 1305,1896"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ „ „ N. S. Boeſen, „ „ U. S. Boeſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988491033_1804" custom="readingOrder {index:33;}">
+                <Coords points="298,1907 1066,1913 1407,1905 1409,1944 1378,1945 1353,1948 1002,1959 982,1959 296,1952"/>
+                <Baseline points="296,1946 316,1946 368,1943 388,1945 454,1944 486,1942 504,1937 530,1939 557,1941 583,1942 610,1942 636,1942 663,1941 690,1940 716,1939 743,1938 769,1938 796,1937 822,1938 849,1939 876,1941 891,1944 912,1944 982,1946 1002,1946 1066,1940 1092,1940 1118,1941 1144,1941 1170,1941 1197,1942 1223,1942 1249,1942 1275,1942 1302,1941 1328,1940 1354,1939 1380,1936 1423,1933"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 40, „ og Miſſionsblad, „ „ Religions⸗ og Miſ⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l168" custom="readingOrder {index:34;}">
+                <Coords points="1251,1960 1224,1958 1197,1958 1170,1958 1144,1957 1117,1957 1090,1957 1064,1957 1064,1999 1090,1999 1117,1999 1144,1999 1170,2000 1197,2000 1224,2000 1251,2002"/>
+                <Baseline points="1064,1987 1090,1987 1117,1987 1144,1987 1170,1988 1197,1988 1224,1988 1251,1990"/>
+                <TextEquiv>
+                    <Unicode>ſionsblad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988505263_1811" custom="readingOrder {index:35;}">
+                <Coords points="293,1999 1172,2002 1199,2001 1195,2043 1004,2045 981,2045 316,2037 295,2036 296,2033"/>
+                <Baseline points="296,2034 316,2037 368,2029 398,2031 456,2038 476,2038 533,2032 563,2034 593,2035 624,2033 660,2029 690,2031 721,2031 752,2033 900,2038 910,2037 982,2040 1002,2040 1067,2032 1093,2033 1119,2033 1145,2033 1171,2033 1198,2035"/>
+                <TextEquiv>
+                    <Unicode>„ 28, „ 7, „Boeſee, „ „ Boeſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988512392_1815" custom="readingOrder {index:36;}">
+                <Coords points="297,2052 725,2049 1186,2053 1187,2086 475,2090 299,2093 295,2081"/>
+                <Baseline points="301,2092 388,2082 456,2083 476,2086 524,2073 549,2078 574,2080 599,2081 624,2080 650,2079 675,2078 700,2077 725,2077 751,2078 900,2083 910,2085 986,2084 1006,2084 1067,2080 1096,2079 1125,2079 1154,2080 1194,2084"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 8, „ Meier, „ „ Meyer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988534344_1826" custom="readingOrder {index:37;}">
+                <Coords points="289,2103 743,2096 1217,2097 1220,2127 1222,2129 388,2142 290,2144 293,2120"/>
+                <Baseline points="304,2136 388,2130 458,2128 504,2124 514,2122 539,2126 565,2127 590,2128 616,2128 641,2127 667,2126 692,2125 718,2125 743,2125 769,2126 899,2129 911,2129 992,2129 1002,2129 1063,2122 1089,2125 1115,2126 1141,2126 1167,2126 1193,2126 1219,2128"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 25, „ Hegeſen, „ „ Heynſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615988542810_1830" custom="readingOrder {index:38;}">
+                <Coords points="297,2143 1220,2140 1219,2174 1008,2180 319,2178 299,2176"/>
+                <Baseline points="299,2176 319,2178 371,2176 391,2178 463,2172 489,2172 515,2173 541,2173 567,2173 593,2173 620,2173 646,2173 672,2173 698,2172 724,2172 750,2171 777,2170 909,2177 919,2175 990,2177 1010,2179 1065,2172 1090,2173 1116,2173 1142,2174 1167,2174 1193,2173 1219,2174"/>
+                <TextEquiv>
+                    <Unicode>„ „ „ 30, „ Hegeſen, „ „ Heynſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l196" custom="readingOrder {index:39;}">
+                <Coords points="708,2346 682,2346 657,2346 632,2346 607,2346 581,2346 556,2346 531,2345 506,2345 480,2345 455,2345 430,2344 405,2344 379,2344 354,2343 329,2343 304,2342 278,2341 253,2340 228,2339 203,2338 203,2409 228,2410 253,2411 278,2412 304,2413 329,2414 354,2414 379,2415 405,2415 430,2415 455,2416 480,2416 506,2416 531,2416 556,2417 581,2417 607,2417 632,2417 657,2417 682,2417 708,2417"/>
+                <Baseline points="203,2406 228,2407 253,2408 278,2409 304,2410 329,2411 354,2411 379,2412 405,2412 430,2412 455,2413 480,2413 506,2413 531,2413 556,2414 581,2414 607,2414 632,2414 657,2414 682,2414 708,2414"/>
+                <TextEquiv>
+                    <Unicode>Gedruckt bei Sam. Lucas in Elberfeld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>64
+borough ſeinen, vom Biſchof von Oxford tapfer unterſtützten, Antrag auf
+Aufhebung gewiſſer Zuſtände in Indien wieder fallen laſſen, da er keinen günſtigen
+Erfolg dafür hoffen konnte. Um nämlich die Heiden bei guter Laune zu erhalten,
+iſt das Leſen der Bibel in allen indiſchen Staatsſchulen verboten. Gerne knüpfen
+wir an dieſe wenig ehrenvolle Thatſache die erfreuliche Nachricht, daß es dem eng⸗
+liſchen Miniſter gelungen iſt, die Freiſprechung des in Spanien verurtheilten Bibel⸗
+Colporteurs Escalante zu erwirken. — Endlich hat in dieſen Tagen, von den
+Sympathieen der ganzen evangeliſchen Chriſtenheit begleitet und freudig zurückblickend
+auf eine, an Thaten und Opfern überreiche, Geſchichte, die ſchottiſche Kirche
+ihr dreihundertjähriges Reformationsjubiläum gefeiert.
+Druckberichtigungen
+in der Correſpondenz: Aus Schleswig, in der „Allg. kirchl. Zeitschrift.”
+Heft 6. Seite 20 u. flgde.
+Seite 22, Zeile 9, ſtatt Heyeſen, ſoll ſtehen: Heynſen.
+„ „ „ 22. „ Nelſen, „ „  Neelſen.
+„ „ „ 28, „ Schneefeld, „ „ Schenefeld.
+„ 23 „ 17, „ Maus, „ „ Mau’s.
+„ „ „ 24, „ Hegenſen, „ „ Heynſen.
+„ „ „ „ „ Haak, „ „ Haack.
+„ „ „ 25, „ Hegenſen, „ „ Heynſen.
+„ „ „ 28, „ Haak, „ „ Haack.
+„ „ „ 34, „ Dieckmann, „ „ Diekmann.
+„ „ „ 41, „ Kaufmann, „ „ v. Kauffmann.
+„ 24, „ 21, „ Dr. Aswiſſen, „ „ Dr. Asmuſſen.
+„ „ „ 22, „ Prof. Janſen, „ „ Prof. Jenſen.
+„ 25, „ 3, „ Schneefeld, „ „ Schenefeld.
+„ „ „ 42, „ Haaſen, „ „ Hanſen.
+„ „ „ „ „ Grumby, „ „ Grumbye.
+„ 26, „ 24, „ Aſcherfeldt, „ „ Asſchenfeldt.
+„ „ „ 25, „ Joedkirch, „ „ Jordkirch.
+„ „ „ 27, „ Ijelfrez, „ „ Fjelſtrup.
+„ „ „ „ „ N. S. Boeſen, „ „ U. S. Boeſen.
+„ „ „ 40, „ og Miſſionsblad, „ „ Religions⸗ og Miſ⸗
+ſionsblad.
+„ 28, „ 7, „Boeſee, „ „ Boeſen.
+„ „ „ 8, „ Meier, „ „ Meyer.
+„ „ „ 25, „ Hegeſen, „ „ Heynſen.
+„ „ „ 30, „ Hegeſen, „ „ Heynſen.
+Gedruckt bei Sam. Lucas in Elberfeld.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

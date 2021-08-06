@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:43:32.371+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2153" WIDTH="1237">
+         <TopMargin HEIGHT="0" WIDTH="1237" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="1237"/>
+         <BottomMargin HEIGHT="0" WIDTH="1237" VPOS="2153" HPOS="0"/>
+         <PrintSpace HEIGHT="2153" WIDTH="1237" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1974" WIDTH="1104" VPOS="47" HPOS="53">
+               <Shape>
+                  <Polygon POINTS="53,47 53,2021 1157,2021 1157,47"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="543,93 572,95 601,95 630,94 659,93"
+                         HEIGHT="71"
+                         WIDTH="116"
+                         VPOS="47"
+                         HPOS="543">
+                  <String ID="string_r1l1"
+                          HEIGHT="71"
+                          WIDTH="116"
+                          VPOS="47"
+                          HPOS="543"
+                          CONTENT="Der"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="146,254 190,256 235,257 280,257 325,257 370,257 414,256 459,255 504,254 549,253 594,251 638,250 683,249 728,247 773,246 818,246 862,245 907,245 952,246 997,247 1042,248"
+                         HEIGHT="81"
+                         WIDTH="896"
+                         VPOS="199"
+                         HPOS="146">
+                  <String ID="string_r1l2"
+                          HEIGHT="81"
+                          WIDTH="896"
+                          VPOS="199"
+                          HPOS="146"
+                          CONTENT="Katholik;"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="549,387 576,389 603,388 630,387 658,388"
+                         HEIGHT="71"
+                         WIDTH="109"
+                         VPOS="341"
+                         HPOS="549">
+                  <String ID="string_r1l3"
+                          HEIGHT="71"
+                          WIDTH="109"
+                          VPOS="341"
+                          HPOS="549"
+                          CONTENT="eine"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="53,512 108,513 163,514 218,515 273,516 329,516 384,517 439,518 494,518 549,518 605,518 660,518 715,518 770,517 825,517 881,516 936,515 991,514 1046,512 1101,511 1157,509"
+                         HEIGHT="78"
+                         WIDTH="1104"
+                         VPOS="463"
+                         HPOS="53">
+                  <String ID="string_r1l4"
+                          HEIGHT="78"
+                          WIDTH="1104"
+                          VPOS="463"
+                          HPOS="53"
+                          CONTENT="religioͤſe Zeitſchrift"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="567,635 599,631 631,627"
+                         HEIGHT="77"
+                         WIDTH="64"
+                         VPOS="581"
+                         HPOS="567">
+                  <String ID="string_r1l5"
+                          HEIGHT="77"
+                          WIDTH="64"
+                          VPOS="581"
+                          HPOS="567"
+                          CONTENT="zur"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="179,738 220,738 262,738 303,738 345,738 386,738 428,738 469,738 511,738 552,738 594,738 636,738 677,739 719,739 760,739 802,739 843,740 885,740 926,740 968,740 1010,741"
+                         HEIGHT="72"
+                         WIDTH="831"
+                         VPOS="692"
+                         HPOS="179">
+                  <String ID="string_r1l6"
+                          HEIGHT="72"
+                          WIDTH="831"
+                          VPOS="692"
+                          HPOS="179"
+                          CONTENT="Belehrung und Warnung."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="444,959 469,958 495,957 521,957 547,957 572,957 598,957 624,958 650,958 675,958 701,958 727,958 753,957"
+                         HEIGHT="71"
+                         WIDTH="309"
+                         VPOS="911"
+                         HPOS="444">
+                  <String ID="string_r1l7"
+                          HEIGHT="71"
+                          WIDTH="309"
+                          VPOS="911"
+                          HPOS="444"
+                          CONTENT="Herausgegeben"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="403,1019 429,1019 455,1018 481,1018 507,1018 533,1018 559,1017 585,1017 612,1017 638,1017 664,1018 690,1018 716,1018 742,1018 768,1018 795,1017"
+                         HEIGHT="38"
+                         WIDTH="392"
+                         VPOS="993"
+                         HPOS="403">
+                  <String ID="string_r1l9"
+                          HEIGHT="38"
+                          WIDTH="392"
+                          VPOS="993"
+                          HPOS="403"
+                          CONTENT="von Dr. Weis,"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="210,1070 248,1070 287,1069 325,1069 364,1069 402,1069 441,1068 479,1068 518,1068 556,1068 595,1068 634,1068 672,1068 711,1068 749,1068 788,1068 826,1068 865,1067 903,1067 942,1067 981,1067"
+                         HEIGHT="39"
+                         WIDTH="771"
+                         VPOS="1043"
+                         HPOS="210">
+                  <String ID="string_r1l10"
+                          HEIGHT="39"
+                          WIDTH="771"
+                          VPOS="1043"
+                          HPOS="210"
+                          CONTENT="Domkapitular und Biſchöfl. Geiſtlichem Rathe zu Speyer."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="696,1216 721,1217 746,1218 772,1218 797,1218 822,1218 848,1218 873,1218 898,1218 924,1218 949,1218 974,1219 1000,1220 1025,1221 1050,1223 1076,1225"
+                         HEIGHT="39"
+                         WIDTH="380"
+                         VPOS="1196"
+                         HPOS="696">
+                  <String ID="string_r1l11"
+                          HEIGHT="39"
+                          WIDTH="380"
+                          VPOS="1196"
+                          HPOS="696"
+                          CONTENT="Christianus mihi nomen,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="696,1254 722,1255 749,1256 776,1256 802,1256 829,1256 856,1256 882,1256 909,1255 936,1255 962,1255 989,1255 1016,1254"
+                         HEIGHT="32"
+                         WIDTH="320"
+                         VPOS="1234"
+                         HPOS="696">
+                  <String ID="string_r1l12"
+                          HEIGHT="32"
+                          WIDTH="320"
+                          VPOS="1234"
+                          HPOS="696"
+                          CONTENT="Catholicus cognomen."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="873,1288 899,1290 925,1291 952,1292 978,1292 1005,1292 1031,1292 1058,1291"
+                         HEIGHT="34"
+                         WIDTH="185"
+                         VPOS="1268"
+                         HPOS="873">
+                  <String ID="string_r1l13"
+                          HEIGHT="34"
+                          WIDTH="185"
+                          VPOS="1268"
+                          HPOS="873"
+                          CONTENT="S. PACIANUS."/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="240,1473 275,1472 311,1471 347,1470 383,1469 419,1469 454,1469 490,1469 526,1469 562,1469 598,1469 633,1469 669,1470 705,1470 741,1470 777,1471 812,1471 848,1472 884,1472 920,1472 956,1472"
+                         HEIGHT="73"
+                         WIDTH="716"
+                         VPOS="1423"
+                         HPOS="240">
+                  <String ID="string_r1l14"
+                          HEIGHT="73"
+                          WIDTH="716"
+                          VPOS="1423"
+                          HPOS="240"
+                          CONTENT="Fuͤnf und dreißigſter Band."/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="223,1626 259,1626 296,1626 333,1626 370,1626 407,1626 443,1625 480,1625 517,1625 554,1625 591,1624 627,1624 664,1624 701,1624 738,1624 775,1625 811,1625 848,1626 885,1627 922,1628 959,1630"
+                         HEIGHT="75"
+                         WIDTH="736"
+                         VPOS="1578"
+                         HPOS="223">
+                  <String ID="string_r1l15"
+                          HEIGHT="75"
+                          WIDTH="736"
+                          VPOS="1578"
+                          HPOS="223"
+                          CONTENT="Zehnter Jahrgang. — I. - III. Heft."/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="440,1875 466,1876 492,1876 519,1876 545,1876 571,1876 598,1875 624,1875 650,1875 677,1875 703,1876 730,1876"
+                         HEIGHT="49"
+                         WIDTH="290"
+                         VPOS="1843"
+                         HPOS="440">
+                  <String ID="string_r1l16"
+                          HEIGHT="49"
+                          WIDTH="290"
+                          VPOS="1843"
+                          HPOS="440"
+                          CONTENT="Speyer,"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="179,1939 220,1939 261,1940 302,1940 343,1940 385,1940 426,1941 467,1941 508,1941 549,1941 591,1941 632,1941 673,1941 714,1941 755,1941 797,1941 838,1941 879,1941 920,1941 961,1940 1003,1940"
+                         HEIGHT="50"
+                         WIDTH="824"
+                         VPOS="1907"
+                         HPOS="179">
+                  <String ID="string_r1l17"
+                          HEIGHT="50"
+                          WIDTH="824"
+                          VPOS="1907"
+                          HPOS="179"
+                          CONTENT="gedruckt bei Joh. Friedr. Kranzbuͤhler senior."/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="512,2005 538,2006 565,2006 592,2006 618,2006 645,2006 672,2005"
+                         HEIGHT="47"
+                         WIDTH="160"
+                         VPOS="1974"
+                         HPOS="512">
+                  <String ID="string_r1l18"
+                          HEIGHT="47"
+                          WIDTH="160"
+                          VPOS="1974"
+                          HPOS="512"
+                          CONTENT="1830."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

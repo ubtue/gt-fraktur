@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;ig_lb=true):v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-18T17:26:42.811+01:00</Created>
+        <LastChange>2021-05-11T09:13:12.533+02:00</LastChange>
+        <TranskribusMetadata docId="541181" pageId="22777165" pageNr="9" tsid="57717611" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=WHYOINHJHKYEKEBDHDBFYSJZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PORSOHTMFNTFSRODRGZHWGEJ" imageId="17757284"/>
+    </Metadata>
+    <Page imageFilename="akzs_1860_00100.tif" imageWidth="1502" imageHeight="2610">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328190172" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="109,68 109,2409 1477,2409 1477,68"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="826,77 778,76 778,131 826,132"/>
+                <Baseline points="778,97 826,98"/>
+                <TextEquiv>
+                    <Unicode>30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1473,133 1410,132 1347,131 1284,131 1221,130 1158,130 1095,130 1032,129 969,129 906,129 844,129 781,129 718,129 655,129 592,129 529,128 466,128 403,128 340,127 277,126 215,125 215,221 277,222 340,223 403,224 466,224 529,224 592,225 655,225 718,225 781,225 844,225 906,225 969,225 1032,225 1095,226 1158,226 1221,226 1284,227 1347,227 1410,228 1473,229"/>
+                <Baseline points="215,204 277,205 340,206 403,207 466,207 529,207 592,208 655,208 718,208 781,208 844,208 906,208 969,208 1032,208 1095,209 1158,209 1221,209 1284,210 1347,210 1410,211 1473,212"/>
+                <TextEquiv>
+                    <Unicode>Eine noch wichtigere Aufgabe, welche die Politik der Concordate uns Pro⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1472,230 1404,228 1337,226 1269,225 1202,223 1135,222 1067,222 1000,221 933,221 865,221 798,221 731,221 663,221 596,221 529,221 461,221 394,221 327,221 259,221 192,220 125,219 125,273 192,274 259,275 327,275 394,275 461,275 529,275 596,275 663,275 731,275 798,275 865,275 933,275 1000,275 1067,276 1135,276 1202,277 1269,279 1337,280 1404,282 1472,284"/>
+                <Baseline points="125,258 192,259 259,260 327,260 394,260 461,260 529,260 596,260 663,260 731,260 798,260 865,260 933,260 1000,260 1067,261 1135,261 1202,262 1269,264 1337,265 1404,267 1472,269"/>
+                <TextEquiv>
+                    <Unicode>teſtanten auferlegt, iſt die Erneuerung unſerer eigenen Kirche nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1469,285 1402,283 1335,281 1268,280 1201,279 1134,278 1067,277 1000,277 933,277 866,277 799,277 732,277 665,277 598,277 531,277 464,277 397,277 330,277 263,276 196,275 129,274 129,325 196,326 263,327 330,328 397,328 464,328 531,328 598,328 665,328 732,328 799,328 866,328 933,328 1000,328 1067,328 1134,329 1201,330 1268,331 1335,332 1402,334 1469,336"/>
+                <Baseline points="129,310 196,311 263,312 330,313 397,313 464,313 531,313 598,313 665,313 732,313 799,313 866,313 933,313 1000,313 1067,313 1134,314 1201,315 1268,316 1335,317 1402,319 1469,321"/>
+                <TextEquiv>
+                    <Unicode>den Grundſätzen der Reformation. Wenn falſche Grundſätze wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1477,337 1409,335 1342,333 1275,332 1207,330 1140,330 1073,329 1005,329 938,329 871,329 804,329 736,329 669,329 602,329 534,329 467,330 400,330 332,330 265,329 198,329 131,329 131,382 198,382 265,382 332,383 400,383 467,383 534,382 602,382 669,382 736,382 804,382 871,382 938,382 1005,382 1073,382 1140,383 1207,383 1275,385 1342,386 1409,388 1477,390"/>
+                <Baseline points="131,366 198,366 265,366 332,367 400,367 467,367 534,366 602,366 669,366 736,366 804,366 871,366 938,366 1005,366 1073,366 1140,367 1207,367 1275,369 1342,370 1409,372 1477,374"/>
+                <TextEquiv>
+                    <Unicode>nenen Boden gewinnen wollen, ſo laſſen ſich dieſelben nur durch käftige Gel⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1463,391 1396,389 1329,387 1262,385 1195,384 1128,383 1061,382 994,381 927,381 860,381 794,381 727,381 660,381 593,381 526,381 459,381 392,381 325,381 258,381 191,381 125,381 125,434 191,434 258,434 325,434 392,434 459,434 526,434 593,434 660,434 727,434 794,434 860,434 927,434 994,434 1061,435 1128,436 1195,437 1262,438 1329,440 1396,442 1463,444"/>
+                <Baseline points="125,418 191,418 258,418 325,418 392,418 459,418 526,418 593,418 660,418 727,418 794,418 860,418 927,418 994,418 1061,419 1128,420 1195,421 1262,422 1329,424 1396,426 1463,428"/>
+                <TextEquiv>
+                    <Unicode>tendmachung der richtigen überwinden. Die proteſtantiſche Kirche kann ſich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1469,445 1401,443 1334,441 1266,440 1199,438 1132,437 1064,436 997,435 929,434 862,434 795,434 727,433 660,433 592,434 525,434 458,434 390,435 323,435 255,436 188,437 121,437 121,489 188,489 255,488 323,487 390,487 458,486 525,486 592,486 660,485 727,485 795,486 862,486 929,486 997,487 1064,488 1132,489 1199,490 1266,492 1334,493 1401,495 1469,497"/>
+                <Baseline points="121,474 188,474 255,473 323,472 390,472 458,471 525,471 592,471 660,470 727,470 795,471 862,471 929,471 997,472 1064,473 1132,474 1199,475 1266,477 1334,478 1401,480 1469,482"/>
+                <TextEquiv>
+                    <Unicode>nicht länger der ernſten Pflicht entziehen, ſich auf ſich ſelbſt zu ſtellen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1469,497 1401,496 1334,495 1266,494 1199,493 1132,492 1064,492 997,491 929,490 862,489 795,489 727,489 660,488 592,488 525,488 458,488 390,489 323,489 255,490 188,491 121,493 121,544 188,542 255,541 323,540 390,540 458,539 525,539 592,539 660,539 727,540 795,540 862,540 929,541 997,542 1064,543 1132,543 1199,544 1266,545 1334,546 1401,547 1469,548"/>
+                <Baseline points="121,528 188,526 255,525 323,524 390,524 458,523 525,523 592,523 660,523 727,524 795,524 862,524 929,525 997,526 1064,527 1132,527 1199,528 1266,529 1334,530 1401,531 1469,532"/>
+                <TextEquiv>
+                    <Unicode>und aus ſich ſelbſt neu zu geſtalten. Der Raum erlaubt uns in die⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1470,549 1402,548 1335,546 1268,545 1201,544 1134,543 1066,541 999,540 932,540 865,539 798,538 730,538 663,538 596,538 529,538 462,538 394,538 327,539 260,540 193,541 126,542 126,595 193,594 260,593 327,592 394,591 462,591 529,591 596,591 663,591 730,591 798,591 865,592 932,593 999,593 1066,594 1134,596 1201,597 1268,598 1335,599 1402,601 1470,602"/>
+                <Baseline points="126,580 193,579 260,578 327,577 394,576 462,576 529,576 596,576 663,576 730,576 798,576 865,577 932,578 999,578 1066,579 1134,581 1201,582 1268,583 1335,584 1402,586 1470,587"/>
+                <TextEquiv>
+                    <Unicode>ſem Aufſatze nicht mehr, die für unſere kirchliche Gegenwart ſo hochwichtige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1476,603 1408,603 1341,603 1273,602 1206,601 1139,599 1071,598 1004,597 936,595 869,594 802,593 734,592 667,591 599,591 532,591 465,591 397,592 330,593 262,595 195,597 128,600 128,650 195,647 262,645 330,643 397,642 465,641 532,641 599,641 667,641 734,642 802,643 869,644 936,645 1004,647 1071,648 1139,649 1206,651 1273,652 1341,653 1408,653 1476,653"/>
+                <Baseline points="128,635 195,632 262,630 330,628 397,627 465,626 532,626 599,626 667,626 734,627 802,628 869,629 936,630 1004,632 1071,633 1139,634 1206,636 1273,637 1341,638 1408,638 1476,638"/>
+                <TextEquiv>
+                    <Unicode>Frage nach der den Bedürfniſſen der Zeit entſprechenden Reform der evan⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1477,654 1409,654 1342,654 1274,653 1207,653 1140,652 1072,651 1005,649 937,648 870,647 803,646 735,645 668,644 600,644 533,644 466,644 398,644 331,645 263,646 196,648 129,650 129,703 196,701 263,699 331,698 398,697 466,697 533,697 600,697 668,697 735,698 803,699 870,700 937,701 1005,702 1072,704 1140,705 1207,706 1274,706 1342,707 1409,707 1477,707"/>
+                <Baseline points="129,686 196,684 263,682 331,681 398,680 466,680 533,680 600,680 668,680 735,681 803,682 870,683 937,684 1005,685 1072,687 1140,688 1207,689 1274,689 1342,690 1409,690 1477,690"/>
+                <TextEquiv>
+                    <Unicode>geliſchen Kirche näher zu beleuchten.*) Wir müſſen ſie auf ein ſpäteres Heft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1475,708 1407,708 1340,706 1272,705 1205,704 1138,702 1070,701 1003,700 935,698 868,697 801,696 733,695 666,694 598,693 531,693 464,693 396,693 329,693 261,694 194,696 127,697 127,752 194,751 261,749 329,748 396,748 464,748 531,748 598,748 666,749 733,750 801,751 868,752 935,753 1003,755 1070,756 1138,757 1205,759 1272,760 1340,761 1407,763 1475,763"/>
+                <Baseline points="127,736 194,735 261,733 329,732 396,732 464,732 531,732 598,732 666,733 733,734 801,735 868,736 935,737 1003,739 1070,740 1138,741 1205,743 1272,744 1340,745 1407,747 1475,747"/>
+                <TextEquiv>
+                    <Unicode>verſparen. Unterdeſſen rufen wir Geiſtlichen und Gemeindegenoſſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1463,764 1396,763 1329,762 1262,760 1195,759 1128,758 1061,756 995,755 928,753 861,752 794,751 727,750 660,749 593,748 527,747 460,747 393,747 326,747 259,747 192,748 126,749 126,802 192,801 259,800 326,800 393,800 460,800 527,800 593,801 660,802 727,803 794,804 861,805 928,806 995,808 1061,809 1128,811 1195,812 1262,813 1329,815 1396,816 1463,817"/>
+                <Baseline points="126,787 192,786 259,785 326,785 393,785 460,785 527,785 593,786 660,787 727,788 794,789 861,790 928,791 995,793 1061,794 1128,796 1195,797 1262,798 1329,800 1396,801 1463,802"/>
+                <TextEquiv>
+                    <Unicode>in der evangeliſchen Kirche das apoſtoliſche Mahnwort zu (1. Cor. 16, 13):</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="1461,818 1397,817 1334,816 1271,815 1208,814 1145,813 1082,811 1019,810 956,809 893,808 830,807 766,806 703,805 640,804 577,804 514,803 451,802 388,802 325,802 262,802 199,802 199,850 262,850 325,850 388,850 451,850 514,851 577,852 640,852 703,853 766,854 830,855 893,856 956,857 1019,858 1082,859 1145,861 1208,862 1271,863 1334,864 1397,865 1461,866"/>
+                <Baseline points="199,839 262,839 325,839 388,839 451,839 514,840 577,841 640,841 703,842 766,843 830,844 893,845 956,846 1019,847 1082,848 1145,850 1208,851 1271,852 1334,853 1397,854 1461,855"/>
+                <TextEquiv>
+                    <Unicode>Wachet, ſtehet im Glauben, ſeid männlich und ſeid ſtark.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;} textStyle {offset:0; length:29;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1201,1072 1160,1070 1120,1069 1079,1069 1039,1068 998,1067 958,1067 917,1067 877,1066 836,1066 796,1066 756,1065 715,1065 675,1065 634,1064 594,1064 553,1063 513,1062 472,1062 432,1060 392,1059 392,1093 432,1094 472,1096 513,1096 553,1097 594,1098 634,1098 675,1099 715,1099 756,1099 796,1100 836,1100 877,1100 917,1101 958,1101 998,1101 1039,1102 1079,1103 1120,1103 1160,1104 1201,1106"/>
+                <Baseline points="392,1077 432,1078 472,1080 513,1080 553,1081 594,1082 634,1082 675,1083 715,1083 756,1083 796,1084 836,1084 877,1084 917,1085 958,1085 998,1085 1039,1086 1079,1087 1120,1087 1160,1088 1201,1090"/>
+                <TextEquiv>
+                    <Unicode>ll. Kirchliche Mittheilungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615974757107_640" custom="readingOrder {index:15;} textStyle {offset:0; length:14;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="205,1105 1473,1154 1473,1186 680,1178 314,1174 253,1173 205,1151"/>
+                <Baseline points="205,1144 227,1146 253,1157 314,1158 375,1158 436,1159 497,1160 558,1160 619,1161 680,1162 741,1162 802,1163 863,1163 924,1164 985,1165 1046,1165 1107,1166 1168,1166 1229,1167 1290,1168 1351,1168 1412,1169 1473,1170"/>
+                <TextEquiv>
+                    <Unicode>* Aus Preußen. Ihre Leſer vernehmen in dieſer kirchlich bewegten Zeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:16;}">
+                <Coords points="1465,1187 1397,1186 1329,1186 1262,1185 1194,1185 1126,1184 1059,1183 991,1183 924,1182 856,1181 789,1180 721,1179 653,1178 586,1177 518,1175 451,1174 383,1173 315,1172 248,1170 180,1169 113,1168 113,1220 180,1221 248,1222 315,1224 383,1225 451,1226 518,1227 586,1229 653,1230 721,1231 789,1232 856,1233 924,1234 991,1235 1059,1235 1126,1236 1194,1237 1262,1237 1329,1238 1397,1238 1465,1239"/>
+                <Baseline points="113,1205 180,1206 248,1207 315,1209 383,1210 451,1211 518,1212 586,1214 653,1215 721,1216 789,1217 856,1218 924,1219 991,1220 1059,1220 1126,1221 1194,1222 1262,1222 1329,1223 1397,1223 1465,1224"/>
+                <TextEquiv>
+                    <Unicode>wohl nicht ungern eine Stimme aus dem deutſchen proteſtantiſchen Großſtaate. Iſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="1461,1239 1393,1240 1326,1240 1259,1240 1192,1240 1125,1240 1058,1239 991,1238 924,1237 857,1236 790,1235 722,1234 655,1232 588,1231 521,1230 454,1228 387,1227 320,1226 253,1224 186,1224 119,1223 119,1274 186,1275 253,1275 320,1277 387,1278 454,1279 521,1281 588,1282 655,1283 722,1285 790,1286 857,1287 924,1288 991,1289 1058,1290 1125,1291 1192,1291 1259,1291 1326,1291 1393,1291 1461,1290"/>
+                <Baseline points="119,1259 186,1260 253,1260 320,1262 387,1263 454,1264 521,1266 588,1267 655,1268 722,1270 790,1271 857,1272 924,1273 991,1274 1058,1275 1125,1276 1192,1276 1259,1276 1326,1276 1393,1276 1461,1275"/>
+                <TextEquiv>
+                    <Unicode>meine Stimme auch nur die eines Einzelnen, ſo glaube ich doch unter dem Treiben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+                <Coords points="1465,1291 1397,1292 1330,1292 1263,1292 1196,1292 1129,1292 1062,1291 995,1291 928,1290 861,1288 794,1287 727,1286 660,1284 593,1283 526,1281 459,1280 392,1279 325,1277 258,1276 191,1275 124,1274 124,1327 191,1328 258,1329 325,1330 392,1332 459,1333 526,1334 593,1336 660,1337 727,1339 794,1340 861,1341 928,1343 995,1344 1062,1344 1129,1345 1196,1345 1263,1345 1330,1345 1397,1345 1465,1344"/>
+                <Baseline points="124,1311 191,1312 258,1313 325,1314 392,1316 459,1317 526,1318 593,1320 660,1321 727,1323 794,1324 861,1325 928,1327 995,1328 1062,1328 1129,1329 1196,1329 1263,1329 1330,1329 1397,1329 1465,1328"/>
+                <TextEquiv>
+                    <Unicode>der Parteien und den Kämpfen der verſchiedenen Richtungen manches Wahre, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:19;}">
+                <Coords points="1457,1345 1390,1346 1323,1346 1256,1346 1189,1345 1122,1345 1055,1344 989,1343 922,1342 855,1341 788,1340 721,1339 654,1337 587,1336 521,1335 454,1333 387,1332 320,1331 253,1330 186,1329 120,1328 120,1380 186,1381 253,1382 320,1383 387,1384 454,1385 521,1387 587,1388 654,1389 721,1391 788,1392 855,1393 922,1394 989,1395 1055,1396 1122,1397 1189,1397 1256,1398 1323,1398 1390,1398 1457,1397"/>
+                <Baseline points="120,1365 186,1366 253,1367 320,1368 387,1369 454,1370 521,1372 587,1373 654,1374 721,1376 788,1377 855,1378 922,1379 989,1380 1055,1381 1122,1382 1189,1382 1256,1383 1323,1383 1390,1383 1457,1382"/>
+                <TextEquiv>
+                    <Unicode>Zutreffende herausgehört zu haben. Ob wir ſeit einem Jahre in Preußen in kirch⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:20;}">
+                <Coords points="1461,1399 1394,1399 1327,1399 1260,1399 1193,1398 1126,1398 1059,1397 992,1397 925,1396 858,1395 792,1394 725,1392 658,1391 591,1390 524,1388 457,1387 390,1386 323,1384 256,1383 189,1382 123,1381 123,1433 189,1434 256,1435 323,1436 390,1438 457,1439 524,1440 591,1442 658,1443 725,1444 792,1446 858,1447 925,1448 992,1449 1059,1449 1126,1450 1193,1450 1260,1451 1327,1451 1394,1451 1461,1451"/>
+                <Baseline points="123,1418 189,1419 256,1420 323,1421 390,1423 457,1424 524,1425 591,1427 658,1428 725,1429 792,1431 858,1432 925,1433 992,1434 1059,1434 1126,1435 1193,1435 1260,1436 1327,1436 1394,1436 1461,1436"/>
+                <TextEquiv>
+                    <Unicode>licher Beziehung vorwärts gekommen ſeien? fragte mich dieſer Tage ein Freund.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:21;}">
+                <Coords points="1465,1451 1397,1452 1330,1452 1263,1452 1196,1451 1129,1451 1062,1451 995,1450 928,1449 861,1448 794,1448 727,1447 660,1446 593,1444 526,1443 459,1442 392,1440 325,1439 258,1438 191,1436 124,1435 124,1488 191,1489 258,1491 325,1492 392,1493 459,1495 526,1496 593,1497 660,1499 727,1500 794,1501 861,1501 928,1502 995,1503 1062,1504 1129,1504 1196,1504 1263,1505 1330,1505 1397,1505 1465,1504"/>
+                <Baseline points="124,1472 191,1473 258,1475 325,1476 392,1477 459,1479 526,1480 593,1481 660,1483 727,1484 794,1485 861,1485 928,1486 995,1487 1062,1488 1129,1488 1196,1488 1263,1489 1330,1489 1397,1489 1465,1488"/>
+                <TextEquiv>
+                    <Unicode>Die Frage iſt etwas verfänglich. In dem Stande unſerer Parteien hat ſich noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+                <Coords points="1467,1506 1399,1505 1332,1504 1265,1504 1198,1503 1130,1503 1063,1502 996,1502 929,1501 861,1500 794,1500 727,1499 660,1498 592,1497 525,1496 458,1495 391,1494 323,1493 256,1491 189,1489 122,1488 122,1541 189,1542 256,1544 323,1546 391,1547 458,1548 525,1549 592,1550 660,1551 727,1552 794,1553 861,1553 929,1554 996,1555 1063,1555 1130,1556 1198,1556 1265,1557 1332,1557 1399,1558 1467,1559"/>
+                <Baseline points="122,1526 189,1527 256,1529 323,1531 391,1532 458,1533 525,1534 592,1535 660,1536 727,1537 794,1538 861,1538 929,1539 996,1540 1063,1540 1130,1541 1198,1541 1265,1542 1332,1542 1399,1543 1467,1544"/>
+                <TextEquiv>
+                    <Unicode>nichts abgeklärt. Seit dem Wechſel des Cultusminiſteriums ſind die Anſprüche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+                <Coords points="1463,1560 1392,1559 1322,1559 1251,1558 1181,1558 1110,1558 1040,1557 969,1557 899,1556 828,1555 758,1555 687,1554 617,1553 546,1552 476,1551 405,1549 335,1547 264,1545 194,1543 124,1541 124,1593 194,1595 264,1597 335,1599 405,1601 476,1603 546,1604 617,1605 687,1606 758,1607 828,1607 899,1608 969,1609 1040,1609 1110,1610 1181,1610 1251,1610 1322,1611 1392,1611 1463,1612"/>
+                <Baseline points="124,1578 194,1580 264,1582 335,1584 405,1586 476,1588 546,1589 617,1590 687,1591 758,1592 828,1592 899,1593 969,1594 1040,1594 1110,1595 1181,1595 1251,1595 1322,1596 1392,1596 1463,1597"/>
+                <TextEquiv>
+                    <Unicode>der hochkirchlichen Vartei keineswegs geringer geworden; ihr Ton hat ſich hin und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:24;}">
+                <Coords points="1457,1613 1389,1613 1322,1613 1255,1612 1188,1612 1121,1612 1054,1611 986,1611 919,1610 852,1610 785,1609 718,1608 651,1607 584,1606 516,1605 449,1604 382,1603 315,1601 248,1599 181,1597 114,1594 114,1646 181,1649 248,1651 315,1653 382,1655 449,1656 516,1657 584,1658 651,1659 718,1660 785,1661 852,1662 919,1662 986,1663 1054,1663 1121,1664 1188,1664 1255,1664 1322,1665 1389,1665 1457,1665"/>
+                <Baseline points="114,1630 181,1633 248,1635 315,1637 382,1639 449,1640 516,1641 584,1642 651,1643 718,1644 785,1645 852,1646 919,1646 986,1647 1054,1647 1121,1648 1188,1648 1255,1648 1322,1649 1389,1649 1457,1649"/>
+                <TextEquiv>
+                    <Unicode>wieder eher noch etwas verbittert, die Zahl der Mitglieder auf ihren Zuſammen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:25;}">
+                <Coords points="1465,1666 1397,1665 1330,1665 1262,1664 1195,1664 1127,1663 1060,1663 992,1662 925,1662 857,1661 790,1660 723,1659 655,1658 588,1657 520,1656 453,1655 385,1653 318,1652 250,1651 183,1649 116,1647 116,1701 183,1703 250,1705 318,1706 385,1707 453,1709 520,1710 588,1711 655,1712 723,1713 790,1714 857,1715 925,1716 992,1716 1060,1717 1127,1717 1195,1718 1262,1718 1330,1719 1397,1719 1465,1720"/>
+                <Baseline points="116,1685 183,1687 250,1689 318,1690 385,1691 453,1693 520,1694 588,1695 655,1696 723,1697 790,1698 857,1699 925,1700 992,1700 1060,1701 1127,1701 1195,1702 1262,1702 1330,1703 1397,1703 1465,1704"/>
+                <TextEquiv>
+                    <Unicode>künften dagegen etwas vermindert; aber Herſtellung des reinen unverküm⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:26;}">
+                <Coords points="1457,1721 1390,1720 1323,1719 1257,1719 1190,1718 1123,1718 1057,1717 990,1716 923,1716 857,1715 790,1714 723,1713 657,1713 590,1712 523,1711 457,1710 390,1708 323,1707 257,1705 190,1704 124,1702 124,1755 190,1757 257,1758 323,1760 390,1761 457,1763 523,1764 590,1765 657,1766 723,1766 790,1767 857,1768 923,1769 990,1769 1057,1770 1123,1771 1190,1771 1257,1772 1323,1772 1390,1773 1457,1774"/>
+                <Baseline points="124,1740 190,1742 257,1743 323,1745 390,1746 457,1748 523,1749 590,1750 657,1751 723,1751 790,1752 857,1753 923,1754 990,1754 1057,1755 1123,1756 1190,1756 1257,1757 1323,1757 1390,1758 1457,1759"/>
+                <TextEquiv>
+                    <Unicode>merten Iutheriſchen Bekenntniſſes, und in Folge deſſen Beſeitigung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:27;}">
+                <Coords points="1465,1774 1397,1774 1329,1774 1262,1774 1194,1774 1127,1774 1059,1773 992,1773 924,1772 857,1772 789,1771 721,1770 654,1770 586,1769 519,1768 451,1766 384,1765 316,1764 249,1763 181,1762 114,1760 114,1811 181,1813 249,1814 316,1815 384,1816 451,1817 519,1819 586,1820 654,1821 721,1821 789,1822 857,1823 924,1823 992,1824 1059,1824 1127,1825 1194,1825 1262,1825 1329,1825 1397,1825 1465,1825"/>
+                <Baseline points="114,1795 181,1797 249,1798 316,1799 384,1800 451,1801 519,1803 586,1804 654,1805 721,1805 789,1806 857,1807 924,1807 992,1808 1059,1808 1127,1809 1194,1809 1262,1809 1329,1809 1397,1809 1465,1809"/>
+                <TextEquiv>
+                    <Unicode>der Union und namentlich ihres Rechtsbeſtandes, welchem der Rechtsbeſtand der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:28;}">
+                <Coords points="1465,1826 1397,1825 1330,1825 1263,1824 1196,1824 1129,1823 1062,1823 994,1822 927,1822 860,1821 793,1821 726,1820 659,1820 592,1819 524,1818 457,1817 390,1816 323,1815 256,1813 189,1811 122,1809 122,1863 189,1865 256,1867 323,1869 390,1870 457,1871 524,1872 592,1873 659,1874 726,1874 793,1875 860,1875 927,1876 994,1876 1062,1877 1129,1877 1196,1878 1263,1878 1330,1879 1397,1879 1465,1880"/>
+                <Baseline points="122,1848 189,1850 256,1852 323,1854 390,1855 457,1856 524,1857 592,1858 659,1859 726,1859 793,1860 860,1860 927,1861 994,1861 1062,1862 1129,1862 1196,1863 1263,1863 1330,1864 1397,1864 1465,1865"/>
+                <TextEquiv>
+                    <Unicode>Confeſſion als damit unverträglich entgegen gehalten wird, das iſt das Stichwort,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:29;}">
+                <Coords points="1465,1881 1397,1881 1330,1881 1263,1880 1196,1880 1129,1880 1061,1880 994,1879 927,1879 860,1878 793,1878 725,1877 658,1876 591,1875 524,1874 457,1873 389,1872 322,1871 255,1870 188,1868 121,1867 121,1919 188,1920 255,1922 322,1923 389,1924 457,1925 524,1926 591,1927 658,1928 725,1929 793,1930 860,1930 927,1931 994,1931 1061,1932 1129,1932 1196,1932 1263,1932 1330,1933 1397,1933 1465,1933"/>
+                <Baseline points="121,1903 188,1904 255,1906 322,1907 389,1908 457,1909 524,1910 591,1911 658,1912 725,1913 793,1914 860,1914 927,1915 994,1915 1061,1916 1129,1916 1196,1916 1263,1916 1330,1917 1397,1917 1465,1917"/>
+                <TextEquiv>
+                    <Unicode>welches die Führer auf ihre Fahnen geſchrieben haben. Dr. Stahl hat in ſeinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:30;}">
+                <Coords points="1463,1934 1395,1934 1327,1933 1259,1933 1192,1932 1124,1932 1056,1932 989,1931 921,1931 853,1930 786,1929 718,1929 650,1928 582,1927 515,1927 447,1926 379,1925 312,1923 244,1922 176,1921 109,1919 109,1971 176,1973 244,1974 312,1975 379,1977 447,1978 515,1979 582,1979 650,1980 718,1981 786,1981 853,1982 921,1983 989,1983 1056,1984 1124,1984 1192,1984 1259,1985 1327,1985 1395,1986 1463,1986"/>
+                <Baseline points="109,1956 176,1958 244,1959 312,1960 379,1962 447,1963 515,1964 582,1964 650,1965 718,1966 786,1966 853,1967 921,1968 989,1968 1056,1969 1124,1969 1192,1969 1259,1970 1327,1970 1395,1971 1463,1971"/>
+                <TextEquiv>
+                    <Unicode>bekannten Buche: „Die lutheriſche Kirche und die Union”, das u. A. auch in Dr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:31;}">
+                <Coords points="1462,1987 1394,1987 1327,1987 1260,1986 1193,1986 1126,1986 1059,1985 992,1984 925,1984 858,1983 791,1982 723,1981 656,1980 589,1979 522,1978 455,1978 388,1977 321,1976 254,1975 187,1974 120,1974 120,2026 187,2026 254,2027 321,2028 388,2029 455,2030 522,2030 589,2031 656,2032 723,2033 791,2034 858,2035 925,2036 992,2036 1059,2037 1126,2038 1193,2038 1260,2038 1327,2039 1394,2039 1462,2039"/>
+                <Baseline points="120,2011 187,2011 254,2012 321,2013 388,2014 455,2015 522,2015 589,2016 656,2017 723,2018 791,2019 858,2020 925,2021 992,2021 1059,2022 1126,2023 1193,2023 1260,2023 1327,2024 1394,2024 1462,2024"/>
+                <TextEquiv>
+                    <Unicode>Stier vor Kurzem einen würdigen und tüchtigen Gegner gefunden hat, den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:32;}">
+                <Coords points="1469,2037 1401,2038 1334,2039 1266,2040 1199,2040 1131,2040 1064,2039 996,2039 929,2038 861,2037 794,2036 726,2035 659,2033 591,2032 524,2031 456,2030 389,2029 321,2028 254,2027 186,2027 119,2027 119,2079 186,2079 254,2079 321,2080 389,2081 456,2082 524,2083 591,2084 659,2085 726,2087 794,2088 861,2089 929,2090 996,2091 1064,2091 1131,2092 1199,2092 1266,2092 1334,2091 1401,2090 1469,2089"/>
+                <Baseline points="119,2064 186,2064 254,2064 321,2065 389,2066 456,2067 524,2068 591,2069 659,2070 726,2072 794,2073 861,2074 929,2075 996,2076 1064,2076 1131,2077 1199,2077 1266,2077 1334,2076 1401,2075 1469,2074"/>
+                <TextEquiv>
+                    <Unicode>Streitgedanken der Partei ausgeſprochen. Man kann ihn wohl mit den Wor⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:33;}">
+                <Coords points="1461,2093 1393,2093 1326,2093 1258,2093 1191,2093 1124,2093 1056,2092 989,2092 921,2091 854,2090 787,2089 719,2088 652,2087 584,2086 517,2085 450,2084 382,2082 315,2081 247,2080 180,2079 113,2077 113,2130 180,2132 247,2133 315,2134 382,2135 450,2137 517,2138 584,2139 652,2140 719,2141 787,2142 854,2143 921,2144 989,2145 1056,2145 1124,2146 1191,2146 1258,2146 1326,2146 1393,2146 1461,2146"/>
+                <Baseline points="113,2114 180,2116 247,2117 315,2118 382,2119 450,2121 517,2122 584,2123 652,2124 719,2125 787,2126 854,2127 921,2128 989,2129 1056,2129 1124,2130 1191,2130 1258,2130 1326,2130 1393,2130 1461,2130"/>
+                <TextEquiv>
+                    <Unicode>ten ausdrücken: Gelinde Auflöſung der Union unter einſtweiliger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:34;}">
+                <Coords points="1455,2147 1387,2147 1320,2146 1253,2146 1186,2146 1119,2145 1052,2145 985,2144 918,2143 851,2143 784,2142 716,2141 649,2140 582,2139 515,2138 448,2136 381,2135 314,2133 247,2132 180,2130 113,2128 113,2181 180,2183 247,2185 314,2186 381,2188 448,2189 515,2191 582,2192 649,2193 716,2194 784,2195 851,2196 918,2196 985,2197 1052,2198 1119,2198 1186,2199 1253,2199 1320,2199 1387,2200 1455,2200"/>
+                <Baseline points="113,2166 180,2168 247,2170 314,2171 381,2173 448,2174 515,2176 582,2177 649,2178 716,2179 784,2180 851,2181 918,2181 985,2182 1052,2183 1119,2183 1186,2184 1253,2184 1320,2184 1387,2185 1455,2185"/>
+                <TextEquiv>
+                    <Unicode>Beibehaltung des combinirten Kirchenregimentes; vereinigte Pflege</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:35;}">
+                <Coords points="1459,2200 1392,2200 1325,2201 1258,2201 1191,2201 1124,2200 1057,2200 990,2200 923,2199 856,2198 789,2197 722,2196 655,2195 588,2194 521,2192 454,2191 387,2189 320,2188 253,2186 186,2184 119,2182 119,2240 186,2242 253,2244 320,2246 387,2247 454,2249 521,2250 588,2252 655,2253 722,2254 789,2255 856,2256 923,2257 990,2258 1057,2258 1124,2258 1191,2259 1258,2259 1325,2259 1392,2258 1459,2258"/>
+                <Baseline points="119,2219 186,2221 253,2223 320,2225 387,2226 454,2228 521,2229 588,2231 655,2232 722,2233 789,2234 856,2235 923,2236 990,2237 1057,2237 1124,2237 1191,2238 1258,2238 1325,2238 1392,2237 1459,2237"/>
+                <TextEquiv>
+                    <Unicode>der beiden Confeſſionen, ſo nämlich, daß die lutheriſchen Mitglieder des Evangeli⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:36;}">
+                <Coords points="1459,2258 1394,2259 1329,2259 1264,2259 1199,2259 1135,2258 1070,2258 1005,2258 940,2257 875,2256 811,2256 746,2255 681,2254 616,2253 551,2252 487,2251 422,2249 357,2248 292,2246 227,2245 163,2243 163,2306 227,2308 292,2309 357,2311 422,2312 487,2314 551,2315 616,2316 681,2317 746,2318 811,2319 875,2319 940,2320 1005,2321 1070,2321 1135,2321 1199,2322 1264,2322 1329,2322 1394,2322 1459,2321"/>
+                <Baseline points="163,2292 227,2294 292,2295 357,2297 422,2298 487,2300 551,2301 616,2302 681,2303 746,2304 811,2305 875,2305 940,2306 1005,2307 1070,2307 1135,2307 1199,2308 1264,2308 1329,2308 1394,2308 1459,2307"/>
+                <TextEquiv>
+                    <Unicode>*) Man vergl. die eben erſchienene Schrift: Dr. Schenkel, die Erneuerung der deut⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:37;}">
+                <Coords points="1457,2323 1394,2323 1332,2323 1270,2323 1208,2323 1146,2322 1084,2322 1022,2321 960,2321 898,2320 836,2319 773,2318 711,2317 649,2316 587,2315 525,2314 463,2312 401,2311 339,2310 277,2308 215,2307 215,2352 277,2353 339,2355 401,2356 463,2357 525,2359 587,2360 649,2361 711,2362 773,2363 836,2364 898,2365 960,2366 1022,2366 1084,2367 1146,2367 1208,2368 1270,2368 1332,2368 1394,2368 1457,2368"/>
+                <Baseline points="215,2340 277,2341 339,2343 401,2344 463,2345 525,2347 587,2348 649,2349 711,2350 773,2351 836,2352 898,2353 960,2354 1022,2354 1084,2355 1146,2355 1208,2356 1270,2356 1332,2356 1394,2356 1457,2356"/>
+                <TextEquiv>
+                    <Unicode>ſchen Evangeliſchen Kirche nach den Grundſätzen der Reformation. Gotha, Friedrich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:38;}">
+                <Coords points="648,2367 622,2368 596,2369 570,2369 544,2369 518,2368 493,2368 467,2367 441,2365 415,2365 389,2363 363,2362 338,2361 312,2360 286,2359 260,2358 234,2358 209,2359 209,2391 234,2390 260,2390 286,2391 312,2392 338,2393 363,2394 389,2395 415,2397 441,2397 467,2399 493,2400 518,2400 544,2401 570,2401 596,2401 622,2400 648,2399"/>
+                <Baseline points="209,2388 234,2387 260,2387 286,2388 312,2389 338,2390 363,2391 389,2392 415,2394 441,2394 467,2396 493,2397 518,2397 544,2398 570,2398 596,2398 622,2397 648,2396"/>
+                <TextEquiv>
+                    <Unicode>Andreas Perthes, 1860.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>30
+Eine noch wichtigere Aufgabe, welche die Politik der Concordate uns Pro⸗
+teſtanten auferlegt, iſt die Erneuerung unſerer eigenen Kirche nach
+den Grundſätzen der Reformation. Wenn falſche Grundſätze wieder
+nenen Boden gewinnen wollen, ſo laſſen ſich dieſelben nur durch käftige Gel⸗
+tendmachung der richtigen überwinden. Die proteſtantiſche Kirche kann ſich
+nicht länger der ernſten Pflicht entziehen, ſich auf ſich ſelbſt zu ſtellen
+und aus ſich ſelbſt neu zu geſtalten. Der Raum erlaubt uns in die⸗
+ſem Aufſatze nicht mehr, die für unſere kirchliche Gegenwart ſo hochwichtige
+Frage nach der den Bedürfniſſen der Zeit entſprechenden Reform der evan⸗
+geliſchen Kirche näher zu beleuchten.*) Wir müſſen ſie auf ein ſpäteres Heft
+verſparen. Unterdeſſen rufen wir Geiſtlichen und Gemeindegenoſſen
+in der evangeliſchen Kirche das apoſtoliſche Mahnwort zu (1. Cor. 16, 13):
+Wachet, ſtehet im Glauben, ſeid männlich und ſeid ſtark.
+ll. Kirchliche Mittheilungen.
+* Aus Preußen. Ihre Leſer vernehmen in dieſer kirchlich bewegten Zeit
+wohl nicht ungern eine Stimme aus dem deutſchen proteſtantiſchen Großſtaate. Iſt
+meine Stimme auch nur die eines Einzelnen, ſo glaube ich doch unter dem Treiben
+der Parteien und den Kämpfen der verſchiedenen Richtungen manches Wahre, und
+Zutreffende herausgehört zu haben. Ob wir ſeit einem Jahre in Preußen in kirch⸗
+licher Beziehung vorwärts gekommen ſeien? fragte mich dieſer Tage ein Freund.
+Die Frage iſt etwas verfänglich. In dem Stande unſerer Parteien hat ſich noch
+nichts abgeklärt. Seit dem Wechſel des Cultusminiſteriums ſind die Anſprüche
+der hochkirchlichen Vartei keineswegs geringer geworden; ihr Ton hat ſich hin und
+wieder eher noch etwas verbittert, die Zahl der Mitglieder auf ihren Zuſammen⸗
+künften dagegen etwas vermindert; aber Herſtellung des reinen unverküm⸗
+merten Iutheriſchen Bekenntniſſes, und in Folge deſſen Beſeitigung
+der Union und namentlich ihres Rechtsbeſtandes, welchem der Rechtsbeſtand der
+Confeſſion als damit unverträglich entgegen gehalten wird, das iſt das Stichwort,
+welches die Führer auf ihre Fahnen geſchrieben haben. Dr. Stahl hat in ſeinem
+bekannten Buche: „Die lutheriſche Kirche und die Union”, das u. A. auch in Dr.
+Stier vor Kurzem einen würdigen und tüchtigen Gegner gefunden hat, den
+Streitgedanken der Partei ausgeſprochen. Man kann ihn wohl mit den Wor⸗
+ten ausdrücken: Gelinde Auflöſung der Union unter einſtweiliger
+Beibehaltung des combinirten Kirchenregimentes; vereinigte Pflege
+der beiden Confeſſionen, ſo nämlich, daß die lutheriſchen Mitglieder des Evangeli⸗
+*) Man vergl. die eben erſchienene Schrift: Dr. Schenkel, die Erneuerung der deut⸗
+ſchen Evangeliſchen Kirche nach den Grundſätzen der Reformation. Gotha, Friedrich
+Andreas Perthes, 1860.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

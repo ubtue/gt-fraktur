@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:43:38.939+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2153" WIDTH="1258">
+         <TopMargin HEIGHT="0" WIDTH="1258" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="1258"/>
+         <BottomMargin HEIGHT="0" WIDTH="1258" VPOS="2153" HPOS="0"/>
+         <PrintSpace HEIGHT="2153" WIDTH="1258" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1947" WIDTH="1059" VPOS="93" HPOS="60">
+               <Shape>
+                  <Polygon POINTS="60,93 60,2040 1119,2040 1119,93"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="548,113 579,113 610,115"
+                         HEIGHT="32"
+                         WIDTH="62"
+                         VPOS="93"
+                         HPOS="548">
+                  <String ID="string_r1l1"
+                          HEIGHT="32"
+                          WIDTH="62"
+                          VPOS="93"
+                          HPOS="548"
+                          CONTENT="IX"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="60,212 111,211 163,210 214,210 266,209 318,209 369,209 421,208 473,208 524,208 576,207 628,207 679,207 731,206 783,206 834,205 886,204 938,204 989,203 1041,202 1093,200"
+                         HEIGHT="42"
+                         WIDTH="1033"
+                         VPOS="180"
+                         HPOS="60">
+                  <String ID="string_r1l2"
+                          HEIGHT="42"
+                          WIDTH="1033"
+                          VPOS="180"
+                          HPOS="60"
+                          CONTENT="mit der Bekanntmachung und kirchlichen Einführung dieſer Feſttage be⸗"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="70,247 121,247 172,246 223,245 274,245 325,244 376,244 427,243 478,243 529,242 580,242 631,241 682,241 733,241 784,240 835,239 886,238 937,237 988,237 1039,235 1091,234"
+                         HEIGHT="43"
+                         WIDTH="1021"
+                         VPOS="214"
+                         HPOS="70">
+                  <String ID="string_r1l3"
+                          HEIGHT="43"
+                          WIDTH="1021"
+                          VPOS="214"
+                          HPOS="70"
+                          CONTENT="auftragt. Unſers Koͤnigs Majeſtaͤt haben durch die Allerhoͤchſte Kabiners⸗"/>
+               </TextLine>
+               <TextLine ID="line_1614701743097_17"
+                         BASELINE="70,282 95,282 121,282 147,281 173,281 199,281 225,281 251,280 277,280 302,279 328,279 354,279 380,278 406,278 432,278 458,278 484,278 499,277 528,277 557,277 586,277 616,277 645,277 674,276 704,276 733,276 762,275 792,275 821,274 850,274 879,273 909,273 938,273 967,272 997,272 1026,271 1055,271 1085,271"
+                         HEIGHT="41"
+                         WIDTH="1015"
+                         VPOS="251"
+                         HPOS="70">
+                  <String ID="string_line_1614701743097_17"
+                          HEIGHT="41"
+                          WIDTH="1015"
+                          VPOS="251"
+                          HPOS="70"
+                          CONTENT="Ordre vom 24. Maͤrz d. J. die Verkündigung und Ausführung dieſer"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="70,318 123,316 177,315 230,314 284,314 338,313 391,313 445,313 499,312 552,312 606,312 659,312 713,312 767,311 820,311 874,310 928,309 981,308 1035,306 1089,304"
+                         HEIGHT="44"
+                         WIDTH="1019"
+                         VPOS="284"
+                         HPOS="70">
+                  <String ID="string_r1l6"
+                          HEIGHT="44"
+                          WIDTH="1019"
+                          VPOS="284"
+                          HPOS="70"
+                          CONTENT="Feſtordnung Allergnaͤdigſt genehmigt und dieſelbe in Allerhoͤchſtihren landes⸗"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="69,353 95,353 121,352 147,352 173,351 199,351 225,351 251,350 277,350 303,350 329,349 355,349 381,349 407,348 433,348 459,348"
+                         HEIGHT="35"
+                         WIDTH="390"
+                         VPOS="328"
+                         HPOS="69">
+                  <String ID="string_r1l7"
+                          HEIGHT="35"
+                          WIDTH="390"
+                          VPOS="328"
+                          HPOS="69"
+                          CONTENT="herrlichen Schutz genommen."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="140,394 187,393 235,392 282,391 330,390 377,390 425,390 472,389 520,389 567,389 615,389 663,388 710,388 758,388 805,387 853,387 900,386 948,385 995,384 1043,383 1091,381"
+                         HEIGHT="43"
+                         WIDTH="951"
+                         VPOS="361"
+                         HPOS="140">
+                  <String ID="string_r1l8"
+                          HEIGHT="43"
+                          WIDTH="951"
+                          VPOS="361"
+                          HPOS="140"
+                          CONTENT="Dieſemnach verkuͤndigen Wir hiermit und ſetzen feſt im Namen und"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="70,430 120,429 171,428 222,427 273,426 324,426 375,425 426,425 477,424 528,424 579,424 629,423 680,423 731,422 782,422 833,422 884,421 935,420 986,420 1037,419 1088,418"
+                         HEIGHT="42"
+                         WIDTH="1018"
+                         VPOS="398"
+                         HPOS="70">
+                  <String ID="string_r1l9"
+                          HEIGHT="42"
+                          WIDTH="1018"
+                          VPOS="398"
+                          HPOS="70"
+                          CONTENT="im Auftrage des heil. Apoſtoliſchen Stuhles, daß außer den Sonnta⸗"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="70,467 121,465 172,464 223,463 274,462 325,462 376,461 428,460 479,460 530,459 581,459 632,458 683,458 734,458 786,457 837,457 888,456 939,455 990,455 1041,454 1093,453"
+                         HEIGHT="44"
+                         WIDTH="1023"
+                         VPOS="433"
+                         HPOS="70">
+                  <String ID="string_r1l10"
+                          HEIGHT="44"
+                          WIDTH="1023"
+                          VPOS="433"
+                          HPOS="70"
+                          CONTENT="gen des Jahres in Unſerer Erzdioͤzeſe Koͤln folgende Feſte gefeiert werden:"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="107,507 156,507 206,506 255,505 305,504 354,504 404,503 453,503 503,502 552,502 602,502 651,501 701,501 750,501 800,500 849,500 899,500 948,499 998,499 1047,498 1097,497"
+                         HEIGHT="40"
+                         WIDTH="990"
+                         VPOS="477"
+                         HPOS="107">
+                  <String ID="string_r1l11"
+                          HEIGHT="40"
+                          WIDTH="990"
+                          VPOS="477"
+                          HPOS="107"
+                          CONTENT="1) der Montag nach dem Feſte der Auferſtehung des"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="149,542 178,542 207,540 236,539 265,540"
+                         HEIGHT="33"
+                         WIDTH="116"
+                         VPOS="519"
+                         HPOS="149">
+                  <String ID="string_r1l12"
+                          HEIGHT="33"
+                          WIDTH="116"
+                          VPOS="519"
+                          HPOS="149"
+                          CONTENT="Herrn;"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="98,576 131,575 165,574 198,573 232,573 266,572 299,571 333,571 367,570 400,570 434,569 468,569 501,569 535,569 569,569 602,568 636,568 670,568 703,569 737,569 786,568"
+                         HEIGHT="38"
+                         WIDTH="673"
+                         VPOS="548"
+                         HPOS="98">
+                  <String ID="string_r1l13"
+                          HEIGHT="38"
+                          WIDTH="673"
+                          VPOS="548"
+                          HPOS="98"
+                          CONTENT="2) der Montag nach dem Pfingſtfeſte;"/>
+               </TextLine>
+               <TextLine ID="line_1614701889465_29"
+                         BASELINE="104,611 140,609 176,608 212,607 248,606 284,605 320,605 356,604 392,604 428,604 465,604 501,603 537,603 573,603 609,603 645,603 681,603 717,603 753,603 789,602 826,602 846,602 871,602 896,603 921,603 946,603 971,604 996,605 1021,607"
+                         HEIGHT="39"
+                         WIDTH="917"
+                         VPOS="582"
+                         HPOS="104">
+                  <String ID="string_line_1614701889465_29"
+                          HEIGHT="39"
+                          WIDTH="917"
+                          VPOS="582"
+                          HPOS="104"
+                          CONTENT="3) das Feſt der Geburt unſers Hern Jeſus Chriſtus;"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="101,644 136,643 171,642 206,641 241,641 276,640 311,640 347,640 382,639 417,639 452,639 487,639 522,639 557,639 593,639 628,639 663,639 698,640 733,640 768,640 804,640"
+                         HEIGHT="35"
+                         WIDTH="703"
+                         VPOS="619"
+                         HPOS="101">
+                  <String ID="string_r1l16"
+                          HEIGHT="35"
+                          WIDTH="703"
+                          VPOS="619"
+                          HPOS="101"
+                          CONTENT="4) das Feſt der Beſchneidung des Herrn;"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="109,679 135,679 162,678 188,677 215,676 241,676 268,675 294,675 321,674 347,674 374,674 401,674 427,673 454,673 480,673 507,673 533,674 560,674 586,674 613,675 640,675"
+                         HEIGHT="36"
+                         WIDTH="531"
+                         VPOS="653"
+                         HPOS="109">
+                  <String ID="string_r1l17"
+                          HEIGHT="36"
+                          WIDTH="531"
+                          VPOS="653"
+                          HPOS="109"
+                          CONTENT="5) das Feſt der hh. drei Koͤnige;"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="105,713 136,712 167,712 199,711 230,710 262,710 293,710 325,710 356,709 388,709 419,709 450,710 482,710 513,710 545,710 576,710 608,710 639,711 671,711 702,711 734,711"
+                         HEIGHT="34"
+                         WIDTH="629"
+                         VPOS="689"
+                         HPOS="105">
+                  <String ID="string_r1l18"
+                          HEIGHT="34"
+                          WIDTH="629"
+                          VPOS="689"
+                          HPOS="105"
+                          CONTENT="6) das Feſt der Himmelfahrt Chriſti;"/>
+               </TextLine>
+               <TextLine ID="line_1614620031598_1598"
+                         BASELINE="112,747 122,747 147,746 172,746 198,746 224,746 250,746 275,745 301,745 327,745 353,745 378,745 404,745 430,745 456,745 481,745 507,745 533,745 559,744 585,744"
+                         HEIGHT="33"
+                         WIDTH="473"
+                         VPOS="724"
+                         HPOS="112">
+                  <String ID="string_line_1614620031598_1598"
+                          HEIGHT="33"
+                          WIDTH="473"
+                          VPOS="724"
+                          HPOS="112"
+                          CONTENT="7) das Frohnleichnamsfeſt:"/>
+               </TextLine>
+               <TextLine ID="line_1614620033562_1602"
+                         BASELINE="102,782 124,782 158,779 184,779 211,780 238,780 265,780 292,780 318,780 345,780 372,780 399,779 426,779 452,779 479,779 506,779 533,779 560,779 586,779 613,779 640,780 667,781 694,782"
+                         HEIGHT="33"
+                         WIDTH="592"
+                         VPOS="759"
+                         HPOS="102">
+                  <String ID="string_line_1614620033562_1602"
+                          HEIGHT="33"
+                          WIDTH="592"
+                          VPOS="759"
+                          HPOS="102"
+                          CONTENT="8) das Feſt der Reinigung Mariaͤ;"/>
+               </TextLine>
+               <TextLine ID="line_1614620035185_1606"
+                         BASELINE="105,816 125,818 154,813 180,813 206,814 232,814 258,814 284,814 310,814 336,813 362,813 388,813 414,813 440,813 466,813 492,813 518,813 544,814 570,815"
+                         HEIGHT="35"
+                         WIDTH="465"
+                         VPOS="793"
+                         HPOS="105">
+                  <String ID="string_line_1614620035185_1606"
+                          HEIGHT="35"
+                          WIDTH="465"
+                          VPOS="793"
+                          HPOS="105"
+                          CONTENT="9) Mariaͤ Verkündigung;"/>
+               </TextLine>
+               <TextLine ID="line_1614620037900_1611"
+                         BASELINE="92,848 124,848 154,848 180,849 207,849 233,848 260,848 286,847 313,847 339,846 366,846 392,846 419,846 445,846 472,846 498,847 525,848 552,850"
+                         HEIGHT="34"
+                         WIDTH="460"
+                         VPOS="826"
+                         HPOS="92">
+                  <String ID="string_line_1614620037900_1611"
+                          HEIGHT="34"
+                          WIDTH="460"
+                          VPOS="826"
+                          HPOS="92"
+                          CONTENT="10) Mariaͤ Himmelfahrt;"/>
+               </TextLine>
+               <TextLine ID="line_1614620039750_1615"
+                         BASELINE="94,885 123,888 162,883 188,884 215,884 241,884 268,883 295,882 321,881 348,880 374,880 401,880 428,881"
+                         HEIGHT="38"
+                         WIDTH="334"
+                         VPOS="860"
+                         HPOS="94">
+                  <String ID="string_line_1614620039750_1615"
+                          HEIGHT="38"
+                          WIDTH="334"
+                          VPOS="860"
+                          HPOS="94"
+                          CONTENT="11) Mariaͤ Geburt;"/>
+               </TextLine>
+               <TextLine ID="line_1614620041600_1619"
+                         BASELINE="93,924 124,925 162,920 188,919 214,919 241,918 267,918 294,917 320,917 347,916 373,916 399,915 426,915 452,915 479,915 505,915 532,916"
+                         HEIGHT="40"
+                         WIDTH="439"
+                         VPOS="895"
+                         HPOS="93">
+                  <String ID="string_line_1614620041600_1619"
+                          HEIGHT="40"
+                          WIDTH="439"
+                          VPOS="895"
+                          HPOS="93"
+                          CONTENT="12) Mariaͤ Empfaͤngniß;"/>
+               </TextLine>
+               <TextLine ID="line_1614620043508_1623"
+                         BASELINE="90,956 120,956 158,954 205,953 252,951 299,950 346,949 393,949 440,948 487,948 534,947 581,947 629,947 676,946 723,946 770,946 817,946 864,946 911,945 958,945 1005,945 1052,944 1100,944"
+                         HEIGHT="42"
+                         WIDTH="1010"
+                         VPOS="924"
+                         HPOS="90">
+                  <String ID="string_line_1614620043508_1623"
+                          HEIGHT="42"
+                          WIDTH="1010"
+                          VPOS="924"
+                          HPOS="90"
+                          CONTENT="13) das Feſt der hh. Apoſtel Petrus und Paulus, ſammt der Ge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="150,986 176,985 202,985 228,984 255,984 281,983 307,983 334,983 360,982 386,982 413,982 439,982 465,981 492,981 518,981 544,980 571,980"
+                         HEIGHT="36"
+                         WIDTH="421"
+                         VPOS="960"
+                         HPOS="150">
+                  <String ID="string_r1l33"
+                          HEIGHT="36"
+                          WIDTH="421"
+                          VPOS="960"
+                          HPOS="150"
+                          CONTENT="daͤchtnißfeier aller hh. Apoſtel;"/>
+               </TextLine>
+               <TextLine ID="line_1614620045968_1627"
+                         BASELINE="95,1024 129,1026 160,1020 185,1019 210,1019 235,1018 260,1018 285,1017 310,1017 335,1017 361,1016 386,1016 411,1016 436,1016 461,1016 486,1016 511,1015 559,1015"
+                         HEIGHT="41"
+                         WIDTH="442"
+                         VPOS="995"
+                         HPOS="95">
+                  <String ID="string_line_1614620045968_1627"
+                          HEIGHT="41"
+                          WIDTH="442"
+                          VPOS="995"
+                          HPOS="95"
+                          CONTENT="14) das Feſt Allerheiligen;"/>
+               </TextLine>
+               <TextLine ID="line_1614620047830_1631"
+                         BASELINE="95,1058 128,1058 164,1054 211,1053 258,1051 305,1050 352,1050 399,1049 446,1048 494,1048 541,1048 588,1047 635,1047 682,1047 729,1047 776,1046 824,1046 871,1046 918,1045 965,1045 1012,1044 1059,1043 1107,1041"
+                         HEIGHT="47"
+                         WIDTH="1012"
+                         VPOS="1021"
+                         HPOS="95">
+                  <String ID="string_line_1614620047830_1631"
+                          HEIGHT="47"
+                          WIDTH="1012"
+                          VPOS="1021"
+                          HPOS="95"
+                          CONTENT="15) das Feſt des h. Erzmaͤrtyrers Stephanus ſammt der Ge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="151,1089 176,1088 202,1087 228,1086 254,1085 280,1085 306,1084 332,1084 358,1083 384,1083 409,1083 435,1082 461,1082 487,1082 513,1082 539,1081 565,1081 591,1081 617,1081"
+                         HEIGHT="38"
+                         WIDTH="466"
+                         VPOS="1061"
+                         HPOS="151">
+                  <String ID="string_r1l38"
+                          HEIGHT="38"
+                          WIDTH="466"
+                          VPOS="1061"
+                          HPOS="151"
+                          CONTENT="daͤchtnißfeier aller hh. Maͤrtyrer;"/>
+               </TextLine>
+               <TextLine ID="line_1614620052170_1635"
+                         BASELINE="93,1126 125,1128 161,1123 208,1121 255,1120 302,1119 349,1118 397,1117 444,1117 491,1116 538,1115 585,1115 633,1114 680,1114 727,1113 774,1113 821,1113 869,1112 916,1112 963,1111 1010,1111 1057,1111 1105,1110"
+                         HEIGHT="48"
+                         WIDTH="1012"
+                         VPOS="1090"
+                         HPOS="93">
+                  <String ID="string_line_1614620052170_1635"
+                          HEIGHT="48"
+                          WIDTH="1012"
+                          VPOS="1090"
+                          HPOS="93"
+                          CONTENT="16) das Feſt des vornehmſten h. Kirchen⸗Patrones. Dieſes Feſt"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="167,1156 213,1155 260,1154 306,1154 353,1153 399,1152 446,1152 492,1151 539,1150 585,1150 632,1150 678,1149 725,1148 771,1148 818,1148 864,1147 911,1146 957,1146 1004,1146 1050,1145 1097,1145"
+                         HEIGHT="41"
+                         WIDTH="930"
+                         VPOS="1125"
+                         HPOS="167">
+                  <String ID="string_r1l41"
+                          HEIGHT="41"
+                          WIDTH="930"
+                          VPOS="1125"
+                          HPOS="167"
+                          CONTENT="jedoch wird nicht an dem eigentlichen Tage, an welchem es einfaͤllt,"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="165,1193 211,1192 258,1191 305,1190 352,1189 399,1188 446,1187 493,1186 540,1186 587,1185 634,1184 680,1183 727,1183 774,1182 821,1182 868,1181 915,1181 962,1181 1009,1181 1056,1181 1103,1181"
+                         HEIGHT="42"
+                         WIDTH="938"
+                         VPOS="1161"
+                         HPOS="165">
+                  <String ID="string_r1l42"
+                          HEIGHT="42"
+                          WIDTH="938"
+                          VPOS="1161"
+                          HPOS="165"
+                          CONTENT="ſondern an dem zunaͤchſt darauf folgenden Sonntage ſo gehalten,"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="159,1228 206,1227 253,1226 300,1226 347,1225 394,1224 441,1223 488,1223 535,1222 582,1221 630,1221 677,1220 724,1219 771,1219 818,1219 865,1218 912,1218 959,1218 1006,1217 1053,1217 1101,1217"
+                         HEIGHT="41"
+                         WIDTH="942"
+                         VPOS="1197"
+                         HPOS="159">
+                  <String ID="string_r1l43"
+                          HEIGHT="41"
+                          WIDTH="942"
+                          VPOS="1197"
+                          HPOS="159"
+                          CONTENT="als fiele es an dieſem Sonntage ein, und daß derſelbe hinfort das"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="162,1264 188,1263 215,1263 241,1262 268,1262 295,1262 321,1261 348,1261 375,1261 401,1260 428,1260 455,1259 481,1258 508,1258 535,1257"
+                         HEIGHT="37"
+                         WIDTH="373"
+                         VPOS="1237"
+                         HPOS="162">
+                  <String ID="string_r1l44"
+                          HEIGHT="37"
+                          WIDTH="373"
+                          VPOS="1237"
+                          HPOS="162"
+                          CONTENT="eigentliche Patrons⸗Feſt iſt."/>
+               </TextLine>
+               <TextLine ID="line_1614620054279_1639"
+                         BASELINE="83,1300 131,1304 162,1298 209,1298 257,1297 304,1296 352,1296 399,1295 447,1294 494,1294 542,1293 589,1292 637,1292 684,1291 732,1290 779,1290 827,1289 874,1289 922,1289 969,1288 1017,1288 1064,1288 1112,1288"
+                         HEIGHT="46"
+                         WIDTH="1029"
+                         VPOS="1268"
+                         HPOS="83">
+                  <String ID="string_line_1614620054279_1639"
+                          HEIGHT="46"
+                          WIDTH="1029"
+                          VPOS="1268"
+                          HPOS="83"
+                          CONTENT="17) Die Mittwoche nach dem dritten Sonntage nach Oſtern, Ju⸗"/>
+               </TextLine>
+               <TextLine ID="r1l47"
+                         BASELINE="162,1332 209,1331 256,1331 303,1330 350,1330 397,1329 444,1329 492,1328 539,1328 586,1327 633,1327 680,1326 727,1326 774,1325 822,1325 869,1324 916,1324 963,1323 1010,1322 1057,1321 1105,1321"
+                         HEIGHT="41"
+                         WIDTH="943"
+                         VPOS="1301"
+                         HPOS="162">
+                  <String ID="string_r1l47"
+                          HEIGHT="41"
+                          WIDTH="943"
+                          VPOS="1301"
+                          HPOS="162"
+                          CONTENT="bilate genannt, als Bitt⸗Tag, um vom Himmel den Segen"/>
+               </TextLine>
+               <TextLine ID="r1l48"
+                         BASELINE="167,1365 214,1364 261,1363 308,1363 355,1362 402,1362 449,1362 496,1362 543,1362 590,1361 638,1361 685,1361 732,1361 779,1360 826,1360 873,1359 920,1358 967,1357 1014,1356 1061,1354 1109,1353"
+                         HEIGHT="42"
+                         WIDTH="942"
+                         VPOS="1333"
+                         HPOS="167">
+                  <String ID="string_r1l48"
+                          HEIGHT="42"
+                          WIDTH="942"
+                          VPOS="1333"
+                          HPOS="167"
+                          CONTENT="für die Feldfrüchte zu erflehen. Für dieſen Feſttag ordnen Wir ein"/>
+               </TextLine>
+               <TextLine ID="r1l49"
+                         BASELINE="163,1397 210,1397 257,1396 305,1396 352,1396 400,1396 447,1395 494,1395 542,1395 589,1395 637,1395 684,1394 731,1394 779,1393 826,1393 874,1392 921,1391 968,1390 1016,1389 1063,1388 1111,1386"
+                         HEIGHT="41"
+                         WIDTH="948"
+                         VPOS="1366"
+                         HPOS="163">
+                  <String ID="string_r1l49"
+                          HEIGHT="41"
+                          WIDTH="948"
+                          VPOS="1366"
+                          HPOS="163"
+                          CONTENT="dreizehnſtündiges Gebet an, und ſoll dieſe Feier an die Stelle der"/>
+               </TextLine>
+               <TextLine ID="r1l50"
+                         BASELINE="167,1432 214,1431 261,1430 308,1429 356,1429 403,1429 450,1428 498,1428 545,1428 592,1428 640,1428 687,1428 734,1428 781,1427 829,1427 876,1426 923,1425 971,1424 1018,1422 1065,1421 1113,1418"
+                         HEIGHT="44"
+                         WIDTH="946"
+                         VPOS="1398"
+                         HPOS="167">
+                  <String ID="string_r1l50"
+                          HEIGHT="44"
+                          WIDTH="946"
+                          VPOS="1398"
+                          HPOS="167"
+                          CONTENT="bisher in Unſerer Erzdiözeſe an verſchiedenen Tagen üblichen Hagel⸗"/>
+               </TextLine>
+               <TextLine ID="r1l51"
+                         BASELINE="165,1467 211,1466 258,1465 305,1464 352,1463 399,1463 446,1462 493,1462 540,1461 587,1461 634,1461 680,1461 727,1460 774,1460 821,1459 868,1459 915,1458 962,1457 1009,1455 1056,1454 1103,1452"
+                         HEIGHT="45"
+                         WIDTH="938"
+                         VPOS="1432"
+                         HPOS="165">
+                  <String ID="string_r1l51"
+                          HEIGHT="45"
+                          WIDTH="938"
+                          VPOS="1432"
+                          HPOS="165"
+                          CONTENT="seier treten. Nach Maßgabe des §. 7 und 8 de precibus quadra-"/>
+               </TextLine>
+               <TextLine ID="r1l52"
+                         BASELINE="167,1501 214,1500 261,1499 308,1498 355,1497 403,1496 450,1496 497,1495 544,1495 591,1494 639,1494 686,1493 733,1493 780,1492 827,1492 875,1491 922,1491 969,1490 1016,1490 1063,1489 1111,1488"
+                         HEIGHT="43"
+                         WIDTH="944"
+                         VPOS="1468"
+                         HPOS="167">
+                  <String ID="string_r1l52"
+                          HEIGHT="43"
+                          WIDTH="944"
+                          VPOS="1468"
+                          HPOS="167"
+                          CONTENT="ginta horarum in der Agenda Coloniensis vom Jahre 1720 (S."/>
+               </TextLine>
+               <TextLine ID="r1l53"
+                         BASELINE="162,1535 209,1535 256,1534 303,1533 351,1532 398,1532 445,1531 492,1531 540,1530 587,1530 634,1529 681,1528 729,1528 776,1527 823,1527 870,1526 918,1526 965,1525 1012,1524 1059,1524 1107,1523"
+                         HEIGHT="42"
+                         WIDTH="945"
+                         VPOS="1503"
+                         HPOS="162">
+                  <String ID="string_r1l53"
+                          HEIGHT="42"
+                          WIDTH="945"
+                          VPOS="1503"
+                          HPOS="162"
+                          CONTENT="417) ſoll vor dem Hochamte die Litanie von allen Heiligen nebſt"/>
+               </TextLine>
+               <TextLine ID="r1l54"
+                         BASELINE="167,1569 214,1569 261,1568 308,1568 355,1567 402,1567 449,1566 496,1565 543,1565 590,1564 637,1563 684,1563 731,1562 778,1562 825,1561 872,1561 919,1560 966,1560 1013,1560 1060,1560 1107,1560"
+                         HEIGHT="39"
+                         WIDTH="940"
+                         VPOS="1540"
+                         HPOS="167">
+                  <String ID="string_r1l54"
+                          HEIGHT="39"
+                          WIDTH="940"
+                          VPOS="1540"
+                          HPOS="167"
+                          CONTENT="den beigeſetzten Verſikeln und Reſponſorien gebetet oder geſungen,"/>
+               </TextLine>
+               <TextLine ID="r1l55"
+                         BASELINE="167,1604 214,1604 261,1603 308,1602 355,1602 402,1601 449,1600 496,1599 543,1599 590,1598 637,1597 684,1596 731,1595 778,1595 825,1594 872,1594 919,1594 966,1594 1013,1594 1060,1594 1107,1594"
+                         HEIGHT="40"
+                         WIDTH="940"
+                         VPOS="1574"
+                         HPOS="167">
+                  <String ID="string_r1l55"
+                          HEIGHT="40"
+                          WIDTH="940"
+                          VPOS="1574"
+                          HPOS="167"
+                          CONTENT="und mit den Gebeten:  „Deus qui nobis sub sacramento“ und"/>
+               </TextLine>
+               <TextLine ID="r1l56"
+                         BASELINE="173,1641 207,1640 242,1638 277,1638 312,1637 347,1636 381,1635 416,1635 451,1634 486,1634 521,1633 555,1633 590,1633 625,1632 660,1632 695,1632 729,1631 764,1631 799,1630 834,1629 869,1629"
+                         HEIGHT="42"
+                         WIDTH="696"
+                         VPOS="1609"
+                         HPOS="173">
+                  <String ID="string_r1l56"
+                          HEIGHT="42"
+                          WIDTH="696"
+                          VPOS="1609"
+                          HPOS="173"
+                          CONTENT="„Clementiam Tuam“ (S. 357) geſchlossen werden."/>
+               </TextLine>
+               <TextLine ID="r1l57"
+                         BASELINE="150,1683 198,1682 246,1681 294,1680 342,1678 391,1677 439,1676 487,1675 535,1675 583,1674 632,1673 680,1673 728,1672 776,1672 824,1672 873,1672 921,1672 969,1672 1017,1672 1065,1673 1114,1674"
+                         HEIGHT="41"
+                         WIDTH="964"
+                         VPOS="1652"
+                         HPOS="150">
+                  <String ID="string_r1l57"
+                          HEIGHT="41"
+                          WIDTH="964"
+                          VPOS="1652"
+                          HPOS="150"
+                          CONTENT="Wegen der Feldarbeiten zur Zeit der Erndte in den Monaten Auguſt"/>
+               </TextLine>
+               <TextLine ID="r1l58"
+                         BASELINE="90,1719 141,1718 192,1717 244,1716 295,1715 347,1714 398,1713 449,1712 501,1711 552,1710 604,1709 655,1708 706,1708 758,1707 809,1707 861,1706 912,1706 963,1707 1015,1707 1066,1708 1118,1709"
+                         HEIGHT="43"
+                         WIDTH="1028"
+                         VPOS="1686"
+                         HPOS="90">
+                  <String ID="string_r1l58"
+                          HEIGHT="43"
+                          WIDTH="1028"
+                          VPOS="1686"
+                          HPOS="90"
+                          CONTENT="und September haben Se. Päbſtliche Heiligkeit aus vaͤterlicher Milde die"/>
+               </TextLine>
+               <TextLine ID="r1l59"
+                         BASELINE="80,1754 131,1753 183,1752 234,1751 286,1750 338,1749 389,1748 441,1747 492,1746 544,1745 596,1744 647,1743 699,1742 750,1742 802,1742 854,1741 905,1741 957,1742 1008,1742 1060,1743 1112,1745"
+                         HEIGHT="43"
+                         WIDTH="1032"
+                         VPOS="1721"
+                         HPOS="80">
+                  <String ID="string_r1l59"
+                          HEIGHT="43"
+                          WIDTH="1032"
+                          VPOS="1721"
+                          HPOS="80"
+                          CONTENT="beiden Feſte Mariaͤ Himmelfahrt und Mariaͤ Geburt auf den"/>
+               </TextLine>
+               <TextLine ID="r1l60"
+                         BASELINE="85,1787 136,1786 187,1785 238,1785 289,1784 340,1783 391,1782 442,1781 493,1780 544,1780 596,1779 647,1778 698,1778 749,1777 800,1777 851,1776 902,1776 953,1776 1004,1776 1055,1776 1107,1776"
+                         HEIGHT="41"
+                         WIDTH="1022"
+                         VPOS="1756"
+                         HPOS="85">
+                  <String ID="string_r1l60"
+                          HEIGHT="41"
+                          WIDTH="1022"
+                          VPOS="1756"
+                          HPOS="85"
+                          CONTENT="Sonntag in der Octav verlegt, und werden dieſelben mit einer Erinnerung"/>
+               </TextLine>
+               <TextLine ID="r1l61"
+                         BASELINE="85,1821 136,1820 187,1819 238,1818 290,1818 341,1817 392,1817 444,1816 495,1816 546,1815 598,1815 649,1814 700,1814 751,1813 803,1813 854,1812 905,1812 957,1811 1008,1811 1059,1810 1111,1809"
+                         HEIGHT="42"
+                         WIDTH="1026"
+                         VPOS="1789"
+                         HPOS="85">
+                  <String ID="string_r1l61"
+                          HEIGHT="42"
+                          WIDTH="1026"
+                          VPOS="1789"
+                          HPOS="85"
+                          CONTENT="an den Sonntag im Officium und in der Meſſe ſo begangen, als waͤren"/>
+               </TextLine>
+               <TextLine ID="r1l62"
+                         BASELINE="90,1860 115,1856 141,1854 167,1853 193,1852 218,1852 244,1852 270,1852 296,1853 321,1853 347,1853 373,1853 399,1852 425,1851"
+                         HEIGHT="39"
+                         WIDTH="335"
+                         VPOS="1831"
+                         HPOS="90">
+                  <String ID="string_r1l62"
+                          HEIGHT="39"
+                          WIDTH="335"
+                          VPOS="1831"
+                          HPOS="90"
+                          CONTENT="ſie nicht verlegt worden."/>
+               </TextLine>
+               <TextLine ID="r1l63"
+                         BASELINE="159,1886 206,1886 253,1886 301,1886 348,1886 396,1885 443,1885 490,1884 538,1884 585,1883 633,1882 680,1881 727,1881 775,1880 822,1879 870,1879 917,1878 964,1877 1012,1876 1059,1875 1107,1875"
+                         HEIGHT="41"
+                         WIDTH="948"
+                         VPOS="1855"
+                         HPOS="159">
+                  <String ID="string_r1l63"
+                          HEIGHT="41"
+                          WIDTH="948"
+                          VPOS="1855"
+                          HPOS="159"
+                          CONTENT="Damit das Feſt des heil. Laurentius, wo dieſer Kirchen⸗Patron"/>
+               </TextLine>
+               <TextLine ID="r1l64"
+                         BASELINE="85,1924 136,1923 187,1922 238,1921 290,1921 341,1920 392,1919 444,1918 495,1918 546,1917 598,1916 649,1916 700,1915 751,1915 803,1914 854,1913 905,1912 957,1911 1008,1911 1059,1910 1111,1909"
+                         HEIGHT="45"
+                         WIDTH="1026"
+                         VPOS="1889"
+                         HPOS="85">
+                  <String ID="string_r1l64"
+                          HEIGHT="45"
+                          WIDTH="1026"
+                          VPOS="1889"
+                          HPOS="85"
+                          CONTENT="iſt, nicht auf den Sonntag einfalle, an welchem Mariaͤ Himmelfahrt"/>
+               </TextLine>
+               <TextLine ID="r1l65"
+                         BASELINE="93,1959 144,1958 195,1957 246,1956 297,1955 348,1954 399,1954 450,1953 501,1952 552,1951 604,1951 655,1950 706,1950 757,1949 808,1949 859,1948 910,1947 961,1947 1012,1946 1063,1945 1115,1944"
+                         HEIGHT="45"
+                         WIDTH="1022"
+                         VPOS="1924"
+                         HPOS="93">
+                  <String ID="string_r1l65"
+                          HEIGHT="45"
+                          WIDTH="1022"
+                          VPOS="1924"
+                          HPOS="93"
+                          CONTENT="gefeiert werden ſoll: ſo wird daſſelbe, wo es Patrons⸗Fest iſt, immer"/>
+               </TextLine>
+               <TextLine ID="r1l66"
+                         BASELINE="89,1993 140,1992 192,1991 243,1991 295,1990 346,1990 398,1989 449,1989 501,1989 552,1988 604,1988 655,1987 707,1987 758,1986 810,1986 861,1985 913,1984 964,1983 1016,1982 1067,1981 1119,1979"
+                         HEIGHT="44"
+                         WIDTH="1030"
+                         VPOS="1959"
+                         HPOS="89">
+                  <String ID="string_r1l66"
+                          HEIGHT="44"
+                          WIDTH="1030"
+                          VPOS="1959"
+                          HPOS="89"
+                          CONTENT="am vorhergehenden Sonntage, naͤmlich am Sonntage vor dem zehnten"/>
+               </TextLine>
+               <TextLine ID="r1l67"
+                         BASELINE="89,2029 115,2030 141,2030 167,2029 193,2028 219,2027 245,2026 271,2025 297,2025"
+                         HEIGHT="35"
+                         WIDTH="208"
+                         VPOS="2005"
+                         HPOS="89">
+                  <String ID="string_r1l67"
+                          HEIGHT="35"
+                          WIDTH="208"
+                          VPOS="2005"
+                          HPOS="89"
+                          CONTENT="Auguſt gefeiert."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

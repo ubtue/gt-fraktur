@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:49:53.646+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2586" WIDTH="1502">
+         <TopMargin HEIGHT="0" WIDTH="1502" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2586" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2586" WIDTH="0" VPOS="0" HPOS="1502"/>
+         <BottomMargin HEIGHT="0" WIDTH="1502" VPOS="2586" HPOS="0"/>
+         <PrintSpace HEIGHT="2586" WIDTH="1502" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2347" WIDTH="1348" VPOS="61" HPOS="125">
+               <Shape>
+                  <Polygon POINTS="125,61 125,2408 1473,2408 1473,61"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="780,89 806,92 833,92"
+                         HEIGHT="58"
+                         WIDTH="53"
+                         VPOS="68"
+                         HPOS="780">
+                  <String ID="string_r1l1"
+                          HEIGHT="58"
+                          WIDTH="53"
+                          VPOS="68"
+                          HPOS="780"
+                          CONTENT="64"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="135,197 201,196 267,196 334,196 400,197 467,197 533,198 599,198 666,199 732,200 799,201 865,201 931,202 998,203 1064,204 1131,205 1197,206 1263,207 1330,207 1396,208 1463,208"
+                         HEIGHT="106"
+                         WIDTH="1328"
+                         VPOS="115"
+                         HPOS="135">
+                  <String ID="string_r1l2"
+                          HEIGHT="106"
+                          WIDTH="1328"
+                          VPOS="115"
+                          HPOS="135"
+                          CONTENT="sollte, weil ſich herausgeſtellt hat, daß derſelbe zwar lutheriſch getauft, aber"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="138,249 165,249 192,250 220,250 247,250 275,250 302,250 330,250 357,250 385,250 412,250 439,250 467,250 494,250 522,250 549,250 577,250 604,251 632,251 659,252 687,252"
+                         HEIGHT="51"
+                         WIDTH="549"
+                         VPOS="219"
+                         HPOS="138">
+                  <String ID="string_r1l3"
+                          HEIGHT="51"
+                          WIDTH="549"
+                          VPOS="219"
+                          HPOS="138"
+                          CONTENT="reformirt confirmirt worden iſt."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="216,305 278,304 341,303 404,303 467,303 530,303 593,304 655,304 718,305 781,305 844,306 907,307 970,308 1033,309 1095,310 1158,311 1221,312 1284,313 1347,314 1410,314 1473,315"
+                         HEIGHT="72"
+                         WIDTH="1257"
+                         VPOS="259"
+                         HPOS="216">
+                  <String ID="string_r1l4"
+                          HEIGHT="72"
+                          WIDTH="1257"
+                          VPOS="259"
+                          HPOS="216"
+                          CONTENT="In Oldenburg iſt nun die Beſetzungsweiſe der Pfarrſtellen, wie dieſelbe"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="137,356 203,356 269,356 335,356 402,356 468,357 534,357 601,357 667,358 733,358 800,359 866,359 932,360 998,361 1065,362 1131,363 1197,364 1264,366 1330,367 1396,369 1463,371"
+                         HEIGHT="69"
+                         WIDTH="1326"
+                         VPOS="317"
+                         HPOS="137">
+                  <String ID="string_r1l5"
+                          HEIGHT="69"
+                          WIDTH="1326"
+                          VPOS="317"
+                          HPOS="137"
+                          CONTENT="ſeit 1849 proviſoriſch feſtgeſtellt war und ſich ſeither trefflich bewährte, zu einer"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="141,410 207,410 273,409 340,409 406,409 473,409 539,410 605,410 672,410 738,411 805,412 871,413 937,413 1004,414 1070,415 1137,416 1203,418 1269,419 1336,420 1402,421 1469,423"
+                         HEIGHT="65"
+                         WIDTH="1328"
+                         VPOS="373"
+                         HPOS="141">
+                  <String ID="string_r1l6"
+                          HEIGHT="65"
+                          WIDTH="1328"
+                          VPOS="373"
+                          HPOS="141"
+                          CONTENT="endgültigen Verfaſſungsbeſtimmung erhoben worden. Die Beſetzung aller Pfarreien"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="131,463 197,463 264,462 331,462 398,462 465,462 532,462 599,462 666,463 733,463 800,464 866,465 933,466 1000,467 1067,468 1134,469 1201,470 1268,472 1335,473 1402,475 1469,476"
+                         HEIGHT="66"
+                         WIDTH="1338"
+                         VPOS="425"
+                         HPOS="131">
+                  <String ID="string_r1l7"
+                          HEIGHT="66"
+                          WIDTH="1338"
+                          VPOS="425"
+                          HPOS="131"
+                          CONTENT="erfolgt hiernach in der Art, daß der Oberkirchenrath unter Berückſichtigung der"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="135,516 201,515 268,515 334,515 401,514 468,515 534,515 601,515 667,516 734,516 801,517 867,518 934,519 1000,520 1067,521 1133,523 1200,524 1267,525 1333,526 1400,527 1467,529"
+                         HEIGHT="67"
+                         WIDTH="1332"
+                         VPOS="477"
+                         HPOS="135">
+                  <String ID="string_r1l8"
+                          HEIGHT="67"
+                          WIDTH="1332"
+                          VPOS="477"
+                          HPOS="135"
+                          CONTENT="Einzelgemeinden und der Intereſſen der Landeskirche aus den aufgetretenen Bewer⸗"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="139,569 205,568 272,568 338,567 405,567 471,567 538,568 604,568 671,569 737,570 804,571 870,572 937,573 1003,574 1070,575 1136,577 1203,578 1269,579 1336,580 1402,581 1469,582"
+                         HEIGHT="68"
+                         WIDTH="1330"
+                         VPOS="530"
+                         HPOS="139">
+                  <String ID="string_r1l9"
+                          HEIGHT="68"
+                          WIDTH="1330"
+                          VPOS="530"
+                          HPOS="139"
+                          CONTENT="bern drei Geiſtliche ausſucht, aus welchen die betreffende Gemeinde in allgemeiner"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="135,620 201,619 267,619 333,619 400,619 466,620 532,620 599,621 665,622 731,623 798,624 864,626 930,627 996,628 1063,630 1129,631 1195,632 1262,633 1328,634 1394,635 1461,636"
+                         HEIGHT="65"
+                         WIDTH="1326"
+                         VPOS="582"
+                         HPOS="135">
+                  <String ID="string_r1l10"
+                          HEIGHT="65"
+                          WIDTH="1326"
+                          VPOS="582"
+                          HPOS="135"
+                          CONTENT="Verſammlung Einen auswählt, der hierauf dem Großherzog präſentirt und von"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="133,673 160,673 187,672 214,672 241,672 268,672 295,672 322,672 349,672 376,672 403,672 430,672"
+                         HEIGHT="46"
+                         WIDTH="297"
+                         VPOS="647"
+                         HPOS="133">
+                  <String ID="string_r1l11"
+                          HEIGHT="46"
+                          WIDTH="297"
+                          VPOS="647"
+                          HPOS="133"
+                          CONTENT="ihm ernannt wird."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="214,724 276,724 339,725 401,725 464,726 526,727 589,728 651,729 714,730 776,731 839,732 902,733 964,734 1027,735 1089,736 1152,737 1214,738 1277,739 1339,740 1402,741 1465,742"
+                         HEIGHT="81"
+                         WIDTH="1251"
+                         VPOS="676"
+                         HPOS="214">
+                  <String ID="string_r1l12"
+                          HEIGHT="81"
+                          WIDTH="1251"
+                          VPOS="676"
+                          HPOS="214"
+                          CONTENT="In Würtemberg iſt nun die neue apoſtoliſche Gemeinde von Chriſtof"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="136,777 202,777 268,777 335,778 401,779 468,780 534,781 601,782 667,783 734,784 800,786 866,787 933,788 999,789 1066,790 1132,791 1199,792 1265,793 1332,794 1398,795 1465,795"
+                         HEIGHT="66"
+                         WIDTH="1329"
+                         VPOS="740"
+                         HPOS="136">
+                  <String ID="string_r1l13"
+                          HEIGHT="66"
+                          WIDTH="1329"
+                          VPOS="740"
+                          HPOS="136"
+                          CONTENT="Hoffmann auf dem Kirſchenhardthof bei Moorbach aus der Landeskirche"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="136,833 162,832 189,831 215,830 242,830 268,830 295,830 321,832 348,833"
+                         HEIGHT="49"
+                         WIDTH="212"
+                         VPOS="804"
+                         HPOS="136">
+                  <String ID="string_r1l14"
+                          HEIGHT="49"
+                          WIDTH="212"
+                          VPOS="804"
+                          HPOS="136"
+                          CONTENT="ausgeſchieden."/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="220,883 285,884 350,885 415,886 480,887 546,888 611,890 676,891 741,892 806,893 872,894 937,895 1002,896 1067,897 1132,898 1198,899 1263,900 1328,901 1393,901 1459,902"
+                         HEIGHT="78"
+                         WIDTH="1239"
+                         VPOS="835"
+                         HPOS="220">
+                  <String ID="string_r1l15"
+                          HEIGHT="78"
+                          WIDTH="1239"
+                          VPOS="835"
+                          HPOS="220"
+                          CONTENT="Die Geiſtlichen des Fürstenthums Waldeck ſollen nun auf die Unlon ver⸗"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="133,939 160,939 187,938 214,938 241,938 268,937 295,937 322,938 349,939 377,940"
+                         HEIGHT="49"
+                         WIDTH="244"
+                         VPOS="911"
+                         HPOS="133">
+                  <String ID="string_r1l16"
+                          HEIGHT="49"
+                          WIDTH="244"
+                          VPOS="911"
+                          HPOS="133"
+                          CONTENT="pflichtet werden."/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="215,992 277,993 340,993 403,994 465,995 528,996 591,997 653,997 716,998 779,999 842,1000 904,1001 967,1002 1030,1002 1092,1003 1155,1004 1218,1005 1280,1006 1343,1007 1406,1008 1469,1009"
+                         HEIGHT="80"
+                         WIDTH="1254"
+                         VPOS="944"
+                         HPOS="215">
+                  <String ID="string_r1l17"
+                          HEIGHT="80"
+                          WIDTH="1254"
+                          VPOS="944"
+                          HPOS="215"
+                          CONTENT="Am 15. Januar beging die reform. Kirche von Oſtfriesland in würdiger"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="134,1045 200,1046 266,1046 332,1047 398,1048 464,1048 530,1049 597,1050 663,1051 729,1052 795,1053 861,1054 927,1055 993,1056 1060,1057 1126,1058 1192,1058 1258,1059 1324,1060 1390,1061 1457,1062"
+                         HEIGHT="69"
+                         WIDTH="1323"
+                         VPOS="1008"
+                         HPOS="134">
+                  <String ID="string_r1l18"
+                          HEIGHT="69"
+                          WIDTH="1323"
+                          VPOS="1008"
+                          HPOS="134"
+                          CONTENT="Weiſe die dreihundertjährige Todesfeier ihres Stifters, Johann von Lasko."/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="125,1100 191,1100 258,1101 325,1102 392,1102 459,1103 525,1104 592,1105 659,1105 726,1106 793,1107 859,1108 926,1109 993,1110 1060,1111 1127,1111 1193,1112 1260,1113 1327,1113 1394,1114 1461,1114"
+                         HEIGHT="65"
+                         WIDTH="1336"
+                         VPOS="1064"
+                         HPOS="125">
+                  <String ID="string_r1l19"
+                          HEIGHT="65"
+                          WIDTH="1336"
+                          VPOS="1064"
+                          HPOS="125"
+                          CONTENT="Wenn am 19. April die geſammte evangeliſche Kirche Deutſchlands sich des Todes"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="126,1153 192,1153 259,1153 325,1154 392,1155 459,1156 525,1157 592,1158 659,1159 725,1160 792,1161 859,1162 925,1163 992,1164 1059,1165 1125,1166 1192,1167 1259,1167 1325,1167 1392,1167 1459,1167"
+                         HEIGHT="67"
+                         WIDTH="1333"
+                         VPOS="1116"
+                         HPOS="126">
+                  <String ID="string_r1l20"
+                          HEIGHT="67"
+                          WIDTH="1333"
+                          VPOS="1116"
+                          HPOS="126"
+                          CONTENT="Melanchthon’s erinnert, in welcher Beziehung von den meiſten Kirchenregie⸗"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="129,1207 195,1207 262,1207 328,1207 395,1208 462,1209 528,1210 595,1211 661,1212 728,1213 795,1214 861,1216 928,1217 994,1218 1061,1219 1127,1220 1194,1221 1261,1221 1327,1221 1394,1222 1461,1221"
+                         HEIGHT="68"
+                         WIDTH="1332"
+                         VPOS="1169"
+                         HPOS="129">
+                  <String ID="string_r1l21"
+                          HEIGHT="68"
+                          WIDTH="1332"
+                          VPOS="1169"
+                          HPOS="129"
+                          CONTENT="rungen bereits Anordnungen getroffen ſind, ſo möge dieſe Feier dazu dienen, jene"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="137,1257 203,1258 269,1258 335,1259 401,1260 467,1261 533,1262 599,1263 665,1265 731,1266 798,1267 864,1268 930,1269 996,1270 1062,1271 1128,1272 1194,1273 1260,1274 1326,1274 1392,1275 1459,1275"
+                         HEIGHT="71"
+                         WIDTH="1322"
+                         VPOS="1220"
+                         HPOS="137">
+                  <String ID="string_r1l22"
+                          HEIGHT="71"
+                          WIDTH="1322"
+                          VPOS="1220"
+                          HPOS="137"
+                          CONTENT="Einheit aller evangeliſchen Kirchengemeinſchaften, wie ſie Melanchthon noch in"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="127,1311 191,1311 256,1312 320,1313 385,1313 449,1314 514,1315 578,1316 643,1317 707,1318 772,1319 836,1321 901,1322 965,1323 1030,1324 1094,1325 1159,1326 1223,1327 1288,1328 1352,1329 1417,1330"
+                         HEIGHT="95"
+                         WIDTH="1290"
+                         VPOS="1273"
+                         HPOS="127">
+                  <String ID="string_r1l23"
+                          HEIGHT="95"
+                          WIDTH="1290"
+                          VPOS="1273"
+                          HPOS="127"
+                          CONTENT="der letzten Stunde auf dem Herzen getragen hat, zur Wahrheit werden zu laſſen."/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="663,1443 688,1447 713,1449 739,1451 764,1452 790,1453 815,1453 841,1453 866,1454 892,1455 917,1456 943,1458"
+                         HEIGHT="126"
+                         WIDTH="280"
+                         VPOS="1354"
+                         HPOS="663">
+                  <String ID="string_r1l24"
+                          HEIGHT="126"
+                          WIDTH="280"
+                          VPOS="1354"
+                          HPOS="663"
+                          CONTENT="Bitte."/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="216,1517 278,1516 340,1516 402,1516 465,1516 527,1517 589,1518 651,1519 714,1520 776,1522 838,1523 900,1525 963,1526 1025,1528 1087,1529 1149,1531 1212,1532 1274,1533 1336,1534 1398,1534 1461,1534"
+                         HEIGHT="87"
+                         WIDTH="1245"
+                         VPOS="1463"
+                         HPOS="216">
+                  <String ID="string_r1l25"
+                          HEIGHT="87"
+                          WIDTH="1245"
+                          VPOS="1463"
+                          HPOS="216"
+                          CONTENT="Im Jahre 1601 erſchien zu Herborn „Kurtze einfeltige und allein auf"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="129,1567 195,1567 262,1567 328,1568 395,1568 462,1569 528,1570 595,1571 661,1572 728,1574 795,1575 861,1577 928,1578 994,1580 1061,1581 1127,1583 1194,1584 1261,1585 1327,1587 1394,1588 1461,1588"
+                         HEIGHT="73"
+                         WIDTH="1332"
+                         VPOS="1530"
+                         HPOS="129">
+                  <String ID="string_r1l26"
+                          HEIGHT="73"
+                          WIDTH="1332"
+                          VPOS="1530"
+                          HPOS="129"
+                          CONTENT="Gottes Wort gegründete Glaubensbekanntnus von denen Hauptpunkten, ſo"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="129,1624 195,1622 261,1621 327,1621 394,1621 460,1621 526,1622 593,1624 659,1625 725,1627 792,1628 858,1630 924,1632 990,1634 1057,1635 1123,1637 1189,1638 1256,1639 1322,1639 1388,1639 1455,1639"
+                         HEIGHT="69"
+                         WIDTH="1326"
+                         VPOS="1586"
+                         HPOS="129">
+                  <String ID="string_r1l27"
+                          HEIGHT="69"
+                          WIDTH="1326"
+                          VPOS="1586"
+                          HPOS="129"
+                          CONTENT="alle und jede fromme Chriſten zur verſicherung jrer ſeligkeit und beſtendi⸗"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="137,1677 203,1676 269,1675 335,1675 401,1675 467,1676 533,1676 599,1677 665,1679 731,1680 797,1681 863,1683 929,1684 995,1686 1061,1687 1127,1689 1193,1690 1259,1691 1325,1692 1391,1693 1457,1693"
+                         HEIGHT="70"
+                         WIDTH="1320"
+                         VPOS="1638"
+                         HPOS="137">
+                  <String ID="string_r1l28"
+                          HEIGHT="70"
+                          WIDTH="1320"
+                          VPOS="1638"
+                          HPOS="137"
+                          CONTENT="gem lebendigem troſt zu wiſſen vonnöten haben.” — Dieſes Buch ſoll ſchon"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="127,1731 193,1730 260,1729 326,1729 393,1729 459,1730 526,1731 592,1732 659,1733 725,1734 792,1736 858,1737 925,1739 991,1740 1058,1742 1124,1743 1191,1744 1257,1745 1324,1746 1390,1746 1457,1746"
+                         HEIGHT="69"
+                         WIDTH="1330"
+                         VPOS="1692"
+                         HPOS="127">
+                  <String ID="string_r1l29"
+                          HEIGHT="69"
+                          WIDTH="1330"
+                          VPOS="1692"
+                          HPOS="127"
+                          CONTENT="1562 zu Heidelberg („durch Ludwig Lück”) gedruckt ſein. Da ich nun bei⸗"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="133,1787 199,1785 265,1784 331,1783 397,1782 464,1783 530,1783 596,1784 662,1786 728,1787 795,1789 861,1791 927,1793 993,1794 1059,1796 1126,1797 1192,1798 1258,1799 1324,1799 1390,1799 1457,1798"
+                         HEIGHT="69"
+                         WIDTH="1324"
+                         VPOS="1745"
+                         HPOS="133">
+                  <String ID="string_r1l30"
+                          HEIGHT="69"
+                          WIDTH="1324"
+                          VPOS="1745"
+                          HPOS="133"
+                          CONTENT="der Ausgaben dieſer Schrift zur Vollendung einer mit denſelben zuſammen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="125,1841 191,1839 258,1837 324,1837 391,1836 458,1836 524,1837 591,1838 657,1840 724,1841 791,1843 857,1845 924,1846 990,1848 1057,1850 1123,1851 1190,1852 1257,1852 1323,1852 1390,1852 1457,1851"
+                         HEIGHT="69"
+                         WIDTH="1332"
+                         VPOS="1799"
+                         HPOS="125">
+                  <String ID="string_r1l31"
+                          HEIGHT="69"
+                          WIDTH="1332"
+                          VPOS="1799"
+                          HPOS="125"
+                          CONTENT="hängenden Unterſuchung benöthigt bin, dieſelben aber auf öffentlichen Biblio⸗"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="125,1895 191,1893 258,1892 324,1891 391,1890 457,1891 524,1891 590,1892 657,1893 723,1895 790,1897 856,1898 923,1900 989,1902 1056,1903 1122,1905 1189,1906 1255,1906 1322,1907 1388,1906 1455,1905"
+                         HEIGHT="71"
+                         WIDTH="1330"
+                         VPOS="1852"
+                         HPOS="125">
+                  <String ID="string_r1l32"
+                          HEIGHT="71"
+                          WIDTH="1330"
+                          VPOS="1852"
+                          HPOS="125"
+                          CONTENT="theken bisher vergebens geſucht habe, ſo bitte ich diejenigen Leſer dieſes"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="125,1950 191,1948 258,1947 325,1946 391,1946 458,1946 525,1947 591,1948 658,1949 725,1950 792,1952 858,1953 925,1954 992,1956 1058,1957 1125,1959 1192,1960 1258,1960 1325,1961 1392,1961 1459,1960"
+                         HEIGHT="66"
+                         WIDTH="1334"
+                         VPOS="1909"
+                         HPOS="125">
+                  <String ID="string_r1l33"
+                          HEIGHT="66"
+                          WIDTH="1334"
+                          VPOS="1909"
+                          HPOS="125"
+                          CONTENT="Blattes, welche mir dieſe Bücher vielleicht verſchaffen können, mir dieſelben"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="129,2001 170,2002 211,2002 253,2002 294,2003 336,2003 377,2003 419,2003 460,2002 502,2002 543,2002 584,2003 626,2003 667,2003 709,2003 750,2004 792,2004 833,2005 875,2007 916,2008 958,2009"
+                         HEIGHT="56"
+                         WIDTH="829"
+                         VPOS="1968"
+                         HPOS="129">
+                  <String ID="string_r1l34"
+                          HEIGHT="56"
+                          WIDTH="829"
+                          VPOS="1968"
+                          HPOS="129"
+                          CONTENT="ſo bald als möglich gütigſt zuſenden zu wollen."/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="206,2057 236,2057 266,2058 297,2058 327,2059 358,2059 388,2059 418,2059 449,2059 479,2059 510,2059 540,2059 570,2059 601,2059 631,2059 662,2058 692,2058 722,2058 753,2058 783,2057 814,2057"
+                         HEIGHT="55"
+                         WIDTH="608"
+                         VPOS="2022"
+                         HPOS="206">
+                  <String ID="string_r1l35"
+                          HEIGHT="55"
+                          WIDTH="608"
+                          VPOS="2022"
+                          HPOS="206"
+                          CONTENT="Marburg, den 30. März 1860."/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="1087,2110 1112,2112 1137,2113 1163,2115 1188,2117 1213,2118 1239,2119 1264,2120 1289,2120 1315,2120 1340,2119 1366,2118"
+                         HEIGHT="134"
+                         WIDTH="279"
+                         VPOS="2068"
+                         HPOS="1087">
+                  <String ID="string_r1l36"
+                          HEIGHT="134"
+                          WIDTH="279"
+                          VPOS="2068"
+                          HPOS="1087"
+                          CONTENT="Dr. Heppe."/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="171,2383 196,2385 222,2387 247,2388 273,2389 298,2391 324,2391 349,2392 375,2392 400,2393 426,2393 451,2393 477,2394 502,2394 528,2394 553,2394 579,2394 604,2394 630,2394 655,2394 681,2394"
+                         HEIGHT="206"
+                         WIDTH="510"
+                         VPOS="2192"
+                         HPOS="171">
+                  <String ID="string_r1l37"
+                          HEIGHT="206"
+                          WIDTH="510"
+                          VPOS="2192"
+                          HPOS="171"
+                          CONTENT="Gedruckt bei Sam. Lucas in Elberfeld."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

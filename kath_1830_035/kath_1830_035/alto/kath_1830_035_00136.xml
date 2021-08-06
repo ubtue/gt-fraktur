@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:43:36.405+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2153" WIDTH="1258">
+         <TopMargin HEIGHT="0" WIDTH="1258" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="1258"/>
+         <BottomMargin HEIGHT="0" WIDTH="1258" VPOS="2153" HPOS="0"/>
+         <PrintSpace HEIGHT="2153" WIDTH="1258" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1734" WIDTH="1073" VPOS="79" HPOS="133">
+               <Shape>
+                  <Polygon POINTS="133,79 133,1813 1206,1813 1206,79"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="626,103 654,105 683,105 712,107"
+                         HEIGHT="40"
+                         WIDTH="86"
+                         VPOS="79"
+                         HPOS="626">
+                  <String ID="string_r1l1"
+                          HEIGHT="40"
+                          WIDTH="86"
+                          VPOS="79"
+                          HPOS="626"
+                          CONTENT="130"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="141,210 193,207 246,205 298,203 351,202 404,201 456,201 509,201 561,201 614,202 667,203 719,203 772,204 824,205 877,207 930,207 982,208 1035,209 1087,210 1140,210 1193,211"
+                         HEIGHT="44"
+                         WIDTH="1052"
+                         VPOS="178"
+                         HPOS="141">
+                  <String ID="string_r1l2"
+                          HEIGHT="44"
+                          WIDTH="1052"
+                          VPOS="178"
+                          HPOS="141"
+                          CONTENT="11. Drittes Geſicht: Die heil. Maͤrtyrer und Buͤßer. 12."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="141,257 193,254 246,252 298,250 351,249 404,249 456,248 509,248 561,248 614,249 667,250 719,250 772,251 824,253 877,254 930,255 982,255 1035,256 1087,257 1140,258 1193,258"
+                         HEIGHT="44"
+                         WIDTH="1052"
+                         VPOS="225"
+                         HPOS="141">
+                  <String ID="string_r1l3"
+                          HEIGHT="44"
+                          WIDTH="1052"
+                          VPOS="225"
+                          HPOS="141"
+                          CONTENT="Viertes Geſicht: Die heil. Anachoreten, Moͤnche und As⸗"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="133,303 185,300 238,298 291,297 344,296 397,295 450,295 503,295 556,295 609,296 662,297 714,298 767,299 820,300 873,301 926,302 979,304 1032,304 1085,305 1138,306 1191,306"
+                         HEIGHT="44"
+                         WIDTH="1058"
+                         VPOS="273"
+                         HPOS="133">
+                  <String ID="string_r1l4"
+                          HEIGHT="44"
+                          WIDTH="1058"
+                          VPOS="273"
+                          HPOS="133"
+                          CONTENT="keten. 13. Fuͤnftes Geſicht: Die heil. Jungfrauen. 14. Sechs⸗"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="137,348 187,346 238,345 289,345 340,344 390,344 441,343 492,344 543,344 593,344 644,345 695,345 746,346 796,347 847,348 898,349 949,350 999,351 1050,353 1101,354 1199,357"
+                         HEIGHT="45"
+                         WIDTH="1015"
+                         VPOS="321"
+                         HPOS="137">
+                  <String ID="string_r1l5"
+                          HEIGHT="45"
+                          WIDTH="1015"
+                          VPOS="321"
+                          HPOS="137"
+                          CONTENT="tes Geſicht: Alle Heiligen, Gerechten und Erwaͤhlten —"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="141,398 193,396 246,394 298,393 351,392 404,392 456,392 509,392 562,392 614,393 667,393 720,395 772,396 825,397 878,398 930,399 983,400 1036,401 1088,402 1141,403 1194,404"
+                         HEIGHT="46"
+                         WIDTH="1053"
+                         VPOS="369"
+                         HPOS="141">
+                  <String ID="string_r1l6"
+                          HEIGHT="46"
+                          WIDTH="1053"
+                          VPOS="369"
+                          HPOS="141"
+                          CONTENT="Hallelujah. 15. Siebentes Geſicht: Die Königin aller Heiligen."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="341,489 373,490 405,491 438,491 470,492 503,493 535,493 568,494 600,495 633,495 665,496 697,496 730,496 762,497 795,497 827,498 860,498 892,499 925,499 957,500 990,500"
+                         HEIGHT="47"
+                         WIDTH="649"
+                         VPOS="465"
+                         HPOS="341">
+                  <String ID="string_r1l7"
+                          HEIGHT="47"
+                          WIDTH="649"
+                          VPOS="465"
+                          HPOS="341"
+                          CONTENT="II. Verehrung der Heiligen."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="211,552 260,552 310,552 360,552 410,552 459,553 509,553 559,554 609,555 658,555 708,556 758,557 808,558 857,559 907,559 957,560 1007,561 1056,561 1106,562 1156,562 1206,562"
+                         HEIGHT="46"
+                         WIDTH="995"
+                         VPOS="528"
+                         HPOS="211">
+                  <String ID="string_r1l8"
+                          HEIGHT="46"
+                          WIDTH="995"
+                          VPOS="528"
+                          HPOS="211"
+                          CONTENT="16. Nachklang unſrer Andacht fuͤr den Glauben und die Hoffnung"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="141,604 237,601 287,600 337,600 388,600 438,601 488,601 539,601 589,602 639,603 690,604 740,605 790,605 840,606 891,607 941,608 991,608 1042,609 1092,609 1142,610 1193,610"
+                         HEIGHT="44"
+                         WIDTH="1006"
+                         VPOS="577"
+                         HPOS="187">
+                  <String ID="string_r1l9"
+                          HEIGHT="44"
+                          WIDTH="1006"
+                          VPOS="577"
+                          HPOS="187"
+                          CONTENT="— Nachklang fuͤr die Liebe, ihre Betrachtung uͤber die Schoͤnheit und"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="137,651 189,650 242,649 295,648 347,648 400,648 453,648 505,649 558,649 611,650 664,651 716,652 769,653 822,654 874,655 927,656 980,657 1032,657 1085,658 1138,658 1191,658"
+                         HEIGHT="44"
+                         WIDTH="1054"
+                         VPOS="625"
+                         HPOS="137">
+                  <String ID="string_r1l10"
+                          HEIGHT="44"
+                          WIDTH="1054"
+                          VPOS="625"
+                          HPOS="137"
+                          CONTENT="Liebenswuͤrdigkeit der Heiligen — was ſie am meiſten gegen ſie entzuͤndet."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="137,698 190,697 243,696 296,696 349,696 403,696 456,696 509,697 562,697 615,698 669,699 722,700 775,700 828,701 881,702 935,703 988,704 1041,705 1094,705 1147,706 1201,706"
+                         HEIGHT="43"
+                         WIDTH="1064"
+                         VPOS="674"
+                         HPOS="137">
+                  <String ID="string_r1l11"
+                          HEIGHT="43"
+                          WIDTH="1064"
+                          VPOS="674"
+                          HPOS="137"
+                          CONTENT="17. Ihre Sehnſucht zieht unſre Herzen zu ihren Fuͤßen — warum dieſe"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="142,743 194,744 247,744 300,744 353,744 406,744 459,744 511,745 564,745 617,745 670,746 723,746 776,747 829,748 881,748 934,749 987,750 1040,751 1093,753 1146,754 1199,756"
+                         HEIGHT="46"
+                         WIDTH="1057"
+                         VPOS="721"
+                         HPOS="142">
+                  <String ID="string_r1l12"
+                          HEIGHT="46"
+                          WIDTH="1057"
+                          VPOS="721"
+                          HPOS="142"
+                          CONTENT="Ehrfurcht. 18. Rechtfertigung dieſer Ehrfurcht — von Johannes und"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="146,793 198,792 250,791 302,791 355,791 407,791 459,791 511,791 564,792 616,792 668,793 720,793 773,794 825,795 877,796 929,797 982,798 1034,799 1086,800 1138,801 1191,802"
+                         HEIGHT="44"
+                         WIDTH="1045"
+                         VPOS="769"
+                         HPOS="146">
+                  <String ID="string_r1l13"
+                          HEIGHT="44"
+                          WIDTH="1045"
+                          VPOS="769"
+                          HPOS="146"
+                          CONTENT="Kornelius — die Kinder Jakob’s, die Prophetenkinder — Abigail —"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="143,840 195,839 248,839 301,839 354,839 407,839 460,839 513,839 566,840 619,840 672,841 724,841 777,842 830,843 883,844 936,845 989,846 1042,847 1095,849 1148,850 1201,851"
+                         HEIGHT="46"
+                         WIDTH="1058"
+                         VPOS="816"
+                         HPOS="143">
+                  <String ID="string_r1l14"
+                          HEIGHT="46"
+                          WIDTH="1058"
+                          VPOS="816"
+                          HPOS="143"
+                          CONTENT="ein treffliches Lehrſtuͤck aus der Schrift fuͤr die Verehrung der Heiligen"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="137,888 190,889 243,889 296,889 349,890 402,890 455,890 508,890 561,890 614,890 667,890 720,890 773,891 826,891 879,892 932,893 985,894 1038,895 1091,896 1144,898 1198,900"
+                         HEIGHT="46"
+                         WIDTH="1061"
+                         VPOS="865"
+                         HPOS="137">
+                  <String ID="string_r1l15"
+                          HEIGHT="46"
+                          WIDTH="1061"
+                          VPOS="865"
+                          HPOS="137"
+                          CONTENT="in ihrer Geſchichte. 19. Theoſophiſche Beleuchtung dieſer Verehrung,"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="141,938 193,939 246,940 299,940 351,941 404,941 457,941 509,941 562,941 615,941 668,941 720,941 773,941 826,941 878,941 931,942 984,942 1036,943 1089,944 1142,945 1195,946"
+                         HEIGHT="42"
+                         WIDTH="1054"
+                         VPOS="915"
+                         HPOS="141">
+                  <String ID="string_r1l16"
+                          HEIGHT="42"
+                          WIDTH="1054"
+                          VPOS="915"
+                          HPOS="141"
+                          CONTENT="Maria, Magdalena, Petrus, Johannes, Joſeph und Nikodemus ehren"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="141,990 191,990 242,989 293,989 344,989 395,989 446,989 497,989 548,989 599,990 650,990 700,990 751,990 802,991 853,991 904,991 955,992 1006,992 1057,992 1108,993 1204,993"
+                         HEIGHT="40"
+                         WIDTH="1018"
+                         VPOS="965"
+                         HPOS="141">
+                  <String ID="string_r1l17"
+                          HEIGHT="40"
+                          WIDTH="1018"
+                          VPOS="965"
+                          HPOS="141"
+                          CONTENT="die Glieder Chriſti — die Blutfluͤßige auch den Saum ſeines Kleids —"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="141,1039 193,1039 246,1039 299,1039 352,1040 404,1040 457,1040 510,1040 563,1040 615,1040 668,1040 721,1040 774,1041 826,1041 879,1041 932,1041 985,1042 1037,1042 1090,1042 1143,1043 1201,1043"
+                         HEIGHT="38"
+                         WIDTH="1055"
+                         VPOS="1016"
+                         HPOS="141">
+                  <String ID="string_r1l18"
+                          HEIGHT="38"
+                          WIDTH="1055"
+                          VPOS="1016"
+                          HPOS="141"
+                          CONTENT="Ordnung der Glieder unter und zu dem Haupte — ſie ſind Werkzeuge"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="146,1085 198,1086 250,1086 303,1087 355,1087 408,1088 460,1088 512,1088 565,1088 617,1089 670,1089 722,1089 774,1089 827,1089 879,1089 932,1089 984,1089 1036,1090 1089,1090 1141,1090 1194,1090"
+                         HEIGHT="38"
+                         WIDTH="1048"
+                         VPOS="1063"
+                         HPOS="146">
+                  <String ID="string_r1l19"
+                          HEIGHT="38"
+                          WIDTH="1048"
+                          VPOS="1063"
+                          HPOS="146"
+                          CONTENT="desſelben; ihr Amt als ſolche. 20. Theologiſche Beleuchtung der Vereh⸗"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="141,1134 194,1134 247,1134 300,1135 353,1135 406,1135 459,1135 512,1135 565,1135 618,1136 671,1136 724,1136 777,1136 830,1136 883,1136 936,1137 989,1137 1042,1137 1095,1138 1148,1138 1201,1138"
+                         HEIGHT="35"
+                         WIDTH="1060"
+                         VPOS="1113"
+                         HPOS="141">
+                  <String ID="string_r1l20"
+                          HEIGHT="35"
+                          WIDTH="1060"
+                          VPOS="1113"
+                          HPOS="141"
+                          CONTENT="rung der Heiligen; Ableitung ihrer Gebuͤhrlichkeit aus den zwei hoͤchſten"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="142,1177 194,1178 247,1179 300,1179 353,1180 406,1180 459,1180 511,1181 564,1181 617,1181 670,1182 723,1182 776,1182 829,1183 881,1183 934,1183 987,1184 1040,1184 1093,1185 1146,1186 1199,1186"
+                         HEIGHT="40"
+                         WIDTH="1057"
+                         VPOS="1156"
+                         HPOS="142">
+                  <String ID="string_r1l21"
+                          HEIGHT="40"
+                          WIDTH="1057"
+                          VPOS="1156"
+                          HPOS="142"
+                          CONTENT="Geboten — warum dieſe Gebote ſich gleich ſind — Grund der guten"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="143,1222 193,1222 243,1223 293,1223 343,1223 394,1224 444,1224 494,1224 544,1225 594,1225 645,1226 695,1226 745,1227 795,1228 845,1228 896,1229 946,1229 996,1230 1046,1231 1096,1231 1209,1232"
+                         HEIGHT="41"
+                         WIDTH="1004"
+                         VPOS="1201"
+                         HPOS="143">
+                  <String ID="string_r1l22"
+                          HEIGHT="41"
+                          WIDTH="1004"
+                          VPOS="1201"
+                          HPOS="143"
+                          CONTENT="Selbſtliebe — warum wir den Naͤchſten lieben ſollen wie uns ſelbſt —"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="144,1269 196,1269 249,1270 302,1270 354,1270 407,1271 460,1271 512,1271 565,1271 618,1271 671,1272 723,1272 776,1272 829,1273 881,1273 934,1274 987,1275 1039,1276 1092,1278 1145,1279 1198,1281"
+                         HEIGHT="45"
+                         WIDTH="1054"
+                         VPOS="1247"
+                         HPOS="144">
+                  <String ID="string_r1l24"
+                          HEIGHT="45"
+                          WIDTH="1054"
+                          VPOS="1247"
+                          HPOS="144"
+                          CONTENT="Verklaͤrungsſtufen der Ebenbildlichkeit mit Gott — ihnen entſprechen die"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="145,1319 197,1319 250,1319 303,1319 356,1319 408,1319 461,1319 514,1319 567,1319 619,1319 672,1320 725,1320 778,1321 830,1322 883,1322 936,1324 989,1325 1041,1326 1094,1328 1147,1330 1200,1331"
+                         HEIGHT="46"
+                         WIDTH="1055"
+                         VPOS="1296"
+                         HPOS="145">
+                  <String ID="string_r1l25"
+                          HEIGHT="46"
+                          WIDTH="1055"
+                          VPOS="1296"
+                          HPOS="145"
+                          CONTENT="Stufen ſeines Wohlgefallens — mit dieſen muß unſre Liebe ſich mehren,"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="141,1371 193,1370 246,1369 299,1368 352,1367 405,1367 457,1367 510,1367 563,1368 616,1368 669,1369 721,1370 774,1370 827,1371 880,1372 933,1373 985,1374 1038,1375 1091,1376 1144,1377 1197,1377"
+                         HEIGHT="44"
+                         WIDTH="1056"
+                         VPOS="1344"
+                         HPOS="141">
+                  <String ID="string_r1l26"
+                          HEIGHT="44"
+                          WIDTH="1056"
+                          VPOS="1344"
+                          HPOS="141"
+                          CONTENT="und ehrfuͤrchtiger werden — Schriftzeugniſſe fuͤr jene Stufen — Anwen⸗"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="143,1420 198,1419 254,1418 310,1417 365,1417 421,1417 477,1417 533,1417 588,1417 644,1418 700,1418 756,1419 811,1420 867,1421 923,1422 979,1423 1034,1424 1090,1425 1146,1426 1202,1426"
+                         HEIGHT="42"
+                         WIDTH="1059"
+                         VPOS="1395"
+                         HPOS="143">
+                  <String ID="string_r1l27"
+                          HEIGHT="42"
+                          WIDTH="1059"
+                          VPOS="1395"
+                          HPOS="143"
+                          CONTENT="dung auf die Verehrung der Heiligen. 21. Warum dieſe Verehrung"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="137,1468 189,1468 242,1467 295,1466 348,1466 401,1465 454,1465 507,1465 560,1465 613,1465 666,1466 718,1466 771,1467 824,1467 877,1468 930,1469 983,1469 1036,1470 1089,1471 1142,1472 1195,1472"
+                         HEIGHT="40"
+                         WIDTH="1058"
+                         VPOS="1443"
+                         HPOS="137">
+                  <String ID="string_r1l28"
+                          HEIGHT="40"
+                          WIDTH="1058"
+                          VPOS="1443"
+                          HPOS="137"
+                          CONTENT="keine bloß buͤrgerliche, ſondern eine religioͤſe iſt — warum ſie auch aͤußer⸗"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="137,1516 190,1515 243,1515 296,1514 350,1514 403,1514 456,1513 509,1514 563,1514 616,1514 669,1514 722,1515 776,1515 829,1516 882,1516 935,1517 989,1517 1042,1518 1095,1518 1148,1519 1202,1519"
+                         HEIGHT="39"
+                         WIDTH="1065"
+                         VPOS="1491"
+                         HPOS="137">
+                  <String ID="string_r1l29"
+                          HEIGHT="39"
+                          WIDTH="1065"
+                          VPOS="1491"
+                          HPOS="137"
+                          CONTENT="lich ſeyn ſoll — wem es zuſtehe die Formen dieſer Aeußerlichkeit zu"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="138,1561 187,1562 237,1562 287,1562 337,1562 387,1562 437,1562 487,1562 537,1562 587,1562 637,1562 686,1562 736,1562 786,1562 836,1562 886,1563 936,1563 986,1563 1036,1564 1086,1564 1203,1565"
+                         HEIGHT="37"
+                         WIDTH="998"
+                         VPOS="1539"
+                         HPOS="138">
+                  <String ID="string_r1l30"
+                          HEIGHT="37"
+                          WIDTH="998"
+                          VPOS="1539"
+                          HPOS="138"
+                          CONTENT="regeln und zu urtheilen — Aufzaͤhlung der gewoͤhnlichſten Formen —"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="142,1608 194,1609 247,1609 300,1609 353,1609 405,1610 458,1610 511,1610 564,1610 616,1609 669,1609 722,1609 775,1609 827,1609 880,1609 933,1610 986,1610 1038,1610 1091,1611 1144,1612 1197,1613"
+                         HEIGHT="38"
+                         WIDTH="1055"
+                         VPOS="1586"
+                         HPOS="142">
+                  <String ID="string_r1l31"
+                          HEIGHT="38"
+                          WIDTH="1055"
+                          VPOS="1586"
+                          HPOS="142"
+                          CONTENT="Benennung von Tempeln und Altaͤren, Gedaͤchtnißfeſte, Dankopfer (nicht"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="136,1655 191,1656 247,1657 303,1658 358,1658 414,1658 470,1658 526,1658 581,1658 637,1657 693,1657 749,1657 804,1657 860,1657 916,1657 972,1657 1027,1658 1083,1658 1139,1659 1195,1660"
+                         HEIGHT="39"
+                         WIDTH="1059"
+                         VPOS="1632"
+                         HPOS="136">
+                  <String ID="string_r1l32"
+                          HEIGHT="39"
+                          WIDTH="1059"
+                          VPOS="1632"
+                          HPOS="136"
+                          CONTENT="an ſondern) fuͤr ſie, Bildniſſe, Kniebeugung, Kerzen, Hymnen, Pane⸗"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="142,1703 194,1704 247,1704 299,1705 352,1705 405,1705 457,1705 510,1704 563,1704 615,1703 668,1703 721,1702 773,1702 826,1702 879,1702 931,1703 984,1704 1037,1705 1089,1707 1142,1709 1195,1712"
+                         HEIGHT="43"
+                         WIDTH="1053"
+                         VPOS="1680"
+                         HPOS="142">
+                  <String ID="string_r1l33"
+                          HEIGHT="43"
+                          WIDTH="1053"
+                          VPOS="1680"
+                          HPOS="142"
+                          CONTENT="gyrien ꝛc. — warum ſich ſolche Formen gebuͤhren — alle Verehrung der"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="137,1750 192,1750 248,1751 304,1751 359,1751 415,1751 471,1751 527,1751 582,1751 638,1751 694,1751 750,1751 805,1751 861,1752 917,1752 973,1753 1028,1754 1084,1755 1140,1757 1196,1759"
+                         HEIGHT="42"
+                         WIDTH="1059"
+                         VPOS="1728"
+                         HPOS="137">
+                  <String ID="string_r1l34"
+                          HEIGHT="42"
+                          WIDTH="1059"
+                          VPOS="1728"
+                          HPOS="137"
+                          CONTENT="Heiligen ſelbſt iſt eigentlich nur Form unſerer Huldigung gegen Gott."/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="135,1798 160,1798 185,1797 210,1797 235,1797 260,1797 285,1798 310,1798 335,1799 360,1800 385,1800 410,1801 435,1801 460,1801 485,1802 510,1802 535,1801 560,1801 585,1800 611,1799"
+                         HEIGHT="39"
+                         WIDTH="476"
+                         VPOS="1774"
+                         HPOS="135">
+                  <String ID="string_r1l35"
+                          HEIGHT="39"
+                          WIDTH="476"
+                          VPOS="1774"
+                          HPOS="135"
+                          CONTENT="22. Schluß des erſten Vortrags."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

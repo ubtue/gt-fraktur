@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:26.950+01:00</Created>
+        <LastChange>2021-05-11T12:55:14.554+02:00</LastChange>
+        <TranskribusMetadata docId="543223" pageId="22808921" pageNr="3" tsid="57730529" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=KMUVRQVFHTGGZNEVSBNXFUCY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LMPVOIQCGDCHCIZYQTCIMMRW" imageId="17784599"/>
+    </Metadata>
+    <Page imageFilename="harless1834_0003.tif" imageWidth="1418" imageHeight="2273">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327860144" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="159,743 159,2059 1233,2059 1233,743"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="450,803 475,804 501,805 527,805 553,806 579,806 605,806 631,806 657,806 683,806 708,806 734,806 760,806 786,806 812,807 838,808 864,809 890,810 916,812 916,752 890,750 864,749 838,748 812,747 786,746 760,746 734,746 708,746 683,746 657,746 631,746 605,746 579,746 553,746 527,745 501,745 475,744 450,743"/>
+                <Baseline points="450,783 475,784 501,785 527,785 553,786 579,786 605,786 631,786 657,786 683,786 708,786 734,786 760,786 786,786 812,787 838,788 864,789 890,790 916,792"/>
+                <TextEquiv>
+                    <Unicode>Vorbemerkung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="166,1001 218,1001 270,1002 323,1002 375,1003 428,1003 480,1003 532,1003 585,1003 637,1004 690,1004 742,1004 794,1004 847,1004 899,1004 952,1004 1004,1004 1056,1004 1109,1004 1161,1005 1214,1005 1214,953 1161,953 1109,952 1056,952 1004,952 952,952 899,952 847,952 794,952 742,952 690,952 637,952 585,951 532,951 480,951 428,951 375,951 323,950 270,950 218,949 166,949"/>
+                <Baseline points="166,984 218,984 270,985 323,985 375,986 428,986 480,986 532,986 585,986 637,987 690,987 742,987 794,987 847,987 899,987 952,987 1004,987 1056,987 1109,987 1161,988 1214,988"/>
+                <TextEquiv>
+                    <Unicode>Es war mir eine Zeitlang zweifelhaft, ob man dem ſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="159,1076 211,1076 264,1075 317,1075 370,1075 422,1075 475,1075 528,1075 581,1075 633,1075 686,1076 739,1076 792,1076 844,1076 897,1077 950,1077 1003,1077 1055,1077 1108,1077 1161,1077 1214,1076 1214,1024 1161,1025 1108,1025 1055,1025 1003,1025 950,1025 897,1025 844,1024 792,1024 739,1024 686,1024 633,1023 581,1023 528,1023 475,1023 422,1023 370,1023 317,1023 264,1023 211,1024 159,1024"/>
+                <Baseline points="159,1059 211,1059 264,1058 317,1058 370,1058 422,1058 475,1058 528,1058 581,1058 633,1058 686,1059 739,1059 792,1059 844,1059 897,1060 950,1060 1003,1060 1055,1060 1108,1060 1161,1060 1214,1059"/>
+                <TextEquiv>
+                    <Unicode>viel beſprochenen Strauß'ſchen Buche in beſondern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="168,1154 220,1154 272,1154 325,1153 377,1153 430,1152 482,1152 534,1151 587,1151 639,1151 692,1151 744,1151 796,1151 849,1151 901,1151 954,1151 1006,1152 1058,1152 1111,1153 1163,1154 1216,1155 1216,1101 1163,1100 1111,1099 1058,1098 1006,1098 954,1097 901,1097 849,1097 796,1097 744,1097 692,1097 639,1097 587,1097 534,1097 482,1098 430,1098 377,1099 325,1099 272,1100 220,1100 168,1100"/>
+                <Baseline points="168,1136 220,1136 272,1136 325,1135 377,1135 430,1134 482,1134 534,1133 587,1133 639,1133 692,1133 744,1133 796,1133 849,1133 901,1133 954,1133 1006,1134 1058,1134 1111,1135 1163,1136 1216,1137"/>
+                <TextEquiv>
+                    <Unicode>Schriften begegnen ſolle, welche, wie jede Streitſchrift,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="163,1230 215,1229 268,1229 320,1229 373,1228 425,1228 478,1228 530,1228 583,1228 635,1227 688,1227 741,1227 793,1227 846,1227 898,1227 951,1228 1003,1228 1056,1228 1108,1228 1161,1229 1214,1229 1214,1175 1161,1175 1108,1174 1056,1174 1003,1174 951,1174 898,1173 846,1173 793,1173 741,1173 688,1173 635,1173 583,1174 530,1174 478,1174 425,1174 373,1174 320,1175 268,1175 215,1175 163,1176"/>
+                <Baseline points="163,1212 215,1211 268,1211 320,1211 373,1210 425,1210 478,1210 530,1210 583,1210 635,1209 688,1209 741,1209 793,1209 846,1209 898,1209 951,1210 1003,1210 1056,1210 1108,1210 1161,1211 1214,1211"/>
+                <TextEquiv>
+                    <Unicode>einen Gegenſtand vor ein größeres Publicum bringen, den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="165,1307 217,1306 270,1305 323,1305 376,1304 428,1303 481,1303 534,1302 587,1302 639,1302 692,1302 745,1302 798,1302 850,1302 903,1302 956,1303 1009,1303 1061,1304 1114,1304 1167,1305 1220,1306 1220,1252 1167,1251 1114,1250 1061,1250 1009,1249 956,1249 903,1248 850,1248 798,1248 745,1248 692,1248 639,1248 587,1248 534,1248 481,1249 428,1249 376,1250 323,1251 270,1251 217,1252 165,1253"/>
+                <Baseline points="165,1289 217,1288 270,1287 323,1287 376,1286 428,1285 481,1285 534,1284 587,1284 639,1284 692,1284 745,1284 798,1284 850,1284 903,1284 956,1285 1009,1285 1061,1286 1114,1286 1167,1287 1220,1288"/>
+                <TextEquiv>
+                    <Unicode>Herr Strauß nach ſeiner Vorrede S. VIII. ſelbst nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="160,1382 212,1381 265,1379 318,1378 370,1377 423,1377 476,1376 528,1376 581,1375 634,1375 687,1375 739,1375 792,1376 845,1376 897,1376 950,1377 1003,1378 1055,1378 1108,1379 1161,1380 1214,1381 1214,1329 1161,1328 1108,1327 1055,1326 1003,1326 950,1325 897,1324 845,1324 792,1324 739,1323 687,1323 634,1323 581,1323 528,1324 476,1324 423,1325 370,1325 318,1326 265,1327 212,1329 160,1330"/>
+                <Baseline points="160,1365 212,1364 265,1362 318,1361 370,1360 423,1360 476,1359 528,1359 581,1358 634,1358 687,1358 739,1358 792,1359 845,1359 897,1359 950,1360 1003,1361 1055,1361 1108,1362 1161,1363 1214,1364"/>
+                <TextEquiv>
+                    <Unicode>für den engern Kreis der gelehrten Theologen geeignet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="167,1458 219,1456 271,1455 324,1453 376,1452 428,1452 481,1451 533,1451 585,1450 638,1450 690,1450 742,1450 795,1451 847,1451 899,1451 952,1451 1004,1452 1056,1452 1109,1452 1161,1453 1214,1453 1214,1401 1161,1401 1109,1400 1056,1400 1004,1400 952,1399 899,1399 847,1399 795,1399 742,1398 690,1398 638,1398 585,1398 533,1399 481,1399 428,1400 376,1400 324,1401 271,1403 219,1404 167,1406"/>
+                <Baseline points="167,1441 219,1439 271,1438 324,1436 376,1435 428,1435 481,1434 533,1434 585,1433 638,1433 690,1433 742,1433 795,1434 847,1434 899,1434 952,1434 1004,1435 1056,1435 1109,1435 1161,1436 1214,1436"/>
+                <TextEquiv>
+                    <Unicode>glaubt, und welcher daher eigentlich nur in den Organen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="169,1529 221,1529 273,1528 325,1527 377,1527 429,1527 481,1526 533,1526 585,1526 637,1526 689,1526 741,1526 793,1526 845,1526 897,1527 949,1527 1001,1527 1053,1528 1105,1528 1157,1529 1210,1529 1210,1477 1157,1477 1105,1476 1053,1476 1001,1475 949,1475 897,1475 845,1474 793,1474 741,1474 689,1474 637,1474 585,1474 533,1474 481,1474 429,1475 377,1475 325,1475 273,1476 221,1477 169,1477"/>
+                <Baseline points="169,1512 221,1512 273,1511 325,1510 377,1510 429,1510 481,1509 533,1509 585,1509 637,1509 689,1509 741,1509 793,1509 845,1509 897,1510 949,1510 1001,1510 1053,1511 1105,1511 1157,1512 1210,1512"/>
+                <TextEquiv>
+                    <Unicode>der gelehrten Theologie, den theologiſchen Zeitſchriften,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="163,1604 215,1603 268,1603 320,1602 373,1602 426,1602 478,1602 531,1602 583,1601 636,1601 689,1602 741,1602 794,1602 846,1602 899,1602 952,1602 1004,1603 1057,1603 1109,1603 1162,1604 1215,1604 1215,1550 1162,1550 1109,1549 1057,1549 1004,1549 952,1548 899,1548 846,1548 794,1548 741,1548 689,1548 636,1547 583,1547 531,1548 478,1548 426,1548 373,1548 320,1548 268,1549 215,1549 163,1550"/>
+                <Baseline points="163,1586 215,1585 268,1585 320,1584 373,1584 426,1584 478,1584 531,1584 583,1583 636,1583 689,1584 741,1584 794,1584 846,1584 899,1584 952,1584 1004,1585 1057,1585 1109,1585 1162,1586 1215,1586"/>
+                <TextEquiv>
+                    <Unicode>beſprochen werden ſollte. Allein ich ward eines Beſſern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="165,1680 217,1679 270,1679 322,1678 375,1677 428,1677 480,1677 533,1676 586,1676 638,1676 691,1676 744,1676 796,1677 849,1677 902,1677 954,1678 1007,1678 1060,1678 1112,1679 1165,1679 1218,1680 1218,1626 1165,1625 1112,1625 1060,1624 1007,1624 954,1624 902,1623 849,1623 796,1623 744,1622 691,1622 638,1622 586,1622 533,1622 480,1623 428,1623 375,1623 322,1624 270,1625 217,1625 165,1626"/>
+                <Baseline points="165,1662 217,1661 270,1661 322,1660 375,1659 428,1659 480,1659 533,1658 586,1658 638,1658 691,1658 744,1658 796,1659 849,1659 902,1659 954,1660 1007,1660 1060,1660 1112,1661 1165,1661 1218,1662"/>
+                <TextEquiv>
+                    <Unicode>belehrt. Man konnte freilich an ſich ſchon vermuthen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="165,1757 220,1756 276,1755 332,1754 387,1753 443,1752 499,1752 555,1751 610,1751 666,1751 722,1751 778,1752 833,1752 889,1752 945,1753 1001,1753 1056,1753 1112,1754 1168,1754 1224,1754 1224,1699 1168,1699 1112,1699 1056,1698 1001,1698 945,1698 889,1697 833,1697 778,1697 722,1696 666,1696 610,1696 555,1696 499,1697 443,1697 387,1698 332,1699 276,1700 220,1701 165,1702"/>
+                <Baseline points="165,1739 220,1738 276,1737 332,1736 387,1735 443,1734 499,1734 555,1733 610,1733 666,1733 722,1733 778,1734 833,1734 889,1734 945,1735 1001,1735 1056,1735 1112,1736 1168,1736 1224,1736"/>
+                <TextEquiv>
+                    <Unicode>daß eine Schrift, welche nach ihrem eigenen Geſtändniß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="170,1832 222,1831 275,1830 328,1829 380,1829 433,1828 486,1828 538,1828 591,1827 644,1827 697,1827 749,1827 802,1827 855,1828 907,1828 960,1828 1013,1828 1065,1829 1118,1829 1171,1829 1224,1830 1224,1776 1171,1775 1118,1775 1065,1775 1013,1774 960,1774 907,1774 855,1774 802,1773 749,1773 697,1773 644,1773 591,1773 538,1774 486,1774 433,1774 380,1775 328,1775 275,1776 222,1777 170,1778"/>
+                <Baseline points="170,1814 222,1813 275,1812 328,1811 380,1811 433,1810 486,1810 538,1810 591,1809 644,1809 697,1809 749,1809 802,1809 855,1810 907,1810 960,1810 1013,1810 1065,1811 1118,1811 1171,1811 1224,1812"/>
+                <TextEquiv>
+                    <Unicode>weniger von gelehrten theologiſchen Wahrnehmungen, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="170,1909 222,1907 275,1905 327,1904 380,1903 432,1903 485,1902 537,1902 590,1902 642,1902 695,1902 747,1902 800,1903 852,1903 905,1903 957,1904 1010,1904 1062,1904 1115,1905 1167,1905 1220,1905 1220,1851 1167,1851 1115,1851 1062,1850 1010,1850 957,1850 905,1849 852,1849 800,1849 747,1848 695,1848 642,1848 590,1848 537,1848 485,1848 432,1849 380,1849 327,1850 275,1851 222,1853 170,1855"/>
+                <Baseline points="170,1891 222,1889 275,1887 327,1886 380,1885 432,1885 485,1884 537,1884 590,1884 642,1884 695,1884 747,1884 800,1885 852,1885 905,1885 957,1886 1010,1886 1062,1886 1115,1887 1167,1887 1220,1887"/>
+                <TextEquiv>
+                    <Unicode>von den Anſichten der neueren Bildung aus, die evange⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="170,1982 225,1981 281,1981 337,1980 392,1980 448,1980 504,1980 560,1979 615,1979 671,1979 727,1979 783,1980 838,1980 894,1980 950,1980 1006,1980 1061,1980 1117,1980 1173,1980 1229,1980 1229,1926 1173,1926 1117,1926 1061,1926 1006,1926 950,1926 894,1926 838,1926 783,1926 727,1925 671,1925 615,1925 560,1925 504,1926 448,1926 392,1926 337,1926 281,1927 225,1927 170,1928"/>
+                <Baseline points="170,1964 225,1963 281,1963 337,1962 392,1962 448,1962 504,1962 560,1961 615,1961 671,1961 727,1961 783,1962 838,1962 894,1962 950,1962 1006,1962 1061,1962 1117,1962 1173,1962 1229,1962"/>
+                <TextEquiv>
+                    <Unicode>liſche Geſchichte beſpricht, in dem großen Kreiſe derer An⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="172,2059 225,2059 278,2058 331,2057 384,2056 437,2056 490,2055 543,2055 596,2055 649,2054 702,2054 755,2054 808,2054 861,2054 914,2054 967,2054 1020,2054 1073,2054 1126,2055 1179,2055 1233,2055 1233,2000 1179,2000 1126,2000 1073,1999 1020,1999 967,1999 914,1999 861,1999 808,1999 755,1999 702,1999 649,1999 596,2000 543,2000 490,2000 437,2001 384,2001 331,2002 278,2003 225,2004 172,2004"/>
+                <Baseline points="172,2041 225,2041 278,2040 331,2039 384,2038 437,2038 490,2037 543,2037 596,2037 649,2036 702,2036 755,2036 808,2036 861,2036 914,2036 967,2036 1020,2036 1073,2036 1126,2037 1179,2037 1233,2037"/>
+                <TextEquiv>
+                    <Unicode>klang finden werde, die auf den Namen der Gebildeten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vorbemerkung.&#13;
+Es war mir eine Zeitlang zweifelhaft, ob man dem ſo&#13;
+viel beſprochenen Strauß'ſchen Buche in beſondern&#13;
+Schriften begegnen ſolle, welche, wie jede Streitſchrift,&#13;
+einen Gegenſtand vor ein größeres Publicum bringen, den&#13;
+Herr Strauß nach ſeiner Vorrede S. VIII. ſelbst nur&#13;
+für den engern Kreis der gelehrten Theologen geeignet&#13;
+glaubt, und welcher daher eigentlich nur in den Organen&#13;
+der gelehrten Theologie, den theologiſchen Zeitſchriften,&#13;
+beſprochen werden ſollte. Allein ich ward eines Beſſern&#13;
+belehrt. Man konnte freilich an ſich ſchon vermuthen,&#13;
+daß eine Schrift, welche nach ihrem eigenen Geſtändniß&#13;
+weniger von gelehrten theologiſchen Wahrnehmungen, als&#13;
+von den Anſichten der neueren Bildung aus, die evange⸗&#13;
+liſche Geſchichte beſpricht, in dem großen Kreiſe derer An⸗&#13;
+klang finden werde, die auf den Namen der Gebildeten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

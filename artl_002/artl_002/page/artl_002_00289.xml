@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-23T11:54:16.095+01:00</Created>
+        <LastChange>2021-05-13T09:47:36.327+02:00</LastChange>
+        <TranskribusMetadata docId="543221" pageId="22808932" pageNr="18" tsid="57822075" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=JFOJNEBOZVJFRAEHTDWRQSQQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MPMTILWTUNNCKOMPZGSYHEIT" imageId="17784610"/>
+    </Metadata>
+    <Page imageFilename="artl_002_00289.tif" imageWidth="1382" imageHeight="2449">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328016613" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="77,61 77,2269 1260,2269 1260,61"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="603,94 632,92 662,91 692,91 722,93 722,63 692,61 662,61 632,62 603,64"/>
+                <Baseline points="603,84 632,82 662,81 692,81 722,83"/>
+                <TextEquiv>
+                    <Unicode>Inhalt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1172,103 1199,104 1227,105 1255,106 1255,76 1227,75 1199,74 1172,73"/>
+                <Baseline points="1172,93 1199,94 1227,95 1255,96"/>
+                <TextEquiv>
+                    <Unicode>287</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="325,176 358,175 392,175 426,174 459,174 493,174 527,174 560,175 594,175 628,176 662,176 695,177 729,177 763,178 796,178 830,179 864,179 897,179 931,179 965,179 999,178 999,148 965,149 931,149 897,149 864,149 830,149 796,148 763,148 729,147 695,147 662,146 628,146 594,145 560,145 527,144 493,144 459,144 426,144 392,145 358,145 325,146"/>
+                <Baseline points="325,166 358,165 392,165 426,164 459,164 493,164 527,164 560,165 594,165 628,166 662,166 695,167 729,167 763,168 796,168 830,169 864,169 897,169 931,169 965,169 999,168"/>
+                <TextEquiv>
+                    <Unicode>Praktiſche Theologie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1187,218 1219,218 1251,218 1251,188 1219,188 1187,188"/>
+                <Baseline points="1187,208 1219,208 1251,208"/>
+                <TextEquiv>
+                    <Unicode>Seite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="257,244 297,245 337,245 377,245 417,246 457,246 497,246 537,246 577,247 617,247 657,247 697,248 737,248 777,248 817,248 857,248 897,249 937,249 977,249 1017,249 1058,249 1058,219 1017,219 977,219 937,219 897,219 857,218 817,218 777,218 737,218 697,218 657,217 617,217 577,217 537,216 497,216 457,216 417,216 377,215 337,215 297,215 257,214"/>
+                <Baseline points="257,234 297,235 337,235 377,235 417,236 457,236 497,236 537,236 577,237 617,237 657,237 697,238 737,238 777,238 817,238 857,238 897,239 937,239 977,239 1017,239 1058,239"/>
+                <TextEquiv>
+                    <Unicode>Ueberſicht des evangeliſchen Kirchenrechts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749000097_495" custom="readingOrder {index:5;}">
+                <Coords points="85,237 1234,252 1258,255 1258,285 1110,289 546,284 443,283 341,281 238,277 187,275 85,267"/>
+                <Baseline points="85,257 136,261 187,265 238,267 290,269 341,271 392,272 443,273 495,273 546,274 597,274 648,273 700,273 751,273 802,273 853,273 905,274 956,274 1007,275 1058,277 1165,278 1234,272 1258,275"/>
+                <TextEquiv>
+                    <Unicode>21. Juſti, Bemerk. über die Reform der proteſt. Kirchenverfaſſung . 4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="87,301 119,305 152,309 184,312 217,314 250,316 282,317 315,318 347,318 380,318 413,318 445,318 478,318 510,317 543,317 576,317 608,317 641,317 673,317 706,319 739,320 739,290 706,289 673,287 641,287 608,287 576,287 543,287 510,287 478,288 445,288 413,288 380,288 347,288 315,288 282,287 250,286 217,284 184,282 152,279 119,275 87,271"/>
+                <Baseline points="87,291 119,295 152,299 184,302 217,304 250,306 282,307 315,308 347,308 380,308 413,308 445,308 478,308 510,307 543,307 576,307 608,307 641,307 673,307 706,309 1255,308"/>
+                <TextEquiv>
+                    <Unicode>22. Kempf, Bedürfniſſe der evang. Kirche . . . . . . . . . 4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618748885841_436" custom="readingOrder {index:7;}">
+                <Coords points="89,307 756,323 881,326 1049,332 1049,362 1001,362 380,355 297,353 255,351 214,349 172,346 89,337"/>
+                <Baseline points="89,327 130,331 172,336 214,339 255,341 297,343 339,344 380,345 422,345 464,345 506,345 547,344 589,344 631,343 672,343 714,343 756,343 797,344 839,345 881,346 923,349 1001,352 1246,349"/>
+                <TextEquiv>
+                    <Unicode>23. Bröſe, Plan zur Verbeſſerung der proteſt. Kirche . . . . . 7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="87,373 129,378 171,382 213,385 255,387 297,389 339,390 381,391 423,391 465,391 508,390 550,390 592,389 634,389 676,388 718,388 760,389 802,389 844,390 886,392 929,395 929,365 886,362 844,360 802,359 760,359 718,358 676,358 634,359 592,359 550,360 508,360 465,361 423,361 381,361 339,360 297,359 255,357 213,355 171,352 129,348 87,343"/>
+                <Baseline points="87,363 129,368 171,372 213,375 255,377 297,379 339,380 381,381 423,381 465,381 508,380 550,380 592,379 634,379 676,378 718,378 760,379 802,379 844,380 1128,387 1254,377"/>
+                <TextEquiv>
+                    <Unicode>24. Köhler, Die Kirche und die Stände in Hannover . . . . . 8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749012349_502" custom="readingOrder {index:9;}">
+                <Coords points="87,374 1236,395 1260,398 1260,428 370,425 318,424 292,423 119,414 87,404"/>
+                <Baseline points="87,394 119,404 292,413 318,414 344,414 370,415 396,415 422,415 448,415 474,415 500,415 526,415 552,415 578,415 604,415 630,415 656,415 682,415 708,415 734,415 760,415 786,415 1167,422 1236,415 1260,418"/>
+                <TextEquiv>
+                    <Unicode>25. - Wünſche der Landeskirche zu Nutze . . . . . . . . 8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749020595_506" custom="readingOrder {index:10;}">
+                <Coords points="85,412 1248,429 1248,459 1073,469 973,469 355,462 316,461 278,460 239,458 200,455 162,452 123,448 85,442"/>
+                <Baseline points="85,432 123,438 162,442 200,445 239,448 278,450 316,451 355,452 394,452 432,452 471,452 510,452 548,451 587,450 626,450 664,450 703,449 742,450 780,450 819,451 858,453 873,454 898,456 923,457 948,458 973,459 998,459 1023,459 1048,459 1166,458 1242,458 1262,459"/>
+                <TextEquiv>
+                    <Unicode>26. Ueber die Verwaltung der Kirche in Hannover . . . . . . . 9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749027597_511" custom="readingOrder {index:11;}">
+                <Coords points="85,449 1233,468 1258,471 1258,501 310,498 235,494 160,489 122,484 85,479"/>
+                <Baseline points="85,469 122,474 160,479 197,481 235,484 273,486 310,488 348,488 385,488 423,488 461,488 498,487 536,487 573,486 611,486 649,485 686,485 724,485 761,486 1128,493 1166,494 1233,488 1258,491"/>
+                <TextEquiv>
+                    <Unicode>27. Hölty, Nothwendigkeit zeitgemäßer Reformen . . . . . . . 9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749030445_515" custom="readingOrder {index:12;}">
+                <Coords points="81,488 1053,506 1252,510 1252,540 1161,541 459,534 297,531 243,529 189,526 81,518"/>
+                <Baseline points="81,508 135,512 189,516 243,519 297,521 351,522 405,523 459,524 513,524 567,524 621,524 675,524 729,523 783,523 837,523 891,523 945,524 999,525 1053,526 1107,528 1161,531 1218,530 1252,530"/>
+                <TextEquiv>
+                    <Unicode>28. Schläger, Was fordert d. Kirchen⸗ u. Schulweſen in Hannover. 21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749034790_519" custom="readingOrder {index:13;}">
+                <Coords points="91,522 1224,543 1254,545 1254,575 849,573 356,570 242,567 166,561 128,557 91,552"/>
+                <Baseline points="91,542 128,547 166,551 204,554 242,557 280,558 318,559 356,560 394,560 432,560 470,560 507,560 545,559 583,559 621,558 659,558 697,558 735,559 773,559 811,561 1163,568 1224,563 1254,565"/>
+                <TextEquiv>
+                    <Unicode>29. Kritik über d. Entw. z. Kirchenord. f. Baiern . . . . . . . 22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749037460_523" custom="readingOrder {index:14;}">
+                <Coords points="89,556 1254,580 1254,610 1220,610 319,606 253,604 220,602 187,599 121,591 89,586"/>
+                <Baseline points="89,576 121,581 154,585 187,589 220,592 253,594 286,595 319,596 352,596 385,596 418,596 450,595 483,595 516,594 549,593 582,593 615,593 648,593 681,594 1134,603 1167,605 1220,600 1254,600"/>
+                <TextEquiv>
+                    <Unicode>30. Rettig, Die freie proteſtantiſche Kirche . . . . . . . . . . 58</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749039884_527" custom="readingOrder {index:15;}">
+                <Coords points="83,595 1250,614 1250,644 1222,646 1117,651 393,642 289,639 134,630 83,625"/>
+                <Baseline points="83,615 134,620 186,623 238,626 289,629 341,630 393,632 444,632 496,632 548,632 600,632 651,632 703,632 755,632 806,632 858,632 910,633 961,634 1013,636 1065,638 1173,641 1222,636 1250,634"/>
+                <TextEquiv>
+                    <Unicode>31. Bretſcheider, Votum über eine geforderte Verfaſſung . . . . 86</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749042519_531" custom="readingOrder {index:16;}">
+                <Coords points="85,627 1221,652 1251,654 1251,684 332,678 270,676 177,670 115,662 85,657"/>
+                <Baseline points="85,647 115,652 146,656 177,660 208,662 239,664 270,666 301,667 332,668 363,668 394,668 424,667 455,667 486,667 517,666 548,666 579,666 610,666 641,667 672,668 1168,679 1221,672 1251,674"/>
+                <TextEquiv>
+                    <Unicode>32. Weichert, Bedenken ohne Bedenken . . . . . . . . . . 88</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749045069_535" custom="readingOrder {index:17;}">
+                <Coords points="85,667 1219,688 1259,690 1259,720 1115,720 497,715 394,714 291,711 239,708 136,702 85,697"/>
+                <Baseline points="85,687 136,692 188,695 239,698 291,701 342,702 394,704 445,704 497,705 548,705 600,705 651,705 703,704 754,704 806,704 857,704 909,704 960,705 1012,706 1063,708 1169,709 1219,708 1259,710"/>
+                <TextEquiv>
+                    <Unicode>33. Bauer, Bedenken über verſch. Wünſche der Kirche in Sachſen . 89</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749047873_539" custom="readingOrder {index:18;}">
+                <Coords points="85,702 1219,726 1249,728 1249,758 972,756 383,750 340,749 298,748 255,746 170,741 127,737 85,732"/>
+                <Baseline points="85,722 127,727 170,731 212,733 255,736 298,738 340,739 383,740 425,740 468,740 511,740 553,740 596,740 638,740 681,739 724,739 766,740 809,740 851,741 894,742 937,744 962,744 1164,746 1219,746 1249,748"/>
+                <TextEquiv>
+                    <Unicode>34. Müller, Verhältniß d. geiſtl. Standes zum Staate . . . . . 91</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749050371_543" custom="readingOrder {index:19;}">
+                <Coords points="147,748 1258,760 1258,790 1112,796 420,786 283,783 238,782 192,780 147,778"/>
+                <Baseline points="147,768 192,770 238,772 283,773 329,774 375,775 420,776 466,776 512,776 557,776 603,776 649,776 694,776 740,776 786,776 831,777 877,777 923,778 968,778 1014,780 1060,781 1112,786 1158,784 1202,780 1230,780 1258,780"/>
+                <TextEquiv>
+                    <Unicode>Paulus, Votum gegen Einführen von Kirchengebetsvorſch. . . 123</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749052734_547" custom="readingOrder {index:20;}">
+                <Coords points="81,768 1256,798 1256,828 1204,828 458,823 351,822 315,821 244,819 172,815 137,813 117,808 81,798"/>
+                <Baseline points="78,787 114,797 134,802 169,804 205,806 241,808 277,809 312,810 348,811 384,811 420,811 455,812 491,812 527,812 563,812 598,812 634,812 670,812 706,812 741,812 777,813 813,813 849,814 863,812 1167,823 1204,818 1230,818 1256,818"/>
+                <TextEquiv>
+                    <Unicode>35. Jahrbücher, Frankfurter. 1832. (ll. Bd. Nr. 1.) . . . . . 132</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749054833_551" custom="readingOrder {index:21;}">
+                <Coords points="81,804 1254,833 1254,863 1073,866 1043,866 318,857 183,851 139,849 81,834"/>
+                <Baseline points="81,824 111,830 139,839 183,841 228,843 273,845 318,847 362,847 407,848 452,848 497,848 541,848 586,848 631,848 676,848 720,848 765,848 810,848 855,849 899,850 944,851 989,852 1034,854 1043,856 1168,859 1212,853 1254,853"/>
+                <TextEquiv>
+                    <Unicode>36. Bedenken bei einem Aufſatz in der evang. Kirchen⸗Zeitung . . . 134</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749059557_557" custom="readingOrder {index:22;}">
+                <Coords points="83,844 1246,869 1246,899 988,905 405,895 324,893 284,892 244,890 203,887 163,884 123,880 83,874"/>
+                <Baseline points="83,864 123,870 163,874 203,877 244,880 284,882 324,883 365,884 405,885 445,885 486,884 526,884 566,884 606,883 647,883 687,883 727,883 768,883 808,884 848,886 889,888 914,889 951,891 1171,892 1206,889 1246,889"/>
+                <TextEquiv>
+                    <Unicode>37. Le Semeur. journ. relig. Du budget des cultes . . . . . . 135</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749062567_561" custom="readingOrder {index:23;}">
+                <Coords points="79,877 1252,904 1252,934 817,935 374,931 263,928 189,922 152,918 115,913 79,907"/>
+                <Baseline points="79,897 115,903 152,908 189,912 226,915 263,918 300,919 337,920 374,921 411,921 448,921 484,921 521,920 558,920 595,920 632,920 669,920 706,920 743,921 780,923 817,925 828,922 1171,932 1208,924 1252,924"/>
+                <TextEquiv>
+                    <Unicode>38. Wendroth, Die Leiden der proteſt. Kirche . . . . . . . . 136</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749064995_565" custom="readingOrder {index:24;}">
+                <Coords points="79,918 1256,942 1256,972 1071,973 475,968 376,966 327,965 277,963 227,960 178,957 128,953 79,948"/>
+                <Baseline points="79,938 128,943 178,947 227,950 277,953 327,955 376,956 426,957 475,958 525,958 575,958 624,958 674,958 723,958 773,958 823,958 872,958 922,959 971,959 1021,961 1171,968 1204,962 1230,962 1256,962"/>
+                <TextEquiv>
+                    <Unicode>39. Trennung von Kirche und Staat. Evang. Kirchen⸗Zeitung. . . 138</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l55" custom="readingOrder {index:25;}">
+                <Coords points="241,1022 282,1021 324,1021 366,1021 408,1021 450,1021 492,1021 533,1021 575,1022 617,1022 659,1022 701,1023 743,1023 785,1023 826,1024 868,1024 910,1025 952,1025 994,1025 1036,1025 1078,1025 1078,995 1036,995 994,995 952,995 910,995 868,994 826,994 785,993 743,993 701,993 659,992 617,992 575,992 533,991 492,991 450,991 408,991 366,991 324,991 282,991 241,992"/>
+                <Baseline points="241,1012 282,1011 324,1011 366,1011 408,1011 450,1011 492,1011 533,1011 575,1012 617,1012 659,1012 701,1013 743,1013 785,1013 826,1014 868,1014 910,1015 952,1015 994,1015 1036,1015 1078,1015"/>
+                <TextEquiv>
+                    <Unicode>Kirchliche Verfaſſung verſchiedener Länder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749069871_569" custom="readingOrder {index:26;}">
+                <Coords points="85,1027 947,1042 1001,1043 1246,1048 1246,1078 1163,1080 408,1073 354,1072 246,1068 138,1062 85,1057"/>
+                <Baseline points="85,1047 138,1052 192,1055 246,1058 300,1060 354,1062 408,1063 462,1063 516,1063 570,1063 624,1063 677,1062 731,1062 785,1062 839,1062 893,1062 947,1062 1001,1063 1055,1065 1109,1067 1163,1070 1204,1068 1246,1068"/>
+                <TextEquiv>
+                    <Unicode>1. Baden. Ueberſ. der Gegenſtände, welche der Generalſ. empf. ſind. 151</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749073101_573" custom="readingOrder {index:27;}">
+                <Coords points="81,1062 1202,1083 1246,1085 1246,1115 1166,1117 387,1109 336,1108 234,1104 132,1097 81,1092"/>
+                <Baseline points="81,1082 132,1087 183,1090 234,1094 285,1096 336,1098 387,1099 438,1099 489,1099 540,1099 591,1099 642,1099 693,1098 744,1098 795,1098 846,1098 897,1098 948,1099 999,1101 1050,1103 1101,1106 1111,1106 1138,1106 1166,1107 1202,1103 1246,1105"/>
+                <TextEquiv>
+                    <Unicode>2. Baiern. Kritik des Entw. zur Kirchenordn. f. d. ev.⸗prot. K. . 172</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749078898_577" custom="readingOrder {index:28;}">
+                <Coords points="141,1108 1254,1118 1254,1148 1227,1150 1118,1154 1096,1154 367,1145 231,1142 141,1138"/>
+                <Baseline points="141,1128 186,1130 231,1132 277,1133 322,1134 367,1135 413,1135 458,1136 503,1136 549,1136 594,1135 639,1135 685,1135 730,1135 775,1135 821,1135 866,1135 911,1135 957,1136 1002,1137 1048,1138 1096,1144 1118,1144 1144,1142 1166,1142 1200,1140 1227,1140 1254,1138"/>
+                <TextEquiv>
+                    <Unicode>Maurer, Beleucht. d. allg. Kirchen und Gottesdienſtordn. . . 172</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749082146_581" custom="readingOrder {index:29;}">
+                <Coords points="145,1144 870,1151 1247,1156 1247,1186 1072,1189 401,1181 315,1179 187,1176 145,1174"/>
+                <Baseline points="145,1164 187,1166 230,1167 273,1168 315,1169 358,1170 401,1171 443,1171 486,1171 529,1171 572,1171 614,1171 657,1171 700,1170 742,1170 785,1171 828,1171 870,1171 913,1172 956,1173 999,1174 1012,1175 1042,1177 1072,1179 1201,1176 1247,1176"/>
+                <TextEquiv>
+                    <Unicode>Lehmus, Bemerk. üb. Kirchen⸗ u. Gottesdienſtordnung . . . . 200</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749085707_585" custom="readingOrder {index:30;}">
+                <Coords points="143,1180 864,1188 954,1189 1202,1193 1248,1195 1248,1225 503,1218 323,1216 233,1214 143,1210"/>
+                <Baseline points="143,1200 188,1202 233,1204 278,1205 323,1206 368,1206 413,1207 458,1207 503,1208 548,1208 594,1208 639,1208 684,1208 729,1208 774,1208 819,1208 864,1208 909,1209 954,1209 999,1210 1045,1211 1202,1213 1248,1215"/>
+                <TextEquiv>
+                    <Unicode>Fuchs, Ueberſicht des Zuſtandes der proteſt. K. in Baiern . . 201</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749088109_589" custom="readingOrder {index:31;}">
+                <Coords points="77,1203 1244,1230 1244,1260 1101,1261 486,1256 333,1253 281,1251 179,1244 77,1233"/>
+                <Baseline points="77,1223 128,1228 179,1234 230,1237 281,1241 333,1243 384,1244 435,1245 486,1246 537,1246 589,1246 640,1245 691,1245 742,1244 793,1244 845,1244 896,1244 947,1245 998,1246 1049,1248 1101,1251 1200,1250 1244,1250"/>
+                <TextEquiv>
+                    <Unicode>3. Frankfurt. Antrag, die Wahl der ev.⸗luth. Pfarrer betreffend . 226</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749090897_593" custom="readingOrder {index:32;}">
+                <Coords points="121,1250 1250,1266 1250,1296 1149,1298 378,1290 326,1289 223,1285 172,1283 121,1280"/>
+                <Baseline points="75,1256 172,1273 223,1275 275,1277 326,1279 378,1280 429,1280 480,1281 532,1281 583,1281 635,1281 686,1281 737,1281 789,1281 840,1282 892,1282 943,1282 994,1283 1046,1284 1097,1286 1149,1288 1200,1286 1225,1286 1250,1286"/>
+                <TextEquiv>
+                    <Unicode>4. Hannover. Köhler, Die Kirche u. d. Stände im K. Hannover. 242</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749099694_598" custom="readingOrder {index:33;}">
+                <Coords points="135,1286 1240,1304 1240,1334 1196,1334 411,1326 342,1325 307,1324 238,1322 169,1318 135,1316"/>
+                <Baseline points="135,1306 169,1308 204,1310 238,1312 273,1313 307,1314 342,1315 376,1315 411,1316 445,1316 480,1316 515,1316 549,1315 584,1315 618,1315 653,1315 687,1316 722,1316 756,1317 791,1318 826,1319 1196,1324 1240,1324"/>
+                <TextEquiv>
+                    <Unicode>Köhler, Wünſche der Landeskirche zu Nutze . . . . . . . 243</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749107669_603" custom="readingOrder {index:34;}">
+                <Coords points="137,1322 1241,1338 1241,1368 1122,1369 551,1363 459,1362 275,1358 137,1352"/>
+                <Baseline points="137,1342 183,1344 229,1346 275,1348 321,1349 367,1350 413,1351 459,1352 505,1352 551,1353 597,1353 643,1353 689,1353 735,1353 781,1353 827,1353 873,1354 919,1354 965,1355 1011,1355 1057,1356 1074,1357 1122,1359 1193,1358 1241,1358"/>
+                <TextEquiv>
+                    <Unicode>Müller, Ueber das Verhältn. d. geiſtl. Standes z. Staate . . 245</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749115513_609" custom="readingOrder {index:35;}">
+                <Coords points="145,1357 1240,1374 1240,1404 1202,1404 1016,1404 1006,1404 397,1398 271,1395 187,1391 145,1387"/>
+                <Baseline points="145,1377 187,1381 229,1383 271,1385 313,1386 355,1387 397,1388 439,1388 481,1388 523,1388 565,1388 607,1388 649,1388 691,1387 733,1387 775,1387 817,1388 859,1389 901,1390 943,1391 986,1393 1006,1394 1016,1394 1202,1394 1240,1394"/>
+                <TextEquiv>
+                    <Unicode>Schläger, Was fordert das Kirchen⸗ und Schulweſen . . . . 246</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749118205_613" custom="readingOrder {index:36;}">
+                <Coords points="147,1393 1220,1408 1246,1409 1246,1439 1194,1439 458,1434 380,1433 263,1430 185,1426 147,1423"/>
+                <Baseline points="147,1413 185,1416 224,1418 263,1420 302,1421 341,1422 380,1423 419,1423 458,1424 497,1424 536,1424 574,1424 613,1424 652,1424 691,1424 730,1424 769,1424 808,1425 847,1425 886,1426 925,1427 1194,1429 1220,1428 1246,1429"/>
+                <TextEquiv>
+                    <Unicode>Erwartungen der evang.⸗proteſt. Chriſtengemeinden . . . . . 246</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749174067_617" custom="readingOrder {index:37;}">
+                <Coords points="81,1417 1221,1443 1247,1448 1247,1478 532,1472 432,1471 382,1470 332,1468 281,1465 181,1459 81,1447"/>
+                <Baseline points="81,1437 131,1443 181,1449 231,1452 281,1455 332,1458 382,1460 432,1461 482,1461 532,1462 583,1461 633,1461 683,1461 733,1460 783,1460 834,1460 884,1460 934,1460 984,1461 1034,1463 1085,1465 1195,1464 1221,1463 1247,1468"/>
+                <TextEquiv>
+                    <Unicode>5. Großh. Heſſen. Zimmerman, Verf. der K. u. Volksſchule . 275</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749177157_621" custom="readingOrder {index:38;}">
+                <Coords points="141,1464 1216,1479 1243,1482 1243,1512 1082,1511 470,1506 282,1502 235,1500 141,1494"/>
+                <Baseline points="141,1484 188,1487 235,1490 282,1492 329,1493 376,1494 423,1495 470,1496 517,1496 564,1496 611,1496 658,1496 705,1496 752,1496 799,1496 846,1497 893,1497 940,1497 987,1498 1034,1499 1082,1501 1189,1500 1216,1499 1243,1502"/>
+                <TextEquiv>
+                    <Unicode>Auguſti, Bemerk. über die neue Organiſation der evang. K. . 277</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749179850_625" custom="readingOrder {index:39;}">
+                <Coords points="81,1487 1235,1516 1235,1546 1101,1547 489,1543 387,1541 285,1537 183,1529 132,1524 81,1517"/>
+                <Baseline points="81,1507 132,1514 183,1519 234,1523 285,1527 336,1529 387,1531 438,1532 489,1533 540,1533 591,1533 642,1533 693,1533 744,1532 795,1532 846,1532 897,1532 948,1532 999,1533 1050,1535 1101,1537 1189,1536 1235,1536"/>
+                <TextEquiv>
+                    <Unicode>Couſin’s Bericht über den Zuſtand des Unterrichts in Deutſchland . 107</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749182613_629" custom="readingOrder {index:40;}">
+                <Coords points="84,1517 1241,1551 1241,1581 1185,1583 611,1580 347,1578 294,1576 268,1575 215,1572 163,1565 136,1560 110,1554 84,1547"/>
+                <Baseline points="84,1537 110,1544 136,1550 163,1555 189,1558 215,1562 242,1563 268,1565 294,1566 321,1567 347,1568 373,1568 400,1568 426,1567 452,1567 479,1567 505,1567 531,1567 558,1567 584,1569 611,1570 1185,1573 1213,1571 1241,1571"/>
+                <TextEquiv>
+                    <Unicode>Schweiz. Geneve. Erſter Artikel. . . . . . . . . . . . . . 205</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l92" custom="readingOrder {index:41;}">
+                <Coords points="334,1641 365,1642 397,1643 429,1643 461,1644 493,1644 524,1644 556,1644 588,1644 620,1645 652,1645 683,1645 715,1645 747,1645 779,1645 811,1645 842,1645 874,1645 906,1645 938,1645 970,1645 970,1615 938,1615 906,1615 874,1615 842,1615 811,1615 779,1615 747,1615 715,1615 683,1615 652,1615 620,1615 588,1614 556,1614 524,1614 493,1614 461,1614 429,1613 397,1613 365,1612 334,1611"/>
+                <Baseline points="334,1631 365,1632 397,1633 429,1633 461,1634 493,1634 524,1634 556,1634 588,1634 620,1635 652,1635 683,1635 715,1635 747,1635 779,1635 811,1635 842,1635 874,1635 906,1635 938,1635 970,1635"/>
+                <TextEquiv>
+                    <Unicode>Kirchliche Literatur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749186439_633" custom="readingOrder {index:42;}">
+                <Coords points="83,1640 1196,1675 1246,1677 1246,1707 1221,1707 371,1699 299,1697 191,1688 155,1683 119,1677 83,1670"/>
+                <Baseline points="83,1660 119,1667 155,1673 191,1678 227,1681 263,1684 299,1687 335,1688 371,1689 407,1689 444,1689 480,1689 516,1689 552,1689 588,1688 624,1688 660,1688 696,1688 732,1689 768,1690 805,1692 1196,1695 1221,1697 1246,1697"/>
+                <TextEquiv>
+                    <Unicode>Eylert, Rede zum Krönungs⸗ und Ordensfeſte . . . . . . . . 121</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749190585_637" custom="readingOrder {index:43;}">
+                <Coords points="81,1676 1240,1712 1240,1742 1190,1744 409,1736 368,1735 286,1732 204,1725 122,1713 81,1706"/>
+                <Baseline points="81,1696 122,1703 163,1709 204,1715 245,1718 286,1722 327,1723 368,1725 409,1726 450,1726 491,1726 532,1725 573,1725 614,1724 655,1724 696,1723 737,1724 778,1724 819,1725 860,1727 901,1729 912,1729 922,1729 1190,1734 1215,1732 1240,1732"/>
+                <TextEquiv>
+                    <Unicode>Nitzſch, Predigten aus der Amtsführ. letzverg. Jahre . . . . . . 224</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749193405_641" custom="readingOrder {index:44;}">
+                <Coords points="77,1708 1219,1748 1248,1751 1248,1781 372,1771 306,1769 273,1767 241,1765 208,1762 142,1752 109,1746 77,1738"/>
+                <Baseline points="77,1728 109,1736 142,1742 175,1747 208,1752 241,1755 273,1757 306,1759 339,1760 372,1761 405,1761 437,1761 470,1761 503,1760 536,1760 568,1759 601,1759 634,1759 667,1759 700,1760 733,1762 1190,1769 1219,1768 1248,1771"/>
+                <TextEquiv>
+                    <Unicode>Friedrich, Chriſtliche Vorträge. 3te Aufl. . . . . . . . . . 232</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749195917_645" custom="readingOrder {index:45;}">
+                <Coords points="83,1745 1218,1784 1246,1786 1246,1816 1190,1816 855,1815 391,1807 353,1806 314,1804 237,1800 198,1795 160,1790 121,1783 83,1775"/>
+                <Baseline points="83,1765 121,1773 160,1780 198,1785 237,1790 276,1792 314,1794 353,1796 391,1797 430,1797 469,1797 507,1796 546,1796 584,1795 623,1795 662,1795 700,1796 739,1797 777,1799 816,1801 855,1805 1190,1806 1218,1804 1246,1806"/>
+                <TextEquiv>
+                    <Unicode>Kling, Predigten über verſchiedene Texte . . . . . . . . . . 234</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749200159_649" custom="readingOrder {index:46;}">
+                <Coords points="83,1778 1218,1820 1246,1822 1246,1852 1190,1852 325,1842 271,1840 217,1835 163,1828 109,1816 83,1808"/>
+                <Baseline points="83,1798 109,1806 136,1812 163,1818 190,1821 217,1825 244,1827 271,1830 298,1831 325,1832 352,1832 378,1832 405,1832 432,1832 459,1831 486,1831 513,1831 540,1831 567,1831 594,1832 621,1833 634,1834 644,1834 1190,1842 1218,1840 1246,1842"/>
+                <TextEquiv>
+                    <Unicode>Rupſtein, Auswahl von Predigten . . . . . . . . . . . . 234</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749203433_653" custom="readingOrder {index:47;}">
+                <Coords points="81,1819 1232,1856 1232,1886 987,1889 398,1879 352,1878 262,1874 216,1869 171,1864 126,1857 81,1849"/>
+                <Baseline points="81,1839 126,1847 171,1854 216,1859 262,1864 307,1866 352,1868 398,1869 443,1869 488,1869 534,1869 579,1868 624,1867 669,1867 715,1866 760,1866 805,1867 851,1868 896,1870 941,1874 987,1879 1003,1877 1033,1877 1064,1877 1095,1877 1196,1876 1232,1876"/>
+                <TextEquiv>
+                    <Unicode>Holzapfel, Predigten über einen frei gewählten Abſchn. d. h. S. . 235</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749207933_657" custom="readingOrder {index:48;}">
+                <Coords points="77,1851 1238,1891 1238,1921 1196,1921 925,1921 416,1916 373,1915 289,1911 246,1907 204,1903 161,1897 119,1890 77,1881"/>
+                <Baseline points="77,1871 119,1880 161,1887 204,1893 246,1897 289,1901 331,1903 373,1905 416,1906 458,1906 501,1906 543,1905 585,1904 628,1903 670,1903 713,1903 755,1903 797,1903 840,1905 882,1908 925,1911 1196,1911 1238,1911"/>
+                <TextEquiv>
+                    <Unicode>Möller, Predigten über die Beſtimmung des Menſchen . . . . . 239</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749212017_661" custom="readingOrder {index:49;}">
+                <Coords points="79,1887 1212,1925 1239,1928 1239,1958 935,1960 378,1951 293,1948 250,1944 164,1934 121,1926 79,1917"/>
+                <Baseline points="79,1907 121,1916 164,1924 207,1929 250,1934 293,1938 335,1939 378,1941 421,1941 464,1941 507,1941 549,1940 592,1939 635,1938 678,1938 721,1938 763,1938 806,1939 849,1941 892,1945 935,1950 946,1945 964,1947 1185,1948 1212,1945 1239,1948"/>
+                <TextEquiv>
+                    <Unicode>Dietrich, Predigten über ſämmtl. Evangel. u. Epiſteln . . . . . 249</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749216027_665" custom="readingOrder {index:50;}">
+                <Coords points="77,1919 1236,1960 1236,1990 1194,1992 1054,1997 373,1987 336,1986 299,1984 225,1978 188,1973 114,1959 77,1949"/>
+                <Baseline points="77,1939 114,1949 151,1956 188,1963 225,1968 262,1971 299,1974 336,1976 373,1977 410,1977 447,1977 484,1976 521,1975 558,1974 595,1974 632,1973 669,1973 706,1973 743,1975 780,1976 818,1979 1054,1987 1080,1985 1194,1982 1236,1980"/>
+                <TextEquiv>
+                    <Unicode>Kochen, Caſualpredigten und kleinere Amtsreden . . . . . . . 250</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749218832_669" custom="readingOrder {index:51;}">
+                <Coords points="80,1951 1191,1998 1237,2002 1237,2032 319,2021 266,2019 239,2016 213,2013 186,2009 159,2004 133,1999 106,1991 80,1981"/>
+                <Baseline points="80,1971 106,1981 133,1989 159,1994 186,1999 213,2003 239,2006 266,2009 293,2010 319,2011 346,2011 373,2011 399,2011 426,2011 453,2012 1191,2018 1237,2022"/>
+                <TextEquiv>
+                    <Unicode>Redlich, Caſualpredigten . . . . . . . . . . . . . . . . 251</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749221350_673" custom="readingOrder {index:52;}">
+                <Coords points="77,1994 1191,2036 1237,2038 1237,2068 1011,2068 450,2059 403,2058 357,2057 263,2051 217,2047 170,2041 123,2033 77,2024"/>
+                <Baseline points="77,2014 123,2023 170,2031 217,2037 263,2041 310,2044 357,2047 403,2048 450,2049 497,2049 544,2049 590,2049 637,2048 684,2048 730,2048 777,2048 824,2048 870,2049 917,2051 964,2054 1011,2058 1191,2056 1237,2058"/>
+                <TextEquiv>
+                    <Unicode>Couard, Predigten über die Bekehrung des Apoſtels Paulus . . . 251</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l120" custom="readingOrder {index:53;}">
+                <Coords points="418,2125 444,2124 470,2124 496,2123 522,2123 548,2123 574,2123 600,2124 626,2124 653,2125 679,2126 705,2127 731,2127 757,2128 783,2129 809,2129 835,2130 861,2130 888,2131 888,2101 861,2100 835,2100 809,2099 783,2099 757,2098 731,2097 705,2097 679,2096 653,2095 626,2094 600,2094 574,2093 548,2093 522,2093 496,2093 470,2094 444,2094 418,2095"/>
+                <Baseline points="418,2115 444,2114 470,2114 496,2113 522,2113 548,2113 574,2113 600,2114 626,2114 653,2115 679,2116 705,2117 731,2117 757,2118 783,2119 809,2119 835,2120 861,2120 888,2121"/>
+                <TextEquiv>
+                    <Unicode>Neue Auflagen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749226173_677" custom="readingOrder {index:54;}">
+                <Coords points="78,2104 1204,2157 1243,2162 1243,2192 955,2189 413,2181 338,2179 286,2176 260,2174 208,2168 182,2164 156,2158 130,2151 104,2143 78,2134"/>
+                <Baseline points="78,2124 104,2133 130,2141 156,2148 182,2154 208,2158 234,2161 260,2164 286,2166 312,2167 338,2169 364,2169 390,2170 413,2171 448,2169 483,2169 929,2177 955,2179 981,2175 1204,2177 1243,2182"/>
+                <TextEquiv>
+                    <Unicode>Umbreit, das Buch Hiob . . . . . . . . . . . . . . . 63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618749230095_681" custom="readingOrder {index:55;}">
+                <Coords points="80,2142 1247,2196 1247,2226 1222,2226 393,2216 366,2215 262,2211 210,2205 158,2196 132,2190 106,2182 80,2172"/>
+                <Baseline points="80,2162 106,2172 132,2180 158,2186 184,2190 210,2195 236,2198 262,2201 288,2202 314,2203 340,2204 366,2205 393,2206 423,2206 448,2206 474,2205 500,2205 525,2205 551,2205 577,2205 602,2205 628,2205 654,2206 679,2206 705,2207 731,2207 756,2208 782,2208 808,2209 1197,2214 1222,2216 1247,2216"/>
+                <TextEquiv>
+                    <Unicode>Tholuck, Commentar zum Evangelio Johannis . . . . . . . 63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l128" custom="readingOrder {index:56;}">
+                <Coords points="81,2217 139,2228 197,2235 256,2242 314,2247 373,2250 431,2253 489,2255 548,2256 606,2256 665,2256 723,2255 781,2255 840,2255 898,2255 957,2255 1015,2256 1073,2257 1132,2260 1190,2264 1249,2269 1249,2239 1190,2234 1132,2230 1073,2227 1015,2226 957,2225 898,2225 840,2225 781,2225 723,2225 665,2226 606,2226 548,2226 489,2225 431,2223 373,2220 314,2217 256,2212 197,2205 139,2198 81,2187"/>
+                <Baseline points="81,2207 139,2218 197,2225 256,2232 314,2237 373,2240 431,2243 489,2245 548,2246 606,2246 665,2246 723,2245 781,2245 840,2245 898,2245 957,2245 1015,2246 1073,2247 1132,2250 1190,2254 1249,2259"/>
+                <TextEquiv>
+                    <Unicode>Zimmermann, De vi atque sensu formulae δικαιοσύνη θεου . . 64</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Inhalt.
+287
+Praktiſche Theologie.
+Seite
+Ueberſicht des evangeliſchen Kirchenrechts.
+21. Juſti, Bemerk. über die Reform der proteſt. Kirchenverfaſſung . 4
+22. Kempf, Bedürfniſſe der evang. Kirche . . . . . . . . . 4
+23. Bröſe, Plan zur Verbeſſerung der proteſt. Kirche . . . . . 7
+24. Köhler, Die Kirche und die Stände in Hannover . . . . . 8
+25. - Wünſche der Landeskirche zu Nutze . . . . . . . . 8
+26. Ueber die Verwaltung der Kirche in Hannover . . . . . . . 9
+27. Hölty, Nothwendigkeit zeitgemäßer Reformen . . . . . . . 9
+28. Schläger, Was fordert d. Kirchen⸗ u. Schulweſen in Hannover. 21
+29. Kritik über d. Entw. z. Kirchenord. f. Baiern . . . . . . . 22
+30. Rettig, Die freie proteſtantiſche Kirche . . . . . . . . . . 58
+31. Bretſcheider, Votum über eine geforderte Verfaſſung . . . . 86
+32. Weichert, Bedenken ohne Bedenken . . . . . . . . . . 88
+33. Bauer, Bedenken über verſch. Wünſche der Kirche in Sachſen . 89
+34. Müller, Verhältniß d. geiſtl. Standes zum Staate . . . . . 91
+Paulus, Votum gegen Einführen von Kirchengebetsvorſch. . . 123
+35. Jahrbücher, Frankfurter. 1832. (ll. Bd. Nr. 1.) . . . . . 132
+36. Bedenken bei einem Aufſatz in der evang. Kirchen⸗Zeitung . . . 134
+37. Le Semeur. journ. relig. Du budget des cultes . . . . . . 135
+38. Wendroth, Die Leiden der proteſt. Kirche . . . . . . . . 136
+39. Trennung von Kirche und Staat. Evang. Kirchen⸗Zeitung. . . 138
+Kirchliche Verfaſſung verſchiedener Länder.
+1. Baden. Ueberſ. der Gegenſtände, welche der Generalſ. empf. ſind. 151
+2. Baiern. Kritik des Entw. zur Kirchenordn. f. d. ev.⸗prot. K. . 172
+Maurer, Beleucht. d. allg. Kirchen und Gottesdienſtordn. . . 172
+Lehmus, Bemerk. üb. Kirchen⸗ u. Gottesdienſtordnung . . . . 200
+Fuchs, Ueberſicht des Zuſtandes der proteſt. K. in Baiern . . 201
+3. Frankfurt. Antrag, die Wahl der ev.⸗luth. Pfarrer betreffend . 226
+4. Hannover. Köhler, Die Kirche u. d. Stände im K. Hannover. 242
+Köhler, Wünſche der Landeskirche zu Nutze . . . . . . . 243
+Müller, Ueber das Verhältn. d. geiſtl. Standes z. Staate . . 245
+Schläger, Was fordert das Kirchen⸗ und Schulweſen . . . . 246
+Erwartungen der evang.⸗proteſt. Chriſtengemeinden . . . . . 246
+5. Großh. Heſſen. Zimmerman, Verf. der K. u. Volksſchule . 275
+Auguſti, Bemerk. über die neue Organiſation der evang. K. . 277
+Couſin’s Bericht über den Zuſtand des Unterrichts in Deutſchland . 107
+Schweiz. Geneve. Erſter Artikel. . . . . . . . . . . . . . 205
+Kirchliche Literatur.
+Eylert, Rede zum Krönungs⸗ und Ordensfeſte . . . . . . . . 121
+Nitzſch, Predigten aus der Amtsführ. letzverg. Jahre . . . . . . 224
+Friedrich, Chriſtliche Vorträge. 3te Aufl. . . . . . . . . . 232
+Kling, Predigten über verſchiedene Texte . . . . . . . . . . 234
+Rupſtein, Auswahl von Predigten . . . . . . . . . . . . 234
+Holzapfel, Predigten über einen frei gewählten Abſchn. d. h. S. . 235
+Möller, Predigten über die Beſtimmung des Menſchen . . . . . 239
+Dietrich, Predigten über ſämmtl. Evangel. u. Epiſteln . . . . . 249
+Kochen, Caſualpredigten und kleinere Amtsreden . . . . . . . 250
+Redlich, Caſualpredigten . . . . . . . . . . . . . . . . 251
+Couard, Predigten über die Bekehrung des Apoſtels Paulus . . . 251
+Neue Auflagen.
+Umbreit, das Buch Hiob . . . . . . . . . . . . . . . 63
+Tholuck, Commentar zum Evangelio Johannis . . . . . . . 63
+Zimmermann, De vi atque sensu formulae δικαιοσύνη θεου . . 64</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

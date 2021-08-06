@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:44:18.741+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2273" WIDTH="1418">
+         <TopMargin HEIGHT="0" WIDTH="1418" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2273" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2273" WIDTH="0" VPOS="0" HPOS="1418"/>
+         <BottomMargin HEIGHT="0" WIDTH="1418" VPOS="2273" HPOS="0"/>
+         <PrintSpace HEIGHT="2273" WIDTH="1418" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1923" WIDTH="1111" VPOS="125" HPOS="157">
+               <Shape>
+                  <Polygon POINTS="157,125 157,2048 1268,2048 1268,125"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="657,170 687,172 717,172 747,174"
+                         HEIGHT="71"
+                         WIDTH="90"
+                         VPOS="125"
+                         HPOS="657">
+                  <String ID="string_r1l1"
+                          HEIGHT="71"
+                          WIDTH="90"
+                          VPOS="125"
+                          HPOS="657"
+                          CONTENT="Die"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="339,302 376,302 413,303 451,303 488,303 525,303 563,303 600,303 637,302 675,302 712,302 749,302 787,302 824,302 861,303 899,303 936,304 973,306 1011,307 1048,309 1086,311"
+                         HEIGHT="76"
+                         WIDTH="747"
+                         VPOS="257"
+                         HPOS="339">
+                  <String ID="string_r1l2"
+                          HEIGHT="76"
+                          WIDTH="747"
+                          VPOS="257"
+                          HPOS="339"
+                          CONTENT="kritiſche Bearbeitung"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="662,414 690,413 719,413 748,414"
+                         HEIGHT="68"
+                         WIDTH="86"
+                         VPOS="368"
+                         HPOS="662">
+                  <String ID="string_r1l3"
+                          HEIGHT="68"
+                          WIDTH="86"
+                          VPOS="368"
+                          HPOS="662"
+                          CONTENT="des"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="175,587 229,585 284,584 338,584 393,584 448,585 502,586 557,588 612,589 666,591 721,593 776,595 830,596 885,598 940,599 994,600 1049,600 1104,599 1158,598 1213,597 1268,594"
+                         HEIGHT="159"
+                         WIDTH="1102"
+                         VPOS="462"
+                         HPOS="168">
+                  <String ID="string_r1l4"
+                          HEIGHT="159"
+                          WIDTH="1102"
+                          VPOS="462"
+                          HPOS="168"
+                          CONTENT="Lebens Jeſu"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="677,678 702,678 727,680"
+                         HEIGHT="66"
+                         WIDTH="50"
+                         VPOS="635"
+                         HPOS="677">
+                  <String ID="string_r1l5"
+                          HEIGHT="66"
+                          WIDTH="50"
+                          VPOS="635"
+                          HPOS="677"
+                          CONTENT="von"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="362,787 395,788 428,789 461,789 495,790 528,790 561,791 595,791 628,791 661,791 695,791 728,792 761,792 794,792 828,792 861,791 894,791 928,791 961,791 994,791 1028,791"
+                         HEIGHT="72"
+                         WIDTH="666"
+                         VPOS="742"
+                         HPOS="362">
+                  <String ID="string_r1l6"
+                          HEIGHT="72"
+                          WIDTH="666"
+                          VPOS="742"
+                          HPOS="362"
+                          CONTENT="Dr. Dav. Friedr. Strauſs"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="648,903 674,900 700,899 726,900 753,902"
+                         HEIGHT="71"
+                         WIDTH="105"
+                         VPOS="854"
+                         HPOS="648">
+                  <String ID="string_r1l7"
+                          HEIGHT="71"
+                          WIDTH="105"
+                          VPOS="854"
+                          HPOS="648"
+                          CONTENT="nach"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="157,1009 210,1010 263,1011 316,1012 369,1012 422,1013 475,1013 528,1013 581,1013 634,1013 688,1013 741,1013 794,1013 847,1013 900,1013 953,1013 1006,1014 1059,1014 1112,1015 1165,1015 1219,1016"
+                         HEIGHT="74"
+                         WIDTH="1062"
+                         VPOS="964"
+                         HPOS="157">
+                  <String ID="string_r1l8"
+                          HEIGHT="74"
+                          WIDTH="1062"
+                          VPOS="964"
+                          HPOS="157"
+                          CONTENT="ihrem wiſſenſchaftlichen Werthe"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="577,1117 603,1119 629,1119 655,1120 681,1120 708,1119 734,1119 760,1118 786,1118 813,1118"
+                         HEIGHT="67"
+                         WIDTH="236"
+                         VPOS="1074"
+                         HPOS="577">
+                  <String ID="string_r1l9"
+                          HEIGHT="67"
+                          WIDTH="236"
+                          VPOS="1074"
+                          HPOS="577"
+                          CONTENT="beleuchtet"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="660,1207 686,1208 712,1210 738,1209"
+                         HEIGHT="67"
+                         WIDTH="78"
+                         VPOS="1164"
+                         HPOS="660">
+                  <String ID="string_r1l10"
+                          HEIGHT="67"
+                          WIDTH="78"
+                          VPOS="1164"
+                          HPOS="660"
+                          CONTENT="von"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="282,1314 324,1312 366,1310 408,1309 450,1309 492,1309 534,1309 576,1309 618,1310 660,1311 703,1312 745,1313 787,1314 829,1315 871,1315 913,1316 955,1315 997,1315 1039,1313 1081,1311 1124,1309"
+                         HEIGHT="74"
+                         WIDTH="842"
+                         VPOS="1264"
+                         HPOS="282">
+                  <String ID="string_r1l11"
+                          HEIGHT="74"
+                          WIDTH="842"
+                          VPOS="1264"
+                          HPOS="282"
+                          CONTENT="Prof. Dr. G. C. Adolph Harleſs."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="524,1915 550,1915 577,1916 604,1917 631,1918 657,1919 684,1919 711,1920 738,1920 764,1921 791,1920 818,1919 845,1918 872,1917"
+                         HEIGHT="46"
+                         WIDTH="348"
+                         VPOS="1888"
+                         HPOS="524">
+                  <String ID="string_r1l13"
+                          HEIGHT="46"
+                          WIDTH="348"
+                          VPOS="1888"
+                          HPOS="524"
+                          CONTENT="Erlangen."/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="178,1976 229,1976 281,1975 332,1975 384,1975 436,1975 487,1975 539,1975 590,1975 642,1975 694,1975 745,1975 797,1975 848,1975 900,1975 952,1975 1003,1975 1055,1975 1106,1975 1158,1975 1210,1975"
+                         HEIGHT="41"
+                         WIDTH="1032"
+                         VPOS="1948"
+                         HPOS="178">
+                  <String ID="string_r1l14"
+                          HEIGHT="41"
+                          WIDTH="1032"
+                          VPOS="1948"
+                          HPOS="178"
+                          CONTENT="Verlag von Carl Heyder."/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="619,2028 644,2030 670,2030 696,2029 722,2029 748,2031 774,2035"
+                         HEIGHT="46"
+                         WIDTH="155"
+                         VPOS="2002"
+                         HPOS="619">
+                  <String ID="string_r1l15"
+                          HEIGHT="46"
+                          WIDTH="155"
+                          VPOS="2002"
+                          HPOS="619"
+                          CONTENT="1836."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

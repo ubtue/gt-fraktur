@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;ig_lb=true):v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-18T17:26:43.005+01:00</Created>
+        <LastChange>2021-05-11T09:13:36.731+02:00</LastChange>
+        <TranskribusMetadata docId="541181" pageId="22777170" pageNr="14" tsid="57717621" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=OSLMTPEWBDVVLOXZYZGPKMRH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MERXWOIFQIUKSOSTTCDPFZMU" imageId="17757289"/>
+    </Metadata>
+    <Page imageFilename="akzs_1860_00198.tif" imageWidth="1502" imageHeight="2586">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328193527" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="125,61 125,2408 1473,2408 1473,61"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="833,71 806,71 780,68 780,123 806,126 833,126"/>
+                <Baseline points="780,89 806,92 833,92"/>
+                <TextEquiv>
+                    <Unicode>64</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1463,127 1396,127 1330,126 1263,126 1197,125 1131,124 1064,123 998,122 931,121 865,120 799,120 732,119 666,118 599,117 533,117 467,116 400,116 334,115 267,115 201,115 135,116 135,210 201,209 267,209 334,209 400,210 467,210 533,211 599,211 666,212 732,213 799,214 865,214 931,215 998,216 1064,217 1131,218 1197,219 1263,220 1330,220 1396,221 1463,221"/>
+                <Baseline points="135,197 201,196 267,196 334,196 400,197 467,197 533,198 599,198 666,199 732,200 799,201 865,201 931,202 998,203 1064,204 1131,205 1197,206 1263,207 1330,207 1396,208 1463,208"/>
+                <TextEquiv>
+                    <Unicode>sollte, weil ſich herausgeſtellt hat, daß derſelbe zwar lutheriſch getauft, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="687,222 659,222 632,221 604,221 577,220 549,220 522,220 494,220 467,220 439,220 412,220 385,220 357,220 330,220 302,220 275,220 247,220 220,220 192,220 165,219 138,219 138,267 165,267 192,268 220,268 247,268 275,268 302,268 330,268 357,268 385,268 412,268 439,268 467,268 494,268 522,268 549,268 577,268 604,269 632,269 659,270 687,270"/>
+                <Baseline points="138,249 165,249 192,250 220,250 247,250 275,250 302,250 330,250 357,250 385,250 412,250 439,250 467,250 494,250 522,250 549,250 577,250 604,251 632,251 659,252 687,252"/>
+                <TextEquiv>
+                    <Unicode>reformirt confirmirt worden iſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1473,271 1410,270 1347,270 1284,269 1221,268 1158,267 1095,266 1033,265 970,264 907,263 844,262 781,261 718,261 655,260 593,260 530,259 467,259 404,259 341,259 278,260 216,261 216,321 278,320 341,319 404,319 467,319 530,319 593,320 655,320 718,321 781,321 844,322 907,323 970,324 1033,325 1095,326 1158,327 1221,328 1284,329 1347,330 1410,330 1473,331"/>
+                <Baseline points="216,305 278,304 341,303 404,303 467,303 530,303 593,304 655,304 718,305 781,305 844,306 907,307 970,308 1033,309 1095,310 1158,311 1221,312 1284,313 1347,314 1410,314 1473,315"/>
+                <TextEquiv>
+                    <Unicode>In Oldenburg iſt nun die Beſetzungsweiſe der Pfarrſtellen, wie dieſelbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1463,332 1396,330 1330,328 1264,327 1197,325 1131,324 1065,323 998,322 932,321 866,320 800,320 733,319 667,319 601,318 534,318 468,318 402,317 335,317 269,317 203,317 137,317 137,371 203,371 269,371 335,371 402,371 468,372 534,372 601,372 667,373 733,373 800,374 866,374 932,375 998,376 1065,377 1131,378 1197,379 1264,381 1330,382 1396,384 1463,386"/>
+                <Baseline points="137,356 203,356 269,356 335,356 402,356 468,357 534,357 601,357 667,358 733,358 800,359 866,359 932,360 998,361 1065,362 1131,363 1197,364 1264,366 1330,367 1396,369 1463,371"/>
+                <TextEquiv>
+                    <Unicode>ſeit 1849 proviſoriſch feſtgeſtellt war und ſich ſeither trefflich bewährte, zu einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1469,387 1402,385 1336,384 1269,383 1203,382 1137,380 1070,379 1004,378 937,377 871,377 805,376 738,375 672,374 605,374 539,374 473,373 406,373 340,373 273,373 207,374 141,374 141,425 207,425 273,424 340,424 406,424 473,424 539,425 605,425 672,425 738,426 805,427 871,428 937,428 1004,429 1070,430 1137,431 1203,433 1269,434 1336,435 1402,436 1469,438"/>
+                <Baseline points="141,410 207,410 273,409 340,409 406,409 473,409 539,410 605,410 672,410 738,411 805,412 871,413 937,413 1004,414 1070,415 1137,416 1203,418 1269,419 1336,420 1402,421 1469,423"/>
+                <TextEquiv>
+                    <Unicode>endgültigen Verfaſſungsbeſtimmung erhoben worden. Die Beſetzung aller Pfarreien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1469,439 1402,438 1335,436 1268,435 1201,433 1134,432 1067,431 1000,430 933,429 866,428 800,427 733,426 666,426 599,425 532,425 465,425 398,425 331,425 264,425 197,426 131,426 131,478 197,478 264,477 331,477 398,477 465,477 532,477 599,477 666,478 733,478 800,479 866,480 933,481 1000,482 1067,483 1134,484 1201,485 1268,487 1335,488 1402,490 1469,491"/>
+                <Baseline points="131,463 197,463 264,462 331,462 398,462 465,462 532,462 599,462 666,463 733,463 800,464 866,465 933,466 1000,467 1067,468 1134,469 1201,470 1268,472 1335,473 1402,475 1469,476"/>
+                <TextEquiv>
+                    <Unicode>erfolgt hiernach in der Art, daß der Oberkirchenrath unter Berückſichtigung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1467,492 1400,490 1333,489 1267,488 1200,487 1133,486 1067,484 1000,483 934,482 867,481 801,480 734,479 667,479 601,478 534,478 468,478 401,477 334,478 268,478 201,478 135,479 135,531 201,530 268,530 334,530 401,529 468,530 534,530 601,530 667,531 734,531 801,532 867,533 934,534 1000,535 1067,536 1133,538 1200,539 1267,540 1333,541 1400,542 1467,544"/>
+                <Baseline points="135,516 201,515 268,515 334,515 401,514 468,515 534,515 601,515 667,516 734,516 801,517 867,518 934,519 1000,520 1067,521 1133,523 1200,524 1267,525 1333,526 1400,527 1467,529"/>
+                <TextEquiv>
+                    <Unicode>Einzelgemeinden und der Intereſſen der Landeskirche aus den aufgetretenen Bewer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1469,545 1402,544 1336,543 1269,542 1203,541 1136,540 1070,538 1003,537 937,536 870,535 804,534 737,533 671,532 604,531 538,531 471,530 405,530 338,530 272,531 205,531 139,532 139,585 205,584 272,584 338,583 405,583 471,583 538,584 604,584 671,585 737,586 804,587 870,588 937,589 1003,590 1070,591 1136,593 1203,594 1269,595 1336,596 1402,597 1469,598"/>
+                <Baseline points="139,569 205,568 272,568 338,567 405,567 471,567 538,568 604,568 671,569 737,570 804,571 870,572 937,573 1003,574 1070,575 1136,577 1203,578 1269,579 1336,580 1402,581 1469,582"/>
+                <TextEquiv>
+                    <Unicode>bern drei Geiſtliche ausſucht, aus welchen die betreffende Gemeinde in allgemeiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1461,599 1394,598 1328,597 1262,596 1195,595 1129,594 1063,593 996,591 930,590 864,589 798,587 731,586 665,585 599,584 532,583 466,583 400,582 333,582 267,582 201,582 135,583 135,631 201,630 267,630 333,630 400,630 466,631 532,631 599,632 665,633 731,634 798,635 864,637 930,638 996,639 1063,641 1129,642 1195,643 1262,644 1328,645 1394,646 1461,647"/>
+                <Baseline points="135,620 201,619 267,619 333,619 400,619 466,620 532,620 599,621 665,622 731,623 798,624 864,626 930,627 996,628 1063,630 1129,631 1195,632 1262,633 1328,634 1394,635 1461,636"/>
+                <TextEquiv>
+                    <Unicode>Verſammlung Einen auswählt, der hierauf dem Großherzog präſentirt und von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="430,647 403,647 376,647 349,647 322,647 295,647 268,647 241,647 214,647 187,647 160,648 133,648 133,693 160,693 187,692 214,692 241,692 268,692 295,692 322,692 349,692 376,692 403,692 430,692"/>
+                <Baseline points="133,673 160,673 187,672 214,672 241,672 268,672 295,672 322,672 349,672 376,672 403,672 430,672"/>
+                <TextEquiv>
+                    <Unicode>ihm ernannt wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1465,694 1402,693 1339,692 1277,691 1214,690 1152,689 1089,688 1027,687 964,686 902,685 839,684 776,683 714,682 651,681 589,680 526,679 464,678 401,677 339,677 276,676 214,676 214,739 276,739 339,740 401,740 464,741 526,742 589,743 651,744 714,745 776,746 839,747 902,748 964,749 1027,750 1089,751 1152,752 1214,753 1277,754 1339,755 1402,756 1465,757"/>
+                <Baseline points="214,724 276,724 339,725 401,725 464,726 526,727 589,728 651,729 714,730 776,731 839,732 902,733 964,734 1027,735 1089,736 1152,737 1214,738 1277,739 1339,740 1402,741 1465,742"/>
+                <TextEquiv>
+                    <Unicode>In Würtemberg iſt nun die neue apoſtoliſche Gemeinde von Chriſtof</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1465,758 1398,758 1332,757 1265,756 1199,755 1132,754 1066,753 999,752 933,751 866,750 800,749 734,747 667,746 601,745 534,744 468,743 401,742 335,741 268,740 202,740 136,740 136,788 202,788 268,788 335,789 401,790 468,791 534,792 601,793 667,794 734,795 800,797 866,798 933,799 999,800 1066,801 1132,802 1199,803 1265,804 1332,805 1398,806 1465,806"/>
+                <Baseline points="136,777 202,777 268,777 335,778 401,779 468,780 534,781 601,782 667,783 734,784 800,786 866,787 933,788 999,789 1066,790 1132,791 1199,792 1265,793 1332,794 1398,795 1465,795"/>
+                <TextEquiv>
+                    <Unicode>Hoffmann auf dem Kirſchenhardthof bei Moorbach aus der Landeskirche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="348,807 321,806 295,804 268,804 242,804 215,804 189,805 162,806 136,807 136,853 162,852 189,851 215,850 242,850 268,850 295,850 321,852 348,853"/>
+                <Baseline points="136,833 162,832 189,831 215,830 242,830 268,830 295,830 321,832 348,833"/>
+                <TextEquiv>
+                    <Unicode>ausgeſchieden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="1459,854 1393,853 1328,853 1263,852 1198,851 1132,850 1067,849 1002,848 937,847 872,846 806,845 741,844 676,843 611,842 546,840 480,839 415,838 350,837 285,836 220,835 220,894 285,895 350,896 415,897 480,898 546,899 611,901 676,902 741,903 806,904 872,905 937,906 1002,907 1067,908 1132,909 1198,910 1263,911 1328,912 1393,912 1459,913"/>
+                <Baseline points="220,883 285,884 350,885 415,886 480,887 546,888 611,890 676,891 741,892 806,893 872,894 937,895 1002,896 1067,897 1132,898 1198,899 1263,900 1328,901 1393,901 1459,902"/>
+                <TextEquiv>
+                    <Unicode>Die Geiſtlichen des Fürstenthums Waldeck ſollen nun auf die Unlon ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="377,914 349,913 322,912 295,911 268,911 241,912 214,912 187,912 160,913 133,913 133,959 160,959 187,958 214,958 241,958 268,957 295,957 322,958 349,959 377,960"/>
+                <Baseline points="133,939 160,939 187,938 214,938 241,938 268,937 295,937 322,938 349,939 377,940"/>
+                <TextEquiv>
+                    <Unicode>pflichtet werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="1469,961 1406,960 1343,959 1280,958 1218,957 1155,956 1092,955 1030,954 967,954 904,953 842,952 779,951 716,950 653,949 591,949 528,948 465,947 403,946 340,945 277,945 215,944 215,1007 277,1008 340,1008 403,1009 465,1010 528,1011 591,1012 653,1012 716,1013 779,1014 842,1015 904,1016 967,1017 1030,1017 1092,1018 1155,1019 1218,1020 1280,1021 1343,1022 1406,1023 1469,1024"/>
+                <Baseline points="215,992 277,993 340,993 403,994 465,995 528,996 591,997 653,997 716,998 779,999 842,1000 904,1001 967,1002 1030,1002 1092,1003 1155,1004 1218,1005 1280,1006 1343,1007 1406,1008 1469,1009"/>
+                <TextEquiv>
+                    <Unicode>Am 15. Januar beging die reform. Kirche von Oſtfriesland in würdiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="1457,1025 1390,1024 1324,1023 1258,1022 1192,1021 1126,1021 1060,1020 993,1019 927,1018 861,1017 795,1016 729,1015 663,1014 597,1013 530,1012 464,1011 398,1011 332,1010 266,1009 200,1009 134,1008 134,1060 200,1061 266,1061 332,1062 398,1063 464,1063 530,1064 597,1065 663,1066 729,1067 795,1068 861,1069 927,1070 993,1071 1060,1072 1126,1073 1192,1073 1258,1074 1324,1075 1390,1076 1457,1077"/>
+                <Baseline points="134,1045 200,1046 266,1046 332,1047 398,1048 464,1048 530,1049 597,1050 663,1051 729,1052 795,1053 861,1054 927,1055 993,1056 1060,1057 1126,1058 1192,1058 1258,1059 1324,1060 1390,1061 1457,1062"/>
+                <TextEquiv>
+                    <Unicode>Weiſe die dreihundertjährige Todesfeier ihres Stifters, Johann von Lasko.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="1461,1078 1394,1078 1327,1077 1260,1077 1193,1076 1127,1075 1060,1075 993,1074 926,1073 859,1072 793,1071 726,1070 659,1069 592,1069 525,1068 459,1067 392,1066 325,1066 258,1065 191,1064 125,1064 125,1115 191,1115 258,1116 325,1117 392,1117 459,1118 525,1119 592,1120 659,1120 726,1121 793,1122 859,1123 926,1124 993,1125 1060,1126 1127,1126 1193,1127 1260,1128 1327,1128 1394,1129 1461,1129"/>
+                <Baseline points="125,1100 191,1100 258,1101 325,1102 392,1102 459,1103 525,1104 592,1105 659,1105 726,1106 793,1107 859,1108 926,1109 993,1110 1060,1111 1127,1111 1193,1112 1260,1113 1327,1113 1394,1114 1461,1114"/>
+                <TextEquiv>
+                    <Unicode>Wenn am 19. April die geſammte evangeliſche Kirche Deutſchlands sich des Todes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="1459,1130 1392,1130 1325,1130 1259,1130 1192,1130 1125,1129 1059,1128 992,1127 925,1126 859,1125 792,1124 725,1123 659,1122 592,1121 525,1120 459,1119 392,1118 325,1117 259,1116 192,1116 126,1116 126,1169 192,1169 259,1169 325,1170 392,1171 459,1172 525,1173 592,1174 659,1175 725,1176 792,1177 859,1178 925,1179 992,1180 1059,1181 1125,1182 1192,1183 1259,1183 1325,1183 1392,1183 1459,1183"/>
+                <Baseline points="126,1153 192,1153 259,1153 325,1154 392,1155 459,1156 525,1157 592,1158 659,1159 725,1160 792,1161 859,1162 925,1163 992,1164 1059,1165 1125,1166 1192,1167 1259,1167 1325,1167 1392,1167 1459,1167"/>
+                <TextEquiv>
+                    <Unicode>Melanchthon’s erinnert, in welcher Beziehung von den meiſten Kirchenregie⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="1461,1183 1394,1184 1327,1183 1261,1183 1194,1183 1127,1182 1061,1181 994,1180 928,1179 861,1178 795,1176 728,1175 661,1174 595,1173 528,1172 462,1171 395,1170 328,1169 262,1169 195,1169 129,1169 129,1222 195,1222 262,1222 328,1222 395,1223 462,1224 528,1225 595,1226 661,1227 728,1228 795,1229 861,1231 928,1232 994,1233 1061,1234 1127,1235 1194,1236 1261,1236 1327,1236 1394,1237 1461,1236"/>
+                <Baseline points="129,1207 195,1207 262,1207 328,1207 395,1208 462,1209 528,1210 595,1211 661,1212 728,1213 795,1214 861,1216 928,1217 994,1218 1061,1219 1127,1220 1194,1221 1261,1221 1327,1221 1394,1222 1461,1221"/>
+                <TextEquiv>
+                    <Unicode>rungen bereits Anordnungen getroffen ſind, ſo möge dieſe Feier dazu dienen, jene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="1459,1238 1392,1238 1326,1237 1260,1237 1194,1236 1128,1235 1062,1234 996,1233 930,1232 864,1231 798,1230 731,1229 665,1228 599,1226 533,1225 467,1224 401,1223 335,1222 269,1221 203,1221 137,1220 137,1273 203,1274 269,1274 335,1275 401,1276 467,1277 533,1278 599,1279 665,1281 731,1282 798,1283 864,1284 930,1285 996,1286 1062,1287 1128,1288 1194,1289 1260,1290 1326,1290 1392,1291 1459,1291"/>
+                <Baseline points="137,1257 203,1258 269,1258 335,1259 401,1260 467,1261 533,1262 599,1263 665,1265 731,1266 798,1267 864,1268 930,1269 996,1270 1062,1271 1128,1272 1194,1273 1260,1274 1326,1274 1392,1275 1459,1275"/>
+                <TextEquiv>
+                    <Unicode>Einheit aller evangeliſchen Kirchengemeinſchaften, wie ſie Melanchthon noch in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="1417,1292 1352,1291 1288,1290 1223,1289 1159,1288 1094,1287 1030,1286 965,1285 901,1284 836,1283 772,1281 707,1280 643,1279 578,1278 514,1277 449,1276 385,1275 320,1275 256,1274 191,1273 127,1273 127,1349 191,1349 256,1350 320,1351 385,1351 449,1352 514,1353 578,1354 643,1355 707,1356 772,1357 836,1359 901,1360 965,1361 1030,1362 1094,1363 1159,1364 1223,1365 1288,1366 1352,1367 1417,1368"/>
+                <Baseline points="127,1311 191,1311 256,1312 320,1313 385,1313 449,1314 514,1315 578,1316 643,1317 707,1318 772,1319 836,1321 901,1322 965,1323 1030,1324 1094,1325 1159,1326 1223,1327 1288,1328 1352,1329 1417,1330"/>
+                <TextEquiv>
+                    <Unicode>der letzten Stunde auf dem Herzen getragen hat, zur Wahrheit werden zu laſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="943,1369 917,1367 892,1366 866,1365 841,1364 815,1364 790,1364 764,1363 739,1362 713,1360 688,1358 663,1354 663,1465 688,1469 713,1471 739,1473 764,1474 790,1475 815,1475 841,1475 866,1476 892,1477 917,1478 943,1480"/>
+                <Baseline points="663,1443 688,1447 713,1449 739,1451 764,1452 790,1453 815,1453 841,1453 866,1454 892,1455 917,1456 943,1458"/>
+                <TextEquiv>
+                    <Unicode>Bitte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;} textStyle {offset:0; length:67;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1461,1481 1398,1481 1336,1481 1274,1480 1212,1479 1149,1478 1087,1476 1025,1475 963,1473 900,1472 838,1470 776,1469 714,1467 651,1466 589,1465 527,1464 465,1463 402,1463 340,1463 278,1463 216,1464 216,1533 278,1532 340,1532 402,1532 465,1532 527,1533 589,1534 651,1535 714,1536 776,1538 838,1539 900,1541 963,1542 1025,1544 1087,1545 1149,1547 1212,1548 1274,1549 1336,1550 1398,1550 1461,1550"/>
+                <Baseline points="216,1517 278,1516 340,1516 402,1516 465,1516 527,1517 589,1518 651,1519 714,1520 776,1522 838,1523 900,1525 963,1526 1025,1528 1087,1529 1149,1531 1212,1532 1274,1533 1336,1534 1398,1534 1461,1534"/>
+                <TextEquiv>
+                    <Unicode>Im Jahre 1601 erſchien zu Herborn „Kurtze einfeltige und allein auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;} textStyle {offset:0; length:68;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1461,1551 1394,1551 1327,1550 1261,1548 1194,1547 1127,1546 1061,1544 994,1543 928,1541 861,1540 795,1538 728,1537 661,1535 595,1534 528,1533 462,1532 395,1531 328,1531 262,1530 195,1530 129,1530 129,1582 195,1582 262,1582 328,1583 395,1583 462,1584 528,1585 595,1586 661,1587 728,1589 795,1590 861,1592 928,1593 994,1595 1061,1596 1127,1598 1194,1599 1261,1600 1327,1602 1394,1603 1461,1603"/>
+                <Baseline points="129,1567 195,1567 262,1567 328,1568 395,1568 462,1569 528,1570 595,1571 661,1572 728,1574 795,1575 861,1577 928,1578 994,1580 1061,1581 1127,1583 1194,1584 1261,1585 1327,1587 1394,1588 1461,1588"/>
+                <TextEquiv>
+                    <Unicode>Gottes Wort gegründete Glaubensbekanntnus von denen Hauptpunkten, ſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;} textStyle {offset:0; length:75;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1455,1604 1388,1604 1322,1604 1256,1604 1189,1603 1123,1602 1057,1600 990,1599 924,1597 858,1595 792,1593 725,1592 659,1590 593,1589 526,1587 460,1586 394,1586 327,1586 261,1586 195,1587 129,1589 129,1640 195,1638 261,1637 327,1637 394,1637 460,1637 526,1638 593,1640 659,1641 725,1643 792,1644 858,1646 924,1648 990,1650 1057,1651 1123,1653 1189,1654 1256,1655 1322,1655 1388,1655 1455,1655"/>
+                <Baseline points="129,1624 195,1622 261,1621 327,1621 394,1621 460,1621 526,1622 593,1624 659,1625 725,1627 792,1628 858,1630 924,1632 990,1634 1057,1635 1123,1637 1189,1638 1256,1639 1322,1639 1388,1639 1455,1639"/>
+                <TextEquiv>
+                    <Unicode>alle und jede fromme Chriſten zur verſicherung jrer ſeligkeit und beſtendi⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;} textStyle {offset:0; length:72;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1457,1656 1391,1656 1325,1655 1259,1654 1193,1653 1127,1652 1061,1650 995,1649 929,1647 863,1646 797,1644 731,1643 665,1642 599,1640 533,1639 467,1639 401,1638 335,1638 269,1638 203,1639 137,1640 137,1692 203,1691 269,1690 335,1690 401,1690 467,1691 533,1691 599,1692 665,1694 731,1695 797,1696 863,1698 929,1699 995,1701 1061,1702 1127,1704 1193,1705 1259,1706 1325,1707 1391,1708 1457,1708"/>
+                <Baseline points="137,1677 203,1676 269,1675 335,1675 401,1675 467,1676 533,1676 599,1677 665,1679 731,1680 797,1681 863,1683 929,1684 995,1686 1061,1687 1127,1689 1193,1690 1259,1691 1325,1692 1391,1693 1457,1693"/>
+                <TextEquiv>
+                    <Unicode>gem lebendigem troſt zu wiſſen vonnöten haben.” — Dieſes Buch ſoll ſchon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;} textStyle {offset:0; length:71;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1457,1709 1390,1709 1324,1709 1257,1708 1191,1707 1124,1706 1058,1705 991,1703 925,1702 858,1700 792,1699 725,1697 659,1696 592,1695 526,1694 459,1693 393,1692 326,1692 260,1692 193,1693 127,1694 127,1746 193,1745 260,1744 326,1744 393,1744 459,1745 526,1746 592,1747 659,1748 725,1749 792,1751 858,1752 925,1754 991,1755 1058,1757 1124,1758 1191,1759 1257,1760 1324,1761 1390,1761 1457,1761"/>
+                <Baseline points="127,1731 193,1730 260,1729 326,1729 393,1729 459,1730 526,1731 592,1732 659,1733 725,1734 792,1736 858,1737 925,1739 991,1740 1058,1742 1124,1743 1191,1744 1257,1745 1324,1746 1390,1746 1457,1746"/>
+                <TextEquiv>
+                    <Unicode>1562 zu Heidelberg („durch Ludwig Lück”) gedruckt ſein. Da ich nun bei⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;} textStyle {offset:0; length:72;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1457,1761 1390,1762 1324,1762 1258,1762 1192,1761 1126,1760 1059,1759 993,1757 927,1756 861,1754 795,1752 728,1750 662,1749 596,1747 530,1746 464,1746 397,1745 331,1746 265,1747 199,1748 133,1750 133,1802 199,1800 265,1799 331,1798 397,1797 464,1798 530,1798 596,1799 662,1801 728,1802 795,1804 861,1806 927,1808 993,1809 1059,1811 1126,1812 1192,1813 1258,1814 1324,1814 1390,1814 1457,1813"/>
+                <Baseline points="133,1787 199,1785 265,1784 331,1783 397,1782 464,1783 530,1783 596,1784 662,1786 728,1787 795,1789 861,1791 927,1793 993,1794 1059,1796 1126,1797 1192,1798 1258,1799 1324,1799 1390,1799 1457,1798"/>
+                <TextEquiv>
+                    <Unicode>der Ausgaben dieſer Schrift zur Vollendung einer mit denſelben zuſammen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;} textStyle {offset:0; length:77;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1457,1814 1390,1815 1323,1815 1257,1815 1190,1815 1123,1814 1057,1813 990,1811 924,1809 857,1808 791,1806 724,1804 657,1803 591,1801 524,1800 458,1799 391,1799 324,1800 258,1800 191,1802 125,1804 125,1857 191,1855 258,1853 324,1853 391,1852 458,1852 524,1853 591,1854 657,1856 724,1857 791,1859 857,1861 924,1862 990,1864 1057,1866 1123,1867 1190,1868 1257,1868 1323,1868 1390,1868 1457,1867"/>
+                <Baseline points="125,1841 191,1839 258,1837 324,1837 391,1836 458,1836 524,1837 591,1838 657,1840 724,1841 791,1843 857,1845 924,1846 990,1848 1057,1850 1123,1851 1190,1852 1257,1852 1323,1852 1390,1852 1457,1851"/>
+                <TextEquiv>
+                    <Unicode>hängenden Unterſuchung benöthigt bin, dieſelben aber auf öffentlichen Biblio⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;} textStyle {offset:0; length:74;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1455,1867 1388,1868 1322,1869 1255,1868 1189,1868 1122,1867 1056,1865 989,1864 923,1862 856,1860 790,1859 723,1857 657,1855 590,1854 524,1853 457,1853 391,1852 324,1853 258,1854 191,1855 125,1857 125,1911 191,1909 258,1908 324,1907 391,1906 457,1907 524,1907 590,1908 657,1909 723,1911 790,1913 856,1914 923,1916 989,1918 1056,1919 1122,1921 1189,1922 1255,1922 1322,1923 1388,1922 1455,1921"/>
+                <Baseline points="125,1895 191,1893 258,1892 324,1891 391,1890 457,1891 524,1891 590,1892 657,1893 723,1895 790,1897 856,1898 923,1900 989,1902 1056,1903 1122,1905 1189,1906 1255,1906 1322,1907 1388,1906 1455,1905"/>
+                <TextEquiv>
+                    <Unicode>theken bisher vergebens geſucht habe, ſo bitte ich diejenigen Leſer dieſes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;} textStyle {offset:0; length:77;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1459,1923 1392,1924 1325,1924 1258,1923 1192,1923 1125,1922 1058,1920 992,1919 925,1917 858,1916 792,1915 725,1913 658,1912 591,1911 525,1910 458,1909 391,1909 325,1909 258,1910 191,1911 125,1913 125,1964 191,1962 258,1961 325,1960 391,1960 458,1960 525,1961 591,1962 658,1963 725,1964 792,1966 858,1967 925,1968 992,1970 1058,1971 1125,1973 1192,1974 1258,1974 1325,1975 1392,1975 1459,1974"/>
+                <Baseline points="125,1950 191,1948 258,1947 325,1946 391,1946 458,1946 525,1947 591,1948 658,1949 725,1950 792,1952 858,1953 925,1954 992,1956 1058,1957 1125,1959 1192,1960 1258,1960 1325,1961 1392,1961 1459,1960"/>
+                <TextEquiv>
+                    <Unicode>Blattes, welche mir dieſe Bücher vielleicht verſchaffen können, mir dieſelben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;} textStyle {offset:0; length:47;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="958,1976 916,1975 875,1974 833,1972 792,1971 750,1971 709,1970 667,1970 626,1970 584,1970 543,1969 502,1969 460,1969 419,1970 377,1970 336,1970 294,1970 253,1969 211,1969 170,1969 129,1968 129,2016 170,2017 211,2017 253,2017 294,2018 336,2018 377,2018 419,2018 460,2017 502,2017 543,2017 584,2018 626,2018 667,2018 709,2018 750,2019 792,2019 833,2020 875,2022 916,2023 958,2024"/>
+                <Baseline points="129,2001 170,2002 211,2002 253,2002 294,2003 336,2003 377,2003 419,2003 460,2002 502,2002 543,2002 584,2003 626,2003 667,2003 709,2003 750,2004 792,2004 833,2005 875,2007 916,2008 958,2009"/>
+                <TextEquiv>
+                    <Unicode>ſo bald als möglich gütigſt zuſenden zu wollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;} textStyle {offset:0; length:27;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="814,2022 783,2022 753,2023 722,2023 692,2023 662,2023 631,2024 601,2024 570,2024 540,2024 510,2024 479,2024 449,2024 418,2024 388,2024 358,2024 327,2024 297,2023 266,2023 236,2022 206,2022 206,2075 236,2075 266,2076 297,2076 327,2077 358,2077 388,2077 418,2077 449,2077 479,2077 510,2077 540,2077 570,2077 601,2077 631,2077 662,2076 692,2076 722,2076 753,2076 783,2075 814,2075"/>
+                <Baseline points="206,2057 236,2057 266,2058 297,2058 327,2059 358,2059 388,2059 418,2059 449,2059 479,2059 510,2059 540,2059 570,2059 601,2059 631,2059 662,2058 692,2058 722,2058 753,2058 783,2057 814,2057"/>
+                <TextEquiv>
+                    <Unicode>Marburg, den 30. März 1860.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="1366,2076 1340,2077 1315,2078 1289,2078 1264,2078 1239,2077 1213,2076 1188,2075 1163,2073 1137,2071 1112,2070 1087,2068 1087,2192 1112,2194 1137,2195 1163,2197 1188,2199 1213,2200 1239,2201 1264,2202 1289,2202 1315,2202 1340,2201 1366,2200"/>
+                <Baseline points="1087,2110 1112,2112 1137,2113 1163,2115 1188,2117 1213,2118 1239,2119 1264,2120 1289,2120 1315,2120 1340,2119 1366,2118"/>
+                <TextEquiv>
+                    <Unicode>Dr. Heppe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:36;}">
+                <Coords points="681,2203 655,2203 630,2203 604,2203 579,2203 553,2203 528,2203 502,2203 477,2203 451,2202 426,2202 400,2202 375,2201 349,2201 324,2200 298,2200 273,2198 247,2197 222,2196 196,2194 171,2192 171,2387 196,2389 222,2391 247,2392 273,2393 298,2395 324,2395 349,2396 375,2396 400,2397 426,2397 451,2397 477,2398 502,2398 528,2398 553,2398 579,2398 604,2398 630,2398 655,2398 681,2398"/>
+                <Baseline points="171,2383 196,2385 222,2387 247,2388 273,2389 298,2391 324,2391 349,2392 375,2392 400,2393 426,2393 451,2393 477,2394 502,2394 528,2394 553,2394 579,2394 604,2394 630,2394 655,2394 681,2394"/>
+                <TextEquiv>
+                    <Unicode>Gedruckt bei Sam. Lucas in Elberfeld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>64
+sollte, weil ſich herausgeſtellt hat, daß derſelbe zwar lutheriſch getauft, aber
+reformirt confirmirt worden iſt.
+In Oldenburg iſt nun die Beſetzungsweiſe der Pfarrſtellen, wie dieſelbe
+ſeit 1849 proviſoriſch feſtgeſtellt war und ſich ſeither trefflich bewährte, zu einer
+endgültigen Verfaſſungsbeſtimmung erhoben worden. Die Beſetzung aller Pfarreien
+erfolgt hiernach in der Art, daß der Oberkirchenrath unter Berückſichtigung der
+Einzelgemeinden und der Intereſſen der Landeskirche aus den aufgetretenen Bewer⸗
+bern drei Geiſtliche ausſucht, aus welchen die betreffende Gemeinde in allgemeiner
+Verſammlung Einen auswählt, der hierauf dem Großherzog präſentirt und von
+ihm ernannt wird.
+In Würtemberg iſt nun die neue apoſtoliſche Gemeinde von Chriſtof
+Hoffmann auf dem Kirſchenhardthof bei Moorbach aus der Landeskirche
+ausgeſchieden.
+Die Geiſtlichen des Fürstenthums Waldeck ſollen nun auf die Unlon ver⸗
+pflichtet werden.
+Am 15. Januar beging die reform. Kirche von Oſtfriesland in würdiger
+Weiſe die dreihundertjährige Todesfeier ihres Stifters, Johann von Lasko.
+Wenn am 19. April die geſammte evangeliſche Kirche Deutſchlands sich des Todes
+Melanchthon’s erinnert, in welcher Beziehung von den meiſten Kirchenregie⸗
+rungen bereits Anordnungen getroffen ſind, ſo möge dieſe Feier dazu dienen, jene
+Einheit aller evangeliſchen Kirchengemeinſchaften, wie ſie Melanchthon noch in
+der letzten Stunde auf dem Herzen getragen hat, zur Wahrheit werden zu laſſen.
+Bitte.
+Im Jahre 1601 erſchien zu Herborn „Kurtze einfeltige und allein auf
+Gottes Wort gegründete Glaubensbekanntnus von denen Hauptpunkten, ſo
+alle und jede fromme Chriſten zur verſicherung jrer ſeligkeit und beſtendi⸗
+gem lebendigem troſt zu wiſſen vonnöten haben.” — Dieſes Buch ſoll ſchon
+1562 zu Heidelberg („durch Ludwig Lück”) gedruckt ſein. Da ich nun bei⸗
+der Ausgaben dieſer Schrift zur Vollendung einer mit denſelben zuſammen⸗
+hängenden Unterſuchung benöthigt bin, dieſelben aber auf öffentlichen Biblio⸗
+theken bisher vergebens geſucht habe, ſo bitte ich diejenigen Leſer dieſes
+Blattes, welche mir dieſe Bücher vielleicht verſchaffen können, mir dieſelben
+ſo bald als möglich gütigſt zuſenden zu wollen.
+Marburg, den 30. März 1860.
+Dr. Heppe.
+Gedruckt bei Sam. Lucas in Elberfeld.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

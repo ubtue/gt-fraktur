@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:43:41.354+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2153" WIDTH="1259">
+         <TopMargin HEIGHT="0" WIDTH="1259" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2153" WIDTH="0" VPOS="0" HPOS="1259"/>
+         <BottomMargin HEIGHT="0" WIDTH="1259" VPOS="2153" HPOS="0"/>
+         <PrintSpace HEIGHT="2153" WIDTH="1259" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1621256289623_1004"
+                       HEIGHT="2101"
+                       WIDTH="1039"
+                       VPOS="8"
+                       HPOS="121">
+               <Shape>
+                  <Polygon POINTS="122,174 225,8 933,8 1160,124 1160,2102 933,2107 121,2109 122,1994"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="542,40 570,40 599,40 628,39 657,39 686,40 715,42"
+                         HEIGHT="33"
+                         WIDTH="173"
+                         VPOS="19"
+                         HPOS="542">
+                  <String ID="string_r2l1"
+                          HEIGHT="33"
+                          WIDTH="173"
+                          VPOS="19"
+                          HPOS="542"
+                          CONTENT="XLVIII"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="362,176 387,176 413,176 439,176 465,176 491,175 517,175 543,175 569,174 595,174 621,173 647,173 673,172 699,172 725,172 751,171 777,171 803,171"
+                         HEIGHT="35"
+                         WIDTH="441"
+                         VPOS="151"
+                         HPOS="362">
+                  <String ID="string_r2l2"
+                          HEIGHT="35"
+                          WIDTH="441"
+                          VPOS="151"
+                          HPOS="362"
+                          CONTENT="Behoͤrde. Koͤnigreich Bayern."/>
+               </TextLine>
+               <TextLine ID="r3l1"
+                         BASELINE="994,157 1023,155 1052,155 1081,156 1111,158"
+                         HEIGHT="33"
+                         WIDTH="117"
+                         VPOS="135"
+                         HPOS="994">
+                  <String ID="string_r3l1"
+                          HEIGHT="33"
+                          WIDTH="117"
+                          VPOS="135"
+                          HPOS="994"
+                          CONTENT="Betrag."/>
+               </TextLine>
+               <TextLine ID="line_1621256297377_1008"
+                         BASELINE="126,277 172,279 229,279 257,278 285,277 314,276 342,274 371,273 401,272 427,271 453,271 479,272 505,272 531,272 557,272 994,268 1026,268 1072,265 1102,269 1132,271"
+                         HEIGHT="44"
+                         WIDTH="1006"
+                         VPOS="245"
+                         HPOS="126">
+                  <String ID="string_line_1621256297377_1008"
+                          HEIGHT="44"
+                          WIDTH="1006"
+                          VPOS="245"
+                          HPOS="126"
+                          CONTENT="22. Landgericht Waſſerburg. 95 32 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256302584_1012"
+                         BASELINE="136,314 177,314 298,318 317,320 406,307 431,308 457,308 482,307 508,307 533,308 559,310 984,301 1028,301 1080,302 1100,302"
+                         HEIGHT="49"
+                         WIDTH="964"
+                         VPOS="281"
+                         HPOS="136">
+                  <String ID="string_line_1621256302584_1012"
+                          HEIGHT="49"
+                          WIDTH="964"
+                          VPOS="281"
+                          HPOS="136"
+                          CONTENT="23. „ Roſenheim. 113 27"/>
+               </TextLine>
+               <TextLine ID="line_1621256307815_1016"
+                         BASELINE="133,348 176,351 297,354 318,355 407,342 433,341 459,341 486,342 512,342 539,345 1087,332 1129,340"
+                         HEIGHT="53"
+                         WIDTH="996"
+                         VPOS="312"
+                         HPOS="133">
+                  <String ID="string_line_1621256307815_1016"
+                          HEIGHT="53"
+                          WIDTH="996"
+                          VPOS="312"
+                          HPOS="133"
+                          CONTENT="24. „ Muͤhldorf. 3 ¼"/>
+               </TextLine>
+               <TextLine ID="line_1621256312738_1020"
+                         BASELINE="136,384 170,382 300,390 320,390 407,378 436,377 465,377 494,378 523,379 553,382 1001,370 1032,371 1073,370 1101,370 1129,376"
+                         HEIGHT="50"
+                         WIDTH="993"
+                         VPOS="350"
+                         HPOS="136">
+                  <String ID="string_line_1621256312738_1020"
+                          HEIGHT="50"
+                          WIDTH="993"
+                          VPOS="350"
+                          HPOS="136"
+                          CONTENT="25. „ Vilsbiburg. 70 32 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256318057_1024"
+                         BASELINE="136,417 177,417 302,424 312,422 409,412 435,411 461,412 487,414 1003,407 1033,405 1078,405 1107,409 1136,413"
+                         HEIGHT="49"
+                         WIDTH="1000"
+                         VPOS="385"
+                         HPOS="136">
+                  <String ID="string_line_1621256318057_1024"
+                          HEIGHT="49"
+                          WIDTH="1000"
+                          VPOS="385"
+                          HPOS="136"
+                          CONTENT="26. „ Cham. 25 19 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256323303_1028"
+                         BASELINE="138,452 178,451 300,459 314,459 407,448 437,447 468,448 499,450 984,439 1009,441 1034,439 1094,441 1132,447"
+                         HEIGHT="50"
+                         WIDTH="994"
+                         VPOS="419"
+                         HPOS="138">
+                  <String ID="string_line_1621256323303_1028"
+                          HEIGHT="50"
+                          WIDTH="994"
+                          VPOS="419"
+                          HPOS="138"
+                          CONTENT="27. „ Erding. 100 9 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256328730_1032"
+                         BASELINE="131,483 180,484 293,494 313,496 400,483 425,483 451,483 476,483 502,483 528,483 1002,476 1034,474 1071,474 1101,476"
+                         HEIGHT="52"
+                         WIDTH="970"
+                         VPOS="454"
+                         HPOS="131">
+                  <String ID="string_line_1621256328730_1032"
+                          HEIGHT="52"
+                          WIDTH="970"
+                          VPOS="454"
+                          HPOS="131"
+                          CONTENT="28. „ München. 94 51"/>
+               </TextLine>
+               <TextLine ID="line_1621256336202_1036"
+                         BASELINE="130,521 172,523 289,528 311,530 408,515 439,517 471,518 503,518 998,509 1028,509 1077,510 1113,512"
+                         HEIGHT="51"
+                         WIDTH="983"
+                         VPOS="489"
+                         HPOS="130">
+                  <String ID="string_line_1621256336202_1036"
+                          HEIGHT="51"
+                          WIDTH="983"
+                          VPOS="489"
+                          HPOS="130"
+                          CONTENT="29. „ Paſſau. 61 28"/>
+               </TextLine>
+               <TextLine ID="line_1621256341392_1040"
+                         BASELINE="134,558 181,561 289,564 319,566 406,554 432,552 459,551 485,551 512,552 539,551 1003,544 1037,546 1072,543 1114,545"
+                         HEIGHT="53"
+                         WIDTH="980"
+                         VPOS="523"
+                         HPOS="134">
+                  <String ID="string_line_1621256341392_1040"
+                          HEIGHT="53"
+                          WIDTH="980"
+                          VPOS="523"
+                          HPOS="134"
+                          CONTENT="30. „ Wegſcheld. 61 57"/>
+               </TextLine>
+               <TextLine ID="line_1621256346576_1044"
+                         BASELINE="132,591 172,593 302,600 312,599 406,590 434,587 463,587 492,586 521,586 550,588 998,579 1038,579 1090,577 1110,577"
+                         HEIGHT="53"
+                         WIDTH="978"
+                         VPOS="557"
+                         HPOS="132">
+                  <String ID="string_line_1621256346576_1044"
+                          HEIGHT="53"
+                          WIDTH="978"
+                          VPOS="557"
+                          HPOS="132"
+                          CONTENT="31. „ Monheim. 28 3"/>
+               </TextLine>
+               <TextLine ID="line_1621256352579_1048"
+                         BASELINE="138,628 179,627 300,636 320,634 409,623 436,622 463,621 491,621 518,621 546,622 1002,613 1036,610 1077,614 1107,616 1137,624"
+                         HEIGHT="56"
+                         WIDTH="999"
+                         VPOS="590"
+                         HPOS="138">
+                  <String ID="string_line_1621256352579_1048"
+                          HEIGHT="56"
+                          WIDTH="999"
+                          VPOS="590"
+                          HPOS="138"
+                          CONTENT="32. „ Landsberg. 63 59 ¼"/>
+               </TextLine>
+               <TextLine ID="line_1621256359564_1052"
+                         BASELINE="130,661 172,663 300,669 312,669 407,657 435,658 464,657 492,657 521,657 550,658 995,648 1035,650 1078,647 1112,651"
+                         HEIGHT="52"
+                         WIDTH="982"
+                         VPOS="627"
+                         HPOS="130">
+                  <String ID="string_line_1621256359564_1052"
+                          HEIGHT="52"
+                          WIDTH="982"
+                          VPOS="627"
+                          HPOS="130"
+                          CONTENT="33. „ Wolfsſtein. 33 30"/>
+               </TextLine>
+               <TextLine ID="line_1621256364901_1056"
+                         BASELINE="135,698 178,697 302,703 314,704 406,693 431,693 457,693 482,693 508,694 534,695 1005,682 1045,684 1079,684 1107,688 1135,692"
+                         HEIGHT="52"
+                         WIDTH="1000"
+                         VPOS="662"
+                         HPOS="135">
+                  <String ID="string_line_1621256364901_1056"
+                          HEIGHT="52"
+                          WIDTH="1000"
+                          VPOS="662"
+                          HPOS="135"
+                          CONTENT="34. „ Mosburg. 72 50 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256373510_1062"
+                         BASELINE="131,732 171,734 294,738 316,738 403,726 432,727 461,728 490,728 519,728 549,730 1016,715 1046,723 1078,719 1111,724"
+                         HEIGHT="53"
+                         WIDTH="980"
+                         VPOS="695"
+                         HPOS="131">
+                  <String ID="string_line_1621256373510_1062"
+                          HEIGHT="53"
+                          WIDTH="980"
+                          VPOS="695"
+                          HPOS="131"
+                          CONTENT="35. „ Starnberg. 2 52"/>
+               </TextLine>
+               <TextLine ID="line_1621256381591_1066"
+                         BASELINE="136,768 172,768 289,772 319,774 404,761 434,762 464,761 494,762 525,764 1002,751 1042,753 1079,756 1108,757 1137,764"
+                         HEIGHT="53"
+                         WIDTH="1001"
+                         VPOS="731"
+                         HPOS="136">
+                  <String ID="string_line_1621256381591_1066"
+                          HEIGHT="53"
+                          WIDTH="1001"
+                          VPOS="731"
+                          HPOS="136"
+                          CONTENT="36. „ Simbach. 35 39 ¼"/>
+               </TextLine>
+               <TextLine ID="line_1621256389105_1071"
+                         BASELINE="135,800 180,802 290,806 320,806 405,797 432,796 460,796 487,796 515,796 543,797 1023,782 1043,788 1081,792 1113,794"
+                         HEIGHT="54"
+                         WIDTH="978"
+                         VPOS="762"
+                         HPOS="135">
+                  <String ID="string_line_1621256389105_1071"
+                          HEIGHT="54"
+                          WIDTH="978"
+                          VPOS="762"
+                          HPOS="135"
+                          CONTENT="37. „ Vilshofen. 2 40"/>
+               </TextLine>
+               <TextLine ID="line_1621256393152_1075"
+                         BASELINE="134,836 172,836 298,839 329,844 408,831 437,832 466,832 495,831 524,831 553,832 582,833 1003,820 1043,822"
+                         HEIGHT="54"
+                         WIDTH="909"
+                         VPOS="800"
+                         HPOS="134">
+                  <String ID="string_line_1621256393152_1075"
+                          HEIGHT="54"
+                          WIDTH="909"
+                          VPOS="800"
+                          HPOS="134"
+                          CONTENT="38. „ Pfaffenhofen. 75"/>
+               </TextLine>
+               <TextLine ID="line_1621256398841_1079"
+                         BASELINE="136,871 179,874 299,878 322,880 406,865 435,866 464,865 493,866 522,867 551,870 998,857 1040,857 1077,858 1107,859 1138,863"
+                         HEIGHT="53"
+                         WIDTH="1002"
+                         VPOS="837"
+                         HPOS="136">
+                  <String ID="string_line_1621256398841_1079"
+                          HEIGHT="53"
+                          WIDTH="1002"
+                          VPOS="837"
+                          HPOS="136"
+                          CONTENT="39. „ Starnberg. 94 55 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256404917_1083"
+                         BASELINE="142,905 172,908 297,912 319,913 413,904 440,903 468,902 496,902 523,903 551,903 579,904 1011,892 1039,894 1085,894 1140,898"
+                         HEIGHT="51"
+                         WIDTH="975"
+                         VPOS="872"
+                         HPOS="142">
+                  <String ID="string_line_1621256404917_1083"
+                          HEIGHT="51"
+                          WIDTH="975"
+                          VPOS="872"
+                          HPOS="142"
+                          CONTENT="40. „ Pfarrkirchen. 45 24 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256418139_1087"
+                         BASELINE="140,943 183,942 297,944 320,950 407,938 432,937 457,937 482,938 507,938 532,939 557,940 1010,921 1040,927 1102,925 1138,933"
+                         HEIGHT="59"
+                         WIDTH="998"
+                         VPOS="901"
+                         HPOS="140">
+                  <String ID="string_line_1621256418139_1087"
+                          HEIGHT="59"
+                          WIDTH="998"
+                          VPOS="901"
+                          HPOS="140"
+                          CONTENT="41. „ Ebertsberg. 74 6 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256423613_1091"
+                         BASELINE="138,978 182,976 300,984 320,984 405,974 433,972 461,972 489,974 1003,962 1043,962 1084,963 1112,963"
+                         HEIGHT="52"
+                         WIDTH="974"
+                         VPOS="942"
+                         HPOS="138">
+                  <String ID="string_line_1621256423613_1091"
+                          HEIGHT="52"
+                          WIDTH="974"
+                          VPOS="942"
+                          HPOS="138"
+                          CONTENT="42. „ Bruck. 57 26"/>
+               </TextLine>
+               <TextLine ID="line_1621256430050_1096"
+                         BASELINE="134,1011 176,1015 294,1020 314,1020 405,1009 431,1009 457,1008 484,1008 510,1008 536,1008 563,1010 1005,998 1040,997 1084,997 1112,999 1140,1005"
+                         HEIGHT="53"
+                         WIDTH="1006"
+                         VPOS="977"
+                         HPOS="134">
+                  <String ID="string_line_1621256430050_1096"
+                          HEIGHT="53"
+                          WIDTH="1006"
+                          VPOS="977"
+                          HPOS="134"
+                          CONTENT="43. „ Tittmonnig. 47 29 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256438160_1100"
+                         BASELINE="133,1048 177,1046 296,1053 316,1055 406,1043 433,1044 460,1043 488,1043 1010,1031 1032,1033 1080,1031 1108,1034 1137,1038"
+                         HEIGHT="54"
+                         WIDTH="1004"
+                         VPOS="1011"
+                         HPOS="133">
+                  <String ID="string_line_1621256438160_1100"
+                          HEIGHT="54"
+                          WIDTH="1004"
+                          VPOS="1011"
+                          HPOS="133"
+                          CONTENT="44. „ Prim. 22 32 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256444513_1104"
+                         BASELINE="137,1082 174,1083 303,1090 324,1090 410,1080 438,1078 467,1078 495,1078 524,1078 1003,1067 1036,1067 1079,1068 1119,1070"
+                         HEIGHT="53"
+                         WIDTH="982"
+                         VPOS="1047"
+                         HPOS="137">
+                  <String ID="string_line_1621256444513_1104"
+                          HEIGHT="53"
+                          WIDTH="982"
+                          VPOS="1047"
+                          HPOS="137"
+                          CONTENT="45. „ Misbach. 74 45"/>
+               </TextLine>
+               <TextLine ID="line_1621256449678_1108"
+                         BASELINE="134,1117 176,1118 296,1124 316,1124 412,1116 440,1112 469,1112 497,1113 526,1114 1003,1102 1034,1102 1078,1101 1112,1103"
+                         HEIGHT="53"
+                         WIDTH="978"
+                         VPOS="1081"
+                         HPOS="134">
+                  <String ID="string_line_1621256449678_1108"
+                          HEIGHT="53"
+                          WIDTH="978"
+                          VPOS="1081"
+                          HPOS="134"
+                          CONTENT="46. „ Freyſing. 53 54"/>
+               </TextLine>
+               <TextLine ID="line_1621256457183_1112"
+                         BASELINE="142,1151 175,1154 303,1156 323,1160 404,1147 429,1147 454,1147 479,1148 504,1148 529,1148 554,1148 579,1149 604,1149 629,1150 654,1150 1006,1139 1044,1140 1092,1138 1114,1138"
+                         HEIGHT="52"
+                         WIDTH="972"
+                         VPOS="1118"
+                         HPOS="142">
+                  <String ID="string_line_1621256457183_1112"
+                          HEIGHT="52"
+                          WIDTH="972"
+                          VPOS="1118"
+                          HPOS="142"
+                          CONTENT="47. „ Wofsrathshauſen. 14 15"/>
+               </TextLine>
+               <TextLine ID="line_1621256464807_1118"
+                         BASELINE="136,1183 184,1182 298,1196 320,1196 408,1181 433,1182 458,1182 483,1183 508,1183 533,1184 990,1172 1016,1172 1042,1172 1089,1172 1135,1178"
+                         HEIGHT="54"
+                         WIDTH="999"
+                         VPOS="1152"
+                         HPOS="136">
+                  <String ID="string_line_1621256464807_1118"
+                          HEIGHT="54"
+                          WIDTH="999"
+                          VPOS="1152"
+                          HPOS="136"
+                          CONTENT="48. „ Grisbach. 186 15 ¼"/>
+               </TextLine>
+               <TextLine ID="line_1621256470192_1122"
+                         BASELINE="137,1218 177,1222 293,1226 323,1228 410,1215 438,1216 466,1217 494,1216 522,1216 550,1216 579,1218 1013,1206 1047,1206 1088,1207 1115,1209 1142,1211"
+                         HEIGHT="52"
+                         WIDTH="1005"
+                         VPOS="1186"
+                         HPOS="137">
+                  <String ID="string_line_1621256470192_1122"
+                          HEIGHT="52"
+                          WIDTH="1005"
+                          VPOS="1186"
+                          HPOS="137"
+                          CONTENT="49. „ Burghauſen. 44 21 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256474762_1126"
+                         BASELINE="134,1253 180,1254 301,1258 321,1250 410,1251 441,1249 472,1249 504,1251 1011,1240 1041,1242 1084,1239 1118,1244"
+                         HEIGHT="49"
+                         WIDTH="984"
+                         VPOS="1219"
+                         HPOS="134">
+                  <String ID="string_line_1621256474762_1126"
+                          HEIGHT="49"
+                          WIDTH="984"
+                          VPOS="1219"
+                          HPOS="134"
+                          CONTENT="50. „ Laufen. 89 51"/>
+               </TextLine>
+               <TextLine ID="line_1621256482942_1130"
+                         BASELINE="142,1290 180,1293 298,1291 320,1283 406,1286 433,1284 461,1283 489,1282 516,1282 544,1283 572,1284 1008,1274 1036,1275 1096,1273 1118,1275"
+                         HEIGHT="48"
+                         WIDTH="976"
+                         VPOS="1253"
+                         HPOS="142">
+                  <String ID="string_line_1621256482942_1130"
+                          HEIGHT="48"
+                          WIDTH="976"
+                          VPOS="1253"
+                          HPOS="142"
+                          CONTENT="51. „ Reichenhall. 56 3"/>
+               </TextLine>
+               <TextLine ID="line_1621256487888_1134"
+                         BASELINE="136,1325 183,1327 308,1331 446,1320 478,1320 510,1320 1002,1311 1042,1315 1116,1315 1140,1317"
+                         HEIGHT="46"
+                         WIDTH="1004"
+                         VPOS="1291"
+                         HPOS="136">
+                  <String ID="string_line_1621256487888_1134"
+                          HEIGHT="46"
+                          WIDTH="1004"
+                          VPOS="1291"
+                          HPOS="136"
+                          CONTENT="52. „ Villach. 21 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256496911_1139"
+                         BASELINE="138,1363 178,1363 304,1368 326,1366 408,1355 437,1355 467,1353 496,1351 526,1351 556,1355 985,1349 1012,1347 1039,1349 1083,1348 1117,1350"
+                         HEIGHT="51"
+                         WIDTH="979"
+                         VPOS="1327"
+                         HPOS="138">
+                  <String ID="string_line_1621256496911_1139"
+                          HEIGHT="51"
+                          WIDTH="979"
+                          VPOS="1327"
+                          HPOS="138"
+                          CONTENT="53. „ Muͤhldorf. 153 29"/>
+               </TextLine>
+               <TextLine ID="line_1621256501879_1143"
+                         BASELINE="133,1397 184,1401 306,1404 328,1404 413,1392 439,1392 465,1392 491,1391 517,1390 543,1390 569,1392 990,1386 1016,1385 1042,1386 1098,1383 1146,1387"
+                         HEIGHT="51"
+                         WIDTH="1013"
+                         VPOS="1363"
+                         HPOS="133">
+                  <String ID="string_line_1621256501879_1143"
+                          HEIGHT="51"
+                          WIDTH="1013"
+                          VPOS="1363"
+                          HPOS="133"
+                          CONTENT="54. „ Trauenſtein. 112 1 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256508704_1147"
+                         BASELINE="140,1434 182,1432 305,1442 440,1426 467,1426 494,1425 522,1426 1010,1418 1039,1415 1084,1416 1116,1418"
+                         HEIGHT="49"
+                         WIDTH="976"
+                         VPOS="1395"
+                         HPOS="140">
+                  <String ID="string_line_1621256508704_1147"
+                          HEIGHT="49"
+                          WIDTH="976"
+                          VPOS="1395"
+                          HPOS="140"
+                          CONTENT="55. „ Dachau. 78 40"/>
+               </TextLine>
+               <TextLine ID="line_1621256532315_1158"
+                         BASELINE="139,1468 178,1470 311,1477 439,1463 468,1461 497,1460 526,1460 555,1461 1048,1454 1023,1454"
+                         HEIGHT="59"
+                         WIDTH="909"
+                         VPOS="1440"
+                         HPOS="139">
+                  <String ID="string_line_1621256532315_1158"
+                          HEIGHT="59"
+                          WIDTH="909"
+                          VPOS="1440"
+                          HPOS="139"
+                          CONTENT="56. „ Vilshofen. 7"/>
+               </TextLine>
+               <TextLine ID="line_1621256526555_1154"
+                         BASELINE="140,1504 172,1506 309,1508 329,1510 416,1494 444,1496 472,1496 500,1496 528,1496 557,1498 1051,1491 1027,1490"
+                         HEIGHT="62"
+                         WIDTH="911"
+                         VPOS="1474"
+                         HPOS="140">
+                  <String ID="string_line_1621256526555_1154"
+                          HEIGHT="62"
+                          WIDTH="911"
+                          VPOS="1474"
+                          HPOS="140"
+                          CONTENT="57. „ Wolfsſtein. 8"/>
+               </TextLine>
+               <TextLine ID="line_1621256545442_1163"
+                         BASELINE="146,1538 172,1539 310,1543 425,1536 468,1532 497,1532 526,1532 556,1531 1023,1521 1052,1522 1094,1517 1124,1521"
+                         HEIGHT="73"
+                         WIDTH="978"
+                         VPOS="1476"
+                         HPOS="146">
+                  <String ID="string_line_1621256545442_1163"
+                          HEIGHT="73"
+                          WIDTH="978"
+                          VPOS="1476"
+                          HPOS="146"
+                          CONTENT="58. „ Wolfsſtein. 9 6"/>
+               </TextLine>
+               <TextLine ID="line_1621256551047_1167"
+                         BASELINE="144,1574 174,1574 231,1571 258,1570 285,1570 312,1570 339,1570 367,1569 396,1570 422,1569 448,1569 474,1568 500,1568 526,1568 552,1568 578,1567 605,1567 631,1567 657,1567 683,1566 709,1566 735,1566 761,1566 788,1565 1013,1563 1044,1554 1081,1556 1113,1556 1145,1562"
+                         HEIGHT="60"
+                         WIDTH="1001"
+                         VPOS="1524"
+                         HPOS="144">
+                  <String ID="string_line_1621256551047_1167"
+                          HEIGHT="60"
+                          WIDTH="1001"
+                          VPOS="1524"
+                          HPOS="144"
+                          CONTENT="59. Koͤnigliche Regierung des Regenkreiſes. 88 23 ¼"/>
+               </TextLine>
+               <TextLine ID="line_1621256555804_1171"
+                         BASELINE="142,1607 177,1610 307,1614 327,1616 409,1602 441,1604 474,1604 507,1604 1006,1590 1047,1591 1087,1588 1119,1592"
+                         HEIGHT="58"
+                         WIDTH="977"
+                         VPOS="1568"
+                         HPOS="142">
+                  <String ID="string_line_1621256555804_1171"
+                          HEIGHT="58"
+                          WIDTH="977"
+                          VPOS="1568"
+                          HPOS="142"
+                          CONTENT="60. „ dieſelbe 50 44"/>
+               </TextLine>
+               <TextLine ID="line_1621256560505_1175"
+                         BASELINE="144,1641 184,1645 306,1647 326,1648 390,1640 415,1640 440,1640 465,1639 490,1639 515,1639 541,1638 566,1638 591,1637 616,1636 641,1636 666,1635 692,1635 717,1635 742,1634 767,1634 792,1634 817,1634 843,1635 973,1628 1007,1625 1042,1627 1081,1622 1111,1624"
+                         HEIGHT="56"
+                         WIDTH="967"
+                         VPOS="1602"
+                         HPOS="144">
+                  <String ID="string_line_1621256560505_1175"
+                          HEIGHT="56"
+                          WIDTH="967"
+                          VPOS="1602"
+                          HPOS="144"
+                          CONTENT="61. „ Regierung des Oberdonaukreiſes. 2310 49"/>
+               </TextLine>
+               <TextLine ID="line_1621256568848_1179"
+                         BASELINE="141,1678 179,1680 308,1684 328,1684 615,1672 642,1671 670,1671 697,1671 725,1671 752,1671 780,1671 1022,1659 1042,1661 1089,1656 1117,1660"
+                         HEIGHT="58"
+                         WIDTH="976"
+                         VPOS="1636"
+                         HPOS="141">
+                  <String ID="string_line_1621256568848_1179"
+                          HEIGHT="58"
+                          WIDTH="976"
+                          VPOS="1636"
+                          HPOS="141"
+                          CONTENT="62. „ „ „ Rezatkreiſes. 2 42"/>
+               </TextLine>
+               <TextLine ID="line_1621256573502_1183"
+                         BASELINE="144,1713 185,1712 313,1716 324,1717 400,1707 425,1708 450,1708 475,1708 501,1708 526,1708 551,1708 576,1708 602,1708 627,1708 652,1708 678,1709 982,1695 1011,1695 1041,1698 1086,1691 1114,1695 1143,1700"
+                         HEIGHT="56"
+                         WIDTH="999"
+                         VPOS="1671"
+                         HPOS="144">
+                  <String ID="string_line_1621256573502_1183"
+                          HEIGHT="56"
+                          WIDTH="999"
+                          VPOS="1671"
+                          HPOS="144"
+                          CONTENT="63. „ dieſelbe naͤchtraͤglich. 1807 39 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256583344_1191"
+                         BASELINE="144,1747 178,1751 234,1746 260,1745 287,1746 314,1745 340,1745 367,1745 394,1744 403,1744 429,1745 455,1745 481,1745 507,1744 1009,1730 1041,1732 1084,1727 1113,1730"
+                         HEIGHT="54"
+                         WIDTH="969"
+                         VPOS="1707"
+                         HPOS="144">
+                  <String ID="string_line_1621256583344_1191"
+                          HEIGHT="54"
+                          WIDTH="969"
+                          VPOS="1707"
+                          HPOS="144"
+                          CONTENT="64. Landgericht Landau 14 30"/>
+               </TextLine>
+               <TextLine ID="line_1621256578789_1187"
+                         BASELINE="142,1784 183,1784 305,1784 435,1779 462,1779 489,1779 516,1779 543,1778 570,1777 1012,1766 1044,1767 1090,1763 1120,1765"
+                         HEIGHT="51"
+                         WIDTH="978"
+                         VPOS="1743"
+                         HPOS="142">
+                  <String ID="string_line_1621256578789_1187"
+                          HEIGHT="51"
+                          WIDTH="978"
+                          VPOS="1743"
+                          HPOS="142"
+                          CONTENT="65. „ Altoͤttingen. 61 16"/>
+               </TextLine>
+               <TextLine ID="line_1621256587888_1195"
+                         BASELINE="144,1817 178,1820 238,1814 268,1815 299,1815 330,1815 360,1815 391,1815 422,1815 452,1814 483,1814 514,1814 545,1813 575,1813 606,1812 637,1811 667,1811 698,1810 729,1809 759,1809 790,1809 821,1808 852,1808 982,1802 1012,1800 1042,1802 1085,1796 1115,1800 1145,1804"
+                         HEIGHT="54"
+                         WIDTH="1001"
+                         VPOS="1776"
+                         HPOS="144">
+                  <String ID="string_line_1621256587888_1195"
+                          HEIGHT="54"
+                          WIDTH="1001"
+                          VPOS="1776"
+                          HPOS="144"
+                          CONTENT="66. Koͤnigliche Regierung des Untermainkreiſes. 1524 49 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256592646_1199"
+                         BASELINE="142,1851 187,1854 310,1851 551,1847 577,1847 603,1846 628,1846 654,1846 680,1845 705,1845 731,1844 757,1844 782,1844 808,1844 834,1844 859,1844 885,1844 911,1843 937,1843 1016,1834 1038,1834 1090,1832 1153,1838"
+                         HEIGHT="53"
+                         WIDTH="969"
+                         VPOS="1812"
+                         HPOS="142">
+                  <String ID="string_line_1621256592646_1199"
+                          HEIGHT="53"
+                          WIDTH="969"
+                          VPOS="1812"
+                          HPOS="142"
+                          CONTENT="67. „ „ des Obermainkreiſes nachtraͤgl. 66 30 ¼"/>
+               </TextLine>
+               <TextLine ID="line_1621256597290_1203"
+                         BASELINE="141,1888 181,1890 237,1883 268,1884 299,1885 330,1885 361,1885 392,1885 423,1885 454,1884 485,1884 516,1884 548,1883 579,1883 610,1882 641,1882 672,1881 703,1881 734,1880 765,1880 796,1879 827,1879 859,1879 1011,1870 1038,1869 1083,1866 1115,1868 1147,1872"
+                         HEIGHT="54"
+                         WIDTH="1006"
+                         VPOS="1846"
+                         HPOS="141">
+                  <String ID="string_line_1621256597290_1203"
+                          HEIGHT="54"
+                          WIDTH="1006"
+                          VPOS="1846"
+                          HPOS="141"
+                          CONTENT="68. Landgericht Hohenfelden im Obermainkreiſe. 14 15 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256602334_1207"
+                         BASELINE="145,1924 183,1926 242,1920 270,1920 298,1920 327,1920 355,1920 397,1919 977,1907 1007,1905 1037,1905 1084,1899 1114,1901"
+                         HEIGHT="57"
+                         WIDTH="969"
+                         VPOS="1879"
+                         HPOS="145">
+                  <String ID="string_line_1621256602334_1207"
+                          HEIGHT="57"
+                          WIDTH="969"
+                          VPOS="1879"
+                          HPOS="145"
+                          CONTENT="69. Rheinkreis. 2829 43"/>
+               </TextLine>
+               <TextLine ID="line_1621256606073_1211"
+                         BASELINE="144,1959 178,1957 237,1957 270,1958 304,1958 337,1958 371,1958 404,1957 438,1956 471,1955 505,1955 538,1954 572,1953 606,1952 639,1951 673,1950 706,1949 740,1948 773,1948 807,1948 840,1947 874,1948 923,1946 1010,1937 1039,1940"
+                         HEIGHT="52"
+                         WIDTH="895"
+                         VPOS="1917"
+                         HPOS="144">
+                  <String ID="string_line_1621256606073_1211"
+                          HEIGHT="52"
+                          WIDTH="895"
+                          VPOS="1917"
+                          HPOS="144"
+                          CONTENT="70. Ausland. Durch Wohlthaͤter in Mannheim. 65"/>
+               </TextLine>
+               <TextLine ID="line_1621256611689_1215"
+                         BASELINE="138,1995 182,1995 458,2002 478,2002 598,1997 618,1997 703,1985 731,1985 760,1985 788,1986 817,1985 846,1985 1014,1974 1038,1974 1086,1974 1126,1974"
+                         HEIGHT="58"
+                         WIDTH="988"
+                         VPOS="1954"
+                         HPOS="138">
+                  <String ID="string_line_1621256611689_1215"
+                          HEIGHT="58"
+                          WIDTH="988"
+                          VPOS="1954"
+                          HPOS="138"
+                          CONTENT="71. „ „ in Mainz. 16 27"/>
+               </TextLine>
+               <TextLine ID="line_1621256622483_1223"
+                         BASELINE="981,2022 1009,2020 1037,2022 1085,2020 1112,2017 1139,2016"
+                         HEIGHT="36"
+                         WIDTH="158"
+                         VPOS="1996"
+                         HPOS="981">
+                  <String ID="string_line_1621256622483_1223"
+                          HEIGHT="36"
+                          WIDTH="158"
+                          VPOS="1996"
+                          HPOS="981"
+                          CONTENT="9961 36 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256627052_1227"
+                         BASELINE="630,2063 655,2062 681,2062 707,2062 732,2061 758,2061 784,2062 810,2062 835,2062 861,2062 887,2062 913,2062 972,2060 1001,2059 1030,2057 1060,2058 1082,2058 1109,2057 1136,2059 1164,2056"
+                         HEIGHT="37"
+                         WIDTH="534"
+                         VPOS="2036"
+                         HPOS="630">
+                  <String ID="string_line_1621256627052_1227"
+                          HEIGHT="37"
+                          WIDTH="534"
+                          VPOS="2036"
+                          HPOS="630"
+                          CONTENT="Total⸗Summe... 12,782 33 ¾"/>
+               </TextLine>
+               <TextLine ID="line_1621256630577_1231"
+                         BASELINE="541,2108 566,2108 591,2108 616,2107 641,2107 666,2107 691,2107 716,2107 741,2106 766,2106 791,2106 816,2106 841,2106 866,2106 891,2107 916,2107 951,2103 976,2101 1002,2101 1027,2101 1053,2099"
+                         HEIGHT="39"
+                         WIDTH="512"
+                         VPOS="2079"
+                         HPOS="541">
+                  <String ID="string_line_1621256630577_1231"
+                          HEIGHT="39"
+                          WIDTH="512"
+                          VPOS="2079"
+                          HPOS="541"
+                          CONTENT="Unterzeichnet Zimmer, Pfarrer."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

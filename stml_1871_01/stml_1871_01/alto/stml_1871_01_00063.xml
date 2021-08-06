@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:40:05.482+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2339" WIDTH="1419">
+         <TopMargin HEIGHT="0" WIDTH="1419" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="1419"/>
+         <BottomMargin HEIGHT="0" WIDTH="1419" VPOS="2339" HPOS="0"/>
+         <PrintSpace HEIGHT="2339" WIDTH="1419" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2246" WIDTH="1276" VPOS="37" HPOS="49">
+               <Shape>
+                  <Polygon POINTS="49,37 49,2283 1325,2283 1325,37"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="641,58 669,62 697,60"
+                         HEIGHT="35"
+                         WIDTH="56"
+                         VPOS="37"
+                         HPOS="641">
+                  <String ID="string_r1l1"
+                          HEIGHT="35"
+                          WIDTH="56"
+                          VPOS="37"
+                          HPOS="641"
+                          CONTENT="57"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="55,153 117,153 180,154 242,154 305,154 367,154 430,155 492,155 555,155 617,155 680,155 742,155 805,155 867,154 930,154 992,154 1055,154 1117,155 1180,155 1242,155 1305,155"
+                         HEIGHT="33"
+                         WIDTH="1250"
+                         VPOS="132"
+                         HPOS="55">
+                  <String ID="string_r1l2"
+                          HEIGHT="33"
+                          WIDTH="1250"
+                          VPOS="132"
+                          HPOS="55"
+                          CONTENT="gaben in Hindoſtan einer viermal größern Zahl von Anhängern als alle proteſtanti⸗"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="57,197 118,198 180,199 242,199 304,200 366,200 427,200 489,200 551,200 613,200 675,199 736,199 798,199 860,199 922,199 984,198 1045,199 1107,199 1169,199 1231,199 1293,200"
+                         HEIGHT="34"
+                         WIDTH="1236"
+                         VPOS="176"
+                         HPOS="57">
+                  <String ID="string_r1l3"
+                          HEIGHT="34"
+                          WIDTH="1236"
+                          VPOS="176"
+                          HPOS="57"
+                          CONTENT="ſchen Denominationen zuſammen. In Wirklichkeit iſt der Unterſchied noch viel bedeu⸗"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="49,242 111,242 174,242 237,243 300,243 363,243 425,243 488,243 551,243 614,243 677,243 739,243 802,243 865,243 928,243 991,243 1053,243 1116,243 1179,243 1242,243 1305,243"
+                         HEIGHT="32"
+                         WIDTH="1256"
+                         VPOS="221"
+                         HPOS="49">
+                  <String ID="string_r1l4"
+                          HEIGHT="32"
+                          WIDTH="1256"
+                          VPOS="221"
+                          HPOS="49"
+                          CONTENT="tender. Der Verfaſſer zählt 730,000 Römiſche Katholiken in Vorderindien. Nach der"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="49,287 111,287 174,287 236,288 299,288 361,288 424,288 486,288 549,288 611,287 674,287 736,287 799,287 861,287 924,287 986,287 1049,287 1111,287 1174,287 1236,287 1299,287"
+                         HEIGHT="32"
+                         WIDTH="1250"
+                         VPOS="266"
+                         HPOS="49">
+                  <String ID="string_r1l5"
+                          HEIGHT="32"
+                          WIDTH="1250"
+                          VPOS="266"
+                          HPOS="49"
+                          CONTENT="Ausgabe des Madras Directory von 1870 ſind es, mit Ausſchluß der unter Goani⸗"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="57,330 118,330 180,331 242,331 304,332 366,332 428,332 490,332 552,331 614,331 676,331 737,331 799,331 861,330 923,330 985,330 1047,330 1109,331 1171,331 1233,331 1295,332"
+                         HEIGHT="33"
+                         WIDTH="1238"
+                         VPOS="309"
+                         HPOS="57">
+                  <String ID="string_r1l6"
+                          HEIGHT="33"
+                          WIDTH="1238"
+                          VPOS="309"
+                          HPOS="57"
+                          CONTENT="ſcher Jurisdiction ſtehenden, nicht weniger als 924,733. Dazu kommen aber nach"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="51,374 113,375 175,375 238,375 300,376 363,376 425,376 488,376 550,376 613,376 675,375 737,375 800,375 862,375 925,375 987,375 1050,375 1112,375 1175,376 1237,376 1300,376"
+                         HEIGHT="33"
+                         WIDTH="1249"
+                         VPOS="353"
+                         HPOS="51">
+                  <String ID="string_r1l7"
+                          HEIGHT="33"
+                          WIDTH="1249"
+                          VPOS="353"
+                          HPOS="51"
+                          CONTENT="Beilegung des Goaniſchen Schisma’s 130,394, die der hl. Stuhl durch Anerkennung"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="53,418 115,419 177,420 239,420 302,420 364,421 426,421 489,421 551,421 613,420 676,420 738,420 800,420 862,420 925,419 987,419 1049,419 1112,419 1174,419 1236,420 1299,420"
+                         HEIGHT="34"
+                         WIDTH="1246"
+                         VPOS="397"
+                         HPOS="53">
+                  <String ID="string_r1l8"
+                          HEIGHT="34"
+                          WIDTH="1246"
+                          VPOS="397"
+                          HPOS="53"
+                          CONTENT="des Status quo unter der Jurisdiction des Erzbiſchofs von Goa gelaſſen hat, obwohl"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="59,464 121,464 183,464 245,464 307,464 369,464 431,464 493,464 555,464 617,464 679,464 741,464 803,464 865,464 927,464 989,464 1051,464 1113,464 1175,464 1237,464 1317,464"
+                         HEIGHT="31"
+                         WIDTH="1240"
+                         VPOS="443"
+                         HPOS="59">
+                  <String ID="string_r1l9"
+                          HEIGHT="31"
+                          WIDTH="1240"
+                          VPOS="443"
+                          HPOS="59"
+                          CONTENT="ſie in den engliſchen Beſitzungen innerhalb der Apoſtoliſchen Vicariate zerſtreut leben;"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="49,509 112,509 175,509 238,509 301,509 364,509 427,509 490,509 553,509 616,509 679,509 742,509 805,509 868,509 931,509 994,509 1057,509 1120,508 1183,508 1246,508 1310,508"
+                         HEIGHT="32"
+                         WIDTH="1261"
+                         VPOS="487"
+                         HPOS="49">
+                  <String ID="string_r1l10"
+                          HEIGHT="32"
+                          WIDTH="1261"
+                          VPOS="487"
+                          HPOS="49"
+                          CONTENT="und endlich 300,000 Katholiken in der portugieſiſchen Colonie. Demnach wären in"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="50,553 113,553 176,553 239,553 302,553 365,553 428,552 491,552 554,552 617,552 680,552 743,552 806,552 869,552 932,552 995,552 1058,552 1121,552 1184,552 1247,552 1310,552"
+                         HEIGHT="32"
+                         WIDTH="1260"
+                         VPOS="531"
+                         HPOS="50">
+                  <String ID="string_r1l11"
+                          HEIGHT="32"
+                          WIDTH="1260"
+                          VPOS="531"
+                          HPOS="50"
+                          CONTENT="Indien 1,355,127 Katholiken. Proteſtanten zählt aber Hr. Grundemann nur 187,000."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="60,597 122,597 184,597 246,597 308,597 371,597 433,597 495,597 557,597 619,597 682,598 744,597 806,597 868,597 930,597 993,597 1055,597 1117,597 1179,597 1241,596 1304,596"
+                         HEIGHT="32"
+                         WIDTH="1244"
+                         VPOS="576"
+                         HPOS="60">
+                  <String ID="string_r1l12"
+                          HEIGHT="32"
+                          WIDTH="1244"
+                          VPOS="576"
+                          HPOS="60"
+                          CONTENT="Und auch dieſe Summe hat er nicht durch Zuſammenrechnen ſpecieller Angaben, ſon⸗"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="53,641 115,641 178,641 241,641 303,641 366,641 429,640 491,640 554,640 617,640 680,640 742,640 805,640 868,640 930,640 993,640 1056,640 1118,640 1181,640 1244,640 1307,640"
+                         HEIGHT="31"
+                         WIDTH="1254"
+                         VPOS="620"
+                         HPOS="53">
+                  <String ID="string_r1l13"
+                          HEIGHT="31"
+                          WIDTH="1254"
+                          VPOS="620"
+                          HPOS="53"
+                          CONTENT="dern bloß durch eine Wahrſcheinlichkeitsrechnung en bloe herausgebracht. Hier wird"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="58,686 120,685 183,685 245,684 308,684 371,684 433,684 496,684 558,684 621,685 684,685 746,685 809,685 871,686 934,686 997,686 1059,686 1122,685 1184,685 1247,684 1310,684"
+                         HEIGHT="33"
+                         WIDTH="1252"
+                         VPOS="663"
+                         HPOS="58">
+                  <String ID="string_r1l14"
+                          HEIGHT="33"
+                          WIDTH="1252"
+                          VPOS="663"
+                          HPOS="58"
+                          CONTENT="gleichfalls eine Berichtigung angezeigt ſein. „Die ganze Zahl der in irgend einem"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="61,729 123,729 185,729 247,729 309,729 371,729 433,729 496,728 558,728 620,728 682,728 744,728 806,728 868,728 931,728 993,728 1055,728 1117,728 1179,728 1241,729 1304,729"
+                         HEIGHT="31"
+                         WIDTH="1243"
+                         VPOS="708"
+                         HPOS="61">
+                  <String ID="string_r1l15"
+                          HEIGHT="31"
+                          WIDTH="1243"
+                          VPOS="708"
+                          HPOS="61"
+                          CONTENT="Sinne zum Chriſtenthum Bekehrten“, ſchreibt der proteſtantiſche Miſſionär Ward,"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="59,775 121,775 184,775 246,774 309,774 371,774 434,773 496,773 559,773 621,772 684,772 747,772 809,771 872,771 934,771 997,771 1059,771 1122,772 1184,772 1247,773 1310,774"
+                         HEIGHT="35"
+                         WIDTH="1251"
+                         VPOS="750"
+                         HPOS="59">
+                  <String ID="string_r1l16"
+                          HEIGHT="35"
+                          WIDTH="1251"
+                          VPOS="750"
+                          HPOS="59"
+                          CONTENT="„beträgt nicht ein Zehntel der in den Miſſionsberichten genannten.“ ¹ Wie dem aber"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="51,819 113,819 176,819 238,818 301,818 364,818 426,817 489,817 551,816 614,816 677,816 739,815 802,815 864,815 927,815 990,815 1052,815 1115,816 1177,816 1240,816 1303,817"
+                         HEIGHT="34"
+                         WIDTH="1252"
+                         VPOS="795"
+                         HPOS="51">
+                  <String ID="string_r1l17"
+                          HEIGHT="34"
+                          WIDTH="1252"
+                          VPOS="795"
+                          HPOS="51"
+                          CONTENT="auch ſei, jedenfalls zählt die katholiſche Kirche weit mehr Anhänger, als alle ihr"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="54,865 116,864 179,863 241,862 304,861 367,861 429,861 492,860 554,860 617,860 680,860 742,860 805,860 867,860 930,860 993,860 1055,860 1118,860 1180,859 1243,859 1306,858"
+                         HEIGHT="37"
+                         WIDTH="1252"
+                         VPOS="838"
+                         HPOS="54">
+                  <String ID="string_r1l18"
+                          HEIGHT="37"
+                          WIDTH="1252"
+                          VPOS="838"
+                          HPOS="54"
+                          CONTENT="gegenüberſtehenden Miſſionsvereine, und dem entſprechend hätte der Atlas ihr wohl"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="58,906 120,906 182,906 245,906 307,906 370,906 432,906 494,906 557,906 619,906 682,906 744,906 806,905 869,905 931,905 994,905 1056,904 1118,904 1181,904 1243,904 1306,904"
+                         HEIGHT="32"
+                         WIDTH="1248"
+                         VPOS="884"
+                         HPOS="58">
+                  <String ID="string_r1l19"
+                          HEIGHT="32"
+                          WIDTH="1248"
+                          VPOS="884"
+                          HPOS="58"
+                          CONTENT="etwas mehr einräumen können, als der geringſten dieſer Geſellſchaften. Um gleich"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="55,951 117,951 180,951 242,951 305,951 368,951 430,951 493,951 556,950 618,950 681,950 744,950 806,950 869,950 932,950 994,950 1057,950 1120,950 1182,949 1245,949 1308,949"
+                         HEIGHT="33"
+                         WIDTH="1253"
+                         VPOS="928"
+                         HPOS="55">
+                  <String ID="string_r1l20"
+                          HEIGHT="33"
+                          WIDTH="1253"
+                          VPOS="928"
+                          HPOS="55"
+                          CONTENT="unſern Wunſch zu präciſiren: es will uns bedünken, die katholiſche Miſſion könne gar"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="62,996 123,996 185,996 247,996 309,995 371,995 432,995 494,995 556,995 618,995 680,995 741,995 803,995 865,995 927,995 989,995 1050,995 1112,994 1174,994 1236,994 1298,994"
+                         HEIGHT="33"
+                         WIDTH="1236"
+                         VPOS="973"
+                         HPOS="62">
+                  <String ID="string_r1l21"
+                          HEIGHT="33"
+                          WIDTH="1236"
+                          VPOS="973"
+                          HPOS="62"
+                          CONTENT="nicht gehörig in einem Atlas dargeſtellt werden, ohne daß ihre ebenſo großartige als"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="57,1041 119,1041 182,1040 244,1040 307,1040 369,1040 432,1040 494,1040 557,1040 619,1040 682,1040 744,1039 807,1039 869,1039 932,1039 994,1039 1057,1039 1119,1039 1182,1039 1244,1038 1307,1038"
+                         HEIGHT="33"
+                         WIDTH="1250"
+                         VPOS="1018"
+                         HPOS="57">
+                  <String ID="string_r1l22"
+                          HEIGHT="33"
+                          WIDTH="1250"
+                          VPOS="1018"
+                          HPOS="57"
+                          CONTENT="feſte Organiſation nach Bisthümern und Apoſtoliſchen Vicariaten in anſchaulicher"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="63,1083 115,1083 168,1084 221,1084 274,1084 326,1085 379,1085 432,1085 485,1085 537,1085 590,1085 643,1085 696,1085 748,1084 801,1084 854,1084 907,1084 959,1084 1012,1083 1065,1083 1118,1083"
+                         HEIGHT="32"
+                         WIDTH="1055"
+                         VPOS="1063"
+                         HPOS="63">
+                  <String ID="string_r1l23"
+                          HEIGHT="32"
+                          WIDTH="1055"
+                          VPOS="1063"
+                          HPOS="63"
+                          CONTENT="Weiſe, etwa durch farbige Grenzen, auf der Karte zum Ausdruck kämen."/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="121,1128 180,1129 239,1129 298,1129 358,1130 417,1130 476,1130 536,1130 595,1130 654,1130 714,1129 773,1129 832,1129 891,1129 951,1129 1010,1128 1069,1128 1129,1128 1188,1128 1247,1127 1307,1127"
+                         HEIGHT="34"
+                         WIDTH="1186"
+                         VPOS="1106"
+                         HPOS="121">
+                  <String ID="string_r1l24"
+                          HEIGHT="34"
+                          WIDTH="1186"
+                          VPOS="1106"
+                          HPOS="121"
+                          CONTENT="Wir gehen nun zu dem den Karten beigegebenen Texte über. Hier hat der Ver⸗"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="60,1174 122,1174 185,1174 247,1174 310,1174 373,1174 435,1174 498,1174 560,1174 623,1174 686,1174 748,1173 811,1173 873,1173 936,1173 999,1173 1061,1172 1124,1172 1186,1172 1249,1172 1312,1172"
+                         HEIGHT="33"
+                         WIDTH="1252"
+                         VPOS="1151"
+                         HPOS="60">
+                  <String ID="string_r1l25"
+                          HEIGHT="33"
+                          WIDTH="1252"
+                          VPOS="1151"
+                          HPOS="60"
+                          CONTENT="faſſer einſeitigen proteſtantiſchen Miſſionsberichten und wohl auch ſeiner eigenen Her⸗"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="59,1219 121,1219 184,1219 246,1219 309,1218 372,1218 434,1218 497,1218 560,1218 622,1218 685,1218 748,1218 810,1217 873,1217 936,1217 998,1217 1061,1217 1124,1217 1186,1216 1249,1216 1312,1216"
+                         HEIGHT="34"
+                         WIDTH="1253"
+                         VPOS="1195"
+                         HPOS="59">
+                  <String ID="string_r1l26"
+                          HEIGHT="34"
+                          WIDTH="1253"
+                          VPOS="1195"
+                          HPOS="59"
+                          CONTENT="zensneigung zu viel vertraut. Darum bringt er, gewiß gegen ſeinen Willen, manches"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="53,1262 115,1262 178,1262 241,1263 304,1263 367,1263 430,1263 492,1263 555,1263 618,1263 681,1262 744,1262 807,1262 870,1262 932,1261 995,1261 1058,1260 1121,1260 1184,1259 1247,1259 1310,1258"
+                         HEIGHT="35"
+                         WIDTH="1257"
+                         VPOS="1238"
+                         HPOS="53">
+                  <String ID="string_r1l27"
+                          HEIGHT="35"
+                          WIDTH="1257"
+                          VPOS="1238"
+                          HPOS="53"
+                          CONTENT="Irrthümliche vor. Daß er den Jeſuiten vorwirft, „durch Einmiſchung in die Colo⸗"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="63,1305 125,1306 187,1307 249,1307 312,1307 374,1308 436,1307 498,1307 561,1307 623,1307 685,1306 747,1306 810,1305 872,1305 934,1305 996,1304 1059,1304 1121,1304 1183,1304 1245,1304 1308,1305"
+                         HEIGHT="34"
+                         WIDTH="1245"
+                         VPOS="1284"
+                         HPOS="63">
+                  <String ID="string_r1l28"
+                          HEIGHT="34"
+                          WIDTH="1245"
+                          VPOS="1284"
+                          HPOS="63"
+                          CONTENT="nial⸗Regierung u. ſ. w.“ das Miſſionsweſen auf den Philippinen geſchädigt zu haben,"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="57,1349 119,1350 182,1351 244,1351 307,1351 369,1351 432,1351 494,1351 557,1351 619,1351 682,1351 745,1350 807,1350 870,1350 932,1350 995,1349 1057,1349 1120,1348 1182,1348 1245,1348 1308,1347"
+                         HEIGHT="34"
+                         WIDTH="1251"
+                         VPOS="1327"
+                         HPOS="57">
+                  <String ID="string_r1l29"
+                          HEIGHT="34"
+                          WIDTH="1251"
+                          VPOS="1327"
+                          HPOS="57"
+                          CONTENT="daß er die Portugieſen beſchuldigt, durch Anwendung der Inquiſition und Gewalt⸗"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="60,1394 122,1394 184,1395 247,1395 309,1395 372,1396 434,1396 496,1396 559,1396 621,1396 684,1395 746,1395 808,1395 871,1395 933,1394 996,1394 1058,1393 1120,1393 1183,1392 1245,1392 1308,1391"
+                         HEIGHT="36"
+                         WIDTH="1248"
+                         VPOS="1370"
+                         HPOS="60">
+                  <String ID="string_r1l30"
+                          HEIGHT="36"
+                          WIDTH="1248"
+                          VPOS="1370"
+                          HPOS="60"
+                          CONTENT="maßregeln dem Chriſtenthum im Indiſchen Archipel „unauslöſchliche Schandmale auf⸗"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="55,1438 121,1439 187,1439 253,1440 320,1440 386,1440 452,1440 518,1440 585,1440 651,1440 717,1440 783,1439 850,1439 916,1439 982,1438 1048,1438 1115,1437 1181,1436 1247,1436 1314,1435"
+                         HEIGHT="36"
+                         WIDTH="1259"
+                         VPOS="1414"
+                         HPOS="55">
+                  <String ID="string_r1l31"
+                          HEIGHT="36"
+                          WIDTH="1259"
+                          VPOS="1414"
+                          HPOS="55"
+                          CONTENT="gebrannt“ und dadurch dem Islam Vorſchub geleiſtet zu haben, darf man wohl einem"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="57,1480 119,1482 182,1483 245,1484 308,1485 371,1485 434,1485 497,1485 560,1485 623,1484 686,1484 748,1483 811,1483 874,1482 937,1481 1000,1481 1063,1480 1126,1480 1189,1480 1252,1480 1315,1480"
+                         HEIGHT="36"
+                         WIDTH="1258"
+                         VPOS="1459"
+                         HPOS="57">
+                  <String ID="string_r1l32"
+                          HEIGHT="36"
+                          WIDTH="1258"
+                          VPOS="1459"
+                          HPOS="57"
+                          CONTENT="Prediger zu gut halten. Jeſuiten und Inquiſition ſind nun einmal Schreckbilder"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="63,1527 125,1528 188,1528 250,1528 313,1528 375,1528 438,1528 500,1528 563,1528 625,1528 688,1528 750,1527 813,1527 875,1527 938,1526 1000,1526 1063,1525 1125,1525 1188,1525 1250,1524 1313,1524"
+                         HEIGHT="35"
+                         WIDTH="1250"
+                         VPOS="1503"
+                         HPOS="63">
+                  <String ID="string_r1l33"
+                          HEIGHT="35"
+                          WIDTH="1250"
+                          VPOS="1503"
+                          HPOS="63"
+                          CONTENT="für Alle, welche die Geſchichte katholiſcher Völker und Inſtitutionen nicht genugſam"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="59,1570 121,1571 184,1572 247,1572 309,1573 372,1573 435,1573 497,1573 560,1572 623,1572 686,1572 748,1571 811,1571 874,1570 936,1570 999,1569 1062,1569 1124,1569 1187,1569 1250,1569 1313,1570"
+                         HEIGHT="35"
+                         WIDTH="1254"
+                         VPOS="1548"
+                         HPOS="59">
+                  <String ID="string_r1l34"
+                          HEIGHT="35"
+                          WIDTH="1254"
+                          VPOS="1548"
+                          HPOS="59"
+                          CONTENT="kennen. Sogar ein hervorragender Gelehrter, wie Ritter, ſpricht in ſeiner „Erdkunde"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="57,1614 119,1615 182,1616 245,1617 308,1617 371,1617 433,1618 496,1617 559,1617 622,1617 685,1616 747,1616 810,1616 873,1615 936,1614 999,1614 1061,1614 1124,1613 1187,1613 1250,1613 1313,1613"
+                         HEIGHT="36"
+                         WIDTH="1256"
+                         VPOS="1592"
+                         HPOS="57">
+                  <String ID="string_r1l35"
+                          HEIGHT="36"
+                          WIDTH="1256"
+                          VPOS="1592"
+                          HPOS="57"
+                          CONTENT="von Aſien“² über die „ſchaudervolle Inquiſition“ als Urſache des Verfalles der portu⸗"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="64,1661 126,1662 188,1662 250,1662 313,1663 375,1663 437,1662 500,1662 562,1662 624,1661 687,1661 749,1661 811,1660 873,1660 936,1659 998,1659 1060,1659 1123,1658 1185,1658 1247,1658 1310,1659"
+                         HEIGHT="35"
+                         WIDTH="1246"
+                         VPOS="1638"
+                         HPOS="64">
+                  <String ID="string_r1l36"
+                          HEIGHT="35"
+                          WIDTH="1246"
+                          VPOS="1638"
+                          HPOS="64"
+                          CONTENT="gieſiſchen Macht, über „die Streiche der Schlauheit und Gewalt“, welche die „teuf⸗"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="61,1701 123,1703 186,1705 249,1706 311,1707 374,1707 437,1707 499,1707 562,1707 625,1706 688,1706 750,1705 813,1704 876,1704 938,1703 1001,1703 1064,1702 1126,1702 1189,1702 1252,1702 1315,1703"
+                         HEIGHT="36"
+                         WIDTH="1254"
+                         VPOS="1681"
+                         HPOS="61">
+                  <String ID="string_r1l37"
+                          HEIGHT="36"
+                          WIDTH="1254"
+                          VPOS="1681"
+                          HPOS="61"
+                          CONTENT="liſche Inquiſition“ gegen die „evangeliſch geſinnten Thomaschriſten verübte, wogegen"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="57,1747 119,1748 182,1749 245,1750 307,1751 370,1751 433,1751 495,1751 558,1751 621,1750 684,1750 746,1749 809,1748 872,1748 934,1747 997,1747 1060,1746 1122,1746 1185,1746 1248,1746 1311,1746"
+                         HEIGHT="36"
+                         WIDTH="1254"
+                         VPOS="1725"
+                         HPOS="57">
+                  <String ID="string_r1l38"
+                          HEIGHT="36"
+                          WIDTH="1254"
+                          VPOS="1725"
+                          HPOS="57"
+                          CONTENT="er „das Verdienſt“ der Holländer „um die Sorge des chriſtlichen Gottesdienſtes“ in"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="62,1793 124,1794 187,1794 250,1794 312,1794 375,1794 438,1794 500,1794 563,1794 626,1794 689,1794 751,1794 814,1793 877,1793 939,1793 1002,1792 1065,1792 1127,1792 1190,1791 1253,1791 1316,1790"
+                         HEIGHT="35"
+                         WIDTH="1254"
+                         VPOS="1769"
+                         HPOS="62">
+                  <String ID="string_r1l39"
+                          HEIGHT="35"
+                          WIDTH="1254"
+                          VPOS="1769"
+                          HPOS="62"
+                          CONTENT="Indien und die Beendigung der portugieſiſchen Verfolgungen hoch erhebt. Ritter's"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="65,1836 127,1837 190,1838 252,1839 315,1839 377,1839 440,1839 502,1839 565,1839 627,1839 690,1838 753,1838 815,1838 878,1837 940,1837 1003,1837 1065,1836 1128,1836 1190,1836 1253,1836 1316,1836"
+                         HEIGHT="34"
+                         WIDTH="1251"
+                         VPOS="1815"
+                         HPOS="65">
+                  <String ID="string_r1l40"
+                          HEIGHT="34"
+                          WIDTH="1251"
+                          VPOS="1815"
+                          HPOS="65"
+                          CONTENT="claſſiſches Werk gab in dieſem Punkte den Ton an für andere deutſche Schriftſteller,"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="63,1879 125,1880 188,1881 250,1882 313,1882 376,1883 438,1883 501,1883 563,1883 626,1883 689,1883 751,1883 814,1882 876,1882 939,1881 1002,1881 1064,1881 1127,1880 1189,1880 1252,1879 1315,1879"
+                         HEIGHT="35"
+                         WIDTH="1252"
+                         VPOS="1858"
+                         HPOS="63">
+                  <String ID="string_r1l41"
+                          HEIGHT="35"
+                          WIDTH="1252"
+                          VPOS="1858"
+                          HPOS="63"
+                          CONTENT="weßhalb wir ihn hier zugleich berückſichtigen wollen. Wir ſagen alſo: auf die Unge⸗"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="57,1924 119,1925 182,1926 245,1926 307,1927 370,1927 433,1928 495,1928 558,1928 621,1928 684,1928 746,1927 809,1927 872,1927 934,1926 997,1926 1060,1925 1122,1925 1185,1924 1248,1923 1311,1922"
+                         HEIGHT="37"
+                         WIDTH="1254"
+                         VPOS="1901"
+                         HPOS="57">
+                  <String ID="string_r1l42"
+                          HEIGHT="37"
+                          WIDTH="1254"
+                          VPOS="1901"
+                          HPOS="57"
+                          CONTENT="heuerlichkeiten, welche über die portugieſiſche Inquiſition feilgeboten werden, läßt ſich"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="65,1968 128,1969 191,1970 254,1971 317,1972 380,1972 443,1972 506,1972 569,1972 632,1972 695,1972 758,1972 821,1971 884,1971 947,1970 1010,1970 1073,1969 1136,1969 1199,1968 1262,1968 1325,1967"
+                         HEIGHT="36"
+                         WIDTH="1260"
+                         VPOS="1946"
+                         HPOS="65">
+                  <String ID="string_r1l43"
+                          HEIGHT="36"
+                          WIDTH="1260"
+                          VPOS="1946"
+                          HPOS="65"
+                          CONTENT="wohl keine beſſere Antwort finden, als diejenige iſt, welche der Erzbiſchof von Goa"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="61,2012 124,2013 187,2014 250,2014 313,2015 376,2016 439,2016 502,2017 565,2017 628,2017 691,2017 754,2017 817,2017 880,2017 943,2017 1006,2017 1069,2016 1132,2015 1195,2015 1258,2013 1321,2012"
+                         HEIGHT="36"
+                         WIDTH="1260"
+                         VPOS="1991"
+                         HPOS="61">
+                  <String ID="string_r1l44"
+                          HEIGHT="36"
+                          WIDTH="1260"
+                          VPOS="1991"
+                          HPOS="61"
+                          CONTENT="dem „würdigen“ Gewährsmanne Ritters³, Buchanan, gegeben hat. Dieſer Miſſionär"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="129,2132 188,2134 248,2135 308,2136 368,2136 428,2137 487,2137 547,2137 607,2137 667,2136 727,2136 786,2136 846,2135 906,2135 966,2134 1026,2134 1085,2133 1145,2133 1205,2133 1265,2133 1325,2134"
+                         HEIGHT="35"
+                         WIDTH="1196"
+                         VPOS="2112"
+                         HPOS="129">
+                  <String ID="string_r1l45"
+                          HEIGHT="35"
+                          WIDTH="1196"
+                          VPOS="2112"
+                          HPOS="129"
+                          CONTENT="¹ India and the Hindoos p. 337. Bei Marſhall, die chriſtl. Miſſionen I, 579."/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="133,2168 158,2172 183,2175 209,2178 234,2179 260,2181 285,2182 310,2182 336,2183 361,2183 387,2182 412,2182 438,2182 463,2181 488,2180 514,2180 539,2180 565,2180 590,2180 616,2181"
+                         HEIGHT="45"
+                         WIDTH="483"
+                         VPOS="2148"
+                         HPOS="133">
+                  <String ID="string_r1l46"
+                          HEIGHT="45"
+                          WIDTH="483"
+                          VPOS="2148"
+                          HPOS="133"
+                          CONTENT="² Bb. IV, 1, S. 601 ff. 639 ff."/>
+               </TextLine>
+               <TextLine ID="line_1616151069390_65"
+                         BASELINE="136,2209 146,2211 169,2222 226,2224 284,2225 341,2226 399,2226 457,2227 514,2227 572,2226 629,2226 687,2225 745,2225 802,2224 860,2224 917,2223 975,2222 1033,2222 1090,2222 1148,2222 1205,2222 1263,2222 1321,2223"
+                         HEIGHT="48"
+                         WIDTH="1185"
+                         VPOS="2189"
+                         HPOS="136">
+                  <String ID="string_line_1616151069390_65"
+                          HEIGHT="48"
+                          WIDTH="1185"
+                          VPOS="2189"
+                          HPOS="136"
+                          CONTENT="³ Ritter folgt ſeinem Gewährsmann ſo blindlings, daß er ſogar deſſen „Ent⸗"/>
+               </TextLine>
+               <TextLine ID="r1l49"
+                         BASELINE="65,2260 127,2264 189,2267 251,2270 314,2271 376,2272 438,2273 501,2273 563,2273 625,2272 688,2271 750,2270 812,2269 874,2268 937,2267 999,2266 1061,2266 1124,2266 1186,2266 1248,2267 1311,2269"
+                         HEIGHT="44"
+                         WIDTH="1246"
+                         VPOS="2239"
+                         HPOS="65">
+                  <String ID="string_r1l49"
+                          HEIGHT="44"
+                          WIDTH="1246"
+                          VPOS="2239"
+                          HPOS="65"
+                          CONTENT="deckung“ der „ſeit ein paar Jahrhunderten für Europäer gänzlich in Vergeſſenheit ge⸗"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:44.023+01:00</Created>
+        <LastChange>2021-05-17T14:04:22.408+02:00</LastChange>
+        <TranskribusMetadata docId="543224" pageId="22808939" pageNr="6" tsid="57972657" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=ODRGOLVHNYYJPDZEOLMQWBML&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VGWLTEDREGSYIXAGSZHLOYXY" imageId="17784617"/>
+    </Metadata>
+    <Page imageFilename="kath_1830_035_00061.tif" imageWidth="1259" imageHeight="2153">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327815376" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="57,112 57,945 1107,945 1107,112"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="549,157 575,157 602,157 602,112 575,112 549,112"/>
+                <Baseline points="549,142 575,142 602,142"/>
+                <TextEquiv>
+                    <Unicode>55</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="62,259 113,259 165,260 217,260 269,260 321,260 373,260 424,260 476,259 528,259 580,258 632,258 684,257 736,256 787,254 839,253 891,252 943,250 995,248 1047,246 1099,244 1099,205 1047,207 995,209 943,211 891,213 839,214 787,215 736,217 684,218 632,219 580,219 528,220 476,220 424,221 373,221 321,221 269,221 217,221 165,221 113,220 62,220"/>
+                <Baseline points="62,246 113,246 165,247 217,247 269,247 321,247 373,247 424,247 476,246 528,246 580,245 632,245 684,244 736,243 787,241 839,240 891,239 943,237 995,235 1047,233 1099,231"/>
+                <TextEquiv>
+                    <Unicode>die Vermittlerin unſerer Noth, die Schweſter der Ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="65,312 116,314 168,315 220,315 271,316 323,316 375,316 426,316 478,315 530,315 582,314 633,313 685,312 737,311 788,310 840,308 892,306 943,305 995,303 1047,301 1099,299 1099,260 1047,262 995,264 943,266 892,267 840,269 788,271 737,272 685,273 633,274 582,275 530,276 478,276 426,277 375,277 323,277 271,277 220,276 168,276 116,275 65,273"/>
+                <Baseline points="65,299 116,301 168,302 220,302 271,303 323,303 375,303 426,303 478,302 530,302 582,301 633,300 685,299 737,298 788,297 840,295 892,293 943,292 995,290 1047,288 1099,286"/>
+                <TextEquiv>
+                    <Unicode>duld, die Tochter der Treue; ſie iſt das Band der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="57,369 109,371 161,372 213,372 265,372 317,372 369,372 422,371 474,371 526,370 578,369 630,368 682,367 734,366 787,364 839,363 891,362 943,360 995,359 1047,358 1100,357 1100,318 1047,319 995,320 943,321 891,323 839,324 787,325 734,327 682,328 630,329 578,330 526,331 474,332 422,332 369,333 317,333 265,333 213,333 161,333 109,332 57,330"/>
+                <Baseline points="57,356 109,358 161,359 213,359 265,359 317,359 369,359 422,358 474,358 526,357 578,356 630,355 682,354 734,353 787,351 839,350 891,349 943,347 995,346 1047,345 1100,344"/>
+                <TextEquiv>
+                    <Unicode>Freundſchaft, das Vollwerk der Gottſeligkeit. Ohne ſic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="66,423 117,424 169,425 220,425 272,426 324,426 375,426 427,425 478,425 530,424 582,423 633,422 685,421 736,420 788,418 840,417 891,415 943,413 994,412 1046,410 1098,408 1098,371 1046,373 994,375 943,376 891,378 840,380 788,381 736,383 685,384 633,385 582,386 530,387 478,388 427,388 375,389 324,389 272,389 220,388 169,388 117,387 66,386"/>
+                <Baseline points="66,411 117,412 169,413 220,413 272,414 324,414 375,414 427,413 478,413 530,412 582,411 633,410 685,409 736,408 788,406 840,405 891,403 943,401 994,400 1046,398 1098,396"/>
+                <TextEquiv>
+                    <Unicode>hat keine Dienſtleiſtung einen Werth, kein glücklicher Er⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="66,479 117,480 169,480 220,481 272,481 323,481 375,481 426,481 478,480 529,480 581,479 632,478 684,477 735,476 787,475 838,474 890,472 941,471 993,469 1044,467 1096,465 1096,426 1044,428 993,430 941,432 890,433 838,435 787,436 735,437 684,438 632,439 581,440 529,441 478,441 426,442 375,442 323,442 272,442 220,442 169,441 117,441 66,440"/>
+                <Baseline points="66,466 117,467 169,467 220,468 272,468 323,468 375,468 426,468 478,467 529,467 581,466 632,465 684,464 735,463 787,462 838,461 890,459 941,458 993,456 1044,454 1096,452"/>
+                <TextEquiv>
+                    <Unicode>folg iſt des Dankes, keine große That des Ruhmes wür⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="72,534 123,534 175,535 227,535 278,535 330,535 382,535 433,534 485,534 537,533 589,533 640,532 692,531 744,531 795,530 847,529 899,528 950,527 1002,526 1054,525 1106,524 1106,485 1054,486 1002,487 950,488 899,489 847,490 795,491 744,492 692,492 640,493 589,494 537,494 485,495 433,495 382,496 330,496 278,496 227,496 175,496 123,495 72,495"/>
+                <Baseline points="72,521 123,521 175,522 227,522 278,522 330,522 382,522 433,521 485,521 537,520 589,520 640,519 692,518 744,518 795,517 847,516 899,515 950,514 1002,513 1054,512 1106,511"/>
+                <TextEquiv>
+                    <Unicode>dig; denn nicht Der, welcher beginnt, ſondern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="63,589 106,589 150,589 194,589 238,589 282,589 326,589 370,588 414,588 458,588 502,587 545,587 589,586 633,586 677,585 721,585 765,584 809,584 853,584 897,583 941,583 941,544 897,544 853,545 809,545 765,545 721,546 677,546 633,547 589,547 545,548 502,548 458,549 414,549 370,549 326,550 282,550 238,550 194,550 150,550 106,550 63,550"/>
+                <Baseline points="63,576 106,576 150,576 194,576 238,576 282,576 326,576 370,575 414,575 458,575 502,574 545,574 589,573 633,573 677,572 721,572 765,571 809,571 853,571 897,570 941,570"/>
+                <TextEquiv>
+                    <Unicode>Der bis an’s Ende beharrt, wird ſelig werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="228,666 260,665 292,665 324,665 356,665 388,665 420,665 453,665 485,665 517,665 549,665 581,665 613,666 645,666 678,665 710,665 742,665 774,664 806,663 838,663 871,661 871,624 838,626 806,626 774,627 742,628 710,628 678,628 645,629 613,629 581,628 549,628 517,628 485,628 453,628 420,628 388,628 356,628 324,628 292,628 260,628 228,629"/>
+                <Baseline points="228,654 260,653 292,653 324,653 356,653 388,653 420,653 453,653 485,653 517,653 549,653 581,653 613,654 645,654 678,653 710,653 742,653 774,652 806,651 838,651 871,649"/>
+                <TextEquiv>
+                    <Unicode>Von dem der eure Gefangenſchaft ehrt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="229,717 256,716 283,717 311,717 338,717 365,717 393,717 420,718 447,718 475,719 502,719 529,719 557,719 584,719 611,719 639,719 666,719 693,719 721,718 748,717 776,716 776,679 748,680 721,681 693,682 666,682 639,682 611,682 584,682 557,682 529,682 502,682 475,682 447,681 420,681 393,680 365,680 338,680 311,680 283,680 256,679 229,680"/>
+                <Baseline points="229,705 256,704 283,705 311,705 338,705 365,705 393,705 420,706 447,706 475,707 502,707 529,707 557,707 584,707 611,707 639,707 666,707 693,707 721,706 748,705 776,704"/>
+                <TextEquiv>
+                    <Unicode>Der euch von Herzen zugethan iſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="219,769 256,771 293,773 330,775 367,776 405,776 442,776 479,776 516,775 553,774 591,773 628,772 665,771 702,770 739,769 777,768 814,767 851,766 888,765 925,765 963,765 963,728 925,728 888,728 851,729 814,730 777,731 739,732 702,733 665,734 628,735 591,736 553,737 516,738 479,739 442,739 405,739 367,739 330,738 293,736 256,734 219,732"/>
+                <Baseline points="219,757 256,759 293,761 330,763 367,764 405,764 442,764 479,764 516,763 553,762 591,761 628,760 665,759 702,758 739,757 777,756 814,755 851,754 888,753 925,753 963,753"/>
+                <TextEquiv>
+                    <Unicode>Und ſich demuͤthigſt in euer Gebet empfiehlt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="794,836 821,838 848,840 876,840 903,840 930,840 958,839 958,794 930,795 903,795 876,795 848,795 821,793 794,791"/>
+                <Baseline points="794,821 821,823 848,825 876,825 903,825 930,825 958,824"/>
+                <TextEquiv>
+                    <Unicode>R. S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="70,941 121,942 173,943 225,944 277,944 329,945 381,945 432,944 484,944 536,944 588,943 640,943 692,942 744,941 795,940 847,939 899,938 951,937 1003,936 1055,935 1107,934 1107,889 1055,890 1003,891 951,892 899,893 847,894 795,895 744,896 692,897 640,898 588,898 536,899 484,899 432,899 381,900 329,900 277,899 225,899 173,898 121,897 70,896"/>
+                <Baseline points="70,926 121,927 173,928 225,929 277,929 329,930 381,930 432,929 484,929 536,929 588,928 640,928 692,927 744,926 795,925 847,924 899,923 951,922 1003,921 1055,920 1107,919"/>
+                <TextEquiv>
+                    <Unicode>Im Schweigen und in der Hoffnung beſteht unſere Stärke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>55
+die Vermittlerin unſerer Noth, die Schweſter der Ge⸗
+duld, die Tochter der Treue; ſie iſt das Band der
+Freundſchaft, das Vollwerk der Gottſeligkeit. Ohne ſic
+hat keine Dienſtleiſtung einen Werth, kein glücklicher Er⸗
+folg iſt des Dankes, keine große That des Ruhmes wür⸗
+dig; denn nicht Der, welcher beginnt, ſondern
+Der bis an’s Ende beharrt, wird ſelig werden.
+Von dem der eure Gefangenſchaft ehrt,
+Der euch von Herzen zugethan iſt,
+Und ſich demuͤthigſt in euer Gebet empfiehlt.
+R. S.
+Im Schweigen und in der Hoffnung beſteht unſere Stärke.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

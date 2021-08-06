@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:40:04.551+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2339" WIDTH="1420">
+         <TopMargin HEIGHT="0" WIDTH="1420" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="1420"/>
+         <BottomMargin HEIGHT="0" WIDTH="1420" VPOS="2339" HPOS="0"/>
+         <PrintSpace HEIGHT="2339" WIDTH="1420" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1807" WIDTH="1278" VPOS="450" HPOS="59">
+               <Shape>
+                  <Polygon POINTS="59,450 59,2257 1337,2257 1337,450"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="544,472 569,473 595,474 620,475 646,475 671,476 697,476 722,476 748,476 773,476 799,477 824,477 850,478"
+                         HEIGHT="39"
+                         WIDTH="306"
+                         VPOS="450"
+                         HPOS="544">
+                  <String ID="string_r1l1"
+                          HEIGHT="39"
+                          WIDTH="306"
+                          VPOS="450"
+                          HPOS="544"
+                          CONTENT="Recenſionen."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="66,574 129,573 193,573 256,573 320,573 383,572 447,572 510,572 574,572 637,572 701,573 765,573 828,573 892,573 955,573 1019,573 1082,573 1146,573 1209,573 1273,573 1337,573"
+                         HEIGHT="35"
+                         WIDTH="1271"
+                         VPOS="550"
+                         HPOS="66">
+                  <String ID="string_r1l2"
+                          HEIGHT="35"
+                          WIDTH="1271"
+                          VPOS="550"
+                          HPOS="66"
+                          CONTENT="Allgemeiner Miſſions⸗Atlas. Nach Originalquellen bearbeitet von Dr."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="152,630 211,629 270,629 329,629 388,628 447,628 506,628 566,629 625,629 684,629 743,629 802,629 861,629 920,630 980,630 1039,630 1098,630 1157,630 1216,630 1275,630 1335,630"
+                         HEIGHT="35"
+                         WIDTH="1183"
+                         VPOS="606"
+                         HPOS="152">
+                  <String ID="string_r1l3"
+                          HEIGHT="35"
+                          WIDTH="1183"
+                          VPOS="606"
+                          HPOS="152"
+                          CONTENT="R. Grundemann, Prediger. Gotha, Perthes 1867–1870. (Bis"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="171,684 197,685 224,685 251,686 278,686 305,686 332,686 358,686 385,686 412,686 439,686 466,686 493,686"
+                         HEIGHT="35"
+                         WIDTH="322"
+                         VPOS="662"
+                         HPOS="171">
+                  <String ID="string_r1l4"
+                          HEIGHT="35"
+                          WIDTH="322"
+                          VPOS="662"
+                          HPOS="171"
+                          CONTENT="setzt 8 Lieferungen.)"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="146,766 204,767 263,768 322,768 381,769 440,769 499,770 557,770 616,770 675,770 734,770 793,770 852,770 911,770 969,770 1028,770 1087,770 1146,770 1205,770 1264,769 1323,769"
+                         HEIGHT="37"
+                         WIDTH="1177"
+                         VPOS="744"
+                         HPOS="146">
+                  <String ID="string_r1l5"
+                          HEIGHT="37"
+                          WIDTH="1177"
+                          VPOS="744"
+                          HPOS="146"
+                          CONTENT="Für eingehendes Studium des Miſſionsweſens ſind kartographiſche Hülfſmittel"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="74,811 136,812 198,812 261,813 323,813 385,814 448,814 510,814 572,815 635,815 697,815 759,815 822,815 884,815 946,815 1009,815 1071,815 1133,815 1196,815 1258,815 1321,815"
+                         HEIGHT="35"
+                         WIDTH="1247"
+                         VPOS="790"
+                         HPOS="74">
+                  <String ID="string_r1l6"
+                          HEIGHT="35"
+                          WIDTH="1247"
+                          VPOS="790"
+                          HPOS="74"
+                          CONTENT="überaus nützlich, ja nothwendig. Dieß iſt denn auch längſt begriffen worden. Sogar"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="63,857 126,857 189,857 252,857 315,857 378,858 441,858 504,858 567,858 630,858 693,859 756,859 819,859 882,859 945,859 1008,859 1071,859 1134,859 1197,859 1260,859 1323,859"
+                         HEIGHT="33"
+                         WIDTH="1260"
+                         VPOS="836"
+                         HPOS="63">
+                  <String ID="string_r1l7"
+                          HEIGHT="33"
+                          WIDTH="1260"
+                          VPOS="836"
+                          HPOS="63"
+                          CONTENT="der populär gehaltene „Weltbote von Joſepho Stöcklein, der Geſellſchaft Jeſu"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="69,901 131,901 194,901 256,901 319,901 381,901 444,901 506,901 569,902 631,902 694,902 756,902 819,903 881,903 944,903 1006,903 1069,903 1131,903 1194,903 1256,903 1319,903"
+                         HEIGHT="32"
+                         WIDTH="1250"
+                         VPOS="881"
+                         HPOS="69">
+                  <String ID="string_r1l8"
+                          HEIGHT="32"
+                          WIDTH="1250"
+                          VPOS="881"
+                          HPOS="69"
+                          CONTENT="Prieſtern“, ſucht durch zahlreiche Karten verſchiedener Theile Aſiens, Afrika’s, Ame⸗"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="67,946 129,946 192,945 255,944 318,944 381,944 443,944 506,943 569,943 632,943 695,944 757,944 820,944 883,944 946,945 1009,945 1071,945 1134,946 1197,946 1260,947 1323,947"
+                         HEIGHT="34"
+                         WIDTH="1256"
+                         VPOS="923"
+                         HPOS="67">
+                  <String ID="string_r1l9"
+                          HEIGHT="34"
+                          WIDTH="1256"
+                          VPOS="923"
+                          HPOS="67"
+                          CONTENT="rika’s, Oceaniens (Philippinen, Marianen, Carolinen) ſeine Miſſionsberichte zu ver⸗"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="75,990 137,989 199,989 261,989 323,989 386,989 448,989 510,988 572,988 634,988 697,988 759,988 821,988 883,988 945,988 1008,989 1070,989 1132,989 1194,990 1256,990 1319,991"
+                         HEIGHT="34"
+                         WIDTH="1244"
+                         VPOS="967"
+                         HPOS="75">
+                  <String ID="string_r1l10"
+                          HEIGHT="34"
+                          WIDTH="1244"
+                          VPOS="967"
+                          HPOS="75"
+                          CONTENT="anſchaulichen. Die alten Miſſionäre verwendeten aus demſelben Grunde große Mühe"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="69,1032 131,1032 193,1032 256,1032 318,1032 381,1032 443,1032 506,1032 568,1032 631,1032 693,1032 755,1032 818,1033 880,1033 943,1033 1005,1033 1068,1033 1130,1033 1193,1033 1255,1033 1318,1033"
+                         HEIGHT="32"
+                         WIDTH="1249"
+                         VPOS="1011"
+                         HPOS="69">
+                  <String ID="string_r1l11"
+                          HEIGHT="32"
+                          WIDTH="1249"
+                          VPOS="1011"
+                          HPOS="69"
+                          CONTENT="auf die Verfertigung topographiſcher und geographiſcher Zeichnungen. „Mit nächſtem“,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="72,1077 134,1076 197,1076 259,1076 322,1076 384,1076 447,1076 509,1076 572,1076 634,1076 697,1076 760,1076 822,1077 885,1077 947,1077 1010,1077 1072,1078 1135,1078 1197,1078 1260,1078 1323,1078"
+                         HEIGHT="33"
+                         WIDTH="1251"
+                         VPOS="1055"
+                         HPOS="72">
+                  <String ID="string_r1l12"
+                          HEIGHT="33"
+                          WIDTH="1251"
+                          VPOS="1055"
+                          HPOS="72"
+                          CONTENT="heißt es in einem Brief P. Schindlers aus Quito (v. J. 1725) „werden wir guten"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="63,1121 126,1121 189,1121 252,1121 315,1121 379,1121 442,1121 505,1121 568,1121 631,1121 695,1121 758,1121 821,1121 884,1121 947,1121 1011,1122 1074,1122 1137,1122 1200,1122 1263,1122 1327,1123"
+                         HEIGHT="32"
+                         WIDTH="1264"
+                         VPOS="1101"
+                         HPOS="63">
+                  <String ID="string_r1l13"
+                          HEIGHT="32"
+                          WIDTH="1264"
+                          VPOS="1101"
+                          HPOS="63"
+                          CONTENT="Freunden mit weitläufigen Reis⸗ und Land⸗Beſchreibungen aufwarten, dieſe aber mit"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="65,1166 128,1166 191,1166 254,1166 317,1166 380,1166 443,1166 507,1166 570,1166 633,1166 696,1166 759,1166 822,1166 885,1166 949,1166 1012,1166 1075,1166 1138,1166 1201,1166 1264,1165 1328,1165"
+                         HEIGHT="32"
+                         WIDTH="1263"
+                         VPOS="1144"
+                         HPOS="65">
+                  <String ID="string_r1l14"
+                          HEIGHT="32"
+                          WIDTH="1263"
+                          VPOS="1144"
+                          HPOS="65"
+                          CONTENT="etlichen neuen Land⸗Tafeln, welche P. Maroni mit Fleiß verzeichnet, ausführlich er⸗"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="62,1210 124,1210 187,1209 250,1209 313,1209 376,1210 439,1210 501,1210 564,1210 627,1210 690,1210 753,1210 816,1211 879,1211 941,1211 1004,1211 1067,1211 1130,1210 1193,1210 1256,1210 1319,1209"
+                         HEIGHT="33"
+                         WIDTH="1257"
+                         VPOS="1188"
+                         HPOS="62">
+                  <String ID="string_r1l15"
+                          HEIGHT="33"
+                          WIDTH="1257"
+                          VPOS="1188"
+                          HPOS="62"
+                          CONTENT="klären, in gänzlicher Hoffnung, die gelehrte Welt werde dieſe unſere Mühe um deſto"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="70,1252 132,1253 195,1253 257,1253 320,1253 382,1253 445,1254 507,1254 570,1254 632,1254 695,1254 757,1254 820,1254 882,1254 945,1254 1007,1254 1070,1254 1132,1254 1195,1254 1257,1254 1320,1253"
+                         HEIGHT="32"
+                         WIDTH="1250"
+                         VPOS="1232"
+                         HPOS="70">
+                  <String ID="string_r1l16"
+                          HEIGHT="32"
+                          WIDTH="1250"
+                          VPOS="1232"
+                          HPOS="70"
+                          CONTENT="mehr billigen, je handgreiflicher aus gemeldeten Land⸗Karten erhellen ſoll, wie ſehr"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="63,1298 125,1297 188,1297 250,1297 313,1297 375,1297 438,1297 500,1297 563,1297 625,1297 688,1297 751,1297 813,1297 876,1297 938,1297 1001,1297 1063,1297 1126,1297 1188,1297 1251,1296 1314,1296"
+                         HEIGHT="32"
+                         WIDTH="1251"
+                         VPOS="1276"
+                         HPOS="63">
+                  <String ID="string_r1l17"
+                          HEIGHT="32"
+                          WIDTH="1251"
+                          VPOS="1276"
+                          HPOS="63"
+                          CONTENT="all' diejenigen, ſo bisher ſeien gedruckt worden, irren und betrügen.“ Es, „irren und"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="68,1342 131,1342 194,1341 257,1341 320,1341 383,1340 446,1340 509,1340 572,1340 635,1340 698,1339 761,1339 824,1339 887,1339 950,1340 1013,1340 1076,1340 1139,1341 1202,1341 1265,1342 1328,1342"
+                         HEIGHT="34"
+                         WIDTH="1260"
+                         VPOS="1318"
+                         HPOS="68">
+                  <String ID="string_r1l18"
+                          HEIGHT="34"
+                          WIDTH="1260"
+                          VPOS="1318"
+                          HPOS="68"
+                          CONTENT="betrügen“ freilich bei der heutigen Vervollkommnung der Erdkunde jetzt nicht mehr"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="66,1387 128,1387 191,1387 253,1387 316,1386 378,1386 441,1385 503,1385 566,1384 628,1384 691,1383 753,1383 816,1383 878,1383 941,1383 1003,1383 1066,1384 1128,1385 1191,1386 1253,1387 1316,1389"
+                         HEIGHT="37"
+                         WIDTH="1250"
+                         VPOS="1362"
+                         HPOS="66">
+                  <String ID="string_r1l19"
+                          HEIGHT="37"
+                          WIDTH="1250"
+                          VPOS="1362"
+                          HPOS="66"
+                          CONTENT="wie damals die „Land⸗Karten“; dennoch müſſen wir Herrn Grundemann beiſtimmen,"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="63,1432 126,1432 189,1432 252,1432 315,1431 378,1431 441,1430 504,1430 567,1429 630,1429 694,1428 757,1428 820,1428 883,1428 946,1428 1009,1428 1072,1429 1135,1430 1198,1431 1261,1432 1325,1434"
+                         HEIGHT="39"
+                         WIDTH="1262"
+                         VPOS="1406"
+                         HPOS="63">
+                  <String ID="string_r1l20"
+                          HEIGHT="39"
+                          WIDTH="1262"
+                          VPOS="1406"
+                          HPOS="63"
+                          CONTENT="wenn er „den Mangel an ausreichenden karthographiſchen Hülfſmitteln zum Studium"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="67,1477 130,1477 193,1477 256,1477 319,1477 382,1476 445,1476 508,1475 571,1475 634,1474 697,1473 760,1473 823,1473 886,1473 949,1473 1012,1473 1075,1474 1138,1475 1201,1476 1264,1477 1327,1479"
+                         HEIGHT="37"
+                         WIDTH="1260"
+                         VPOS="1452"
+                         HPOS="67">
+                  <String ID="string_r1l21"
+                          HEIGHT="37"
+                          WIDTH="1260"
+                          VPOS="1452"
+                          HPOS="67"
+                          CONTENT="der Miſſionsſache“ beklagt. Darum begrüßen wir auch ſein Unternehmen mit Freuden"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="65,1520 128,1520 191,1521 254,1521 317,1521 380,1521 443,1520 506,1520 569,1520 632,1519 695,1519 758,1518 821,1518 884,1518 947,1518 1010,1518 1073,1519 1136,1519 1199,1520 1262,1522 1325,1523"
+                         HEIGHT="36"
+                         WIDTH="1260"
+                         VPOS="1497"
+                         HPOS="65">
+                  <String ID="string_r1l22"
+                          HEIGHT="36"
+                          WIDTH="1260"
+                          VPOS="1497"
+                          HPOS="65"
+                          CONTENT="und hoffen von demſelben einen Anſtoß zur Wiederaufnahme einer von den alten"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="67,1562 129,1563 192,1563 254,1564 317,1564 379,1564 442,1564 504,1564 567,1564 629,1564 692,1564 754,1564 817,1563 879,1563 942,1563 1004,1563 1067,1564 1129,1564 1192,1565 1254,1566 1317,1567"
+                         HEIGHT="35"
+                         WIDTH="1250"
+                         VPOS="1542"
+                         HPOS="67">
+                  <String ID="string_r1l23"
+                          HEIGHT="35"
+                          WIDTH="1250"
+                          VPOS="1542"
+                          HPOS="67"
+                          CONTENT="Jeſuiten⸗Miſſionären betretenen, dann aber leider faſt gänzlich verlaſſenen Bahn. Die"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="64,1607 127,1608 190,1608 253,1608 316,1608 379,1608 442,1608 505,1608 568,1608 631,1607 694,1607 757,1607 820,1607 883,1607 946,1607 1009,1608 1072,1608 1135,1608 1198,1609 1261,1610 1324,1611"
+                         HEIGHT="35"
+                         WIDTH="1260"
+                         VPOS="1586"
+                         HPOS="64">
+                  <String ID="string_r1l24"
+                          HEIGHT="35"
+                          WIDTH="1260"
+                          VPOS="1586"
+                          HPOS="64"
+                          CONTENT="Rückkehr zu dieſem Verfahren wird nicht nur das Intereſſe am Miſſionswerke fördern,"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="74,1652 136,1652 198,1652 260,1652 323,1653 385,1652 447,1652 510,1652 572,1652 634,1652 697,1652 759,1652 821,1652 883,1652 946,1652 1008,1652 1070,1652 1133,1653 1195,1653 1257,1654 1320,1655"
+                         HEIGHT="34"
+                         WIDTH="1246"
+                         VPOS="1631"
+                         HPOS="74">
+                  <String ID="string_r1l25"
+                          HEIGHT="34"
+                          WIDTH="1246"
+                          VPOS="1631"
+                          HPOS="74"
+                          CONTENT="ſondern auch der Wiſſenſchaft zu Nutzen kommen. So zweifeln wir nicht, daß Geo⸗"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="64,1696 127,1696 190,1696 253,1696 316,1696 379,1696 442,1696 505,1696 568,1696 631,1696 695,1696 758,1696 821,1696 884,1697 947,1697 1010,1697 1073,1697 1136,1698 1199,1698 1262,1699 1326,1699"
+                         HEIGHT="34"
+                         WIDTH="1262"
+                         VPOS="1675"
+                         HPOS="64">
+                  <String ID="string_r1l26"
+                          HEIGHT="34"
+                          WIDTH="1262"
+                          VPOS="1675"
+                          HPOS="64"
+                          CONTENT="graphen mit Intereſſe vorſtehenden Atlas in die Hand nehmen und manches Neue"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="64,1740 126,1740 189,1740 252,1740 315,1740 378,1740 441,1740 504,1741 567,1741 630,1741 693,1741 755,1741 818,1741 881,1741 944,1741 1007,1741 1070,1741 1133,1742 1196,1742 1259,1742 1322,1743"
+                         HEIGHT="34"
+                         WIDTH="1258"
+                         VPOS="1719"
+                         HPOS="64">
+                  <String ID="string_r1l27"
+                          HEIGHT="34"
+                          WIDTH="1258"
+                          VPOS="1719"
+                          HPOS="64"
+                          CONTENT="darin finden werden. Dieß gilt beſonders von einigen Karten Weſtafrikas und Polyneſiens."/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="135,1796 194,1796 253,1796 313,1796 372,1796 431,1796 491,1796 550,1797 609,1797 669,1797 728,1797 787,1797 847,1797 906,1797 965,1798 1025,1798 1084,1798 1143,1798 1203,1798 1262,1799 1322,1799"
+                         HEIGHT="34"
+                         WIDTH="1187"
+                         VPOS="1775"
+                         HPOS="135">
+                  <String ID="string_r1l28"
+                          HEIGHT="34"
+                          WIDTH="1187"
+                          VPOS="1775"
+                          HPOS="135"
+                          CONTENT="Der „Allgemeine Miſſionsatlas“ zerfällt in vier Abtheilungen: Afrika (3 Liefe⸗"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="65,1844 127,1842 190,1841 253,1840 316,1840 378,1840 441,1840 504,1840 567,1840 629,1840 692,1841 755,1841 818,1842 880,1842 943,1843 1006,1843 1069,1844 1131,1844 1194,1844 1257,1844 1320,1843"
+                         HEIGHT="35"
+                         WIDTH="1255"
+                         VPOS="1819"
+                         HPOS="65">
+                  <String ID="string_r1l29"
+                          HEIGHT="35"
+                          WIDTH="1255"
+                          VPOS="1819"
+                          HPOS="65"
+                          CONTENT="rungen), Aſien mit Inbegriff der Türkei (4 Lief.), Polyneſien (1 Lief.), Amerika"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="61,1887 124,1886 187,1885 250,1884 313,1884 377,1884 440,1884 503,1884 566,1884 629,1884 693,1885 756,1885 819,1886 882,1886 945,1887 1009,1887 1072,1887 1135,1888 1198,1888 1261,1888 1325,1888"
+                         HEIGHT="35"
+                         WIDTH="1264"
+                         VPOS="1863"
+                         HPOS="61">
+                  <String ID="string_r1l30"
+                          HEIGHT="35"
+                          WIDTH="1264"
+                          VPOS="1863"
+                          HPOS="61"
+                          CONTENT="(1 Lief.), wovon jedoch die letzte Abtheilung noch nicht ausgegeben wurde. Aus⸗"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="67,1932 130,1931 193,1930 256,1929 319,1929 382,1928 445,1928 508,1928 571,1928 634,1929 697,1929 760,1929 823,1930 886,1930 949,1931 1012,1931 1075,1932 1138,1932 1201,1932 1264,1932 1328,1933"
+                         HEIGHT="36"
+                         WIDTH="1261"
+                         VPOS="1907"
+                         HPOS="67">
+                  <String ID="string_r1l31"
+                          HEIGHT="36"
+                          WIDTH="1261"
+                          VPOS="1907"
+                          HPOS="67"
+                          CONTENT="ſtattung und techniſche Ausführung ſind, wie ſich nicht anders von der berühmten"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="61,1975 123,1975 186,1974 249,1973 312,1973 375,1973 438,1973 500,1973 563,1973 626,1973 689,1974 752,1974 815,1974 878,1975 940,1975 1003,1975 1066,1975 1129,1976 1192,1976 1255,1975 1318,1975"
+                         HEIGHT="34"
+                         WIDTH="1257"
+                         VPOS="1952"
+                         HPOS="61">
+                  <String ID="string_r1l32"
+                          HEIGHT="34"
+                          WIDTH="1257"
+                          VPOS="1952"
+                          HPOS="61"
+                          CONTENT="Officin Perthes in Gotha erwarten ließ, ausgezeichnet. Insbeſondere ſind die Ueber⸗"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="67,2020 129,2019 192,2018 255,2018 318,2018 380,2018 443,2018 506,2018 569,2018 631,2018 694,2018 757,2019 820,2019 882,2019 945,2020 1008,2020 1071,2020 1133,2020 1196,2020 1259,2020 1322,2020"
+                         HEIGHT="33"
+                         WIDTH="1255"
+                         VPOS="1997"
+                         HPOS="67">
+                  <String ID="string_r1l33"
+                          HEIGHT="33"
+                          WIDTH="1255"
+                          VPOS="1997"
+                          HPOS="67"
+                          CONTENT="ſichtskarten, welche durch Farbentöne zugleich die Verſchiedenheit der Religion und die"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="59,2062 122,2062 185,2062 249,2062 312,2063 375,2063 439,2063 502,2063 565,2064 629,2064 692,2064 755,2064 819,2065 882,2065 945,2065 1009,2065 1072,2065 1135,2065 1199,2065 1262,2064 1326,2064"
+                         HEIGHT="34"
+                         WIDTH="1267"
+                         VPOS="2041"
+                         HPOS="59">
+                  <String ID="string_r1l34"
+                          HEIGHT="34"
+                          WIDTH="1267"
+                          VPOS="2041"
+                          HPOS="59"
+                          CONTENT="Dichtigkeit der Bevölkerung angeben, gut ausgefallen. Jeder Karte folgt ein kurzer"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="67,2106 129,2107 192,2107 254,2108 317,2108 380,2108 442,2108 505,2108 568,2109 630,2109 693,2109 756,2109 818,2109 881,2109 944,2109 1006,2108 1069,2108 1132,2108 1194,2108 1257,2108 1320,2108"
+                         HEIGHT="34"
+                         WIDTH="1253"
+                         VPOS="2085"
+                         HPOS="67">
+                  <String ID="string_r1l35"
+                          HEIGHT="34"
+                          WIDTH="1253"
+                          VPOS="2085"
+                          HPOS="67"
+                          CONTENT="erläuternder Text, welcher „dem Leſer ein Bild von den natürlichen Verhältniſſen des"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="63,2149 125,2150 188,2151 251,2152 314,2152 377,2152 440,2153 503,2153 566,2153 629,2153 692,2153 754,2153 817,2153 880,2153 943,2153 1006,2153 1069,2153 1132,2153 1195,2154 1258,2154 1321,2155"
+                         HEIGHT="37"
+                         WIDTH="1258"
+                         VPOS="2128"
+                         HPOS="63">
+                  <String ID="string_r1l36"
+                          HEIGHT="37"
+                          WIDTH="1258"
+                          VPOS="2128"
+                          HPOS="63"
+                          CONTENT="betreffenden Landes, ſeiner politiſchen Lage, der bisherigen Entwicklung der Miſſion u. ſ. w.”"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="61,2193 124,2194 187,2196 250,2197 313,2197 376,2198 439,2198 502,2198 565,2199 628,2199 691,2199 754,2198 817,2198 880,2198 943,2198 1006,2198 1069,2198 1132,2198 1195,2199 1258,2199 1321,2200"
+                         HEIGHT="40"
+                         WIDTH="1260"
+                         VPOS="2171"
+                         HPOS="61">
+                  <String ID="string_r1l37"
+                          HEIGHT="40"
+                          WIDTH="1260"
+                          VPOS="2171"
+                          HPOS="61"
+                          CONTENT="bieten will. Die Angabe der proteſtantiſchen Miſſionsſtationen ſcheint ziemlich voll⸗"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="65,2239 127,2240 190,2241 252,2242 315,2243 377,2243 440,2243 502,2244 565,2244 627,2243 690,2243 752,2243 815,2243 877,2243 940,2243 1002,2243 1065,2243 1127,2244 1190,2244 1252,2245 1315,2246"
+                         HEIGHT="40"
+                         WIDTH="1250"
+                         VPOS="2217"
+                         HPOS="65">
+                  <String ID="string_r1l38"
+                          HEIGHT="40"
+                          WIDTH="1250"
+                          VPOS="2217"
+                          HPOS="65"
+                          CONTENT="ſtändig zu ſein; dagegen ſah ſich H. Grundemann genöthigt, in der Vorrede ſein Be⸗"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

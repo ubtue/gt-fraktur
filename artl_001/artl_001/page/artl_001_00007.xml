@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-20T17:30:30.897+01:00</Created>
+        <LastChange>2021-05-11T09:06:32.972+02:00</LastChange>
+        <TranskribusMetadata docId="542280" pageId="22797938" pageNr="3" tsid="57717314" status="GT" userId="68000" imgUrl="https://files.transkribus.eu/Get?id=RCTPUVOXUDPMLMKYKUMADQUM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HANTNAQSXXIPKBUMYSHLQGYY" imageId="17775130"/>
+    </Metadata>
+    <Page imageFilename="artl_001_00007.tif" imageWidth="1350" imageHeight="2456">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626328072773" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1615362727728_719"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1615362727728_719" custom="readingOrder {index:0;}">
+            <Coords points="66,46 1183,41 1268,41 1268,2204 1158,2207 65,2207"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="1208,74 1234,74 1260,72 1260,41 1234,43 1208,43"/>
+                <Baseline points="1208,64 1234,64 1260,62"/>
+                <TextEquiv>
+                    <Unicode>III</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="1183,134 1215,134 1248,137 1248,107 1215,104 1183,104"/>
+                <Baseline points="1183,124 1215,124 1248,127"/>
+                <TextEquiv>
+                    <Unicode>Seite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362742705_726" custom="readingOrder {index:2;}">
+                <Coords points="65,141 901,136 1200,135 1242,135 1242,165 946,169 857,170 505,173 373,174 197,175 109,175 65,174"/>
+                <Baseline points="65,163 109,164 153,164 197,164 241,163 285,163 329,163 373,163 417,162 461,162 505,162 549,161 593,161 637,160 681,160 725,160 769,159 813,159 857,159 901,158 946,158 1200,155 1242,155"/>
+                <TextEquiv>
+                    <Unicode>Creuzer, Predigt zum Jahresfeſt der Conſtitutionsfeier . . . 181</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362748553_730" custom="readingOrder {index:3;}">
+                <Coords points="73,188 1199,178 1244,178 1244,209 827,215 261,219 73,219"/>
+                <Baseline points="73,209 110,209 148,209 186,209 223,209 261,209 299,208 336,208 374,208 412,207 450,207 487,206 525,206 563,206 600,205 638,205 676,205 713,205 751,205 789,205 827,205 1199,199 1244,199"/>
+                <TextEquiv>
+                    <Unicode>Scheffer, das Bild eines ächten Jüngers Jeſu . . . . 182</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362753403_734" custom="readingOrder {index:4;}">
+                <Coords points="77,232 934,223 1218,222 1243,222 1243,253 1008,263 77,263"/>
+                <Baseline points="77,253 118,253 159,253 200,252 241,252 282,252 323,251 364,251 405,251 446,250 488,250 529,250 570,250 611,250 652,249 693,249 734,249 775,249 816,249 857,249 899,249 934,249 971,249 1008,250 1193,245 1218,243 1243,243"/>
+                <TextEquiv>
+                    <Unicode>Eylert, die Gottesfurcht des chriſtlichen Soldaten im Lager . . 182</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362756548_738" custom="readingOrder {index:5;}">
+                <Coords points="73,278 1255,266 1255,297 1229,299 891,305 154,309 73,309"/>
+                <Baseline points="73,299 113,299 154,299 195,298 236,298 277,298 318,297 359,297 400,296 441,296 482,296 522,295 563,295 604,294 645,294 686,294 727,294 768,294 809,294 850,294 891,295 1203,289 1229,289 1255,287"/>
+                <TextEquiv>
+                    <Unicode>Typke, zwei Predigten nebſt Nachricht von d. Leben . . . 199</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362775054_744" custom="readingOrder {index:6;}">
+                <Coords points="77,323 102,322 179,321 1250,309 1250,340 1192,346 77,354"/>
+                <Baseline points="77,344 102,343 128,343 154,343 179,342 205,342 231,342 257,342 282,342 308,341 334,341 359,341 385,341 411,341 437,341 462,341 488,340 514,340 540,340 556,340 580,340 1192,336 1221,333 1250,330"/>
+                <TextEquiv>
+                    <Unicode>Auguſtin, vier Feſtpredigten . . . . . . . . 200</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362778798_748" custom="readingOrder {index:7;}">
+                <Coords points="78,368 458,363 539,362 1224,357 1252,357 1252,388 1196,390 186,399 78,399"/>
+                <Baseline points="78,389 105,389 132,389 159,389 186,389 213,388 240,388 268,387 295,387 322,387 349,386 376,386 403,385 430,385 458,384 485,384 512,384 539,383 566,383 593,383 621,383 1196,380 1224,378 1252,378"/>
+                <TextEquiv>
+                    <Unicode>Dietzſch, Predigt⸗Skizzen, 3r Bd. . . . . . . . 201</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362782205_752" custom="readingOrder {index:8;}">
+                <Coords points="84,412 436,408 613,406 1228,403 1254,403 1254,434 1202,436 966,440 172,443 84,443"/>
+                <Baseline points="84,433 128,433 172,433 216,432 260,432 304,431 348,431 392,430 436,429 480,429 525,428 569,428 613,427 657,427 701,427 745,427 789,427 833,427 877,428 921,429 966,430 1202,426 1228,424 1254,424"/>
+                <TextEquiv>
+                    <Unicode>Großmann, Predigt am Grabe des Prälaten Tittmann . . 202</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362786423_756" custom="readingOrder {index:9;}">
+                <Coords points="82,457 421,452 648,450 1248,447 1248,478 1204,480 837,483 119,488 82,488"/>
+                <Baseline points="82,478 119,478 157,477 195,477 233,476 270,476 308,475 346,475 384,474 421,473 459,473 497,473 535,472 572,472 610,472 648,471 686,471 723,472 761,472 799,473 837,473 1204,470 1248,468"/>
+                <TextEquiv>
+                    <Unicode>Achtzehn Predigten während der Zeit der Cholera . . . . 215</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362792876_760" custom="readingOrder {index:10;}">
+                <Coords points="81,500 1255,490 1255,521 1229,524 1203,525 832,533 818,533 152,532 81,531"/>
+                <Baseline points="81,521 116,521 152,522 188,522 224,522 260,521 296,521 331,521 367,520 403,519 439,519 475,518 511,518 547,518 582,517 618,517 654,517 690,517 726,518 762,518 798,519 818,521 832,521 1203,515 1229,514 1255,511"/>
+                <TextEquiv>
+                    <Unicode>Grabe, Gebetbuch für Bürger und Landleute . . . . . 217</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362796130_764" custom="readingOrder {index:11;}">
+                <Coords points="81,546 514,541 1253,541 1253,571 1197,573 243,578 135,578 81,577"/>
+                <Baseline points="81,567 108,567 135,568 162,568 189,568 216,568 243,568 270,567 297,567 324,566 352,565 379,565 406,564 433,564 460,563 487,563 514,562 541,562 568,562 595,562 623,562 1197,563 1225,561 1253,561"/>
+                <TextEquiv>
+                    <Unicode>Barter, der evangeliſche Geiſtliche . . . . . . . 217</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362801535_769" custom="readingOrder {index:12;}">
+                <Coords points="81,592 917,583 1253,583 1253,613 1202,618 970,623 891,624 81,623"/>
+                <Baseline points="81,613 120,613 159,613 198,613 237,613 276,612 315,612 354,611 393,611 432,610 471,609 510,609 549,608 588,608 627,608 666,607 705,608 744,608 783,608 822,609 862,610 891,611 917,609 944,609 970,610 997,609 1202,608 1227,605 1253,603"/>
+                <TextEquiv>
+                    <Unicode>Mehliß, das Chriſtenthum, der Weg zu Heil und Frieden . . 236</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362804961_773" custom="readingOrder {index:13;}">
+                <Coords points="76,636 622,630 1251,628 1251,659 1203,663 232,668 154,668 76,667"/>
+                <Baseline points="76,657 115,657 154,658 193,658 232,658 271,657 310,657 349,656 388,656 427,655 466,654 505,653 544,652 583,652 622,651 661,651 700,651 739,651 778,652 817,653 856,654 1203,653 1251,649"/>
+                <TextEquiv>
+                    <Unicode>Grumbach, Andachtsbuch für gefühlvolle Chriſten . . . . 237</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362809325_777" custom="readingOrder {index:14;}">
+                <Coords points="79,682 532,677 637,676 1229,674 1255,674 1255,705 1203,707 218,713 79,713"/>
+                <Baseline points="79,703 113,703 148,703 183,703 218,703 253,702 288,702 323,702 358,701 393,701 428,700 462,699 497,699 532,698 567,698 602,698 637,697 672,697 707,697 742,698 777,698 1203,697 1229,695 1255,695"/>
+                <TextEquiv>
+                    <Unicode>Behrend’s, Allgemeine ev. Kirchen⸗Agende . . . . . 264</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362812544_781" custom="readingOrder {index:15;}">
+                <Coords points="81,726 573,721 687,720 1227,719 1256,720 1256,751 232,757 81,757"/>
+                <Baseline points="81,747 118,747 156,747 194,747 232,747 270,746 308,746 346,745 384,745 422,744 460,744 497,743 535,743 573,742 611,742 649,742 687,741 725,742 763,742 801,743 839,743 1198,741 1227,740 1256,741"/>
+                <TextEquiv>
+                    <Unicode>Luther’s acht Predigten wider die Schwarmgeiſter . . . . 279</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362816202_785" custom="readingOrder {index:16;}">
+                <Coords points="80,771 410,767 1225,764 1253,764 1253,795 1197,797 207,804 80,804"/>
+                <Baseline points="80,793 105,793 130,793 156,793 181,793 207,793 232,792 257,792 283,791 308,791 334,791 359,790 384,790 410,789 435,789 461,789 486,789 511,789 537,789 562,789 588,790 1197,787 1225,785 1253,785"/>
+                <TextEquiv>
+                    <Unicode>Ruſt, Stimmen der Reformation . . . . . . . 279</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;} textStyle {offset:0; length:29;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="353,897 384,897 415,896 446,896 477,895 508,895 539,895 570,895 601,894 632,894 663,894 694,894 725,894 756,894 787,895 818,895 849,895 880,895 911,895 942,894 973,894 973,855 942,855 911,856 880,856 849,856 818,856 787,856 756,855 725,855 694,855 663,855 632,855 601,855 570,856 539,856 508,856 477,856 446,857 415,857 384,858 353,858"/>
+                <Baseline points="353,884 384,884 415,883 446,883 477,882 508,882 539,882 570,882 601,881 632,881 663,881 694,881 725,881 756,881 787,882 818,882 849,882 880,882 911,882 942,881 973,881"/>
+                <TextEquiv>
+                    <Unicode>Programme und Diſſertationen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362824692_789" custom="readingOrder {index:18;}">
+                <Coords points="71,916 1050,911 1131,911 1263,914 1263,945 1158,952 71,947"/>
+                <Baseline points="71,937 119,937 167,937 215,937 264,937 312,937 360,937 409,937 457,937 505,937 554,937 602,937 650,937 698,937 747,937 795,937 843,937 892,937 940,937 988,937 1037,938 1050,937 1077,938 1104,937 1131,937 1158,939 1199,939 1231,935 1263,935"/>
+                <TextEquiv>
+                    <Unicode>Kirchner, de Montanistis. Specim. I. Commentat. de eorum origine 149</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362829283_793" custom="readingOrder {index:19;}">
+                <Coords points="78,961 436,959 1260,957 1260,988 1230,990 1201,991 287,992 78,992"/>
+                <Baseline points="78,982 107,982 137,982 167,982 197,982 227,982 257,982 287,982 317,981 347,981 377,981 406,981 436,980 466,980 496,980 526,980 556,980 586,980 616,980 646,981 676,981 1201,981 1230,980 1260,978"/>
+                <TextEquiv>
+                    <Unicode>Loehn, Pogramm. Freiberg, 1832 . . . . . . . 150</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:20;} textStyle {offset:0; length:14;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="547,1077 574,1074 602,1072 629,1071 657,1071 684,1071 712,1071 739,1072 767,1072 795,1072 795,1035 767,1035 739,1035 712,1034 684,1034 657,1034 629,1034 602,1035 574,1037 547,1040"/>
+                <Baseline points="547,1065 574,1062 602,1060 629,1059 657,1059 684,1059 712,1059 739,1060 767,1060 795,1060"/>
+                <TextEquiv>
+                    <Unicode>Zeitſchriften.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362833313_797" custom="readingOrder {index:21;}">
+                <Coords points="80,1105 110,1104 234,1101 326,1099 572,1095 696,1095 1222,1098 1266,1099 1266,1130 80,1136"/>
+                <Baseline points="80,1126 110,1125 141,1125 172,1124 203,1123 234,1122 264,1122 295,1121 326,1120 357,1120 388,1119 418,1119 449,1118 480,1118 511,1117 542,1117 572,1116 603,1116 634,1116 665,1116 696,1116 1222,1119 1266,1120"/>
+                <TextEquiv>
+                    <Unicode>Leipziger Literatur⸗Zeitung. Januarheft . . . . . . 15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362836862_801" custom="readingOrder {index:22;}">
+                <Coords points="86,1149 140,1148 304,1145 414,1143 496,1142 633,1142 1260,1143 1260,1174 113,1180 86,1180"/>
+                <Baseline points="86,1170 113,1170 140,1169 168,1169 195,1169 222,1168 250,1168 277,1167 304,1166 332,1166 359,1165 386,1165 414,1164 441,1164 468,1164 496,1163 523,1163 550,1163 578,1163 605,1163 633,1163 1220,1164 1260,1164"/>
+                <TextEquiv>
+                    <Unicode>Katholiſche Kirchenzeitung. Januar. . . . . . . 31</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362840775_805" custom="readingOrder {index:23;}">
+                <Coords points="81,1192 495,1187 599,1187 1227,1188 1261,1192 1261,1222 184,1224 132,1224 81,1223"/>
+                <Baseline points="81,1213 106,1213 132,1214 158,1214 184,1214 210,1213 236,1213 262,1212 288,1212 314,1212 340,1211 365,1210 391,1210 417,1209 443,1209 469,1209 495,1208 521,1208 547,1208 573,1208 599,1208 1227,1208 1261,1212"/>
+                <TextEquiv>
+                    <Unicode>Annalen der geſammten Theologie . . . . . . . 42</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362845261_809" custom="readingOrder {index:24;}">
+                <Coords points="84,1237 608,1230 899,1228 1234,1231 1256,1233 1256,1263 930,1268 84,1268"/>
+                <Baseline points="84,1258 121,1258 158,1258 196,1258 233,1258 271,1257 308,1256 346,1256 383,1255 421,1254 458,1254 495,1253 533,1253 570,1252 608,1251 645,1251 683,1251 720,1251 758,1251 795,1251 833,1251 899,1254 930,1255 1234,1251 1256,1253"/>
+                <TextEquiv>
+                    <Unicode>Rheiniſche Blätter für Erziehung. Vr B. 1. Heft . . . . 43</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362850440_813" custom="readingOrder {index:25;}">
+                <Coords points="94,1283 481,1276 622,1274 728,1274 1260,1277 1260,1308 164,1314 94,1314"/>
+                <Baseline points="94,1304 129,1304 164,1304 199,1303 235,1303 270,1302 305,1301 340,1300 376,1300 411,1299 446,1298 481,1297 517,1297 552,1296 587,1296 622,1295 658,1295 693,1295 728,1295 763,1296 799,1296 1230,1298 1260,1298"/>
+                <TextEquiv>
+                    <Unicode>Pflanz, freimüthige Blätter, 1833. 1s Heft . . . . . 43</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362906161_846" custom="readingOrder {index:26;}">
+                <Coords points="86,1327 520,1320 713,1318 810,1318 1230,1320 1260,1322 1260,1353 1052,1354 134,1358 86,1358"/>
+                <Baseline points="86,1348 134,1348 182,1347 230,1346 279,1346 327,1345 375,1344 424,1343 472,1342 520,1341 569,1341 617,1340 665,1340 713,1339 762,1339 810,1339 858,1340 907,1340 955,1341 1003,1342 1052,1344 1230,1341 1260,1343"/>
+                <TextEquiv>
+                    <Unicode>Winer, Zeitſchr. für wiſſenſchaftl. Theol. Ir B. 1. 2. 3. H. IIr B. 1. H. 62</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362866712_823" custom="readingOrder {index:27;}">
+                <Coords points="87,1372 434,1366 550,1364 666,1363 744,1363 1264,1365 1264,1396 125,1403 87,1403"/>
+                <Baseline points="87,1393 125,1393 164,1392 202,1392 241,1391 280,1390 318,1390 357,1389 396,1388 434,1387 473,1387 512,1386 550,1385 589,1385 628,1385 666,1384 705,1384 744,1384 782,1385 821,1385 860,1386 1230,1386 1264,1386"/>
+                <TextEquiv>
+                    <Unicode>Kirchenzeitung für das katholiſche Deutſchland I. 1. . . . 70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362890868_834" custom="readingOrder {index:28;}">
+                <Coords points="94,1417 145,1415 351,1411 506,1409 661,1408 918,1408 1259,1410 1259,1441 94,1448"/>
+                <Baseline points="94,1438 145,1436 197,1435 248,1434 300,1433 351,1432 403,1432 454,1431 506,1430 557,1430 609,1430 661,1429 712,1429 764,1429 815,1429 867,1429 918,1429 970,1430 1021,1430 1073,1431 1125,1431 1235,1431 1259,1431"/>
+                <TextEquiv>
+                    <Unicode>Zeitſchrift für die Geiſtlichkeit des Erzbisthums Freiburg, 1828—32 . 72</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362911140_850" custom="readingOrder {index:29;}">
+                <Coords points="90,1463 115,1462 167,1460 245,1458 296,1457 581,1453 1266,1455 1266,1486 90,1494"/>
+                <Baseline points="90,1484 115,1483 141,1482 167,1481 193,1481 219,1480 245,1479 270,1479 296,1478 322,1478 348,1478 374,1477 400,1477 425,1477 451,1476 477,1476 503,1476 529,1475 555,1475 581,1474 1232,1476 1266,1476"/>
+                <TextEquiv>
+                    <Unicode>Palmblätter, 1833. 1r Bd. . . . . . . . 90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362916916_854" custom="readingOrder {index:30;}">
+                <Coords points="90,1506 184,1504 279,1502 469,1499 658,1497 801,1497 1261,1499 1261,1530 1038,1532 90,1537"/>
+                <Baseline points="90,1527 137,1526 184,1525 232,1524 279,1523 327,1523 374,1522 421,1521 469,1520 516,1520 564,1519 611,1519 658,1518 706,1518 753,1518 801,1518 848,1519 895,1519 943,1520 990,1521 1038,1522 1221,1520 1261,1520"/>
+                <TextEquiv>
+                    <Unicode>Sion. Zeitſchrift von einem Verein von Katholiken, 1s Heft . . 90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362921950_858" custom="readingOrder {index:31;}">
+                <Coords points="92,1551 123,1550 247,1547 402,1544 726,1539 1260,1544 1260,1575 768,1580 92,1582"/>
+                <Baseline points="92,1572 123,1571 154,1571 185,1570 216,1569 247,1568 278,1568 309,1567 340,1567 371,1566 402,1565 433,1565 464,1565 495,1564 526,1564 557,1564 588,1563 619,1563 650,1563 681,1563 713,1563 726,1565 768,1567 1216,1565 1260,1565"/>
+                <TextEquiv>
+                    <Unicode>Benkert, Religions⸗ und Kirchenfreund . . . . . . 125</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362938319_870" custom="readingOrder {index:32;}">
+                <Coords points="88,1596 115,1595 143,1594 309,1590 364,1589 447,1588 1260,1587 1260,1618 1216,1622 88,1627"/>
+                <Baseline points="88,1617 115,1616 143,1615 170,1615 198,1614 226,1613 253,1613 281,1612 309,1611 336,1611 364,1610 392,1610 419,1610 447,1609 475,1609 502,1609 530,1609 558,1609 585,1609 613,1609 641,1609 1216,1612 1260,1608"/>
+                <TextEquiv>
+                    <Unicode>Lommler, prakt. Prediger⸗Zeitung . . . . . . . 126</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362942065_874" custom="readingOrder {index:33;}">
+                <Coords points="89,1640 226,1636 308,1634 417,1632 582,1632 1266,1633 1266,1664 1241,1666 116,1671 89,1671"/>
+                <Baseline points="89,1661 116,1661 143,1660 171,1659 198,1658 226,1657 253,1657 280,1656 308,1655 335,1655 363,1654 390,1654 417,1653 445,1653 472,1653 500,1653 527,1653 554,1653 582,1653 609,1654 637,1654 1216,1656 1241,1656 1266,1654"/>
+                <TextEquiv>
+                    <Unicode>Blätter für literariſche Unterhaltung . . . . . . 127</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362946306_878" custom="readingOrder {index:34;}">
+                <Coords points="89,1685 224,1681 269,1680 405,1677 495,1676 721,1676 1260,1677 1260,1708 1216,1710 993,1712 89,1716"/>
+                <Baseline points="89,1706 134,1705 179,1704 224,1702 269,1701 315,1700 360,1699 405,1698 450,1698 495,1697 541,1697 586,1697 631,1697 676,1697 721,1697 767,1698 812,1698 857,1699 902,1700 947,1701 993,1702 1216,1700 1260,1698"/>
+                <TextEquiv>
+                    <Unicode>Religiöſe Zeitſchrift für das katholiſche Deutſchland. I. 1. 2 . . 140</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362949757_882" custom="readingOrder {index:35;}">
+                <Coords points="92,1730 290,1724 389,1722 521,1720 653,1720 1261,1722 1261,1753 1217,1755 92,1761"/>
+                <Baseline points="92,1751 125,1750 158,1749 191,1748 224,1747 257,1746 290,1745 323,1745 356,1744 389,1743 422,1743 455,1742 488,1742 521,1741 554,1741 587,1741 620,1741 653,1741 686,1742 719,1742 753,1743 1217,1745 1261,1743"/>
+                <TextEquiv>
+                    <Unicode>Röhr, kritiſche Predigerbibliothek, 1s Heft . . . . . 143</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362955054_886" custom="readingOrder {index:36;}">
+                <Coords points="94,1775 139,1773 454,1766 544,1765 724,1765 1268,1767 1268,1798 995,1803 94,1806"/>
+                <Baseline points="94,1796 139,1794 184,1793 229,1792 274,1791 319,1790 364,1789 409,1788 454,1787 499,1787 544,1786 589,1786 634,1786 679,1786 724,1786 769,1787 814,1788 859,1788 904,1789 949,1791 995,1793 1216,1788 1242,1788 1268,1788"/>
+                <TextEquiv>
+                    <Unicode>Zeitſchrift für Philoſophie und kathol. Theologie. 1r Jahrg. . . 152</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362958474_890" custom="readingOrder {index:37;}">
+                <Coords points="86,1819 215,1816 387,1813 516,1811 602,1810 731,1810 1268,1811 1268,1842 1216,1844 946,1846 86,1850"/>
+                <Baseline points="86,1840 129,1839 172,1838 215,1837 258,1837 301,1836 344,1835 387,1834 430,1834 473,1833 516,1832 559,1832 602,1831 645,1831 688,1831 731,1831 774,1832 817,1832 860,1833 903,1834 946,1836 1216,1834 1242,1833 1268,1832"/>
+                <TextEquiv>
+                    <Unicode>Droſte, Beiwagen zur Bonner Zeitſchrift für Phil. etc. . . . 169</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362962021_894" custom="readingOrder {index:38;}">
+                <Coords points="94,1863 137,1862 438,1856 568,1854 740,1854 1240,1856 1266,1857 1266,1888 1214,1890 956,1891 94,1894"/>
+                <Baseline points="94,1884 137,1883 180,1883 223,1882 266,1881 309,1880 352,1879 395,1878 438,1877 481,1877 525,1876 568,1875 611,1875 654,1875 697,1875 740,1875 783,1876 826,1877 869,1878 912,1879 956,1881 1214,1880 1240,1877 1266,1878"/>
+                <TextEquiv>
+                    <Unicode>Der Katholik. Zeitſchrift von Dr. Weis. 1s Heft . . . . 183</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362966103_898" custom="readingOrder {index:39;}">
+                <Coords points="86,1907 488,1901 589,1900 622,1900 1238,1902 1266,1903 1266,1934 1210,1936 186,1938 86,1938"/>
+                <Baseline points="86,1928 119,1928 153,1928 186,1928 220,1927 253,1927 287,1926 320,1926 354,1925 387,1924 421,1923 455,1923 488,1922 522,1922 555,1922 589,1921 622,1921 656,1922 689,1922 723,1923 757,1924 1210,1926 1238,1923 1266,1924"/>
+                <TextEquiv>
+                    <Unicode>Halleſche Literatur⸗Zeitung. Jan. u. Febr. . . . . . 203</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362969868_902" custom="readingOrder {index:40;}">
+                <Coords points="88,1951 540,1945 622,1944 663,1944 1263,1946 1263,1977 1238,1980 910,1982 129,1983 88,1982"/>
+                <Baseline points="88,1972 129,1973 170,1972 211,1972 252,1971 293,1971 334,1970 375,1969 416,1968 457,1968 499,1967 540,1966 581,1966 622,1965 663,1965 704,1966 745,1966 786,1967 827,1968 868,1969 910,1972 1213,1969 1238,1970 1263,1967"/>
+                <TextEquiv>
+                    <Unicode>Kerz, katholiſche Literatur⸗Zeitung. 1r Bd. 1s Heft . . . 204</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362973779_906" custom="readingOrder {index:41;}">
+                <Coords points="93,1998 396,1992 463,1991 531,1990 632,1990 1266,1991 1266,2022 1218,2024 126,2028 93,2028"/>
+                <Baseline points="93,2018 126,2018 160,2017 194,2017 227,2016 261,2015 295,2015 328,2014 362,2013 396,2012 430,2012 463,2011 497,2011 531,2010 564,2010 598,2010 632,2010 665,2011 699,2011 733,2012 767,2013 1218,2014 1266,2012"/>
+                <TextEquiv>
+                    <Unicode>Heidelberger Jahrbücher der Literatur. Jan. . . . . . 218</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362978224_910" custom="readingOrder {index:42;}">
+                <Coords points="93,2040 967,2031 1019,2031 1265,2037 1265,2067 1215,2069 1045,2071 941,2071 93,2070"/>
+                <Baseline points="93,2060 133,2060 174,2060 215,2060 256,2059 297,2059 338,2058 378,2058 419,2058 460,2057 501,2057 542,2056 583,2056 624,2056 664,2056 705,2056 746,2056 787,2057 828,2057 869,2058 910,2059 941,2058 967,2057 993,2057 1019,2057 1045,2058 1215,2059 1240,2057 1265,2057"/>
+                <TextEquiv>
+                    <Unicode>Euphron, Zeitſchrift für Religion und Kirchenthum. 1s Heft . . 238</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362981468_914" custom="readingOrder {index:43;}">
+                <Coords points="94,2086 147,2085 627,2077 1262,2080 1262,2111 120,2116 94,2116"/>
+                <Baseline points="94,2106 120,2106 147,2105 173,2105 200,2105 227,2104 253,2104 280,2104 307,2104 333,2103 360,2103 387,2103 413,2103 440,2102 467,2102 493,2101 520,2101 547,2100 573,2099 600,2099 627,2097 1212,2101 1237,2101 1262,2101"/>
+                <TextEquiv>
+                    <Unicode>Schweizeriſche Kirchenzeitung. 1833 . . . . . . . 269</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362984483_918" custom="readingOrder {index:44;}">
+                <Coords points="87,2128 518,2125 1235,2124 1260,2125 1260,2156 1210,2158 906,2159 87,2159"/>
+                <Baseline points="87,2149 130,2149 173,2149 216,2149 259,2149 302,2148 345,2148 388,2147 431,2147 474,2147 518,2146 561,2146 604,2146 647,2146 690,2146 733,2146 776,2146 819,2147 862,2148 906,2149 1210,2148 1235,2145 1260,2146"/>
+                <TextEquiv>
+                    <Unicode>Neues allgemeines Repertorium der neueſten Literatur . . . 245</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615362989478_922" custom="readingOrder {index:45;}">
+                <Coords points="91,2172 381,2170 1264,2169 1264,2200 1202,2204 513,2207 143,2206 91,2205"/>
+                <Baseline points="91,2194 117,2194 143,2195 170,2195 196,2195 222,2194 249,2194 275,2194 302,2193 328,2193 354,2193 381,2192 407,2192 433,2193 460,2193 486,2194 513,2196 1202,2194 1233,2192 1264,2190"/>
+                <TextEquiv>
+                    <Unicode>Die allgemeine Schulzeitung . . . . . . . . 247</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>III
+Seite
+Creuzer, Predigt zum Jahresfeſt der Conſtitutionsfeier . . . 181
+Scheffer, das Bild eines ächten Jüngers Jeſu . . . . 182
+Eylert, die Gottesfurcht des chriſtlichen Soldaten im Lager . . 182
+Typke, zwei Predigten nebſt Nachricht von d. Leben . . . 199
+Auguſtin, vier Feſtpredigten . . . . . . . . 200
+Dietzſch, Predigt⸗Skizzen, 3r Bd. . . . . . . . 201
+Großmann, Predigt am Grabe des Prälaten Tittmann . . 202
+Achtzehn Predigten während der Zeit der Cholera . . . . 215
+Grabe, Gebetbuch für Bürger und Landleute . . . . . 217
+Barter, der evangeliſche Geiſtliche . . . . . . . 217
+Mehliß, das Chriſtenthum, der Weg zu Heil und Frieden . . 236
+Grumbach, Andachtsbuch für gefühlvolle Chriſten . . . . 237
+Behrend’s, Allgemeine ev. Kirchen⸗Agende . . . . . 264
+Luther’s acht Predigten wider die Schwarmgeiſter . . . . 279
+Ruſt, Stimmen der Reformation . . . . . . . 279
+Programme und Diſſertationen.
+Kirchner, de Montanistis. Specim. I. Commentat. de eorum origine 149
+Loehn, Pogramm. Freiberg, 1832 . . . . . . . 150
+Zeitſchriften.
+Leipziger Literatur⸗Zeitung. Januarheft . . . . . . 15
+Katholiſche Kirchenzeitung. Januar. . . . . . . 31
+Annalen der geſammten Theologie . . . . . . . 42
+Rheiniſche Blätter für Erziehung. Vr B. 1. Heft . . . . 43
+Pflanz, freimüthige Blätter, 1833. 1s Heft . . . . . 43
+Winer, Zeitſchr. für wiſſenſchaftl. Theol. Ir B. 1. 2. 3. H. IIr B. 1. H. 62
+Kirchenzeitung für das katholiſche Deutſchland I. 1. . . . 70
+Zeitſchrift für die Geiſtlichkeit des Erzbisthums Freiburg, 1828—32 . 72
+Palmblätter, 1833. 1r Bd. . . . . . . . 90
+Sion. Zeitſchrift von einem Verein von Katholiken, 1s Heft . . 90
+Benkert, Religions⸗ und Kirchenfreund . . . . . . 125
+Lommler, prakt. Prediger⸗Zeitung . . . . . . . 126
+Blätter für literariſche Unterhaltung . . . . . . 127
+Religiöſe Zeitſchrift für das katholiſche Deutſchland. I. 1. 2 . . 140
+Röhr, kritiſche Predigerbibliothek, 1s Heft . . . . . 143
+Zeitſchrift für Philoſophie und kathol. Theologie. 1r Jahrg. . . 152
+Droſte, Beiwagen zur Bonner Zeitſchrift für Phil. etc. . . . 169
+Der Katholik. Zeitſchrift von Dr. Weis. 1s Heft . . . . 183
+Halleſche Literatur⸗Zeitung. Jan. u. Febr. . . . . . 203
+Kerz, katholiſche Literatur⸗Zeitung. 1r Bd. 1s Heft . . . 204
+Heidelberger Jahrbücher der Literatur. Jan. . . . . . 218
+Euphron, Zeitſchrift für Religion und Kirchenthum. 1s Heft . . 238
+Schweizeriſche Kirchenzeitung. 1833 . . . . . . . 269
+Neues allgemeines Repertorium der neueſten Literatur . . . 245
+Die allgemeine Schulzeitung . . . . . . . . 247</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

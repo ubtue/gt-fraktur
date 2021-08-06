@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:40:07.899+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2339" WIDTH="1420">
+         <TopMargin HEIGHT="0" WIDTH="1420" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2339" WIDTH="0" VPOS="0" HPOS="1420"/>
+         <BottomMargin HEIGHT="0" WIDTH="1420" VPOS="2339" HPOS="0"/>
+         <PrintSpace HEIGHT="2339" WIDTH="1420" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2275" WIDTH="1285" VPOS="22" HPOS="69">
+               <Shape>
+                  <Polygon POINTS="69,22 69,2297 1354,2297 1354,22"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="666,49 692,56 718,55 744,55"
+                         HEIGHT="47"
+                         WIDTH="78"
+                         VPOS="22"
+                         HPOS="666">
+                  <String ID="string_r1l1"
+                          HEIGHT="47"
+                          WIDTH="78"
+                          VPOS="22"
+                          HPOS="666"
+                          CONTENT="219"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="72,152 135,152 198,152 262,152 325,152 389,152 452,152 515,152 579,152 642,152 706,152 769,152 832,152 896,152 959,152 1023,153 1086,153 1149,153 1213,153 1276,152 1340,152"
+                         HEIGHT="41"
+                         WIDTH="1268"
+                         VPOS="125"
+                         HPOS="72">
+                  <String ID="string_r1l2"
+                          HEIGHT="41"
+                          WIDTH="1268"
+                          VPOS="125"
+                          HPOS="72"
+                          CONTENT="den Jeſuiten geleiteten höhern Schulen, nach den erbärmlichen Zeiten"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="86,209 148,209 211,209 274,210 336,210 399,210 462,210 524,210 587,209 650,209 713,209 775,209 838,209 901,209 963,209 1026,209 1089,210 1151,210 1214,211 1277,211 1340,212"
+                         HEIGHT="43"
+                         WIDTH="1254"
+                         VPOS="182"
+                         HPOS="86">
+                  <String ID="string_r1l3"
+                          HEIGHT="43"
+                          WIDTH="1254"
+                          VPOS="182"
+                          HPOS="86"
+                          CONTENT="des letzten ſpanischen Regimentes, nach einem grauſamen Bürgerkriege,"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="73,266 136,266 199,266 262,267 325,267 388,267 451,267 514,267 577,267 640,267 703,267 766,267 829,267 892,267 955,266 1018,266 1081,266 1144,266 1207,266 1270,266 1334,266"
+                         HEIGHT="40"
+                         WIDTH="1261"
+                         VPOS="240"
+                         HPOS="73">
+                  <String ID="string_r1l4"
+                          HEIGHT="40"
+                          WIDTH="1261"
+                          VPOS="240"
+                          HPOS="73"
+                          CONTENT="nach einem halben Jahrhundert von Anarchie und politiſchen Schwan⸗"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="69,323 132,323 195,323 258,323 321,323 385,323 448,324 511,324 574,324 637,324 701,324 764,324 827,324 890,324 953,324 1017,324 1080,324 1143,325 1206,325 1269,325 1333,326"
+                         HEIGHT="43"
+                         WIDTH="1264"
+                         VPOS="296"
+                         HPOS="69">
+                  <String ID="string_r1l5"
+                          HEIGHT="43"
+                          WIDTH="1264"
+                          VPOS="296"
+                          HPOS="69"
+                          CONTENT="kungen, bei der Corruption des Klerus und der liberalen Knebelung"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="75,380 107,380 139,380 171,381 203,381 235,381 267,381 299,381 331,381 363,381 395,381 427,381 459,381 491,381 523,381 555,381 587,381 619,381 651,381 683,382 715,382"
+                         HEIGHT="42"
+                         WIDTH="640"
+                         VPOS="353"
+                         HPOS="75">
+                  <String ID="string_r1l6"
+                          HEIGHT="42"
+                          WIDTH="640"
+                          VPOS="353"
+                          HPOS="75"
+                          CONTENT="der Kirche das Volk gekommen war."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="159,437 203,437 247,437 292,437 336,437 380,437 425,438 469,438 513,439 558,439 602,439 646,440 691,440 735,440 779,440 824,440 868,439 912,439 957,438 1001,437 1046,436"
+                         HEIGHT="44"
+                         WIDTH="887"
+                         VPOS="409"
+                         HPOS="159">
+                  <String ID="string_r1l7"
+                          HEIGHT="44"
+                          WIDTH="887"
+                          VPOS="409"
+                          HPOS="159"
+                          CONTENT="Ecuador's¹ Bevölkerung betrug im Jahre 1856:"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="286,494 314,495 342,494 370,493 1145,504"
+                         HEIGHT="44"
+                         WIDTH="666"
+                         VPOS="467"
+                         HPOS="286">
+                  <String ID="string_r1l8"
+                          HEIGHT="44"
+                          WIDTH="666"
+                          VPOS="467"
+                          HPOS="286"
+                          CONTENT="Weiße . . . . . . . . 601,209"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="284,546 309,547 334,548 359,548 384,549 409,550 434,551 460,552 485,552 510,553 535,553 560,553 585,554 610,554 1137,561"
+                         HEIGHT="47"
+                         WIDTH="352"
+                         VPOS="520"
+                         HPOS="284">
+                  <String ID="string_r1l12"
+                          HEIGHT="47"
+                          WIDTH="352"
+                          VPOS="520"
+                          HPOS="284"
+                          CONTENT="Chriſtliche Indianer . . . . . . 462,400"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="290,608 322,607 355,608 1148,614"
+                         HEIGHT="41"
+                         WIDTH="133"
+                         VPOS="580"
+                         HPOS="290">
+                  <String ID="string_r1l13"
+                          HEIGHT="41"
+                          WIDTH="133"
+                          VPOS="580"
+                          HPOS="290"
+                          CONTENT="Neger . . . . . . . . . 7,800"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="284,666 317,665 350,665 383,666 416,666 449,666 482,666 515,666 548,666 581,667 614,667 647,667 680,667 713,667 746,667 779,667 812,667 845,667 878,667 911,666 944,666"
+                         HEIGHT="42"
+                         WIDTH="660"
+                         VPOS="638"
+                         HPOS="284">
+                  <String ID="string_r1l15"
+                          HEIGHT="42"
+                          WIDTH="660"
+                          VPOS="638"
+                          HPOS="284"
+                          CONTENT="Miſchlinge von Negern mit Weißen"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="393,731 417,733 440,734 468,735 499,733 529,736 559,737 586,738 607,734 638,734 1150,736"
+                         HEIGHT="44"
+                         WIDTH="273"
+                         VPOS="694"
+                         HPOS="392">
+                  <String ID="string_r1l17"
+                          HEIGHT="44"
+                          WIDTH="273"
+                          VPOS="694"
+                          HPOS="392"
+                          CONTENT="und Indianern 36,600"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="288,781 318,782 349,782 380,782 410,782 441,782 472,782 502,782 533,782 564,782 595,782 625,782 656,782 687,781 717,781 748,781 779,781 809,781 840,781 871,782 1153,794"
+                         HEIGHT="41"
+                         WIDTH="614"
+                         VPOS="754"
+                         HPOS="288">
+                  <String ID="string_r1l19"
+                          HEIGHT="41"
+                          WIDTH="614"
+                          VPOS="754"
+                          HPOS="288"
+                          CONTENT="Wilde Indianer in der Oſtprovinz . 200,000"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="969,859 998,860 1027,859 1056,859 1085,858 1114,857 1143,855"
+                         HEIGHT="45"
+                         WIDTH="174"
+                         VPOS="828"
+                         HPOS="969">
+                  <String ID="string_r1l20"
+                          HEIGHT="45"
+                          WIDTH="174"
+                          VPOS="828"
+                          HPOS="969"
+                          CONTENT="1,308,000"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="160,916 218,917 277,917 336,917 395,917 454,918 512,918 571,918 630,918 689,919 748,919 806,919 865,919 924,919 983,919 1042,919 1100,919 1159,919 1218,919 1277,919 1336,918"
+                         HEIGHT="43"
+                         WIDTH="1176"
+                         VPOS="889"
+                         HPOS="160">
+                  <String ID="string_r1l21"
+                          HEIGHT="43"
+                          WIDTH="1176"
+                          VPOS="889"
+                          HPOS="160"
+                          CONTENT="Die Weißen, Abkömmlinge der Europäer, (Creolen) wohnen mei⸗"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="80,975 143,975 206,975 269,975 332,975 395,975 458,976 521,976 584,976 647,976 710,976 773,977 836,977 899,977 962,977 1025,977 1088,977 1151,976 1214,976 1277,976 1340,975"
+                         HEIGHT="42"
+                         WIDTH="1260"
+                         VPOS="948"
+                         HPOS="80">
+                  <String ID="string_r1l22"
+                          HEIGHT="42"
+                          WIDTH="1260"
+                          VPOS="948"
+                          HPOS="80"
+                          CONTENT="ſtens in den Städten, und die dort befindlichen Indianer haben ſich"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="81,1031 147,1032 213,1032 279,1033 346,1033 412,1033 478,1033 544,1033 611,1033 677,1033 743,1034 809,1034 876,1034 942,1034 1008,1034 1074,1034 1141,1034 1207,1034 1273,1034 1340,1034"
+                         HEIGHT="43"
+                         WIDTH="1259"
+                         VPOS="1004"
+                         HPOS="81">
+                  <String ID="string_r1l23"
+                          HEIGHT="43"
+                          WIDTH="1259"
+                          VPOS="1004"
+                          HPOS="81"
+                          CONTENT="theilweiſe ſo mit ihnen vermiſcht, daß die an den indianiſchen Urſprung"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="75,1089 138,1089 202,1090 265,1090 329,1090 393,1091 456,1091 520,1091 583,1091 647,1091 711,1091 774,1091 838,1091 901,1091 965,1091 1029,1091 1092,1091 1156,1091 1219,1090 1283,1090 1347,1090"
+                         HEIGHT="42"
+                         WIDTH="1272"
+                         VPOS="1062"
+                         HPOS="75">
+                  <String ID="string_r1l24"
+                          HEIGHT="42"
+                          WIDTH="1272"
+                          VPOS="1062"
+                          HPOS="75"
+                          CONTENT="erinnernden Kennzeichen zurückgetreten und manche Meſtizen kaum noch"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="80,1146 143,1146 206,1147 269,1147 333,1148 396,1148 459,1148 523,1148 586,1148 649,1148 713,1148 776,1148 839,1148 902,1148 966,1148 1029,1148 1092,1148 1156,1148 1219,1148 1282,1148 1346,1148"
+                         HEIGHT="42"
+                         WIDTH="1266"
+                         VPOS="1119"
+                         HPOS="80">
+                  <String ID="string_r1l25"
+                          HEIGHT="42"
+                          WIDTH="1266"
+                          VPOS="1119"
+                          HPOS="80"
+                          CONTENT="von den Creolen zu unterſcheiden ſind. Der Einfluß des tropiſchen"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="82,1203 145,1203 208,1204 271,1204 334,1204 397,1205 460,1205 523,1205 586,1205 649,1205 712,1205 775,1205 838,1205 901,1205 964,1205 1027,1205 1090,1205 1153,1205 1216,1205 1279,1206 1343,1206"
+                         HEIGHT="43"
+                         WIDTH="1261"
+                         VPOS="1176"
+                         HPOS="82">
+                  <String ID="string_r1l26"
+                          HEIGHT="43"
+                          WIDTH="1261"
+                          VPOS="1176"
+                          HPOS="82"
+                          CONTENT="Klima’s auf die Europäer iſt groß und zeigt ſich nicht nur an der"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="81,1260 144,1260 207,1261 270,1261 333,1262 397,1262 460,1262 523,1263 586,1263 649,1263 713,1263 776,1263 839,1264 902,1264 965,1264 1029,1263 1092,1263 1155,1263 1218,1263 1281,1263 1345,1262"
+                         HEIGHT="44"
+                         WIDTH="1264"
+                         VPOS="1233"
+                         HPOS="81">
+                  <String ID="string_r1l27"
+                          HEIGHT="44"
+                          WIDTH="1264"
+                          VPOS="1233"
+                          HPOS="81"
+                          CONTENT="heißen Küſte, ſondern auch auf dem Hochlande, und nach dem bereits"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="79,1314 142,1315 205,1317 268,1318 332,1318 395,1319 458,1320 522,1320 585,1320 648,1320 712,1320 775,1320 838,1320 901,1320 965,1320 1028,1320 1091,1319 1155,1319 1218,1319 1281,1319 1345,1319"
+                         HEIGHT="46"
+                         WIDTH="1266"
+                         VPOS="1287"
+                         HPOS="79">
+                  <String ID="string_r1l28"
+                          HEIGHT="46"
+                          WIDTH="1266"
+                          VPOS="1287"
+                          HPOS="79"
+                          CONTENT="Geſagten hat im letzten Jahrhundert weder Religion noch Bildung und"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="91,1373 153,1374 216,1374 279,1375 342,1375 404,1376 467,1376 530,1376 593,1376 655,1377 718,1377 781,1377 844,1377 906,1377 969,1377 1032,1377 1095,1376 1157,1376 1220,1376 1283,1376 1346,1375"
+                         HEIGHT="44"
+                         WIDTH="1255"
+                         VPOS="1346"
+                         HPOS="91">
+                  <String ID="string_r1l29"
+                          HEIGHT="44"
+                          WIDTH="1255"
+                          VPOS="1346"
+                          HPOS="91"
+                          CONTENT="feſte ſtaatliche Ordnung dieſen Einfluß paralyſirt. Beobachtet man dieſes"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="83,1427 145,1428 208,1429 271,1430 334,1431 397,1432 459,1432 522,1432 585,1433 648,1433 711,1433 773,1433 836,1433 899,1433 962,1433 1025,1433 1087,1433 1150,1433 1213,1433 1276,1433 1339,1433"
+                         HEIGHT="46"
+                         WIDTH="1256"
+                         VPOS="1400"
+                         HPOS="83">
+                  <String ID="string_r1l30"
+                          HEIGHT="46"
+                          WIDTH="1256"
+                          VPOS="1400"
+                          HPOS="83"
+                          CONTENT="Creolen⸗Geſchlecht in dem von der Natur ſo überaus bevorzugten Lande,"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="83,1488 145,1488 208,1489 271,1489 334,1489 397,1489 460,1489 523,1490 586,1490 649,1490 712,1490 774,1490 837,1490 900,1490 963,1490 1026,1490 1089,1489 1152,1489 1215,1489 1278,1489 1341,1488"
+                         HEIGHT="42"
+                         WIDTH="1258"
+                         VPOS="1461"
+                         HPOS="83">
+                  <String ID="string_r1l31"
+                          HEIGHT="42"
+                          WIDTH="1258"
+                          VPOS="1461"
+                          HPOS="83"
+                          CONTENT="in der Mitte der es umgebenden üppigen Fülle, ſo wird man unwill⸗"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="76,1544 139,1545 203,1546 266,1546 330,1547 394,1547 457,1547 521,1547 584,1547 648,1547 712,1547 775,1547 839,1547 902,1547 966,1547 1030,1547 1093,1547 1157,1547 1220,1547 1284,1547 1348,1548"
+                         HEIGHT="44"
+                         WIDTH="1272"
+                         VPOS="1517"
+                         HPOS="76">
+                  <String ID="string_r1l32"
+                          HEIGHT="44"
+                          WIDTH="1272"
+                          VPOS="1517"
+                          HPOS="76"
+                          CONTENT="kürlich an den im Ueberfluß verkommenen und verwöhnten Sohn eines"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="87,1605 149,1605 212,1605 275,1605 338,1605 401,1605 464,1605 527,1605 590,1605 653,1605 716,1605 778,1605 841,1605 904,1605 967,1605 1030,1605 1093,1605 1156,1605 1219,1605 1282,1604 1345,1603"
+                         HEIGHT="42"
+                         WIDTH="1258"
+                         VPOS="1576"
+                         HPOS="87">
+                  <String ID="string_r1l33"
+                          HEIGHT="42"
+                          WIDTH="1258"
+                          VPOS="1576"
+                          HPOS="87"
+                          CONTENT="fürſtlichen reichen Hauſes erinnert. Durch die angedeuteten Urſachen wird"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="85,1662 148,1663 211,1663 274,1663 337,1663 401,1663 464,1663 527,1663 590,1663 653,1663 717,1663 780,1663 843,1663 906,1663 969,1663 1033,1663 1096,1663 1159,1663 1222,1663 1285,1664 1349,1664"
+                         HEIGHT="42"
+                         WIDTH="1264"
+                         VPOS="1635"
+                         HPOS="85">
+                  <String ID="string_r1l34"
+                          HEIGHT="42"
+                          WIDTH="1264"
+                          VPOS="1635"
+                          HPOS="85"
+                          CONTENT="es erklärlich, was die freilich meiſt übertriebenen Reiſeberichte über den"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="87,1720 150,1720 213,1720 276,1720 339,1720 402,1720 465,1721 528,1721 591,1721 654,1721 718,1721 781,1722 844,1722 907,1722 970,1722 1033,1722 1096,1722 1159,1721 1222,1721 1285,1720 1349,1720"
+                         HEIGHT="42"
+                         WIDTH="1262"
+                         VPOS="1693"
+                         HPOS="87">
+                  <String ID="string_r1l35"
+                          HEIGHT="42"
+                          WIDTH="1262"
+                          VPOS="1693"
+                          HPOS="87"
+                          CONTENT="Mangel an Ehrgefühl und Aufrichtigkeit im Volkscharakter, über die"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="79,1777 142,1777 205,1777 269,1777 332,1777 396,1777 459,1778 522,1778 586,1779 649,1779 713,1779 776,1780 839,1780 903,1780 966,1780 1030,1780 1093,1779 1156,1779 1220,1778 1283,1778 1347,1777"
+                         HEIGHT="40"
+                         WIDTH="1268"
+                         VPOS="1752"
+                         HPOS="79">
+                  <String ID="string_r1l36"
+                          HEIGHT="40"
+                          WIDTH="1268"
+                          VPOS="1752"
+                          HPOS="79"
+                          CONTENT="herrſchende Liederlichkeit und Unmäßigkeit, über den tiefen Stand der"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="83,1829 146,1831 209,1832 272,1834 335,1835 399,1835 462,1836 525,1837 588,1837 651,1838 715,1838 778,1838 841,1838 904,1838 967,1838 1031,1837 1094,1837 1157,1837 1220,1836 1283,1835 1347,1835"
+                         HEIGHT="46"
+                         WIDTH="1264"
+                         VPOS="1804"
+                         HPOS="83">
+                  <String ID="string_r1l37"
+                          HEIGHT="46"
+                          WIDTH="1264"
+                          VPOS="1804"
+                          HPOS="83"
+                          CONTENT="Wiſſenſchaft und des Gewerbfleißes, über religiöſe Gleichgültigkeit, über"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="86,1892 149,1892 212,1892 276,1892 339,1893 403,1893 466,1894 529,1894 593,1895 656,1895 720,1896 783,1896 846,1896 910,1896 973,1896 1037,1895 1100,1895 1163,1894 1227,1893 1290,1891 1354,1889"
+                         HEIGHT="47"
+                         WIDTH="1268"
+                         VPOS="1862"
+                         HPOS="86">
+                  <String ID="string_r1l38"
+                          HEIGHT="47"
+                          WIDTH="1268"
+                          VPOS="1862"
+                          HPOS="86"
+                          CONTENT="das Schlaraffenleben der Reichen und die Trägheit der Armen zu er⸗"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="84,1951 147,1951 210,1950 273,1951 336,1951 400,1951 463,1951 526,1952 589,1952 652,1952 716,1952 779,1952 842,1952 905,1952 968,1952 1032,1952 1095,1951 1158,1950 1221,1949 1284,1948 1348,1946"
+                         HEIGHT="46"
+                         WIDTH="1264"
+                         VPOS="1919"
+                         HPOS="84">
+                  <String ID="string_r1l39"
+                          HEIGHT="46"
+                          WIDTH="1264"
+                          VPOS="1919"
+                          HPOS="84"
+                          CONTENT="zählen wiſſen. Am corrupteſten ist es freilich dort beſtellt, wohin die"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="81,2006 144,2007 207,2008 270,2008 333,2009 396,2009 459,2010 522,2010 585,2010 648,2011 711,2011 774,2011 837,2010 900,2010 963,2010 1026,2009 1089,2008 1152,2007 1215,2006 1278,2005 1341,2003"
+                         HEIGHT="48"
+                         WIDTH="1260"
+                         VPOS="1976"
+                         HPOS="81">
+                  <String ID="string_r1l40"
+                          HEIGHT="48"
+                          WIDTH="1260"
+                          VPOS="1976"
+                          HPOS="81"
+                          CONTENT="Europäer zumeiſt kommen, in Guayaquil, zugleich der Heerd der Un⸗"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="158,2102 217,2103 276,2104 336,2105 395,2105 455,2105 514,2106 574,2106 633,2106 693,2106 752,2106 811,2106 871,2105 930,2105 990,2104 1049,2104 1109,2103 1168,2102 1228,2101 1287,2100 1347,2099"
+                         HEIGHT="38"
+                         WIDTH="1189"
+                         VPOS="2078"
+                         HPOS="158">
+                  <String ID="string_r1l41"
+                          HEIGHT="38"
+                          WIDTH="1189"
+                          VPOS="2078"
+                          HPOS="158"
+                          CONTENT="¹ Nach dem Gothaiſchen Taſchenbuche von 1871 haben die zu Ecuador gehörigen"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="81,2145 144,2147 207,2149 271,2150 334,2151 397,2151 461,2152 524,2152 587,2152 651,2152 714,2151 777,2151 841,2150 904,2149 967,2149 1031,2148 1094,2147 1157,2146 1221,2145 1284,2144 1348,2144"
+                         HEIGHT="39"
+                         WIDTH="1267"
+                         VPOS="2123"
+                         HPOS="81">
+                  <String ID="string_r1l42"
+                          HEIGHT="39"
+                          WIDTH="1267"
+                          VPOS="2123"
+                          HPOS="81"
+                          CONTENT="Galapagos⸗Inſeln einen Flächeninhalt von 138,8 geogr. □Meilen. Hiernach wäre"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="83,2189 146,2191 209,2193 272,2194 336,2196 399,2196 462,2197 525,2197 589,2197 652,2196 715,2196 778,2195 842,2194 905,2194 968,2193 1031,2192 1095,2192 1158,2191 1221,2190 1284,2190 1348,2189"
+                         HEIGHT="39"
+                         WIDTH="1265"
+                         VPOS="2168"
+                         HPOS="83">
+                  <String ID="string_r1l43"
+                          HEIGHT="39"
+                          WIDTH="1265"
+                          VPOS="2168"
+                          HPOS="83"
+                          CONTENT="die ältere, mir von Quito zugeſandte Angabe über dieſe Inſeln, welche im erſten Ar⸗"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="88,2234 151,2235 214,2237 277,2239 341,2240 404,2240 467,2241 530,2241 594,2241 657,2241 720,2240 783,2240 847,2239 910,2239 973,2238 1036,2238 1100,2237 1163,2236 1226,2236 1289,2236 1353,2235"
+                         HEIGHT="37"
+                         WIDTH="1265"
+                         VPOS="2214"
+                         HPOS="88">
+                  <String ID="string_r1l44"
+                          HEIGHT="37"
+                          WIDTH="1265"
+                          VPOS="2214"
+                          HPOS="88"
+                          CONTENT="tikel, „Ecuador“ S. 124 enthalten iſt, zu berichtigen. Der Flächeninhalt des ganzen"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="84,2275 122,2277 161,2280 199,2281 238,2283 276,2284 315,2285 353,2286 392,2286 430,2287 469,2287 507,2287 546,2286 584,2286 623,2286 661,2285 700,2285 738,2285 777,2285 815,2285 854,2285"
+                         HEIGHT="42"
+                         WIDTH="770"
+                         VPOS="2255"
+                         HPOS="84">
+                  <String ID="string_r1l45"
+                          HEIGHT="42"
+                          WIDTH="770"
+                          VPOS="2255"
+                          HPOS="84"
+                          CONTENT="Staates iſt nach derſelben Quelle 10,300 □Meilen."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

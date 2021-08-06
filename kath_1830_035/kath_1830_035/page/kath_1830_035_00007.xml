@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:43.923+01:00</Created>
+        <LastChange>2021-05-17T14:13:29.742+02:00</LastChange>
+        <TranskribusMetadata docId="543224" pageId="22808937" pageNr="4" tsid="57973223" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=XDZCRPNJIPOVKFUJVEASIXXT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IERDQECUYETKHTGEMQWPMHLY" imageId="17784615"/>
+    </Metadata>
+    <Page imageFilename="kath_1830_035_00007.tif" imageWidth="1255" imageHeight="2154">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327814318" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="38,51 26,2087 1093,2087 1105,51"/>
+            <TextLine id="line_1606839377139_218" custom="readingOrder {index:0;}">
+                <Coords points="557,69 557,111 616,111 616,69"/>
+                <Baseline points="557,104 616,104"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1606839386008_224" custom="readingOrder {index:1;}">
+                <Coords points="548,245 548,285 625,285 625,245"/>
+                <Baseline points="548,277 625,277"/>
+                <TextEquiv>
+                    <Unicode>I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:2;}">
+                <Coords points="231,348 265,348 299,348 334,348 368,348 402,349 437,350 471,351 505,352 540,353 574,354 608,356 643,357 677,358 711,359 746,360 780,360 814,361 849,361 883,360 918,360 918,324 883,324 849,325 814,325 780,324 746,324 711,323 677,322 643,321 608,320 574,318 540,317 505,316 471,315 437,314 402,313 368,312 334,312 299,312 265,312 231,312"/>
+                <Baseline points="231,336 265,336 299,336 334,336 368,336 402,337 437,338 471,339 505,340 540,341 574,342 608,344 643,345 677,346 711,347 746,348 780,348 814,349 849,349 883,348 918,348"/>
+                <TextEquiv>
+                    <Unicode>Robert Southwell's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1606839213738_171" custom="readingOrder {index:3;}">
+                <Coords points="168,350 1030,411 1025,412 986,371 986,421 975,416 980,415 167,400"/>
+                <Baseline points="167,395 985,415 980,416 986,416"/>
+                <TextEquiv>
+                    <Unicode>Troſtſchreiben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:4;}">
+                <Coords points="325,455 351,455 377,455 403,455 429,456 455,456 481,457 507,458 533,459 559,459 585,460 611,462 637,462 663,463 689,464 715,465 741,466 767,466 793,467 819,467 845,467 845,433 819,433 793,433 767,432 741,432 715,431 689,430 663,429 637,428 611,428 585,426 559,425 533,425 507,424 481,423 455,422 429,422 403,421 377,421 351,421 325,421"/>
+                <Baseline points="325,444 351,444 377,444 403,444 429,445 455,445 481,446 507,447 533,448 559,448 585,449 611,451 637,451 663,452 689,453 715,454 741,455 767,455 793,456 819,456 845,456"/>
+                <TextEquiv>
+                    <Unicode>an die unter Eliſabeth eingekerkerten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:5;}">
+                <Coords points="262,509 293,510 324,510 355,510 386,511 417,511 448,512 479,512 510,513 541,514 572,515 603,516 634,517 665,518 696,519 727,520 758,521 789,522 820,523 851,523 882,524 882,488 851,487 820,487 789,486 758,485 727,484 696,483 665,482 634,481 603,480 572,479 541,478 510,477 479,476 448,476 417,475 386,475 355,474 324,474 293,474 262,473"/>
+                <Baseline points="262,497 293,498 324,498 355,498 386,499 417,499 448,500 479,500 510,501 541,502 572,503 603,504 634,505 665,506 696,507 727,508 758,509 789,510 820,511 851,511 882,512"/>
+                <TextEquiv>
+                    <Unicode>Katholiken in England. ᴵ)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:6;}">
+                <Coords points="141,580 188,581 236,582 283,583 331,584 378,585 426,586 473,587 521,588 568,589 616,591 664,592 711,593 759,594 806,595 854,596 901,597 949,598 996,599 1044,600 1092,600 1092,564 1044,564 996,563 949,562 901,561 854,560 806,559 759,558 711,557 664,556 616,555 568,553 521,552 473,551 426,550 378,549 331,548 283,547 236,546 188,545 141,544"/>
+                <Baseline points="141,568 188,569 236,570 283,571 331,572 378,573 426,574 473,575 521,576 568,577 616,579 664,580 711,581 759,582 806,583 854,584 901,585 949,586 996,587 1044,588 1092,588"/>
+                <TextEquiv>
+                    <Unicode>Es iſt in der Kirche Gottes immer ein lobenswürdiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:7;}">
+                <Coords points="47,630 97,632 148,633 198,635 249,637 300,638 350,640 401,641 452,642 502,644 553,645 604,646 654,647 705,648 756,649 806,650 857,650 908,651 958,652 1009,653 1060,653 1060,617 1009,617 958,616 908,615 857,614 806,614 756,613 705,612 654,611 604,610 553,609 502,608 452,606 401,605 350,604 300,602 249,601 198,599 148,597 97,596 47,594"/>
+                <Baseline points="47,618 97,620 148,621 198,623 249,625 300,626 350,628 401,629 452,630 502,632 553,633 604,634 654,635 705,636 756,637 806,638 857,638 908,639 958,640 1009,641 1103,645"/>
+                <TextEquiv>
+                    <Unicode>Gebrauch geweſen, daß, in den Zeiten der Verfolgung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:8;}">
+                <Coords points="55,684 106,686 158,688 210,689 262,691 314,692 366,694 418,695 470,697 522,698 574,699 625,700 677,701 729,702 781,703 833,704 885,705 937,706 989,706 1041,707 1093,708 1093,672 1041,671 989,670 937,670 885,669 833,668 781,667 729,666 677,665 625,664 574,663 522,662 470,661 418,659 366,658 314,656 262,655 210,653 158,652 106,650 55,648"/>
+                <Baseline points="55,672 106,674 158,676 210,677 262,679 314,680 366,682 418,683 470,685 522,686 574,687 625,688 677,689 729,690 781,691 833,692 885,693 937,694 989,694 1041,695 1093,696"/>
+                <TextEquiv>
+                    <Unicode>die Betrübten und Bedrängten ſich einander, nicht allein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:9;}">
+                <Coords points="55,740 106,742 158,743 210,745 261,746 313,747 365,749 416,750 468,751 520,752 572,753 623,754 675,755 727,757 778,758 830,759 882,760 933,761 985,762 1037,763 1089,764 1089,728 1037,727 985,726 933,725 882,724 830,723 778,722 727,721 675,719 623,718 572,717 520,716 468,715 416,714 365,713 313,711 261,710 210,709 158,707 106,706 55,704"/>
+                <Baseline points="55,728 106,730 158,731 210,733 261,734 313,735 365,737 416,738 468,739 520,740 572,741 623,742 675,743 727,745 778,746 830,747 882,748 933,749 985,750 1037,751 1089,752"/>
+                <TextEquiv>
+                    <Unicode>durch immerwaͤhrendes Gebet und gute Werke, ſondern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:10;}">
+                <Coords points="85,812 135,814 185,817 235,819 285,820 336,822 386,824 436,825 486,826 536,827 587,828 637,828 687,829 737,830 787,831 838,831 888,832 938,833 988,834 1038,835 1089,837 1089,803 1038,801 988,800 938,799 888,798 838,797 787,797 737,796 687,795 637,794 587,794 536,793 486,792 436,791 386,790 336,788 285,786 235,785 185,783 135,780 85,778"/>
+                <Baseline points="85,801 135,803 185,806 235,808 285,809 336,811 386,813 436,814 486,815 536,816 587,817 637,817 687,818 737,819 787,820 838,820 888,821 938,822 988,823 1038,824 1089,826"/>
+                <TextEquiv>
+                    <Unicode>ᴵ) Nachſtehendes Schreiben von dem jungen Jeſuiten Southwell iſt ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:11;}">
+                <Coords points="110,862 158,864 207,866 255,867 304,869 353,870 401,871 450,872 499,873 547,874 596,875 645,876 693,877 742,878 791,878 839,879 888,880 937,881 985,882 1034,883 1083,884 1083,850 1034,849 985,848 937,847 888,846 839,845 791,844 742,844 693,843 645,842 596,841 547,840 499,839 450,838 401,837 353,836 304,835 255,833 207,832 158,830 110,828"/>
+                <Baseline points="110,851 158,853 207,855 255,856 304,858 353,859 401,860 450,861 499,862 547,863 596,864 645,865 693,866 742,867 791,867 839,868 888,869 937,870 985,871 1034,872 1083,873"/>
+                <TextEquiv>
+                    <Unicode>Meiſterſtuͤck in ſeiner Art und ganz wuͤrdig eines heil. Ignatius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:12;}">
+                <Coords points="121,910 171,911 221,913 272,914 322,916 373,917 423,918 474,919 524,920 575,921 625,922 676,923 726,924 777,924 827,925 878,926 928,927 979,928 1029,929 1080,929 1080,898 1029,898 979,897 928,896 878,895 827,894 777,893 726,893 676,892 625,891 575,890 524,889 474,888 423,887 373,886 322,885 272,883 221,882 171,880 121,879"/>
+                <Baseline points="121,900 171,901 221,903 272,904 322,906 373,907 423,908 474,909 524,910 575,911 625,912 676,913 726,914 777,914 827,915 878,916 928,917 979,918 1029,919 1080,919"/>
+                <TextEquiv>
+                    <Unicode>oder Polycarpus. Lange Zeit iſt es in England unbekannt geblieben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:13;}">
+                <Coords points="113,958 161,959 209,960 257,961 306,962 354,963 402,964 451,964 499,965 547,965 596,966 644,966 692,967 740,967 789,968 837,969 885,969 934,970 982,972 1030,973 1079,974 1079,943 1030,942 982,941 934,939 885,938 837,938 789,937 740,936 692,936 644,935 596,935 547,934 499,934 451,933 402,933 354,932 306,931 257,930 209,929 161,928 113,927"/>
+                <Baseline points="113,948 161,949 209,950 257,951 306,952 354,953 402,954 451,954 499,955 547,955 596,956 644,956 692,957 740,957 789,958 837,959 885,959 934,960 982,962 1030,963 1079,964"/>
+                <TextEquiv>
+                    <Unicode>bis es endlich vor kurzem W. Joſ. Walter in ſeiner Ausgabe der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:14;}">
+                <Coords points="107,1004 155,1005 204,1006 253,1007 302,1008 351,1008 399,1009 448,1009 497,1009 546,1010 595,1010 643,1010 692,1011 741,1011 790,1011 839,1012 887,1013 936,1014 985,1015 1034,1016 1083,1018 1083,987 1034,985 985,984 936,983 887,982 839,981 790,980 741,980 692,980 643,979 595,979 546,979 497,978 448,978 399,978 351,977 302,977 253,976 204,975 155,974 107,973"/>
+                <Baseline points="107,994 155,995 204,996 253,997 302,998 351,998 399,999 448,999 497,999 546,1000 595,1000 643,1000 692,1001 741,1001 790,1001 839,1002 887,1003 936,1004 985,1005 1034,1006 1083,1008"/>
+                <TextEquiv>
+                    <Unicode>poetiſchen und proſaiſchen Werke des Glaubenshelden, der fuͤr die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:15;}">
+                <Coords points="114,1050 161,1051 209,1052 257,1053 305,1054 353,1054 401,1055 448,1056 496,1056 544,1057 592,1057 640,1058 688,1058 736,1059 783,1060 831,1060 879,1061 927,1062 975,1064 1023,1065 1071,1067 1071,1034 1023,1032 975,1031 927,1029 879,1028 831,1027 783,1027 736,1026 688,1025 640,1025 592,1024 544,1024 496,1023 448,1023 401,1022 353,1021 305,1021 257,1020 209,1019 161,1018 114,1017"/>
+                <Baseline points="114,1039 161,1040 209,1041 257,1042 305,1043 353,1043 401,1044 448,1045 496,1045 544,1046 592,1046 640,1047 688,1047 736,1048 783,1049 831,1049 879,1050 927,1051 975,1053 1023,1054 1071,1056"/>
+                <TextEquiv>
+                    <Unicode>Religion des Erlöſers ſein Blut vergoſſen, allgemein verbreitet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:16;}">
+                <Coords points="114,1096 162,1097 210,1098 259,1099 307,1100 356,1101 404,1102 453,1102 501,1103 550,1104 598,1104 646,1105 695,1106 743,1107 792,1108 840,1108 889,1110 937,1111 986,1112 1034,1114 1083,1115 1083,1082 1034,1081 986,1079 937,1078 889,1077 840,1075 792,1075 743,1074 695,1073 646,1072 598,1071 550,1071 501,1070 453,1069 404,1069 356,1068 307,1067 259,1066 210,1065 162,1064 114,1063"/>
+                <Baseline points="114,1085 162,1086 210,1087 259,1088 307,1089 356,1090 404,1091 453,1091 501,1092 550,1093 598,1093 646,1094 695,1095 743,1096 792,1097 840,1097 889,1099 937,1100 986,1101 1034,1103 1083,1104"/>
+                <TextEquiv>
+                    <Unicode>hat. Dieſer Brief ſteht in dem proſaiſchen Theile, der den Titel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:17;}">
+                <Coords points="107,1142 155,1143 204,1144 253,1146 301,1147 350,1148 399,1149 447,1150 496,1151 545,1152 594,1152 642,1153 691,1154 740,1154 788,1155 837,1156 886,1157 934,1158 983,1159 1032,1159 1081,1161 1081,1128 1032,1126 983,1126 934,1125 886,1124 837,1123 788,1122 740,1121 691,1121 642,1120 594,1119 545,1119 496,1118 447,1117 399,1116 350,1115 301,1114 253,1113 204,1111 155,1110 107,1109"/>
+                <Baseline points="107,1131 155,1132 204,1133 253,1135 301,1136 350,1137 399,1138 447,1139 496,1140 545,1141 594,1141 642,1142 691,1143 740,1143 788,1144 837,1145 886,1146 934,1147 983,1148 1032,1148 1081,1150"/>
+                <TextEquiv>
+                    <Unicode>fuͤhrt: The Prose Works of Robert Southwell containing Mary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:18;}">
+                <Coords points="113,1190 161,1191 209,1193 257,1194 306,1195 354,1196 402,1197 451,1199 499,1200 547,1201 596,1202 644,1203 692,1204 740,1205 789,1206 837,1207 885,1208 934,1209 982,1210 1030,1211 1079,1212 1079,1178 1030,1177 982,1176 934,1175 885,1174 837,1173 789,1172 740,1171 692,1170 644,1169 596,1168 547,1167 499,1166 451,1165 402,1163 354,1162 306,1161 257,1160 209,1159 161,1157 113,1156"/>
+                <Baseline points="113,1179 161,1180 209,1182 257,1183 306,1184 354,1185 402,1186 451,1188 499,1189 547,1190 596,1191 644,1192 692,1193 740,1194 789,1195 837,1196 885,1197 934,1198 982,1199 1030,1200 1079,1201"/>
+                <TextEquiv>
+                    <Unicode>Magdalen's Funeral tears, Triumphs over death, and an Epistle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:19;}">
+                <Coords points="111,1240 159,1241 207,1242 255,1243 304,1245 352,1246 400,1247 448,1248 497,1249 545,1250 593,1251 641,1252 690,1253 738,1254 786,1255 834,1256 883,1257 931,1258 979,1259 1027,1259 1076,1260 1076,1226 1027,1225 979,1225 931,1224 883,1223 834,1222 786,1221 738,1220 690,1219 641,1218 593,1217 545,1216 497,1215 448,1214 400,1213 352,1212 304,1211 255,1209 207,1208 159,1207 111,1206"/>
+                <Baseline points="111,1229 159,1230 207,1231 255,1232 304,1234 352,1235 400,1236 448,1237 497,1238 545,1239 593,1240 641,1241 690,1242 738,1243 786,1244 834,1245 883,1246 931,1247 979,1248 1027,1248 1076,1249"/>
+                <TextEquiv>
+                    <Unicode>of comfort. Edited by W. Jos. Walter. Das Schreiben ſelbſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:20;}">
+                <Coords points="109,1289 157,1290 205,1291 253,1293 301,1294 349,1295 397,1296 446,1297 494,1297 542,1298 590,1299 638,1300 686,1300 734,1301 783,1302 831,1303 879,1304 927,1305 975,1306 1023,1307 1072,1308 1072,1274 1023,1273 975,1272 927,1271 879,1270 831,1269 783,1268 734,1267 686,1266 638,1266 590,1265 542,1264 494,1263 446,1263 397,1262 349,1261 301,1260 253,1259 205,1257 157,1256 109,1255"/>
+                <Baseline points="109,1278 157,1279 205,1280 253,1282 301,1283 349,1284 397,1285 446,1286 494,1286 542,1287 590,1288 638,1289 686,1289 734,1290 783,1291 831,1292 879,1293 927,1294 975,1295 1023,1296 1072,1297"/>
+                <TextEquiv>
+                    <Unicode>fuͤhrt die Aufſchrift: An Epistle of comfort to the reverend Priests</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:21;}">
+                <Coords points="107,1336 155,1338 204,1339 252,1340 301,1341 349,1342 398,1343 446,1344 495,1345 543,1346 592,1347 641,1347 689,1348 738,1349 786,1350 835,1350 883,1351 932,1352 980,1353 1029,1354 1078,1355 1078,1321 1029,1320 980,1319 932,1318 883,1317 835,1316 786,1316 738,1315 689,1314 641,1313 592,1313 543,1312 495,1311 446,1310 398,1309 349,1308 301,1307 252,1306 204,1305 155,1304 107,1302"/>
+                <Baseline points="107,1325 155,1327 204,1328 252,1329 301,1330 349,1331 398,1332 446,1333 495,1334 543,1335 592,1336 641,1336 689,1337 738,1338 786,1339 835,1339 883,1340 932,1341 980,1342 1029,1343 1078,1344"/>
+                <TextEquiv>
+                    <Unicode>and to the honourable, worshipful, and others of the Lay sort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:22;}">
+                <Coords points="101,1383 149,1384 198,1386 247,1386 295,1388 344,1389 393,1390 441,1391 490,1392 539,1393 588,1394 636,1395 685,1396 734,1397 782,1397 831,1398 880,1399 928,1400 977,1401 1026,1402 1075,1403 1075,1369 1026,1368 977,1367 928,1366 880,1365 831,1364 782,1363 734,1363 685,1362 636,1361 588,1360 539,1359 490,1358 441,1357 393,1356 344,1355 295,1354 247,1352 198,1352 149,1350 101,1349"/>
+                <Baseline points="101,1372 149,1373 198,1375 247,1375 295,1377 344,1378 393,1379 441,1380 490,1381 539,1382 588,1383 636,1384 685,1385 734,1386 782,1386 831,1387 880,1388 928,1389 977,1390 1026,1391 1075,1392"/>
+                <TextEquiv>
+                    <Unicode>restrained in durance for the catholie faith; zu Deutſch: „Ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:23;}">
+                <Coords points="109,1433 156,1433 204,1434 252,1435 300,1436 348,1437 396,1438 444,1439 492,1440 540,1440 588,1441 635,1442 683,1443 731,1444 779,1445 827,1446 875,1447 923,1448 971,1449 1019,1450 1067,1451 1067,1417 1019,1416 971,1415 923,1414 875,1413 827,1412 779,1411 731,1410 683,1409 635,1408 588,1407 540,1406 492,1406 444,1405 396,1404 348,1403 300,1402 252,1401 204,1400 156,1399 109,1399"/>
+                <Baseline points="109,1422 156,1422 204,1423 252,1424 300,1425 348,1426 396,1427 444,1428 492,1429 540,1429 588,1430 635,1431 683,1432 731,1433 779,1434 827,1435 875,1436 923,1437 971,1438 1019,1439 1067,1440"/>
+                <TextEquiv>
+                    <Unicode>Troſtſchreiben au die ehrwuͤrdigen Prieſter und an die Ehrenwerthen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:24;}">
+                <Coords points="107,1479 155,1480 204,1481 252,1482 301,1483 349,1484 398,1484 446,1485 495,1486 543,1487 592,1488 640,1488 689,1489 737,1490 786,1491 834,1492 883,1493 931,1494 980,1495 1028,1497 1077,1498 1077,1467 1028,1466 980,1464 931,1463 883,1462 834,1461 786,1460 737,1459 689,1458 640,1457 592,1457 543,1456 495,1455 446,1454 398,1453 349,1453 301,1452 252,1451 204,1450 155,1449 107,1448"/>
+                <Baseline points="107,1469 155,1470 204,1471 252,1472 301,1473 349,1474 398,1474 446,1475 495,1476 543,1477 592,1478 640,1478 689,1479 737,1480 786,1481 834,1482 883,1483 931,1484 980,1485 1028,1487 1077,1488"/>
+                <TextEquiv>
+                    <Unicode>Achtungswuͤrdigen und andern Perſonen des Laienſtandes, die wegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614614227684_1186" custom="readingOrder {index:25;}">
+                <Coords points="107,1496 208,1497 782,1503 809,1504 1071,1514 1071,1547 140,1528 107,1527"/>
+                <Baseline points="107,1517 140,1518 174,1518 208,1518 242,1519 275,1520 309,1520 343,1521 377,1521 410,1522 444,1523 478,1523 512,1524 545,1524 579,1524 613,1525 647,1525 680,1525 714,1525 748,1524 782,1524 809,1526 835,1528 861,1529 887,1530 913,1531 940,1532 966,1533 992,1533 1018,1534 1044,1535 1071,1536"/>
+                <TextEquiv>
+                    <Unicode>des katholiſchen Glaubens verhaftet sind.“  — Spaͤter werden wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:26;}">
+                <Coords points="107,1576 155,1576 203,1577 251,1578 300,1579 348,1579 396,1580 445,1581 493,1582 541,1583 590,1584 638,1585 686,1586 734,1587 783,1588 831,1589 879,1590 928,1591 976,1592 1024,1593 1073,1594 1073,1560 1024,1559 976,1558 928,1557 879,1556 831,1555 783,1554 734,1553 686,1552 638,1551 590,1550 541,1549 493,1548 445,1547 396,1546 348,1545 300,1545 251,1544 203,1543 155,1542 107,1542"/>
+                <Baseline points="107,1565 155,1565 203,1566 251,1567 300,1568 348,1568 396,1569 445,1570 493,1571 541,1572 590,1573 638,1574 686,1575 734,1576 783,1577 831,1578 879,1579 928,1580 976,1581 1024,1582 1073,1583"/>
+                <TextEquiv>
+                    <Unicode>noch Mehreres aus den Werken dieſes apoſtoliſchen Mannes mit⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:27;}">
+                <Coords points="107,1623 155,1624 203,1624 251,1625 300,1626 348,1626 396,1627 445,1628 493,1629 541,1630 590,1632 638,1633 686,1634 734,1635 783,1636 831,1637 879,1638 928,1639 976,1640 1024,1641 1073,1641 1073,1608 1024,1608 976,1607 928,1606 879,1605 831,1604 783,1603 734,1602 686,1601 638,1600 590,1599 541,1597 493,1596 445,1595 396,1594 348,1593 300,1593 251,1592 203,1591 155,1591 107,1590"/>
+                <Baseline points="107,1612 155,1613 203,1613 251,1614 300,1615 348,1615 396,1616 445,1617 493,1618 541,1619 590,1621 638,1622 686,1623 734,1624 783,1625 831,1626 879,1627 928,1628 976,1629 1024,1630 1073,1630"/>
+                <TextEquiv>
+                    <Unicode>theilen; hier ſtehe indeſſen des gelehrten Dr. Milner's Urtheil uͤber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:28;}">
+                <Coords points="104,1668 129,1669 154,1670 180,1670 205,1670 231,1670 256,1670 281,1670 307,1671 332,1671 358,1672 383,1673 409,1675 409,1642 383,1640 358,1639 332,1638 307,1638 281,1637 256,1637 231,1637 205,1637 180,1637 154,1637 129,1636 104,1635"/>
+                <Baseline points="104,1657 129,1658 154,1659 180,1659 205,1659 231,1659 256,1659 281,1659 307,1660 332,1660 358,1661 383,1662 409,1664"/>
+                <TextEquiv>
+                    <Unicode>Southwell’s Schriften.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:29;}">
+                <Coords points="111,1758 159,1760 207,1761 255,1763 303,1765 351,1767 399,1768 447,1769 495,1771 543,1772 592,1773 640,1774 688,1775 736,1776 784,1776 832,1777 880,1777 928,1778 976,1778 1024,1778 1073,1778 1073,1742 1024,1742 976,1742 928,1742 880,1741 832,1741 784,1740 736,1740 688,1739 640,1738 592,1737 543,1736 495,1735 447,1733 399,1732 351,1731 303,1729 255,1727 207,1725 159,1724 111,1722"/>
+                <Baseline points="111,1746 159,1748 207,1749 255,1751 303,1753 351,1755 399,1756 447,1757 495,1759 543,1760 592,1761 640,1762 688,1763 736,1764 784,1764 832,1765 880,1765 928,1766 976,1766 1024,1766 1073,1766"/>
+                <TextEquiv>
+                    <Unicode>Briefe Dr. Milners an den Herausgeber der poeti⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:30;}">
+                <Coords points="37,1807 77,1810 118,1812 158,1814 199,1816 239,1818 280,1820 320,1821 361,1822 401,1823 442,1824 482,1825 523,1826 563,1827 604,1828 644,1828 685,1829 725,1830 766,1831 806,1832 847,1833 847,1797 806,1796 766,1795 725,1794 685,1793 644,1792 604,1792 563,1791 523,1790 482,1789 442,1788 401,1787 361,1786 320,1785 280,1784 239,1782 199,1780 158,1778 118,1776 77,1774 37,1771"/>
+                <Baseline points="37,1795 77,1798 118,1800 158,1802 199,1804 239,1806 280,1808 320,1809 361,1810 401,1811 442,1812 482,1813 523,1814 563,1815 604,1816 644,1816 685,1817 725,1818 766,1819 806,1820 847,1821"/>
+                <TextEquiv>
+                    <Unicode>ſchen und proſaiſchen Werke R. Southwell's.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:31;}">
+                <Coords points="235,1879 261,1882 288,1883 315,1884 342,1885 369,1885 395,1886 422,1886 449,1887 476,1887 503,1889 503,1856 476,1854 449,1854 422,1853 395,1853 369,1852 342,1852 315,1851 288,1850 261,1849 235,1846"/>
+                <Baseline points="235,1868 261,1871 288,1872 315,1873 342,1874 369,1874 395,1875 422,1875 449,1876 476,1876 503,1878"/>
+                <TextEquiv>
+                    <Unicode>Mein Herr!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:32;}">
+                <Coords points="95,1915 143,1920 191,1923 240,1927 288,1929 337,1931 385,1933 433,1934 482,1935 530,1936 579,1937 627,1937 675,1937 724,1938 772,1938 821,1938 869,1939 917,1940 966,1941 1014,1942 1063,1943 1063,1910 1014,1909 966,1908 917,1907 869,1906 821,1905 772,1905 724,1905 675,1904 627,1904 579,1904 530,1903 482,1902 433,1901 385,1900 337,1898 288,1896 240,1894 191,1890 143,1887 95,1882"/>
+                <Baseline points="95,1904 143,1909 191,1912 240,1916 288,1918 337,1920 385,1922 433,1923 482,1924 530,1925 579,1926 627,1926 675,1926 724,1927 772,1927 821,1927 869,1928 917,1929 966,1930 1014,1931 1063,1932"/>
+                <TextEquiv>
+                    <Unicode>Ich habe Ihnen anzuzeigen, daß ich die Abſchrift der proſaiſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:33;}">
+                <Coords points="26,1963 77,1966 129,1968 180,1970 232,1972 283,1974 335,1976 386,1978 438,1979 489,1981 541,1982 592,1983 644,1985 695,1985 747,1986 798,1987 850,1988 901,1988 953,1989 1004,1989 1056,1989 1056,1956 1004,1956 953,1956 901,1955 850,1955 798,1954 747,1953 695,1952 644,1952 592,1950 541,1949 489,1948 438,1946 386,1945 335,1943 283,1941 232,1939 180,1937 129,1935 77,1933 26,1930"/>
+                <Baseline points="26,1952 77,1955 129,1957 180,1959 232,1961 283,1963 335,1965 386,1967 438,1968 489,1970 541,1971 592,1972 644,1974 695,1974 747,1975 798,1976 850,1977 901,1977 953,1978 1004,1978 1056,1978"/>
+                <TextEquiv>
+                    <Unicode>Werke von Southwell, die ſie vor ihrer Herausgabe mir zu ſchicken die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:34;}">
+                <Coords points="32,2011 83,2013 134,2015 186,2018 237,2020 289,2021 340,2023 391,2025 443,2026 494,2028 546,2030 597,2031 648,2033 700,2034 751,2034 803,2035 854,2036 905,2037 957,2037 1008,2037 1060,2037 1060,2003 1008,2003 957,2003 905,2003 854,2002 803,2001 751,2000 700,2000 648,1999 597,1997 546,1996 494,1994 443,1992 391,1991 340,1989 289,1987 237,1986 186,1984 134,1981 83,1979 32,1977"/>
+                <Baseline points="32,2000 83,2002 134,2004 186,2007 237,2009 289,2010 340,2012 391,2014 443,2015 494,2017 546,2019 597,2020 648,2022 700,2023 751,2023 803,2024 854,2025 905,2026 957,2026 1008,2026 1060,2026"/>
+                <TextEquiv>
+                    <Unicode>Guͤte hatten, empfangen habe. Bisher konnte ich dieſelbe nur fluͤchtig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:35;}">
+                <Coords points="57,2075 83,2075 109,2075 135,2075 161,2076 187,2076 213,2076 239,2077 266,2078 292,2079 318,2079 344,2080 370,2081 396,2082 422,2084 449,2084 449,2048 422,2048 396,2046 370,2045 344,2044 318,2043 292,2043 266,2042 239,2041 213,2040 187,2040 161,2040 135,2039 109,2039 83,2039 57,2039"/>
+                <Baseline points="57,2063 83,2063 109,2063 135,2063 161,2064 187,2064 213,2064 239,2065 266,2066 292,2067 318,2067 344,2068 370,2069 396,2070 422,2072 449,2072"/>
+                <TextEquiv>
+                    <Unicode>Katholik. Jhrg. X Hft. I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:36;}">
+                <Coords points="864,2085 884,2087 884,2051 864,2049"/>
+                <Baseline points="864,2073 884,2075"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1
+I.
+Robert Southwell's
+Troſtſchreiben
+an die unter Eliſabeth eingekerkerten
+Katholiken in England. ᴵ)
+Es iſt in der Kirche Gottes immer ein lobenswürdiger
+Gebrauch geweſen, daß, in den Zeiten der Verfolgung,
+die Betrübten und Bedrängten ſich einander, nicht allein
+durch immerwaͤhrendes Gebet und gute Werke, ſondern
+ᴵ) Nachſtehendes Schreiben von dem jungen Jeſuiten Southwell iſt ein
+Meiſterſtuͤck in ſeiner Art und ganz wuͤrdig eines heil. Ignatius
+oder Polycarpus. Lange Zeit iſt es in England unbekannt geblieben,
+bis es endlich vor kurzem W. Joſ. Walter in ſeiner Ausgabe der
+poetiſchen und proſaiſchen Werke des Glaubenshelden, der fuͤr die
+Religion des Erlöſers ſein Blut vergoſſen, allgemein verbreitet
+hat. Dieſer Brief ſteht in dem proſaiſchen Theile, der den Titel
+fuͤhrt: The Prose Works of Robert Southwell containing Mary
+Magdalen's Funeral tears, Triumphs over death, and an Epistle
+of comfort. Edited by W. Jos. Walter. Das Schreiben ſelbſt
+fuͤhrt die Aufſchrift: An Epistle of comfort to the reverend Priests
+and to the honourable, worshipful, and others of the Lay sort
+restrained in durance for the catholie faith; zu Deutſch: „Ein
+Troſtſchreiben au die ehrwuͤrdigen Prieſter und an die Ehrenwerthen,
+Achtungswuͤrdigen und andern Perſonen des Laienſtandes, die wegen
+des katholiſchen Glaubens verhaftet sind.“  — Spaͤter werden wir
+noch Mehreres aus den Werken dieſes apoſtoliſchen Mannes mit⸗
+theilen; hier ſtehe indeſſen des gelehrten Dr. Milner's Urtheil uͤber
+Southwell’s Schriften.
+Briefe Dr. Milners an den Herausgeber der poeti⸗
+ſchen und proſaiſchen Werke R. Southwell's.
+Mein Herr!
+Ich habe Ihnen anzuzeigen, daß ich die Abſchrift der proſaiſchen
+Werke von Southwell, die ſie vor ihrer Herausgabe mir zu ſchicken die
+Guͤte hatten, empfangen habe. Bisher konnte ich dieſelbe nur fluͤchtig
+Katholik. Jhrg. X Hft. I.
+1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

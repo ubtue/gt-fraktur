@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:44:22.699+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2273" WIDTH="1418">
+         <TopMargin HEIGHT="0" WIDTH="1418" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2273" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2273" WIDTH="0" VPOS="0" HPOS="1418"/>
+         <BottomMargin HEIGHT="0" WIDTH="1418" VPOS="2273" HPOS="0"/>
+         <PrintSpace HEIGHT="2273" WIDTH="1418" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1923" WIDTH="1087" VPOS="105" HPOS="122">
+               <Shape>
+                  <Polygon POINTS="122,105 122,2028 1209,2028 1209,105"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="122,137 174,136 227,134 279,133 332,132 384,131 437,131 489,130 542,130 594,129 647,129 699,128 752,128 804,128 857,127 909,127 962,127 1014,127 1067,127 1119,126 1172,126"
+                         HEIGHT="42"
+                         WIDTH="1050"
+                         VPOS="105"
+                         HPOS="122">
+                  <String ID="string_r1l1"
+                          HEIGHT="42"
+                          WIDTH="1050"
+                          VPOS="105"
+                          HPOS="122"
+                          CONTENT="Bei dem Verleger dieſer Schrift sind ferner erſchienen und"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="305,183 340,182 375,182 410,181 445,181 480,180 515,180 550,179 585,179 620,178 655,178 690,178 725,177 760,177 795,177 830,176 865,176 900,176 935,176 970,176 1005,176"
+                         HEIGHT="38"
+                         WIDTH="700"
+                         VPOS="155"
+                         HPOS="305">
+                  <String ID="string_r1l2"
+                          HEIGHT="38"
+                          WIDTH="700"
+                          VPOS="155"
+                          HPOS="305"
+                          CONTENT="durch alle Buchhandlungen zu beziehen:"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="140,245 192,245 244,244 296,243 348,243 400,242 452,242 504,241 556,240 608,240 661,239 713,239 765,239 817,238 869,238 921,238 973,238 1025,238 1077,238 1129,239 1182,239"
+                         HEIGHT="38"
+                         WIDTH="1042"
+                         VPOS="217"
+                         HPOS="140">
+                  <String ID="string_r1l3"
+                          HEIGHT="38"
+                          WIDTH="1042"
+                          VPOS="217"
+                          HPOS="140"
+                          CONTENT="Cur Deus homo? oder Warum ein Gott⸗Menſch? Zwei Geſpräche"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="164,291 214,290 265,289 315,288 366,287 417,287 467,286 518,285 569,284 619,284 670,283 721,282 771,282 822,282 873,281 923,281 974,281 1025,282 1075,282 1126,283 1177,283"
+                         HEIGHT="41"
+                         WIDTH="1013"
+                         VPOS="260"
+                         HPOS="164">
+                  <String ID="string_r1l4"
+                          HEIGHT="41"
+                          WIDTH="1013"
+                          VPOS="260"
+                          HPOS="164"
+                          CONTENT="des Erzbiſchofs Anſelm von Canterbury über die Verſöhnung"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="174,334 224,334 274,333 324,333 374,332 425,331 475,331 525,330 575,329 625,328 676,328 726,327 776,327 826,326 876,326 927,326 977,325 1027,326 1077,326 1127,326 1178,327"
+                         HEIGHT="40"
+                         WIDTH="1004"
+                         VPOS="304"
+                         HPOS="174">
+                  <String ID="string_r1l5"
+                          HEIGHT="40"
+                          WIDTH="1004"
+                          VPOS="304"
+                          HPOS="174"
+                          CONTENT="der Menſchen mit Gott. Zur Beherzigung für alle Chriſten aller Con⸗"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="170,379 220,378 271,377 322,376 373,375 424,375 474,374 525,373 576,373 627,372 678,371 728,371 779,370 830,370 881,369 932,369 982,369 1033,369 1084,369 1135,370 1186,370"
+                         HEIGHT="41"
+                         WIDTH="1016"
+                         VPOS="348"
+                         HPOS="170">
+                  <String ID="string_r1l6"
+                          HEIGHT="41"
+                          WIDTH="1016"
+                          VPOS="348"
+                          HPOS="170"
+                          CONTENT="feſſionen aus dem Lateiniſchen überſetzt. Mit einer kurzen Lebens⸗"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="174,422 224,421 274,421 324,421 375,420 425,419 475,419 526,418 576,417 626,417 677,416 727,415 777,415 827,415 878,414 928,414 978,414 1029,414 1079,414 1129,415 1180,416"
+                         HEIGHT="38"
+                         WIDTH="1006"
+                         VPOS="394"
+                         HPOS="174">
+                  <String ID="string_r1l7"
+                          HEIGHT="38"
+                          WIDTH="1006"
+                          VPOS="394"
+                          HPOS="174"
+                          CONTENT="beſchreibung Anſelms in dem Vorworte. gr. 8. 1834. 12 gr. od. 54 kr."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="143,465 197,464 252,464 307,463 361,463 416,462 471,461 525,460 580,460 635,459 689,458 744,457 799,457 853,456 908,456 963,456 1017,456 1072,457 1127,457 1182,458"
+                         HEIGHT="39"
+                         WIDTH="1039"
+                         VPOS="436"
+                         HPOS="143">
+                  <String ID="string_r1l8"
+                          HEIGHT="39"
+                          WIDTH="1039"
+                          VPOS="436"
+                          HPOS="143"
+                          CONTENT="Häverniek, H. A. Ch., Handhuch der historisch-kritischen Ein-"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="175,507 225,507 275,506 325,506 375,505 425,505 475,504 525,503 575,503 625,502 676,502 726,501 776,501 826,501 876,501 926,501 976,501 1026,501 1076,502 1126,503 1177,504"
+                         HEIGHT="37"
+                         WIDTH="1002"
+                         VPOS="480"
+                         HPOS="175">
+                  <String ID="string_r1l9"
+                          HEIGHT="37"
+                          WIDTH="1002"
+                          VPOS="480"
+                          HPOS="175"
+                          CONTENT="leitung in das alte Testament. I. Theil 1 u. 2. Abthlg. gr. 8. 1836."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="177,551 227,551 277,551 327,550 377,550 428,549 478,549 528,548 578,548 628,548 679,547 729,547 779,546 829,546 879,546 930,546 980,546 1030,547 1080,547 1130,548 1181,549"
+                         HEIGHT="35"
+                         WIDTH="1004"
+                         VPOS="526"
+                         HPOS="177">
+                  <String ID="string_r1l10"
+                          HEIGHT="35"
+                          WIDTH="1004"
+                          VPOS="526"
+                          HPOS="177"
+                          CONTENT="2 Rthlr. 8gr. od. 4fl. 12 kr. (der 2. u. letzte Band folgt bald nach.)"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="143,594 195,594 247,595 299,594 351,594 404,594 456,593 508,593 560,592 612,591 665,591 717,590 769,590 821,589 873,589 926,589 978,589 1030,589 1082,590 1134,591 1187,592"
+                         HEIGHT="36"
+                         WIDTH="1044"
+                         VPOS="569"
+                         HPOS="143">
+                  <String ID="string_r1l11"
+                          HEIGHT="36"
+                          WIDTH="1044"
+                          VPOS="569"
+                          HPOS="143"
+                          CONTENT="Harleſs, G. C. A., Commentar über den Brief Pauli an die"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="175,638 216,638 258,638 300,638 342,638 384,638 426,638 468,638 510,638 552,637 594,637 635,637 677,636 719,636 761,635 803,635 845,635 887,634 929,634 971,633 1013,633"
+                         HEIGHT="35"
+                         WIDTH="838"
+                         VPOS="613"
+                         HPOS="175">
+                  <String ID="string_r1l12"
+                          HEIGHT="35"
+                          WIDTH="838"
+                          VPOS="613"
+                          HPOS="175"
+                          CONTENT="Ephesier. gr. 8. 1834. 2 Rthlr. 16 gr. od. 4 sl. 48 kr."/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="142,684 390,682 432,682 474,682 516,682 558,682 600,682 641,681 683,681 725,681 767,681 809,680 851,680 893,680 934,680 976,680 1018,680 1060,681 1102,681 1144,682 1186,683"
+                         HEIGHT="34"
+                         WIDTH="1059"
+                         VPOS="659"
+                         HPOS="127">
+                  <String ID="string_r1l14"
+                          HEIGHT="34"
+                          WIDTH="1059"
+                          VPOS="659"
+                          HPOS="127"
+                          CONTENT="— — — de revelatione et fide. 8. maj. brosch. 1830. 12 gr."/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="180,727 205,728 230,728 256,727 281,727 306,728 332,729"
+                         HEIGHT="33"
+                         WIDTH="152"
+                         VPOS="706"
+                         HPOS="180">
+                  <String ID="string_r1l15"
+                          HEIGHT="33"
+                          WIDTH="152"
+                          VPOS="706"
+                          HPOS="180"
+                          CONTENT="od. 54 kr."/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="139,775 191,775 244,775 296,774 349,774 402,774 454,773 507,773 559,772 612,772 665,771 717,771 770,771 822,770 875,770 928,770 980,770 1033,770 1085,770 1138,770 1191,770"
+                         HEIGHT="36"
+                         WIDTH="1052"
+                         VPOS="749"
+                         HPOS="139">
+                  <String ID="string_r1l16"
+                          HEIGHT="36"
+                          WIDTH="1052"
+                          VPOS="749"
+                          HPOS="139"
+                          CONTENT="Höfling, J. W. F., Myſticismus, der wahrhaft hiſtoriſche und der"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="182,818 232,817 282,817 333,817 383,817 434,816 484,816 534,816 585,816 635,816 686,816 736,815 786,815 837,815 887,815 938,815 988,815 1038,815 1089,814 1139,814 1190,814"
+                         HEIGHT="35"
+                         WIDTH="1008"
+                         VPOS="793"
+                         HPOS="182">
+                  <String ID="string_r1l17"
+                          HEIGHT="35"
+                          WIDTH="1008"
+                          VPOS="793"
+                          HPOS="182"
+                          CONTENT="heutzutage falſchlich ſogenannte, in ihrem Verhältniſſe zum evangeli⸗"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="185,859 235,859 285,859 335,859 385,859 436,859 486,859 536,859 586,859 636,859 687,859 737,859 787,859 837,859 887,859 938,859 988,859 1038,859 1088,859 1138,859 1189,859"
+                         HEIGHT="30"
+                         WIDTH="1004"
+                         VPOS="839"
+                         HPOS="185">
+                  <String ID="string_r1l18"
+                          HEIGHT="30"
+                          WIDTH="1004"
+                          VPOS="839"
+                          HPOS="185"
+                          CONTENT="ſchen Chriſtenthume dargeſtellt. gr. 8 broſch. 1832. 6 gr. oder 27 kr."/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="135,905 187,904 240,903 293,903 346,902 398,902 451,902 504,902 557,902 609,901 662,901 715,901 768,901 820,901 873,901 926,901 979,901 1031,901 1084,901 1137,901 1190,901"
+                         HEIGHT="34"
+                         WIDTH="1055"
+                         VPOS="881"
+                         HPOS="135">
+                  <String ID="string_r1l19"
+                          HEIGHT="34"
+                          WIDTH="1055"
+                          VPOS="881"
+                          HPOS="135"
+                          CONTENT="Leben evangeliſcher Heidenboten. Herausgegeben von G. P. Heller. 1r Bd."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="173,947 223,947 274,947 325,946 376,946 427,946 478,945 529,945 580,945 631,945 682,945 732,944 783,944 834,944 885,945 936,945 987,945 1038,945 1089,945 1140,946 1191,946"
+                         HEIGHT="34"
+                         WIDTH="1018"
+                         VPOS="923"
+                         HPOS="173">
+                  <String ID="string_r1l20"
+                          HEIGHT="34"
+                          WIDTH="1018"
+                          VPOS="923"
+                          HPOS="173"
+                          CONTENT="Plinius Fisk, von Alvan Vond. Aus dem Engliſchen überſetzt 8."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="178,990 226,990 274,990 323,990 371,990 420,990 468,989 516,989 565,989 613,989 662,989 710,988 758,988 807,988 855,988 904,988 952,988 1000,989 1049,989 1097,990 1146,990"
+                         HEIGHT="32"
+                         WIDTH="968"
+                         VPOS="968"
+                         HPOS="178">
+                  <String ID="string_r1l21"
+                          HEIGHT="32"
+                          WIDTH="968"
+                          VPOS="968"
+                          HPOS="178"
+                          CONTENT="1835. broſch. 30 Bogen. Vel. P. 1 Rthlr. 6 gr. oder 2 fl. 15 kr."/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="137,1035 189,1034 242,1034 295,1033 348,1033 401,1032 453,1032 506,1032 559,1031 612,1031 665,1031 717,1031 770,1031 823,1031 876,1031 929,1031 981,1031 1034,1032 1087,1032 1140,1032 1193,1033"
+                         HEIGHT="34"
+                         WIDTH="1056"
+                         VPOS="1011"
+                         HPOS="137">
+                  <String ID="string_r1l22"
+                          HEIGHT="34"
+                          WIDTH="1056"
+                          VPOS="1011"
+                          HPOS="137"
+                          CONTENT="Loehlein, C. L. E., Syrus, epistolae ad Ephesios interpres, in"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="178,1078 228,1077 279,1076 330,1075 381,1075 432,1075 483,1075 533,1075 584,1075 635,1075 686,1075 737,1076 788,1076 839,1076 889,1077 940,1077 991,1077 1042,1077 1093,1077 1144,1077 1195,1076"
+                         HEIGHT="33"
+                         WIDTH="1017"
+                         VPOS="1055"
+                         HPOS="178">
+                  <String ID="string_r1l23"
+                          HEIGHT="33"
+                          WIDTH="1017"
+                          VPOS="1055"
+                          HPOS="178"
+                          CONTENT="causa critica denuo examinatus. 8. maj. 1835. 8 gr. od. 36 kr."/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="177,1119 202,1120 228,1120 253,1120 279,1120 304,1120 330,1120 356,1120 381,1120 407,1120 432,1119 458,1119 484,1119 509,1119 535,1119 560,1119 586,1119 612,1120"
+                         HEIGHT="31"
+                         WIDTH="435"
+                         VPOS="1099"
+                         HPOS="177">
+                  <String ID="string_r1l24"
+                          HEIGHT="31"
+                          WIDTH="435"
+                          VPOS="1099"
+                          HPOS="177"
+                          CONTENT="Vel. Pap. 10 gr. od. 45 kr."/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="142,1169 194,1168 247,1167 299,1166 352,1165 404,1165 457,1164 509,1164 562,1164 614,1163 667,1163 719,1163 772,1163 824,1163 877,1163 929,1164 982,1164 1034,1164 1087,1164 1139,1164 1192,1164"
+                         HEIGHT="37"
+                         WIDTH="1050"
+                         VPOS="1142"
+                         HPOS="142">
+                  <String ID="string_r1l25"
+                          HEIGHT="37"
+                          WIDTH="1050"
+                          VPOS="1142"
+                          HPOS="142"
+                          CONTENT="Neubig, A., Iſt Chriſtus mit vollem Rechte den Tod eines Verbre⸗"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="184,1210 234,1209 285,1209 335,1209 386,1208 437,1208 487,1208 538,1208 589,1208 639,1208 690,1208 741,1208 791,1208 842,1208 893,1208 943,1208 994,1208 1045,1207 1095,1207 1146,1207 1197,1207"
+                         HEIGHT="34"
+                         WIDTH="1013"
+                         VPOS="1186"
+                         HPOS="184">
+                  <String ID="string_r1l26"
+                          HEIGHT="34"
+                          WIDTH="1013"
+                          VPOS="1186"
+                          HPOS="184"
+                          CONTENT="chers geſtorben. Eine Abhandlung aus dem höhern Staats⸗u. Kir⸗"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="178,1255 228,1254 279,1254 330,1253 381,1253 432,1252 482,1252 533,1252 584,1252 635,1252 686,1252 736,1252 787,1253 838,1253 889,1253 940,1253 990,1253 1041,1252 1092,1252 1143,1252 1194,1252"
+                         HEIGHT="34"
+                         WIDTH="1016"
+                         VPOS="1231"
+                         HPOS="178">
+                  <String ID="string_r1l27"
+                          HEIGHT="34"
+                          WIDTH="1016"
+                          VPOS="1231"
+                          HPOS="178"
+                          CONTENT="chenrechte für Juriſten und Theologen, ſo wie für jeden Gebildeten."/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="189,1302 216,1301 243,1301 270,1300 297,1299 324,1299 351,1298 378,1298 405,1298 432,1297 460,1297 487,1297 514,1296 541,1296 568,1296 595,1296 622,1296 649,1296 676,1296 703,1296 731,1296"
+                         HEIGHT="37"
+                         WIDTH="542"
+                         VPOS="1275"
+                         HPOS="189">
+                  <String ID="string_r1l28"
+                          HEIGHT="37"
+                          WIDTH="542"
+                          VPOS="1275"
+                          HPOS="189"
+                          CONTENT="gr. 8. 1836. broſch. 8 gr. oder 36 kr."/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="145,1345 197,1345 250,1344 302,1344 355,1343 408,1342 460,1342 513,1341 566,1341 618,1340 671,1340 724,1339 776,1339 829,1339 882,1339 934,1339 987,1339 1040,1339 1092,1339 1145,1339 1198,1340"
+                         HEIGHT="37"
+                         WIDTH="1053"
+                         VPOS="1318"
+                         HPOS="145">
+                  <String ID="string_r1l29"
+                          HEIGHT="37"
+                          WIDTH="1053"
+                          VPOS="1318"
+                          HPOS="145"
+                          CONTENT="Ranke, F. H., Unterſuchungen über den Pentateuch aus dem Gebiete"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="185,1385 235,1385 286,1385 336,1385 387,1385 437,1385 488,1384 538,1384 589,1384 639,1383 690,1383 741,1382 791,1382 842,1382 892,1382 943,1382 993,1382 1044,1382 1094,1383 1145,1384 1196,1384"
+                         HEIGHT="34"
+                         WIDTH="1011"
+                         VPOS="1361"
+                         HPOS="185">
+                  <String ID="string_r1l30"
+                          HEIGHT="34"
+                          WIDTH="1011"
+                          VPOS="1361"
+                          HPOS="185"
+                          CONTENT="der höheren Kritik. 1. Bd. gr. 8. 1834. 1 Rthlr. 6 gr. od. 2fl. 15kr."/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="149,1430 201,1430 253,1429 306,1429 358,1428 410,1428 463,1428 515,1427 567,1427 620,1427 672,1426 724,1426 777,1426 829,1426 881,1426 934,1426 986,1426 1038,1427 1091,1427 1143,1428 1196,1429"
+                         HEIGHT="34"
+                         WIDTH="1047"
+                         VPOS="1406"
+                         HPOS="149">
+                  <String ID="string_r1l31"
+                          HEIGHT="34"
+                          WIDTH="1047"
+                          VPOS="1406"
+                          HPOS="149"
+                          CONTENT="Rückert, Friedrich, geſammelte Gedichte. 3. Aufl. Vel. P. gr. 8."/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="193,1473 221,1472 249,1471 278,1471 306,1471 335,1470 363,1470 391,1470 420,1470 448,1470 477,1470 505,1470 533,1470 562,1470 590,1470 619,1470 647,1470 675,1469 704,1469 732,1468 761,1467"
+                         HEIGHT="36"
+                         WIDTH="568"
+                         VPOS="1447"
+                         HPOS="193">
+                  <String ID="string_r1l32"
+                          HEIGHT="36"
+                          WIDTH="568"
+                          VPOS="1447"
+                          HPOS="193"
+                          CONTENT="1836. broſch. 2 Rthlr. oder 3 fl. 36 kr."/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="160,1518 342,1514 387,1514 432,1514 478,1514 523,1514 568,1513 614,1513 659,1513 704,1513 750,1513 795,1513 840,1513 885,1513 931,1513 976,1513 1021,1513 1067,1513 1112,1513 1157,1513 1203,1513"
+                         HEIGHT="35"
+                         WIDTH="1052"
+                         VPOS="1492"
+                         HPOS="151">
+                  <String ID="string_r1l33"
+                          HEIGHT="35"
+                          WIDTH="1052"
+                          VPOS="1492"
+                          HPOS="151"
+                          CONTENT="— — geſammelte Gedichte 2r Bd. Vel. P. gr. 8. 1836. broch. 2 Rthlr."/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="184,1562 211,1561 238,1560 266,1559 293,1557 321,1556 348,1556 376,1556 403,1557 431,1559"
+                         HEIGHT="37"
+                         WIDTH="247"
+                         VPOS="1535"
+                         HPOS="184">
+                  <String ID="string_r1l34"
+                          HEIGHT="37"
+                          WIDTH="247"
+                          VPOS="1535"
+                          HPOS="184"
+                          CONTENT="oder 3 fl. 36 kr."/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="155,1606 207,1605 259,1604 311,1603 364,1603 416,1602 468,1601 521,1600 573,1600 625,1599 678,1599 730,1599 782,1598 834,1598 887,1598 939,1598 991,1598 1044,1598 1096,1598 1148,1598 1201,1598"
+                         HEIGHT="39"
+                         WIDTH="1046"
+                         VPOS="1577"
+                         HPOS="155">
+                  <String ID="string_r1l35"
+                          HEIGHT="39"
+                          WIDTH="1046"
+                          VPOS="1577"
+                          HPOS="155"
+                          CONTENT="Steiger, W., kleine pauliniſche Briefe, 1r Theil: Der Brief an die"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="189,1648 239,1647 290,1647 341,1646 392,1645 443,1645 493,1644 544,1644 595,1643 646,1643 697,1642 747,1642 798,1642 849,1642 900,1641 951,1641 1001,1641 1052,1641 1103,1641 1154,1641 1205,1641"
+                         HEIGHT="38"
+                         WIDTH="1016"
+                         VPOS="1620"
+                         HPOS="189">
+                  <String ID="string_r1l36"
+                          HEIGHT="38"
+                          WIDTH="1016"
+                          VPOS="1620"
+                          HPOS="189"
+                          CONTENT="Koloſſer. Ueberſetzung, Erklärung, einleitende u. epikritiſche Abhand⸗"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="191,1693 241,1692 291,1692 341,1691 391,1690 442,1689 492,1689 542,1688 592,1688 642,1687 693,1687 743,1687 793,1687 843,1686 893,1686 944,1686 994,1686 1044,1686 1094,1686 1144,1686 1195,1686"
+                         HEIGHT="37"
+                         WIDTH="1004"
+                         VPOS="1666"
+                         HPOS="191">
+                  <String ID="string_r1l37"
+                          HEIGHT="37"
+                          WIDTH="1004"
+                          VPOS="1666"
+                          HPOS="191"
+                          CONTENT="lungen. gr. 8. 1835. 1 Rthlr. 20 gr. od. 3 fl. 18 kr. Vel. P. 2 Rthlr."/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="194,1741 220,1739 247,1738 274,1736 300,1735 327,1733 354,1733 380,1732 407,1731 434,1731 460,1732 487,1733 514,1734"
+                         HEIGHT="40"
+                         WIDTH="320"
+                         VPOS="1711"
+                         HPOS="194">
+                  <String ID="string_r1l38"
+                          HEIGHT="40"
+                          WIDTH="320"
+                          VPOS="1711"
+                          HPOS="194"
+                          CONTENT="4 gr. oder 3 fl. 54 kr."/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="153,1792 205,1791 257,1790 310,1789 362,1788 415,1787 467,1786 519,1785 572,1784 624,1784 677,1783 729,1782 781,1782 834,1781 886,1781 939,1780 991,1780 1043,1780 1096,1780 1148,1779 1201,1779"
+                         HEIGHT="44"
+                         WIDTH="1048"
+                         VPOS="1758"
+                         HPOS="153">
+                  <String ID="string_r1l39"
+                          HEIGHT="44"
+                          WIDTH="1048"
+                          VPOS="1758"
+                          HPOS="153"
+                          CONTENT="Tiele, J. N., ב ראשית Γένεσις. Das erſte Buch Moſes, zum"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="191,1837 241,1836 292,1836 343,1835 394,1834 445,1833 495,1832 546,1832 597,1831 648,1830 699,1830 749,1829 800,1828 851,1828 902,1828 953,1828 1003,1828 1054,1828 1105,1828 1156,1829 1207,1829"
+                         HEIGHT="40"
+                         WIDTH="1016"
+                         VPOS="1807"
+                         HPOS="191">
+                  <String ID="string_r1l40"
+                          HEIGHT="40"
+                          WIDTH="1016"
+                          VPOS="1807"
+                          HPOS="191"
+                          CONTENT="Nutz und Frommen Studirender und practiſcher Theologen überſetzt"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="191,1880 241,1880 292,1879 342,1879 393,1878 443,1878 494,1877 544,1876 595,1875 645,1875 696,1874 747,1874 797,1873 848,1873 898,1873 949,1872 999,1872 1050,1872 1100,1873 1151,1873 1202,1874"
+                         HEIGHT="39"
+                         WIDTH="1011"
+                         VPOS="1851"
+                         HPOS="191">
+                  <String ID="string_r1l41"
+                          HEIGHT="39"
+                          WIDTH="1011"
+                          VPOS="1851"
+                          HPOS="191"
+                          CONTENT="und commentirt. 1r Bd. gr. 8. 1836. 40 Bogen. 1 Rthlr. 12 gr. od¬"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="190,1928 216,1927 243,1924 269,1922 296,1921 322,1921 349,1921"
+                         HEIGHT="38"
+                         WIDTH="159"
+                         VPOS="1900"
+                         HPOS="190">
+                  <String ID="string_r1l42"
+                          HEIGHT="38"
+                          WIDTH="159"
+                          VPOS="1900"
+                          HPOS="190"
+                          CONTENT="2 fl. 42 kr."/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="159,1972 211,1971 264,1969 316,1968 369,1967 421,1966 474,1965 526,1964 579,1963 631,1962 684,1961 736,1960 789,1960 841,1959 894,1959 946,1959 999,1959 1051,1959 1104,1959 1156,1960 1209,1960"
+                         HEIGHT="44"
+                         WIDTH="1050"
+                         VPOS="1938"
+                         HPOS="159">
+                  <String ID="string_r1l43"
+                          HEIGHT="44"
+                          WIDTH="1050"
+                          VPOS="1938"
+                          HPOS="159"
+                          CONTENT="Zeiten und Dinge. Erſter Geſang. Aurora. gr. 8. 1885. broſch. Vel. P."/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="202,2018 227,2016 253,2014 278,2013 304,2012 329,2011 355,2010 380,2009 406,2009 432,2010"
+                         HEIGHT="40"
+                         WIDTH="230"
+                         VPOS="1988"
+                         HPOS="202">
+                  <String ID="string_r1l44"
+                          HEIGHT="40"
+                          WIDTH="230"
+                          VPOS="1988"
+                          HPOS="202"
+                          CONTENT="10 gr. od. 45 kr."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

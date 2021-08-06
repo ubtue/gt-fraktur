@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:44:20.412+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2273" WIDTH="1418">
+         <TopMargin HEIGHT="0" WIDTH="1418" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2273" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2273" WIDTH="0" VPOS="0" HPOS="1418"/>
+         <BottomMargin HEIGHT="0" WIDTH="1418" VPOS="2273" HPOS="0"/>
+         <PrintSpace HEIGHT="2273" WIDTH="1418" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1316" WIDTH="1074" VPOS="743" HPOS="159">
+               <Shape>
+                  <Polygon POINTS="159,743 159,2059 1233,2059 1233,743"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="450,783 475,784 501,785 527,785 553,786 579,786 605,786 631,786 657,786 683,786 708,786 734,786 760,786 786,786 812,787 838,788 864,789 890,790 916,792"
+                         HEIGHT="69"
+                         WIDTH="466"
+                         VPOS="743"
+                         HPOS="450">
+                  <String ID="string_r1l1"
+                          HEIGHT="69"
+                          WIDTH="466"
+                          VPOS="743"
+                          HPOS="450"
+                          CONTENT="Vorbemerkung."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="166,984 218,984 270,985 323,985 375,986 428,986 480,986 532,986 585,986 637,987 690,987 742,987 794,987 847,987 899,987 952,987 1004,987 1056,987 1109,987 1161,988 1214,988"
+                         HEIGHT="56"
+                         WIDTH="1048"
+                         VPOS="949"
+                         HPOS="166">
+                  <String ID="string_r1l2"
+                          HEIGHT="56"
+                          WIDTH="1048"
+                          VPOS="949"
+                          HPOS="166"
+                          CONTENT="Es war mir eine Zeitlang zweifelhaft, ob man dem ſo"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="159,1059 211,1059 264,1058 317,1058 370,1058 422,1058 475,1058 528,1058 581,1058 633,1058 686,1059 739,1059 792,1059 844,1059 897,1060 950,1060 1003,1060 1055,1060 1108,1060 1161,1060 1214,1059"
+                         HEIGHT="54"
+                         WIDTH="1055"
+                         VPOS="1023"
+                         HPOS="159">
+                  <String ID="string_r1l3"
+                          HEIGHT="54"
+                          WIDTH="1055"
+                          VPOS="1023"
+                          HPOS="159"
+                          CONTENT="viel beſprochenen Strauß'ſchen Buche in beſondern"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="168,1136 220,1136 272,1136 325,1135 377,1135 430,1134 482,1134 534,1133 587,1133 639,1133 692,1133 744,1133 796,1133 849,1133 901,1133 954,1133 1006,1134 1058,1134 1111,1135 1163,1136 1216,1137"
+                         HEIGHT="58"
+                         WIDTH="1048"
+                         VPOS="1097"
+                         HPOS="168">
+                  <String ID="string_r1l4"
+                          HEIGHT="58"
+                          WIDTH="1048"
+                          VPOS="1097"
+                          HPOS="168"
+                          CONTENT="Schriften begegnen ſolle, welche, wie jede Streitſchrift,"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="163,1212 215,1211 268,1211 320,1211 373,1210 425,1210 478,1210 530,1210 583,1210 635,1209 688,1209 741,1209 793,1209 846,1209 898,1209 951,1210 1003,1210 1056,1210 1108,1210 1161,1211 1214,1211"
+                         HEIGHT="57"
+                         WIDTH="1051"
+                         VPOS="1173"
+                         HPOS="163">
+                  <String ID="string_r1l5"
+                          HEIGHT="57"
+                          WIDTH="1051"
+                          VPOS="1173"
+                          HPOS="163"
+                          CONTENT="einen Gegenſtand vor ein größeres Publicum bringen, den"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="165,1289 217,1288 270,1287 323,1287 376,1286 428,1285 481,1285 534,1284 587,1284 639,1284 692,1284 745,1284 798,1284 850,1284 903,1284 956,1285 1009,1285 1061,1286 1114,1286 1167,1287 1220,1288"
+                         HEIGHT="59"
+                         WIDTH="1055"
+                         VPOS="1248"
+                         HPOS="165">
+                  <String ID="string_r1l6"
+                          HEIGHT="59"
+                          WIDTH="1055"
+                          VPOS="1248"
+                          HPOS="165"
+                          CONTENT="Herr Strauß nach ſeiner Vorrede S. VIII. ſelbst nur"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="160,1365 212,1364 265,1362 318,1361 370,1360 423,1360 476,1359 528,1359 581,1358 634,1358 687,1358 739,1358 792,1359 845,1359 897,1359 950,1360 1003,1361 1055,1361 1108,1362 1161,1363 1214,1364"
+                         HEIGHT="59"
+                         WIDTH="1054"
+                         VPOS="1323"
+                         HPOS="160">
+                  <String ID="string_r1l7"
+                          HEIGHT="59"
+                          WIDTH="1054"
+                          VPOS="1323"
+                          HPOS="160"
+                          CONTENT="für den engern Kreis der gelehrten Theologen geeignet"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="167,1441 219,1439 271,1438 324,1436 376,1435 428,1435 481,1434 533,1434 585,1433 638,1433 690,1433 742,1433 795,1434 847,1434 899,1434 952,1434 1004,1435 1056,1435 1109,1435 1161,1436 1214,1436"
+                         HEIGHT="60"
+                         WIDTH="1047"
+                         VPOS="1398"
+                         HPOS="167">
+                  <String ID="string_r1l8"
+                          HEIGHT="60"
+                          WIDTH="1047"
+                          VPOS="1398"
+                          HPOS="167"
+                          CONTENT="glaubt, und welcher daher eigentlich nur in den Organen"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="169,1512 221,1512 273,1511 325,1510 377,1510 429,1510 481,1509 533,1509 585,1509 637,1509 689,1509 741,1509 793,1509 845,1509 897,1510 949,1510 1001,1510 1053,1511 1105,1511 1157,1512 1210,1512"
+                         HEIGHT="55"
+                         WIDTH="1041"
+                         VPOS="1474"
+                         HPOS="169">
+                  <String ID="string_r1l9"
+                          HEIGHT="55"
+                          WIDTH="1041"
+                          VPOS="1474"
+                          HPOS="169"
+                          CONTENT="der gelehrten Theologie, den theologiſchen Zeitſchriften,"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="163,1586 215,1585 268,1585 320,1584 373,1584 426,1584 478,1584 531,1584 583,1583 636,1583 689,1584 741,1584 794,1584 846,1584 899,1584 952,1584 1004,1585 1057,1585 1109,1585 1162,1586 1215,1586"
+                         HEIGHT="57"
+                         WIDTH="1052"
+                         VPOS="1547"
+                         HPOS="163">
+                  <String ID="string_r1l10"
+                          HEIGHT="57"
+                          WIDTH="1052"
+                          VPOS="1547"
+                          HPOS="163"
+                          CONTENT="beſprochen werden ſollte. Allein ich ward eines Beſſern"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="165,1662 217,1661 270,1661 322,1660 375,1659 428,1659 480,1659 533,1658 586,1658 638,1658 691,1658 744,1658 796,1659 849,1659 902,1659 954,1660 1007,1660 1060,1660 1112,1661 1165,1661 1218,1662"
+                         HEIGHT="58"
+                         WIDTH="1053"
+                         VPOS="1622"
+                         HPOS="165">
+                  <String ID="string_r1l11"
+                          HEIGHT="58"
+                          WIDTH="1053"
+                          VPOS="1622"
+                          HPOS="165"
+                          CONTENT="belehrt. Man konnte freilich an ſich ſchon vermuthen,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="165,1739 220,1738 276,1737 332,1736 387,1735 443,1734 499,1734 555,1733 610,1733 666,1733 722,1733 778,1734 833,1734 889,1734 945,1735 1001,1735 1056,1735 1112,1736 1168,1736 1224,1736"
+                         HEIGHT="61"
+                         WIDTH="1059"
+                         VPOS="1696"
+                         HPOS="165">
+                  <String ID="string_r1l12"
+                          HEIGHT="61"
+                          WIDTH="1059"
+                          VPOS="1696"
+                          HPOS="165"
+                          CONTENT="daß eine Schrift, welche nach ihrem eigenen Geſtändniß"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="170,1814 222,1813 275,1812 328,1811 380,1811 433,1810 486,1810 538,1810 591,1809 644,1809 697,1809 749,1809 802,1809 855,1810 907,1810 960,1810 1013,1810 1065,1811 1118,1811 1171,1811 1224,1812"
+                         HEIGHT="59"
+                         WIDTH="1054"
+                         VPOS="1773"
+                         HPOS="170">
+                  <String ID="string_r1l13"
+                          HEIGHT="59"
+                          WIDTH="1054"
+                          VPOS="1773"
+                          HPOS="170"
+                          CONTENT="weniger von gelehrten theologiſchen Wahrnehmungen, als"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="170,1891 222,1889 275,1887 327,1886 380,1885 432,1885 485,1884 537,1884 590,1884 642,1884 695,1884 747,1884 800,1885 852,1885 905,1885 957,1886 1010,1886 1062,1886 1115,1887 1167,1887 1220,1887"
+                         HEIGHT="61"
+                         WIDTH="1050"
+                         VPOS="1848"
+                         HPOS="170">
+                  <String ID="string_r1l14"
+                          HEIGHT="61"
+                          WIDTH="1050"
+                          VPOS="1848"
+                          HPOS="170"
+                          CONTENT="von den Anſichten der neueren Bildung aus, die evange⸗"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="170,1964 225,1963 281,1963 337,1962 392,1962 448,1962 504,1962 560,1961 615,1961 671,1961 727,1961 783,1962 838,1962 894,1962 950,1962 1006,1962 1061,1962 1117,1962 1173,1962 1229,1962"
+                         HEIGHT="57"
+                         WIDTH="1059"
+                         VPOS="1925"
+                         HPOS="170">
+                  <String ID="string_r1l15"
+                          HEIGHT="57"
+                          WIDTH="1059"
+                          VPOS="1925"
+                          HPOS="170"
+                          CONTENT="liſche Geſchichte beſpricht, in dem großen Kreiſe derer An⸗"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="172,2041 225,2041 278,2040 331,2039 384,2038 437,2038 490,2037 543,2037 596,2037 649,2036 702,2036 755,2036 808,2036 861,2036 914,2036 967,2036 1020,2036 1073,2036 1126,2037 1179,2037 1233,2037"
+                         HEIGHT="60"
+                         WIDTH="1061"
+                         VPOS="1999"
+                         HPOS="172">
+                  <String ID="string_r1l16"
+                          HEIGHT="60"
+                          WIDTH="1061"
+                          VPOS="1999"
+                          HPOS="172"
+                          CONTENT="klang finden werde, die auf den Namen der Gebildeten"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

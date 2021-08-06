@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:40:06.466+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2340" WIDTH="1420">
+         <TopMargin HEIGHT="0" WIDTH="1420" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2340" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2340" WIDTH="0" VPOS="0" HPOS="1420"/>
+         <BottomMargin HEIGHT="0" WIDTH="1420" VPOS="2340" HPOS="0"/>
+         <PrintSpace HEIGHT="2340" WIDTH="1420" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1620809944529_2436"
+                       HEIGHT="220"
+                       WIDTH="1270"
+                       VPOS="274"
+                       HPOS="97">
+               <Shape>
+                  <Polygon POINTS="98,274 1367,277 1366,494 97,494"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="482,335 507,336 532,336 558,337 583,337 609,337 634,338 660,338 685,338 711,339 736,339 761,339 787,339 812,339 838,340 863,340 889,340 914,340 940,341 965,341 991,342"
+                         HEIGHT="46"
+                         WIDTH="509"
+                         VPOS="309"
+                         HPOS="482">
+                  <String ID="string_r1l1"
+                          HEIGHT="46"
+                          WIDTH="509"
+                          VPOS="309"
+                          HPOS="482"
+                          CONTENT="Kirchliche Actenſtücke."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="287,452 331,452 375,452 419,452 463,452 507,452 551,452 595,452 639,452 683,452 727,452 771,452 815,453 859,453 903,454 947,454 991,455 1035,455 1079,456 1123,457 1167,458"
+                         HEIGHT="45"
+                         WIDTH="880"
+                         VPOS="426"
+                         HPOS="287">
+                  <String ID="string_r1l2"
+                          HEIGHT="45"
+                          WIDTH="880"
+                          VPOS="426"
+                          HPOS="287"
+                          CONTENT="(Proteſt gegen das piemonteſiſche Garantieengeſetz.)"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1620809949785_2441"
+                       HEIGHT="1771"
+                       WIDTH="632"
+                       VPOS="494"
+                       HPOS="91">
+               <Shape>
+                  <Polygon POINTS="97,494 723,494 723,2265 91,2265"/>
+               </Shape>
+               <TextLine ID="r1l3"
+                         BASELINE="101,568 131,569 161,569 191,570 221,570 251,571 281,571 312,572 342,572 372,573 402,573 432,573 462,573 492,574 523,574 553,574 583,574 613,575 643,575 673,575 704,575"
+                         HEIGHT="46"
+                         WIDTH="603"
+                         VPOS="542"
+                         HPOS="101">
+                  <String ID="string_r1l3"
+                          HEIGHT="46"
+                          WIDTH="603"
+                          VPOS="542"
+                          HPOS="101"
+                          CONTENT="Sanotissimi Domini Nostri Pii"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="140,627 168,627 196,628 224,628 252,628 281,628 309,629 337,629 365,629 393,630 422,630 450,631 478,631 506,631 534,632 563,632 591,632 619,633 647,633 675,633 704,633"
+                         HEIGHT="45"
+                         WIDTH="564"
+                         VPOS="601"
+                         HPOS="140">
+                  <String ID="string_r1l5"
+                          HEIGHT="45"
+                          WIDTH="564"
+                          VPOS="601"
+                          HPOS="140"
+                          CONTENT="divina providentia Papae IX."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="146,681 175,683 204,684 234,685 263,686 293,687 322,687 351,688 381,688 410,688 440,689 469,689 499,689 528,689 557,690 587,690 616,690 646,691 675,691 705,692"
+                         HEIGHT="50"
+                         WIDTH="559"
+                         VPOS="655"
+                         HPOS="146">
+                  <String ID="string_r1l7"
+                          HEIGHT="50"
+                          WIDTH="559"
+                          VPOS="655"
+                          HPOS="146"
+                          CONTENT="Epistola Encyclica ad omnes"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="145,742 172,742 199,743 227,743 254,743 282,744 309,744 336,744 364,745 391,745 419,745 446,745 473,746 501,746 528,746 556,746 583,746 610,747 638,747 665,747 693,747"
+                         HEIGHT="44"
+                         WIDTH="548"
+                         VPOS="716"
+                         HPOS="145">
+                  <String ID="string_r1l9"
+                          HEIGHT="44"
+                          WIDTH="548"
+                          VPOS="716"
+                          HPOS="145"
+                          CONTENT="Patriarchas, Primates, Archi-"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="145,801 172,800 200,800 228,800 255,800 283,800 311,800 338,800 366,801 394,801 422,801 449,802 477,802 505,802 532,802 560,803 588,803 615,803 643,804 671,804 699,804"
+                         HEIGHT="43"
+                         WIDTH="554"
+                         VPOS="774"
+                         HPOS="145">
+                  <String ID="string_r1l11"
+                          HEIGHT="43"
+                          WIDTH="554"
+                          VPOS="774"
+                          HPOS="145"
+                          CONTENT="episcopos, Episcopos, aliosque"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="145,858 173,858 201,857 229,857 257,857 285,857 313,857 341,857 369,857 397,857 425,857 453,858 481,858 509,858 537,858 565,859 593,859 621,860 649,860 677,861 706,861"
+                         HEIGHT="43"
+                         WIDTH="561"
+                         VPOS="831"
+                         HPOS="145">
+                  <String ID="string_r1l13"
+                          HEIGHT="43"
+                          WIDTH="561"
+                          VPOS="831"
+                          HPOS="145"
+                          CONTENT="locorum Ordinarios gratiam et"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="144,913 171,913 199,913 227,914 255,914 283,914 310,914 338,914 366,914 394,914 422,915 449,915 477,915 505,916 533,916 561,916 588,916 616,917 644,917 672,918 700,918"
+                         HEIGHT="44"
+                         WIDTH="556"
+                         VPOS="887"
+                         HPOS="144">
+                  <String ID="string_r1l15"
+                          HEIGHT="44"
+                          WIDTH="556"
+                          VPOS="887"
+                          HPOS="144"
+                          CONTENT="Communionem cum Apostolica"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="131,970 156,970 182,971 207,971 233,971 258,971 284,971 309,971 335,972 360,972 386,973 412,974"
+                         HEIGHT="43"
+                         WIDTH="281"
+                         VPOS="944"
+                         HPOS="131">
+                  <String ID="string_r1l17"
+                          HEIGHT="43"
+                          WIDTH="281"
+                          VPOS="944"
+                          HPOS="131"
+                          CONTENT="sede habentes."/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="245,1050 270,1049 296,1048 321,1048 347,1048 372,1048 398,1049 423,1049 449,1049 474,1050 500,1050 525,1050 551,1051"
+                         HEIGHT="42"
+                         WIDTH="306"
+                         VPOS="1022"
+                         HPOS="245">
+                  <String ID="string_r1l18"
+                          HEIGHT="42"
+                          WIDTH="306"
+                          VPOS="1022"
+                          HPOS="245"
+                          CONTENT="Pius PP. IX."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="146,1113 172,1114 199,1115 225,1116 252,1116 279,1117 305,1117 332,1118 359,1118 385,1118 412,1119 439,1119 465,1119 492,1119 519,1120"
+                         HEIGHT="46"
+                         WIDTH="373"
+                         VPOS="1087"
+                         HPOS="146">
+                  <String ID="string_r1l20"
+                          HEIGHT="46"
+                          WIDTH="373"
+                          VPOS="1087"
+                          HPOS="146"
+                          CONTENT="Venerabiles Fratres."/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="137,1173 164,1173 192,1173 220,1173 248,1174 276,1174 304,1174 332,1174 360,1175 388,1175 416,1175 443,1175 471,1176 499,1176 527,1176 555,1176 583,1176 611,1176 639,1176 667,1176 695,1176"
+                         HEIGHT="42"
+                         WIDTH="558"
+                         VPOS="1147"
+                         HPOS="137">
+                  <String ID="string_r1l22"
+                          HEIGHT="42"
+                          WIDTH="558"
+                          VPOS="1147"
+                          HPOS="137"
+                          CONTENT="Salutem et Apostolicam Bene-"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="102,1225 130,1227 159,1229 188,1230 217,1231 246,1231 275,1232"
+                         HEIGHT="46"
+                         WIDTH="173"
+                         VPOS="1199"
+                         HPOS="102">
+                  <String ID="string_r1l24"
+                          HEIGHT="46"
+                          WIDTH="173"
+                          VPOS="1199"
+                          HPOS="102"
+                          CONTENT="dictionem."/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="128,1307 156,1308 184,1310 212,1311 240,1312 268,1313 296,1313 325,1314 353,1314 381,1314 409,1314 437,1314 465,1314 493,1315 522,1315 550,1315 578,1315 606,1315 634,1316 662,1316 691,1317"
+                         HEIGHT="44"
+                         WIDTH="563"
+                         VPOS="1284"
+                         HPOS="128">
+                  <String ID="string_r1l25"
+                          HEIGHT="44"
+                          WIDTH="563"
+                          VPOS="1284"
+                          HPOS="128"
+                          CONTENT="Ubi Nos, arcano Dei consilio sub"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="91,1357 120,1358 150,1359 180,1360 209,1361 239,1361 269,1361 298,1362 328,1362 358,1362 388,1362 417,1362 447,1362 477,1362 506,1362 536,1362 566,1363 595,1363 625,1363 655,1364 685,1365"
+                         HEIGHT="41"
+                         WIDTH="615"
+                         VPOS="1334"
+                         HPOS="91">
+                  <String ID="string_r1l27"
+                          HEIGHT="41"
+                          WIDTH="615"
+                          VPOS="1334"
+                          HPOS="91"
+                          CONTENT="hostilem potestatem redacti, tristem at-"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="102,1405 131,1407 160,1408 190,1409 219,1410 249,1410 278,1411 307,1411 337,1411 366,1411 396,1411 425,1411 454,1411 484,1411 513,1411 543,1412 572,1412 601,1412 631,1412 660,1413 690,1413"
+                         HEIGHT="44"
+                         WIDTH="588"
+                         VPOS="1381"
+                         HPOS="102">
+                  <String ID="string_r1l29"
+                          HEIGHT="44"
+                          WIDTH="588"
+                          VPOS="1381"
+                          HPOS="102"
+                          CONTENT="que acerbam vicem hujus Urbis Nostrae"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="95,1453 125,1455 155,1457 185,1458 215,1458 245,1460 275,1460 306,1461 336,1461 366,1461 396,1461 426,1461 456,1461 486,1461 517,1461 547,1461 577,1461 607,1461 637,1461 667,1462 698,1463"
+                         HEIGHT="44"
+                         WIDTH="603"
+                         VPOS="1430"
+                         HPOS="95">
+                  <String ID="string_r1l32"
+                          HEIGHT="44"
+                          WIDTH="603"
+                          VPOS="1430"
+                          HPOS="95"
+                          CONTENT="et oppressum armorum invasione civilem"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="99,1502 130,1504 162,1505 193,1506 225,1507 256,1508 288,1508 319,1509 351,1509 382,1509 414,1509 445,1509 477,1509 508,1509 540,1509 571,1509 603,1510 634,1510 666,1510 698,1511"
+                         HEIGHT="43"
+                         WIDTH="599"
+                         VPOS="1479"
+                         HPOS="99">
+                  <String ID="string_r1l34"
+                          HEIGHT="43"
+                          WIDTH="599"
+                          VPOS="1479"
+                          HPOS="99"
+                          CONTENT="apostolicae Sedis Principatum vidimus,"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="100,1551 131,1553 163,1554 194,1555 226,1556 257,1557 289,1558 320,1558 352,1558 383,1558 415,1558 446,1559 478,1559 509,1559 541,1559 572,1559 604,1559 635,1559 667,1560 699,1560"
+                         HEIGHT="43"
+                         WIDTH="599"
+                         VPOS="1528"
+                         HPOS="100">
+                  <String ID="string_r1l36"
+                          HEIGHT="43"
+                          WIDTH="599"
+                          VPOS="1528"
+                          HPOS="100"
+                          CONTENT="jam tum datis ad Vos litteris die prima"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="105,1599 134,1600 163,1602 192,1604 222,1604 251,1606 280,1606 310,1607 339,1607 368,1607 398,1608 427,1608 456,1608 485,1608 515,1607 544,1607 573,1607 603,1607 632,1607 661,1607 691,1607"
+                         HEIGHT="43"
+                         WIDTH="586"
+                         VPOS="1576"
+                         HPOS="105">
+                  <String ID="string_r1l38"
+                          HEIGHT="43"
+                          WIDTH="586"
+                          VPOS="1576"
+                          HPOS="105"
+                          CONTENT="Novembris anno proxime superiori, Vo-"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="103,1647 132,1650 161,1651 190,1652 219,1654 248,1655 277,1655 306,1656 335,1656 364,1656 393,1656 422,1656 451,1656 480,1656 509,1656 538,1656 567,1656 596,1656 625,1656 654,1656 683,1656"
+                         HEIGHT="43"
+                         WIDTH="580"
+                         VPOS="1624"
+                         HPOS="103">
+                  <String ID="string_r1l40"
+                          HEIGHT="43"
+                          WIDTH="580"
+                          VPOS="1624"
+                          HPOS="103"
+                          CONTENT="bis ac per Vos toti orbi catholico de-"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="99,1697 128,1698 158,1700 188,1701 218,1702 248,1703 277,1704 307,1704 337,1704 367,1704 397,1705 426,1705 456,1705 486,1705 516,1705 546,1705 575,1705 605,1705 635,1705 665,1706 695,1706"
+                         HEIGHT="42"
+                         WIDTH="596"
+                         VPOS="1675"
+                         HPOS="99">
+                  <String ID="string_r1l42"
+                          HEIGHT="42"
+                          WIDTH="596"
+                          VPOS="1675"
+                          HPOS="99"
+                          CONTENT="claravimus, qui esset rerum Nostrarum"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="97,1742 126,1745 156,1747 186,1749 216,1751 246,1752 275,1753 305,1754 335,1754 365,1754 395,1754 424,1754 454,1754 484,1753 514,1753 544,1753 573,1753 603,1753 633,1753 663,1754 693,1755"
+                         HEIGHT="46"
+                         WIDTH="596"
+                         VPOS="1720"
+                         HPOS="97">
+                  <String ID="string_r1l44"
+                          HEIGHT="46"
+                          WIDTH="596"
+                          VPOS="1720"
+                          HPOS="97"
+                          CONTENT="et Urbis hujus status, quibus obnoxii"/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="97,1790 126,1793 156,1796 185,1798 215,1800 245,1801 274,1802 304,1802 333,1802 363,1802 393,1802 422,1802 452,1802 481,1801 511,1801 541,1801 570,1801 600,1801 629,1802 659,1803 689,1805"
+                         HEIGHT="49"
+                         WIDTH="592"
+                         VPOS="1767"
+                         HPOS="97">
+                  <String ID="string_r1l46"
+                          HEIGHT="49"
+                          WIDTH="592"
+                          VPOS="1767"
+                          HPOS="97"
+                          CONTENT="essemus impiae et effrenis licentiae ex⸗"/>
+               </TextLine>
+               <TextLine ID="r1l48"
+                         BASELINE="99,1838 129,1841 159,1843 189,1846 219,1848 249,1849 279,1849 309,1850 339,1850 369,1850 399,1850 429,1850 459,1850 489,1850 519,1850 549,1850 579,1850 609,1851 639,1851 669,1853 699,1855"
+                         HEIGHT="51"
+                         WIDTH="600"
+                         VPOS="1815"
+                         HPOS="99">
+                  <String ID="string_r1l48"
+                          HEIGHT="51"
+                          WIDTH="600"
+                          VPOS="1815"
+                          HPOS="99"
+                          CONTENT="cessibus; et ex supremi officii Nostri"/>
+               </TextLine>
+               <TextLine ID="r1l50"
+                         BASELINE="103,1889 132,1892 162,1894 192,1895 222,1896 252,1897 281,1898 311,1898 341,1899 371,1899 401,1899 430,1899 460,1899 490,1899 520,1899 550,1899 579,1900 609,1900 639,1901 669,1902 699,1903"
+                         HEIGHT="48"
+                         WIDTH="596"
+                         VPOS="1866"
+                         HPOS="103">
+                  <String ID="string_r1l50"
+                          HEIGHT="48"
+                          WIDTH="596"
+                          VPOS="1866"
+                          HPOS="103"
+                          CONTENT="ratione coram Deo et hominibus, salva"/>
+               </TextLine>
+               <TextLine ID="r1l53"
+                         BASELINE="103,1937 132,1939 162,1942 192,1944 222,1945 252,1946 281,1947 311,1948 341,1948 371,1948 401,1948 430,1948 460,1948 490,1948 520,1948 550,1948 579,1948 609,1949 639,1949 669,1950 699,1951"
+                         HEIGHT="48"
+                         WIDTH="596"
+                         VPOS="1914"
+                         HPOS="103">
+                  <String ID="string_r1l53"
+                          HEIGHT="48"
+                          WIDTH="596"
+                          VPOS="1914"
+                          HPOS="103"
+                          CONTENT="ac integra esse velle jura Apostolicae"/>
+               </TextLine>
+               <TextLine ID="r1l55"
+                         BASELINE="101,1984 130,1988 159,1990 189,1992 218,1994 248,1995 277,1996 306,1997 336,1997 365,1998 395,1998 424,1997 453,1997 483,1997 512,1997 542,1997 571,1997 600,1997 630,1997 659,1998 689,1999"
+                         HEIGHT="49"
+                         WIDTH="588"
+                         VPOS="1961"
+                         HPOS="101">
+                  <String ID="string_r1l55"
+                          HEIGHT="49"
+                          WIDTH="588"
+                          VPOS="1961"
+                          HPOS="101"
+                          CONTENT="Sedis, testati sumus, Vosque et omnes"/>
+               </TextLine>
+               <TextLine ID="r1l57"
+                         BASELINE="98,2031 127,2034 157,2037 187,2040 217,2042 246,2043 276,2045 306,2045 336,2046 365,2046 395,2046 425,2046 455,2046 484,2046 514,2045 544,2045 574,2045 603,2046 633,2046 663,2047 693,2048"
+                         HEIGHT="51"
+                         WIDTH="595"
+                         VPOS="2008"
+                         HPOS="98">
+                  <String ID="string_r1l57"
+                          HEIGHT="51"
+                          WIDTH="595"
+                          VPOS="2008"
+                          HPOS="98"
+                          CONTENT="dilectos filios curis vestris creditos"/>
+               </TextLine>
+               <TextLine ID="r1l59"
+                         BASELINE="98,2079 127,2082 157,2085 186,2087 216,2089 245,2091 275,2092 304,2093 334,2094 363,2094 393,2094 423,2095 452,2095 482,2095 511,2095 541,2095 570,2095 600,2095 629,2095 659,2096 689,2096"
+                         HEIGHT="51"
+                         WIDTH="591"
+                         VPOS="2056"
+                         HPOS="98">
+                  <String ID="string_r1l59"
+                          HEIGHT="51"
+                          WIDTH="591"
+                          VPOS="2056"
+                          HPOS="98"
+                          CONTENT="fideles ad divinam Majestatem fervidis"/>
+               </TextLine>
+               <TextLine ID="r1l61"
+                         BASELINE="100,2130 125,2132 150,2134 175,2136 200,2138 225,2139 250,2140 275,2141 300,2142 325,2143 350,2143 375,2144 400,2144 425,2144 450,2145 475,2145 500,2145 525,2145 550,2145 575,2145 600,2145"
+                         HEIGHT="51"
+                         WIDTH="500"
+                         VPOS="2106"
+                         HPOS="100">
+                  <String ID="string_r1l61"
+                          HEIGHT="51"
+                          WIDTH="500"
+                          VPOS="2106"
+                          HPOS="100"
+                          CONTENT="precibus placandam excitavimus."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1620809949784_2440"
+                       HEIGHT="1771"
+                       WIDTH="643"
+                       VPOS="494"
+                       HPOS="723">
+               <Shape>
+                  <Polygon POINTS="723,494 1366,494 1364,2265 723,2265"/>
+               </Shape>
+               <TextLine ID="r1l4"
+                         BASELINE="759,577 789,578 819,579 849,580 879,581 909,581 939,582 969,582 999,582 1029,583 1059,583 1089,583 1119,583 1149,583 1179,584 1209,584 1239,584 1269,584 1299,585 1329,585 1359,586"
+                         HEIGHT="48"
+                         WIDTH="600"
+                         VPOS="551"
+                         HPOS="759">
+                  <String ID="string_r1l4"
+                          HEIGHT="48"
+                          WIDTH="600"
+                          VPOS="551"
+                          HPOS="759"
+                          CONTENT="Rundſchreiben unſeres heiligen"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="789,640 817,641 846,642 874,642 903,643 931,643 960,644 988,644 1017,645 1045,645 1074,646 1102,646 1131,646 1159,647 1188,647 1216,647 1245,647 1273,647 1302,647 1330,648 1359,648"
+                         HEIGHT="47"
+                         WIDTH="570"
+                         VPOS="614"
+                         HPOS="789">
+                  <String ID="string_r1l6"
+                          HEIGHT="47"
+                          WIDTH="570"
+                          VPOS="614"
+                          HPOS="789"
+                          CONTENT="Vaters Papſt Pius IX. an alle"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="804,705 831,705 859,704 886,704 914,703 941,703 969,703 996,703 1024,703 1051,704 1079,704 1107,705 1134,705 1162,705 1189,706 1217,706 1244,707 1272,707 1299,707 1327,707 1355,708"
+                         HEIGHT="44"
+                         WIDTH="551"
+                         VPOS="677"
+                         HPOS="804">
+                  <String ID="string_r1l8"
+                          HEIGHT="44"
+                          WIDTH="551"
+                          VPOS="677"
+                          HPOS="804"
+                          CONTENT="Patriarchen, Primaten, Erz-"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="803,762 830,762 857,762 885,762 912,762 940,763 967,763 994,763 1022,763 1049,764 1077,764 1104,764 1131,765 1159,765 1186,766 1214,766 1241,766 1268,767 1296,767 1323,768 1351,768"
+                         HEIGHT="45"
+                         WIDTH="548"
+                         VPOS="736"
+                         HPOS="803">
+                  <String ID="string_r1l10"
+                          HEIGHT="45"
+                          WIDTH="548"
+                          VPOS="736"
+                          HPOS="803"
+                          CONTENT="biſchöfe, Biſchöfe und die an-"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="799,826 827,826 855,825 883,825 911,825 939,825 967,825 995,825 1023,825 1051,825 1079,826 1107,826 1135,826 1163,826 1191,827 1219,827 1247,828 1275,828 1303,829 1331,830 1359,831"
+                         HEIGHT="45"
+                         WIDTH="560"
+                         VPOS="799"
+                         HPOS="799">
+                  <String ID="string_r1l12"
+                          HEIGHT="45"
+                          WIDTH="560"
+                          VPOS="799"
+                          HPOS="799"
+                          CONTENT="deren örtlichen Oberen, welche"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="801,888 829,888 857,889 885,889 913,889 941,889 969,889 998,889 1026,889 1054,889 1082,889 1110,889 1138,888 1166,888 1195,888 1223,888 1251,889 1279,889 1307,889 1335,890 1364,891"
+                         HEIGHT="42"
+                         WIDTH="563"
+                         VPOS="862"
+                         HPOS="801">
+                  <String ID="string_r1l14"
+                          HEIGHT="42"
+                          WIDTH="563"
+                          VPOS="862"
+                          HPOS="801"
+                          CONTENT="in Gnade und Gemeinſchaft mit"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="791,950 819,950 847,950 876,950 904,950 932,950 961,951 989,951 1017,951 1046,952 1074,952 1102,952 1131,953 1159,953 1187,953 1216,953 1244,954 1272,954 1301,954 1329,954 1358,953"
+                         HEIGHT="43"
+                         WIDTH="567"
+                         VPOS="924"
+                         HPOS="791">
+                  <String ID="string_r1l16"
+                          HEIGHT="43"
+                          WIDTH="567"
+                          VPOS="924"
+                          HPOS="791"
+                          CONTENT="dem Apoſtoliſchen Stuhle ſtehen."/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="888,1051 913,1053 938,1054 963,1055 988,1055 1013,1055 1038,1056 1064,1055 1089,1055 1114,1055 1139,1055 1164,1055 1189,1055 1215,1055"
+                         HEIGHT="44"
+                         WIDTH="327"
+                         VPOS="1025"
+                         HPOS="888">
+                  <String ID="string_r1l19"
+                          HEIGHT="44"
+                          WIDTH="327"
+                          VPOS="1025"
+                          HPOS="888"
+                          CONTENT="Pius IX. Papſt."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="795,1150 820,1150 845,1151 870,1151 896,1152 921,1152 946,1152 972,1152 997,1152 1022,1152 1047,1153 1073,1153 1098,1153 1123,1154 1149,1154"
+                         HEIGHT="43"
+                         WIDTH="354"
+                         VPOS="1124"
+                         HPOS="795">
+                  <String ID="string_r1l21"
+                          HEIGHT="43"
+                          WIDTH="354"
+                          VPOS="1124"
+                          HPOS="795"
+                          CONTENT="Ehrwürdige Brüder!"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="793,1220 821,1221 849,1221 877,1222 905,1222 934,1222 962,1223 990,1223 1018,1223 1046,1224 1075,1224 1103,1224 1131,1224 1159,1225 1187,1225 1216,1225 1244,1225 1272,1225 1300,1226 1328,1226 1357,1226"
+                         HEIGHT="45"
+                         WIDTH="564"
+                         VPOS="1194"
+                         HPOS="793">
+                  <String ID="string_r1l23"
+                          HEIGHT="45"
+                          WIDTH="564"
+                          VPOS="1194"
+                          HPOS="793"
+                          CONTENT="Gruß und Apoſtoliſchen Segen!"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="781,1314 809,1313 838,1313 867,1313 896,1313 925,1313 954,1313 982,1313 1011,1313 1040,1313 1069,1313 1098,1313 1127,1314 1156,1314 1184,1314 1213,1314 1242,1314 1271,1315 1300,1315 1329,1315 1358,1315"
+                         HEIGHT="36"
+                         WIDTH="577"
+                         VPOS="1290"
+                         HPOS="781">
+                  <String ID="string_r1l26"
+                          HEIGHT="36"
+                          WIDTH="577"
+                          VPOS="1290"
+                          HPOS="781"
+                          CONTENT="Sobald wir durch Gottes unerforſch⸗"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="755,1362 785,1362 815,1361 845,1361 875,1361 905,1361 935,1361 965,1361 995,1361 1025,1361 1056,1362 1086,1362 1116,1362 1146,1362 1176,1363 1206,1363 1236,1363 1266,1364 1296,1365 1326,1365 1357,1366"
+                         HEIGHT="39"
+                         WIDTH="602"
+                         VPOS="1338"
+                         HPOS="755">
+                  <String ID="string_r1l28"
+                          HEIGHT="39"
+                          WIDTH="602"
+                          VPOS="1338"
+                          HPOS="755"
+                          CONTENT="lichen Rathſchluß unter Feindesgewalt ka⸗"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="755,1411 785,1411 815,1410 845,1410 875,1410 905,1410 935,1409 965,1409 995,1409 1025,1409 1055,1410 1085,1410 1115,1410 1145,1410 1175,1411 1205,1411 1235,1411 1265,1412 1295,1413 1325,1413 1355,1414"
+                         HEIGHT="36"
+                         WIDTH="600"
+                         VPOS="1388"
+                         HPOS="755">
+                  <String ID="string_r1l30"
+                          HEIGHT="36"
+                          WIDTH="600"
+                          VPOS="1388"
+                          HPOS="755"
+                          CONTENT="men, und das traurige, bittere Loos dieſer"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="749,1456 779,1456 809,1455 839,1455 869,1454 899,1454 929,1454 960,1454 990,1454 1020,1454 1050,1454 1080,1454 1110,1454 1140,1454 1171,1455 1201,1455 1231,1455 1261,1456 1291,1456 1321,1456 1352,1457"
+                         HEIGHT="34"
+                         WIDTH="603"
+                         VPOS="1433"
+                         HPOS="749">
+                  <String ID="string_r1l31"
+                          HEIGHT="34"
+                          WIDTH="603"
+                          VPOS="1433"
+                          HPOS="749"
+                          CONTENT="Unſerer Hauptſtadt, und die Unterdrückung"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="755,1500 784,1499 814,1499 844,1499 874,1498 904,1498 934,1498 963,1497 993,1497 1023,1497 1053,1497 1083,1497 1113,1497 1143,1497 1172,1498 1202,1498 1232,1498 1262,1499 1292,1499 1322,1500 1352,1501"
+                         HEIGHT="34"
+                         WIDTH="597"
+                         VPOS="1477"
+                         HPOS="755">
+                  <String ID="string_r1l33"
+                          HEIGHT="34"
+                          WIDTH="597"
+                          VPOS="1477"
+                          HPOS="755"
+                          CONTENT="der weltlichen Macht des Apoſtoliſchen"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="755,1542 785,1542 815,1542 845,1541 875,1541 905,1541 935,1541 965,1541 995,1541 1025,1541 1056,1541 1086,1541 1116,1541 1146,1542 1176,1542 1206,1542 1236,1543 1266,1544 1296,1545 1326,1545 1357,1546"
+                         HEIGHT="35"
+                         WIDTH="602"
+                         VPOS="1521"
+                         HPOS="755">
+                  <String ID="string_r1l35"
+                          HEIGHT="35"
+                          WIDTH="602"
+                          VPOS="1521"
+                          HPOS="755"
+                          CONTENT="Stuhles vermittelſt bewaffneten Einfalls"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="759,1588 788,1587 818,1587 848,1586 877,1586 907,1586 937,1586 966,1586 996,1586 1026,1586 1056,1587 1085,1587 1115,1587 1145,1587 1174,1588 1204,1588 1234,1589 1263,1589 1293,1589 1323,1590 1353,1590"
+                         HEIGHT="35"
+                         WIDTH="594"
+                         VPOS="1565"
+                         HPOS="759">
+                  <String ID="string_r1l37"
+                          HEIGHT="35"
+                          WIDTH="594"
+                          VPOS="1565"
+                          HPOS="759"
+                          CONTENT="hatten erleben müſſen, ſo haben wir ſchon"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="759,1632 788,1632 818,1631 848,1631 878,1631 908,1631 938,1631 968,1631 998,1632 1028,1632 1058,1632 1087,1632 1117,1632 1147,1633 1177,1633 1207,1633 1237,1633 1267,1633 1297,1634 1327,1634 1357,1634"
+                         HEIGHT="34"
+                         WIDTH="598"
+                         VPOS="1610"
+                         HPOS="759">
+                  <String ID="string_r1l39"
+                          HEIGHT="34"
+                          WIDTH="598"
+                          VPOS="1610"
+                          HPOS="759"
+                          CONTENT="damals in einem Schreiben an Euch vom"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="759,1677 788,1676 818,1676 847,1676 877,1676 906,1676 936,1676 965,1676 995,1676 1024,1676 1054,1676 1083,1677 1113,1677 1142,1677 1172,1677 1201,1678 1231,1678 1260,1679 1290,1679 1319,1679 1349,1680"
+                         HEIGHT="35"
+                         WIDTH="590"
+                         VPOS="1655"
+                         HPOS="759">
+                  <String ID="string_r1l41"
+                          HEIGHT="35"
+                          WIDTH="590"
+                          VPOS="1655"
+                          HPOS="759"
+                          CONTENT="1. November des letztverfloſſenen Jahres"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="752,1722 782,1722 812,1721 843,1721 873,1721 904,1721 934,1721 964,1721 995,1721 1025,1721 1056,1721 1086,1721 1116,1721 1147,1722 1177,1722 1208,1722 1238,1722 1268,1722 1299,1722 1329,1722 1360,1723"
+                         HEIGHT="33"
+                         WIDTH="608"
+                         VPOS="1700"
+                         HPOS="752">
+                  <String ID="string_r1l43"
+                          HEIGHT="33"
+                          WIDTH="608"
+                          VPOS="1700"
+                          HPOS="752"
+                          CONTENT="Euch und durch Euch der ganzen katho⸗"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="756,1765 785,1765 815,1765 844,1765 874,1765 904,1765 933,1765 963,1765 992,1765 1022,1765 1052,1765 1081,1765 1111,1765 1140,1766 1170,1766 1200,1766 1229,1766 1259,1767 1288,1767 1318,1767 1348,1767"
+                         HEIGHT="33"
+                         WIDTH="592"
+                         VPOS="1744"
+                         HPOS="756">
+                  <String ID="string_r1l45"
+                          HEIGHT="33"
+                          WIDTH="592"
+                          VPOS="1744"
+                          HPOS="756"
+                          CONTENT="liſchen Welt erklärt, wie es um uns und"/>
+               </TextLine>
+               <TextLine ID="r1l47"
+                         BASELINE="755,1811 784,1811 814,1811 843,1810 873,1810 902,1810 932,1810 961,1810 991,1809 1020,1809 1050,1809 1079,1809 1109,1809 1138,1809 1168,1810 1197,1810 1227,1810 1256,1810 1286,1811 1315,1811 1345,1812"
+                         HEIGHT="34"
+                         WIDTH="590"
+                         VPOS="1788"
+                         HPOS="755">
+                  <String ID="string_r1l47"
+                          HEIGHT="34"
+                          WIDTH="590"
+                          VPOS="1788"
+                          HPOS="755"
+                          CONTENT="dieſe Hauptſtadt ſtehe, welchen Ausſchrei⸗"/>
+               </TextLine>
+               <TextLine ID="r1l49"
+                         BASELINE="755,1857 784,1856 814,1855 844,1854 874,1854 904,1854 933,1854 963,1854 993,1854 1023,1854 1053,1854 1082,1855 1112,1855 1142,1855 1172,1856 1202,1856 1231,1856 1261,1856 1291,1857 1321,1857 1351,1857"
+                         HEIGHT="34"
+                         WIDTH="596"
+                         VPOS="1833"
+                         HPOS="755">
+                  <String ID="string_r1l49"
+                          HEIGHT="34"
+                          WIDTH="596"
+                          VPOS="1833"
+                          HPOS="755"
+                          CONTENT="tungen einer gottloſen und zügelloſen"/>
+               </TextLine>
+               <TextLine ID="r1l51"
+                         BASELINE="755,1902 785,1901 815,1901 845,1900 875,1900 905,1900 935,1900 965,1900 995,1900 1025,1900 1055,1900 1085,1900 1115,1901 1145,1901 1175,1901 1205,1901 1235,1902 1265,1902 1295,1902 1325,1902 1355,1901"
+                         HEIGHT="33"
+                         WIDTH="600"
+                         VPOS="1879"
+                         HPOS="755">
+                  <String ID="string_r1l51"
+                          HEIGHT="33"
+                          WIDTH="600"
+                          VPOS="1879"
+                          HPOS="755"
+                          CONTENT="Frechheit wir bloßgeſtellt ſeien; und nach"/>
+               </TextLine>
+               <TextLine ID="r1l52"
+                         BASELINE="752,1946 782,1946 812,1945 842,1945 872,1945 903,1945 933,1945 963,1945 993,1945 1023,1945 1054,1945 1084,1945 1114,1945 1144,1945 1174,1946 1205,1946 1235,1946 1265,1945 1295,1945 1325,1945 1356,1945"
+                         HEIGHT="32"
+                         WIDTH="604"
+                         VPOS="1924"
+                         HPOS="752">
+                  <String ID="string_r1l52"
+                          HEIGHT="32"
+                          WIDTH="604"
+                          VPOS="1924"
+                          HPOS="752"
+                          CONTENT="Maßgabe Unſeres oberſten Amtes bezeug⸗"/>
+               </TextLine>
+               <TextLine ID="r1l54"
+                         BASELINE="755,1990 784,1990 814,1989 844,1989 874,1989 903,1989 933,1989 963,1989 993,1990 1022,1990 1052,1990 1082,1990 1112,1990 1141,1990 1171,1990 1201,1990 1231,1990 1260,1990 1290,1990 1320,1990 1350,1990"
+                         HEIGHT="31"
+                         WIDTH="595"
+                         VPOS="1969"
+                         HPOS="755">
+                  <String ID="string_r1l54"
+                          HEIGHT="31"
+                          WIDTH="595"
+                          VPOS="1969"
+                          HPOS="755"
+                          CONTENT="ten Wir vor Gott und den Menſchen,"/>
+               </TextLine>
+               <TextLine ID="r1l56"
+                         BASELINE="755,2034 784,2034 814,2033 844,2033 874,2033 904,2033 934,2033 963,2034 993,2034 1023,2034 1053,2034 1083,2034 1113,2035 1143,2035 1172,2035 1202,2035 1232,2034 1262,2034 1292,2034 1322,2033 1352,2032"
+                         HEIGHT="33"
+                         WIDTH="597"
+                         VPOS="2012"
+                         HPOS="755">
+                  <String ID="string_r1l56"
+                          HEIGHT="33"
+                          WIDTH="597"
+                          VPOS="2012"
+                          HPOS="755"
+                          CONTENT="daß Wir die Rechte des Apoſtoliſchen"/>
+               </TextLine>
+               <TextLine ID="r1l58"
+                         BASELINE="759,2076 788,2076 818,2076 847,2076 877,2077 907,2077 936,2077 966,2078 996,2078 1025,2078 1055,2078 1085,2078 1114,2078 1144,2078 1174,2078 1203,2078 1233,2078 1263,2078 1292,2078 1322,2077 1352,2077"
+                         HEIGHT="32"
+                         WIDTH="593"
+                         VPOS="2056"
+                         HPOS="759">
+                  <String ID="string_r1l58"
+                          HEIGHT="32"
+                          WIDTH="593"
+                          VPOS="2056"
+                          HPOS="759"
+                          CONTENT="Stuhles gewahrt und unverſehrt wiſſen"/>
+               </TextLine>
+               <TextLine ID="r1l60"
+                         BASELINE="753,2120 782,2121 812,2121 842,2121 872,2121 901,2121 931,2121 961,2121 991,2121 1020,2121 1050,2122 1080,2122 1110,2122 1139,2122 1169,2122 1199,2122 1229,2122 1258,2122 1288,2122 1318,2122 1348,2122"
+                         HEIGHT="33"
+                         WIDTH="595"
+                         VPOS="2099"
+                         HPOS="753">
+                  <String ID="string_r1l60"
+                          HEIGHT="33"
+                          WIDTH="595"
+                          VPOS="2099"
+                          HPOS="753"
+                          CONTENT="wollten; Wir forderten ferner Euch und"/>
+               </TextLine>
+               <TextLine ID="r1l62"
+                         BASELINE="755,2166 784,2166 814,2166 844,2166 873,2166 903,2166 933,2166 962,2166 992,2166 1022,2165 1052,2165 1081,2165 1111,2165 1141,2165 1170,2165 1200,2166 1230,2166 1259,2166 1289,2167 1319,2167 1349,2168"
+                         HEIGHT="34"
+                         WIDTH="594"
+                         VPOS="2144"
+                         HPOS="755">
+                  <String ID="string_r1l62"
+                          HEIGHT="34"
+                          WIDTH="594"
+                          VPOS="2144"
+                          HPOS="755"
+                          CONTENT="alle geliebten Eurer Sorgfalt anvertrauten"/>
+               </TextLine>
+               <TextLine ID="r1l63"
+                         BASELINE="752,2208 781,2209 811,2209 841,2210 871,2210 901,2210 931,2210 960,2210 990,2210 1020,2210 1050,2210 1080,2210 1110,2210 1140,2210 1169,2210 1199,2210 1229,2210 1259,2211 1289,2211 1319,2212 1349,2213"
+                         HEIGHT="36"
+                         WIDTH="597"
+                         VPOS="2187"
+                         HPOS="752">
+                  <String ID="string_r1l63"
+                          HEIGHT="36"
+                          WIDTH="597"
+                          VPOS="2187"
+                          HPOS="752"
+                          CONTENT="Söhne auf, die göttliche Majeſtät durch"/>
+               </TextLine>
+               <TextLine ID="r1l64"
+                         BASELINE="756,2253 781,2253 806,2254 831,2254 856,2254 881,2254 906,2254 931,2255 956,2255 981,2255 1006,2255 1031,2255 1056,2255 1081,2255 1106,2255 1131,2255 1156,2255 1181,2255 1206,2255 1232,2255"
+                         HEIGHT="33"
+                         WIDTH="476"
+                         VPOS="2232"
+                         HPOS="756">
+                  <String ID="string_r1l64"
+                          HEIGHT="33"
+                          WIDTH="476"
+                          VPOS="2232"
+                          HPOS="756"
+                          CONTENT="inbrünſtige Gebete zu verſöhnen."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

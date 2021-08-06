@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:45:38.013+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2331" WIDTH="1354">
+         <TopMargin HEIGHT="0" WIDTH="1354" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2331" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2331" WIDTH="0" VPOS="0" HPOS="1354"/>
+         <BottomMargin HEIGHT="0" WIDTH="1354" VPOS="2331" HPOS="0"/>
+         <PrintSpace HEIGHT="2331" WIDTH="1354" VPOS="0" HPOS="0">
+            <TextBlock ID="r2" HEIGHT="1973" WIDTH="1004" VPOS="89" HPOS="108">
+               <Shape>
+                  <Polygon POINTS="108,89 108,2062 1112,2062 1112,89"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="540,128 570,129 601,128 631,127 662,128"
+                         HEIGHT="59"
+                         WIDTH="122"
+                         VPOS="89"
+                         HPOS="540">
+                  <String ID="string_r2l1"
+                          HEIGHT="59"
+                          WIDTH="122"
+                          VPOS="89"
+                          HPOS="540"
+                          CONTENT="Was"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="279,240 310,241 341,241 372,242 404,242 435,242 466,243 498,244 529,244 560,245 592,245 623,245 654,246 685,246 717,246 748,246 779,246 811,245 842,245 873,244 905,243"
+                         HEIGHT="63"
+                         WIDTH="626"
+                         VPOS="202"
+                         HPOS="279">
+                  <String ID="string_r2l2"
+                          HEIGHT="63"
+                          WIDTH="626"
+                          VPOS="202"
+                          HPOS="279"
+                          CONTENT="iſt in unſerer Zeit"/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="564,342 589,344 615,343 641,341"
+                         HEIGHT="60"
+                         WIDTH="77"
+                         VPOS="303"
+                         HPOS="564">
+                  <String ID="string_r2l3"
+                          HEIGHT="60"
+                          WIDTH="77"
+                          VPOS="303"
+                          HPOS="564"
+                          CONTENT="von"/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="75,498 313,491 355,488 397,486 439,485 481,485 523,485 565,485 607,485 649,485 691,486 733,487 775,488 817,489 859,489 901,490 943,490 985,490 1027,490 1069,489 1112,487"
+                         HEIGHT="97"
+                         WIDTH="1034"
+                         VPOS="413"
+                         HPOS="78">
+                  <String ID="string_r2l4"
+                          HEIGHT="97"
+                          WIDTH="1034"
+                          VPOS="413"
+                          HPOS="78"
+                          CONTENT="Synoden"/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="371,607 396,606 422,604 448,603 474,603 500,603 526,603 552,603 578,604 604,604 630,605 656,605 682,605 708,606 734,605 760,605 786,603 812,602"
+                         HEIGHT="62"
+                         WIDTH="441"
+                         VPOS="564"
+                         HPOS="371">
+                  <String ID="string_r2l5"
+                          HEIGHT="62"
+                          WIDTH="441"
+                          VPOS="564"
+                          HPOS="371"
+                          CONTENT="zu erwarten?"/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="552,856 583,856 614,854 646,854"
+                         HEIGHT="59"
+                         WIDTH="94"
+                         VPOS="816"
+                         HPOS="552">
+                  <String ID="string_r2l6"
+                          HEIGHT="59"
+                          WIDTH="94"
+                          VPOS="816"
+                          HPOS="552"
+                          CONTENT="Von"/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="183,943 224,943 265,942 307,942 348,941 390,941 431,940 472,940 514,939 555,939 597,939 638,939 679,938 721,938 762,938 804,938 845,939 886,939 928,939 969,940 1011,940"
+                         HEIGHT="62"
+                         WIDTH="828"
+                         VPOS="900"
+                         HPOS="183">
+                  <String ID="string_r2l7"
+                          HEIGHT="62"
+                          WIDTH="828"
+                          VPOS="900"
+                          HPOS="183"
+                          CONTENT="Dr. Johann Sebastian v. Drey."/>
+               </TextLine>
+               <TextLine ID="r2l8"
+                         BASELINE="108,1040 157,1039 206,1038 255,1037 304,1037 354,1037 403,1036 452,1036 501,1036 550,1037 600,1037 649,1037 698,1037 747,1038 796,1038 846,1038 895,1038 944,1039 993,1039 1042,1039 1092,1039"
+                         HEIGHT="44"
+                         WIDTH="984"
+                         VPOS="1009"
+                         HPOS="108">
+                  <String ID="string_r2l8"
+                          HEIGHT="44"
+                          WIDTH="984"
+                          VPOS="1009"
+                          HPOS="108"
+                          CONTENT="ordentl. Profeſſor an der katholiſch⸗theologiſchen Fakultaͤt"/>
+               </TextLine>
+               <TextLine ID="r2l9"
+                         BASELINE="486,1095 511,1094 536,1093 562,1092 587,1092 612,1091 638,1091 663,1091 688,1092 714,1092"
+                         HEIGHT="47"
+                         WIDTH="228"
+                         VPOS="1062"
+                         HPOS="486">
+                  <String ID="string_r2l9"
+                          HEIGHT="47"
+                          WIDTH="228"
+                          VPOS="1062"
+                          HPOS="486"
+                          CONTENT="zu Tuͤbingen."/>
+               </TextLine>
+               <TextLine ID="r2l10"
+                         BASELINE="142,1544 188,1543 234,1543 280,1542 326,1542 372,1542 418,1542 464,1542 510,1542 556,1541 603,1541 649,1541 695,1541 741,1541 787,1542 833,1542 879,1542 925,1542 971,1542 1017,1542 1064,1542"
+                         HEIGHT="33"
+                         WIDTH="922"
+                         VPOS="1521"
+                         HPOS="142">
+                  <String ID="string_r2l10"
+                          HEIGHT="33"
+                          WIDTH="922"
+                          VPOS="1521"
+                          HPOS="142"
+                          CONTENT="(Aus der theologiſchen Quartalſchrift 1834 2tes Heft, beſonders"/>
+               </TextLine>
+               <TextLine ID="r2l11"
+                         BASELINE="517,1579 545,1580 573,1580 601,1580 629,1579 657,1580 686,1582"
+                         HEIGHT="33"
+                         WIDTH="169"
+                         VPOS="1559"
+                         HPOS="517">
+                  <String ID="string_r2l11"
+                          HEIGHT="33"
+                          WIDTH="169"
+                          VPOS="1559"
+                          HPOS="517"
+                          CONTENT="abgedruckt.)"/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="421,1823 447,1823 473,1824 499,1824 525,1825 552,1826 578,1827 604,1828 630,1828 656,1829 683,1829 709,1829 735,1829 761,1828 788,1827"
+                         HEIGHT="63"
+                         WIDTH="367"
+                         VPOS="1785"
+                         HPOS="421">
+                  <String ID="string_r2l12"
+                          HEIGHT="63"
+                          WIDTH="367"
+                          VPOS="1785"
+                          HPOS="421"
+                          CONTENT="Tübingen,"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="283,1901 315,1902 347,1902 380,1902 412,1903 445,1903 477,1904 510,1905 542,1905 575,1906 607,1906 639,1907 672,1907 704,1907 737,1908 769,1908 802,1908 834,1908 867,1908 899,1908 932,1908"
+                         HEIGHT="61"
+                         WIDTH="649"
+                         VPOS="1865"
+                         HPOS="283">
+                  <String ID="string_r2l13"
+                          HEIGHT="61"
+                          WIDTH="649"
+                          VPOS="1865"
+                          HPOS="283"
+                          CONTENT="bei Heinrich Laupp."/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="509,1978 535,1980 562,1981 588,1980 615,1980 641,1980 668,1980 695,1982"
+                         HEIGHT="50"
+                         WIDTH="186"
+                         VPOS="1947"
+                         HPOS="509">
+                  <String ID="string_r2l14"
+                          HEIGHT="50"
+                          WIDTH="186"
+                          VPOS="1947"
+                          HPOS="509"
+                          CONTENT="1834."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

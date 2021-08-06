@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:38:22.709+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2397" WIDTH="1342">
+         <TopMargin HEIGHT="0" WIDTH="1342" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2397" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2397" WIDTH="0" VPOS="0" HPOS="1342"/>
+         <BottomMargin HEIGHT="0" WIDTH="1342" VPOS="2397" HPOS="0"/>
+         <PrintSpace HEIGHT="2397" WIDTH="1342" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1941" WIDTH="1103" VPOS="168" HPOS="135">
+               <Shape>
+                  <Polygon POINTS="135,168 135,2109 1238,2109 1238,168"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="150,199 180,196 211,195 242,196"
+                         HEIGHT="44"
+                         WIDTH="92"
+                         VPOS="168"
+                         HPOS="150">
+                  <String ID="string_r1l1"
+                          HEIGHT="44"
+                          WIDTH="92"
+                          VPOS="168"
+                          HPOS="150"
+                          CONTENT="XII"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="566,204 591,202 616,200 641,199 666,198 691,198 716,198 741,198 766,198 791,198 816,198 841,199"
+                         HEIGHT="46"
+                         WIDTH="275"
+                         VPOS="171"
+                         HPOS="566">
+                  <String ID="string_r1l2"
+                          HEIGHT="46"
+                          WIDTH="275"
+                          VPOS="171"
+                          HPOS="566"
+                          CONTENT="Inhalt."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="140,285 190,285 241,285 292,285 343,285 394,285 445,285 495,285 546,284 597,284 648,284 699,284 750,284 801,284 851,284 902,284 953,284 1004,284 1055,284 1106,283 1157,283"
+                         HEIGHT="41"
+                         WIDTH="1017"
+                         VPOS="257"
+                         HPOS="140">
+                  <String ID="string_r1l3"
+                          HEIGHT="41"
+                          WIDTH="1017"
+                          VPOS="257"
+                          HPOS="140"
+                          CONTENT="IV. Ueber die Verdienſte des Hrn. Conſiſtorialraths und Profeſſors"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="234,338 280,338 326,337 373,337 419,337 465,337 512,337 558,336 604,336 651,337 697,337 743,337 790,337 836,337 882,337 929,337 975,337 1021,337 1068,337 1114,337 1161,337"
+                         HEIGHT="41"
+                         WIDTH="927"
+                         VPOS="310"
+                         HPOS="234">
+                  <String ID="string_r1l4"
+                          HEIGHT="41"
+                          WIDTH="927"
+                          VPOS="310"
+                          HPOS="234"
+                          CONTENT="D. Auguſt Tholuck um die Schrifterklärung. Ein Send⸗"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="231,392 277,392 324,391 370,391 417,390 463,390 510,390 556,390 603,390 649,390 696,390 743,390 789,390 836,390 882,390 929,390 975,390 1022,390 1068,390 1115,390 1162,390"
+                         HEIGHT="39"
+                         WIDTH="931"
+                         VPOS="365"
+                         HPOS="231">
+                  <String ID="string_r1l5"
+                          HEIGHT="39"
+                          WIDTH="931"
+                          VPOS="365"
+                          HPOS="231"
+                          CONTENT="ſchreiben an ihn und ein Beitrag zur wiſſenſchaftlichen"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="231,444 277,443 324,443 370,443 417,442 463,442 510,442 556,442 603,442 649,442 696,442 743,442 789,442 836,442 882,442 929,443 975,443 1022,443 1068,443 1115,443 1162,443"
+                         HEIGHT="39"
+                         WIDTH="931"
+                         VPOS="417"
+                         HPOS="231">
+                  <String ID="string_r1l6"
+                          HEIGHT="39"
+                          WIDTH="931"
+                          VPOS="417"
+                          HPOS="231"
+                          CONTENT="Erklärung des Briefes Pauli an die Römer, von D. Carl"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="229,498 275,497 321,497 367,497 414,496 460,496 506,496 553,496 599,496 645,496 692,496 738,496 784,496 830,496 877,497 923,497 969,497 1016,497 1062,497 1108,497 1155,496"
+                         HEIGHT="39"
+                         WIDTH="926"
+                         VPOS="471"
+                         HPOS="229">
+                  <String ID="string_r1l7"
+                          HEIGHT="39"
+                          WIDTH="926"
+                          VPOS="471"
+                          HPOS="229"
+                          CONTENT="Friedrich Auguſt Fritzſche, Profeſſor der Theologie"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="227,549 273,549 320,550 367,550 413,550 460,550 507,550 553,550 600,550 647,550 694,550 740,550 787,550 834,550 880,550 927,550 974,550 1020,550 1067,550 1114,551 1161,551"
+                         HEIGHT="39"
+                         WIDTH="934"
+                         VPOS="524"
+                         HPOS="227">
+                  <String ID="string_r1l8"
+                          HEIGHT="39"
+                          WIDTH="934"
+                          VPOS="524"
+                          HPOS="227"
+                          CONTENT="in Roſtock. Halle, in der Gebauer'ſchen Buchdruckerei, 1831."/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="233,601 258,601 284,601 310,601 336,601 362,601 388,602 413,602 439,603 465,603 491,605 517,605 1244,610"
+                         HEIGHT="40"
+                         WIDTH="1006"
+                         VPOS="577"
+                         HPOS="233">
+                  <String ID="string_r1l9"
+                          HEIGHT="40"
+                          WIDTH="1006"
+                          VPOS="577"
+                          HPOS="233"
+                          CONTENT="VI u. 150 S. 8. . . . . . . . . . . . . 173"/>
+               </TextLine>
+               <TextLine ID="line_1621257533898_1497"
+                         BASELINE="153,656 197,658 225,655 271,656 318,656 364,656 411,656 458,656 504,656 551,656 598,655 644,655 691,655 738,655 784,655 831,655 878,655 924,655 971,655 1018,656 1064,656 1111,656 1158,657"
+                         HEIGHT="42"
+                         WIDTH="1005"
+                         VPOS="629"
+                         HPOS="153">
+                  <String ID="string_line_1621257533898_1497"
+                          HEIGHT="42"
+                          WIDTH="1005"
+                          VPOS="629"
+                          HPOS="153"
+                          CONTENT="V. Wird Baiern dekatholiſirt werden? Eine Frage, veran⸗"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="229,708 275,708 322,709 369,709 416,709 463,709 510,709 556,709 603,709 650,708 697,708 744,708 791,708 838,708 884,708 931,708 978,709 1025,709 1072,710 1119,711 1166,712"
+                         HEIGHT="41"
+                         WIDTH="937"
+                         VPOS="683"
+                         HPOS="229">
+                  <String ID="string_r1l15"
+                          HEIGHT="41"
+                          WIDTH="937"
+                          VPOS="683"
+                          HPOS="229"
+                          CONTENT="laßt durch den baieriſchen Landtag, beantwortet von Georg"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="221,766 267,767 314,768 361,768 407,769 454,769 501,769 547,768 594,768 641,768 688,767 734,767 781,766 828,766 874,765 921,765 968,765 1014,765 1061,766 1108,766 1155,767"
+                         HEIGHT="41"
+                         WIDTH="934"
+                         VPOS="740"
+                         HPOS="221">
+                  <String ID="string_r1l16"
+                          HEIGHT="41"
+                          WIDTH="934"
+                          VPOS="740"
+                          HPOS="221"
+                          CONTENT="Joſeph Götz. Ingolſtadt, gedruckt bei Aloys Attenkover,"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="230,820 255,819 281,819 307,820 332,820 358,821 384,822 410,822 435,823 461,823 487,823 512,823 538,823 564,822 1243,829"
+                         HEIGHT="43"
+                         WIDTH="1009"
+                         VPOS="794"
+                         HPOS="230">
+                  <String ID="string_r1l18"
+                          HEIGHT="43"
+                          WIDTH="1009"
+                          VPOS="794"
+                          HPOS="230"
+                          CONTENT="1831. 39 S. 8. . .  .  .  . .  .  . . . . . . 178"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="152,872 202,873 252,873 302,873 352,873 402,873 452,873 502,873 552,873 602,873 653,873 703,873 753,872 803,872 853,872 903,872 953,872 1003,872 1053,872 1103,872 1154,872"
+                         HEIGHT="37"
+                         WIDTH="1002"
+                         VPOS="848"
+                         HPOS="152">
+                  <String ID="string_r1l19"
+                          HEIGHT="37"
+                          WIDTH="1002"
+                          VPOS="848"
+                          HPOS="152"
+                          CONTENT="VI. Kraftvoller Nachruf von des Hagenſchießes waldumgränzten"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="227,927 273,927 319,927 366,927 412,927 459,927 505,927 552,926 598,926 645,926 691,926 737,926 784,926 830,926 877,926 923,926 970,926 1016,926 1063,926 1109,926 1156,927"
+                         HEIGHT="38"
+                         WIDTH="929"
+                         VPOS="901"
+                         HPOS="227">
+                  <String ID="string_r1l20"
+                          HEIGHT="38"
+                          WIDTH="929"
+                          VPOS="901"
+                          HPOS="227"
+                          CONTENT="Höhen über die Hauptquellen des Pietismus unſerer Zeit;"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="226,981 272,981 318,980 365,980 411,980 458,980 504,979 550,979 597,979 643,979 690,979 736,979 782,979 829,979 875,978 922,978 968,978 1014,978 1061,978 1107,977 1154,977"
+                         HEIGHT="40"
+                         WIDTH="928"
+                         VPOS="953"
+                         HPOS="226">
+                  <String ID="string_r1l21"
+                          HEIGHT="40"
+                          WIDTH="928"
+                          VPOS="953"
+                          HPOS="226"
+                          CONTENT="aufgeweckt durch einen im Jänner 1831 geſchehenen Roth⸗"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="230,1035 276,1034 323,1034 369,1034 416,1034 463,1034 509,1034 556,1033 602,1033 649,1033 696,1033 742,1033 789,1032 835,1032 882,1032 929,1032 975,1031 1022,1031 1068,1031 1115,1031 1162,1030"
+                         HEIGHT="44"
+                         WIDTH="932"
+                         VPOS="1004"
+                         HPOS="230">
+                  <String ID="string_r1l22"
+                          HEIGHT="44"
+                          WIDTH="932"
+                          VPOS="1004"
+                          HPOS="230"
+                          CONTENT="ſchrei der ſieben neuen Glaubensprediger in den Land⸗Diö⸗"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="223,1091 269,1090 315,1089 362,1089 408,1088 455,1088 501,1087 548,1087 594,1087 641,1086 687,1086 733,1086 780,1086 826,1086 873,1086 919,1085 966,1085 1012,1085 1059,1085 1105,1085 1152,1085"
+                         HEIGHT="45"
+                         WIDTH="929"
+                         VPOS="1059"
+                         HPOS="223">
+                  <String ID="string_r1l23"
+                          HEIGHT="45"
+                          WIDTH="929"
+                          VPOS="1059"
+                          HPOS="223"
+                          CONTENT="zeſen Karlsruhe ꝛc. Nebſt einer Abhandlung über den Reli⸗"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="226,1146 272,1145 319,1143 366,1142 413,1141 459,1141 506,1140 553,1140 600,1140 646,1139 693,1139 740,1139 787,1139 833,1139 880,1139 927,1139 974,1139 1020,1139 1067,1138 1114,1138 1161,1137"
+                         HEIGHT="48"
+                         WIDTH="935"
+                         VPOS="1111"
+                         HPOS="226">
+                  <String ID="string_r1l24"
+                          HEIGHT="48"
+                          WIDTH="935"
+                          VPOS="1111"
+                          HPOS="226"
+                          CONTENT="gions⸗Indifferentismus unſerer Zeit. Von Martin Rieſte⸗"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="221,1199 267,1198 313,1197 359,1196 405,1195 452,1195 498,1194 544,1194 590,1193 636,1193 683,1193 729,1193 775,1192 821,1192 867,1192 914,1191 960,1191 1006,1191 1052,1190 1098,1190 1145,1189"
+                         HEIGHT="47"
+                         WIDTH="924"
+                         VPOS="1164"
+                         HPOS="221">
+                  <String ID="string_r1l25"
+                          HEIGHT="47"
+                          WIDTH="924"
+                          VPOS="1164"
+                          HPOS="221"
+                          CONTENT="rer, katholiſchem Pfarrer zu Mühlhauſen a. d. Würm."/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="223,1250 269,1249 315,1249 361,1248 408,1248 454,1247 500,1247 547,1246 593,1246 639,1246 686,1245 732,1245 778,1244 824,1244 871,1244 917,1243 963,1243 1010,1243 1056,1243 1102,1242 1149,1242"
+                         HEIGHT="45"
+                         WIDTH="926"
+                         VPOS="1217"
+                         HPOS="223">
+                  <String ID="string_r1l26"
+                          HEIGHT="45"
+                          WIDTH="926"
+                          VPOS="1217"
+                          HPOS="223"
+                          CONTENT="Karlsruhe und Baden, Marr'ſche Buch- und Kunſthand⸗"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="220,1305 248,1304 276,1303 304,1303 332,1302 361,1301 389,1301 417,1300 445,1300 473,1299 502,1299 530,1298 558,1298 586,1298 614,1298 643,1298 671,1299 699,1300 727,1300 755,1301 1234,1305"
+                         HEIGHT="44"
+                         WIDTH="1017"
+                         VPOS="1273"
+                         HPOS="220">
+                  <String ID="string_r1l28"
+                          HEIGHT="44"
+                          WIDTH="1017"
+                          VPOS="1273"
+                          HPOS="220"
+                          CONTENT="lung, 1831. 127 S. 8. . . .  . . . . . . . . 185"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="302,1366 348,1365 394,1365 441,1364 487,1364 533,1363 580,1363 626,1363 672,1364 719,1364 765,1364 811,1364 858,1364 904,1364 950,1364 997,1363 1043,1363 1089,1362 1136,1361 1182,1360 1229,1358"
+                         HEIGHT="48"
+                         WIDTH="927"
+                         VPOS="1331"
+                         HPOS="302">
+                  <String ID="string_r1l29"
+                          HEIGHT="48"
+                          WIDTH="927"
+                          VPOS="1331"
+                          HPOS="302"
+                          CONTENT="C. Miscellen u. Correſpondenz-Nachrichten. 188"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="299,1435 328,1434 357,1434 386,1433 415,1433 444,1433 473,1433 502,1434 531,1434 560,1434 589,1435 618,1435 647,1436 676,1436 705,1437 734,1437 763,1437 792,1437 821,1437 850,1437 1241,1435"
+                         HEIGHT="45"
+                         WIDTH="940"
+                         VPOS="1405"
+                         HPOS="299">
+                  <String ID="string_r1l31"
+                          HEIGHT="45"
+                          WIDTH="940"
+                          VPOS="1405"
+                          HPOS="299"
+                          CONTENT="D. Erzdiözeſe Köln . . . . . . . . . 219"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="430,1972 455,1976 481,1978 507,1980 533,1981 559,1982 584,1982 610,1982 636,1982 662,1981 688,1980 713,1980 739,1979 765,1978 791,1978 817,1978 842,1978 868,1978 894,1979 920,1981 946,1983"
+                         HEIGHT="51"
+                         WIDTH="516"
+                         VPOS="1945"
+                         HPOS="430">
+                  <String ID="string_r1l32"
+                          HEIGHT="51"
+                          WIDTH="516"
+                          VPOS="1945"
+                          HPOS="430"
+                          CONTENT="Berichtigung."/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="206,2050 257,2053 309,2055 360,2057 412,2058 464,2059 515,2059 567,2060 618,2060 670,2060 722,2059 773,2059 825,2058 876,2058 928,2057 980,2057 1031,2056 1083,2056 1134,2055 1186,2055 1238,2056"
+                         HEIGHT="40"
+                         WIDTH="1032"
+                         VPOS="2030"
+                         HPOS="206">
+                  <String ID="string_r1l33"
+                          HEIGHT="40"
+                          WIDTH="1032"
+                          VPOS="2030"
+                          HPOS="206"
+                          CONTENT="Seite 184, Zeile 8 von unten ſtatt: in der Satzung, lies: an"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="135,2098 160,2099 185,2099 210,2099 235,2099 260,2098 285,2098 310,2098 335,2097 360,2097 385,2096 410,2096 436,2096"
+                         HEIGHT="33"
+                         WIDTH="301"
+                         VPOS="2076"
+                         HPOS="135">
+                  <String ID="string_r1l34"
+                          HEIGHT="33"
+                          WIDTH="301"
+                          VPOS="2076"
+                          HPOS="135"
+                          CONTENT="den Satzungen."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

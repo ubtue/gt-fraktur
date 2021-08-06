@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-07-15T07:44:19.706+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2273" WIDTH="1418">
+         <TopMargin HEIGHT="0" WIDTH="1418" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2273" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2273" WIDTH="0" VPOS="0" HPOS="1418"/>
+         <BottomMargin HEIGHT="0" WIDTH="1418" VPOS="2273" HPOS="0"/>
+         <PrintSpace HEIGHT="2273" WIDTH="1418" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1722" WIDTH="856" VPOS="235" HPOS="333">
+               <Shape>
+                  <Polygon POINTS="333,235 333,1957 1189,1957 1189,235"/>
+               </Shape>
+               <TextLine ID="r1l2"
+                         BASELINE="338,849 376,850 414,850 452,850 490,850 528,850 566,850 604,850 642,850 680,849 718,849 756,849 794,849 832,848 870,848 908,848 946,848 984,848 1022,848 1060,848 1099,848"
+                         HEIGHT="39"
+                         WIDTH="761"
+                         VPOS="823"
+                         HPOS="338">
+                  <String ID="string_r1l2"
+                          HEIGHT="39"
+                          WIDTH="761"
+                          VPOS="823"
+                          HPOS="338"
+                          CONTENT="Tout tourne en bien pour les élus jusqu'aux"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="342,904 379,904 416,903 453,903 490,903 527,902 564,902 602,902 639,901 676,901 713,901 750,901 787,901 824,900 862,900 899,900 936,900 973,900 1010,900 1047,899 1085,899"
+                         HEIGHT="42"
+                         WIDTH="743"
+                         VPOS="874"
+                         HPOS="342">
+                  <String ID="string_r1l3"
+                          HEIGHT="42"
+                          WIDTH="743"
+                          VPOS="874"
+                          HPOS="342"
+                          CONTENT="obscurités de l'écriture; car ils les honorent"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="346,957 382,956 418,956 455,956 491,956 528,955 564,955 600,955 637,955 673,955 710,954 746,954 782,954 819,954 855,954 892,954 928,954 964,953 1001,954 1037,954 1074,954"
+                         HEIGHT="43"
+                         WIDTH="728"
+                         VPOS="927"
+                         HPOS="346">
+                  <String ID="string_r1l4"
+                          HEIGHT="43"
+                          WIDTH="728"
+                          VPOS="927"
+                          HPOS="346"
+                          CONTENT="à cause des clartés divines qu'ils y voient:"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="346,1010 385,1010 424,1010 463,1009 502,1009 542,1009 581,1009 620,1008 659,1008 698,1008 738,1008 777,1008 816,1007 855,1007 894,1007 934,1007 973,1007 1012,1008 1051,1008 1090,1008 1130,1008"
+                         HEIGHT="42"
+                         WIDTH="784"
+                         VPOS="981"
+                         HPOS="346">
+                  <String ID="string_r1l5"
+                          HEIGHT="42"
+                          WIDTH="784"
+                          VPOS="981"
+                          HPOS="346"
+                          CONTENT="et tout tourne en mal aux réprouvés jusqu'aux"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="345,1065 382,1065 420,1064 457,1063 495,1063 533,1062 570,1062 608,1062 646,1062 683,1062 721,1061 759,1061 796,1061 834,1061 872,1061 909,1061 947,1061 985,1061 1022,1061 1060,1061 1098,1062"
+                         HEIGHT="43"
+                         WIDTH="753"
+                         VPOS="1035"
+                         HPOS="345">
+                  <String ID="string_r1l6"
+                          HEIGHT="43"
+                          WIDTH="753"
+                          VPOS="1035"
+                          HPOS="345"
+                          CONTENT="clartés; car ils les blasphèment à cause des"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="333,1117 361,1117 389,1117 417,1117 445,1118 474,1118 502,1118 530,1118 558,1118 586,1117 615,1117 643,1117 671,1117 699,1117 727,1117 756,1117 784,1117 812,1117 840,1117 868,1117 897,1117"
+                         HEIGHT="40"
+                         WIDTH="564"
+                         VPOS="1091"
+                         HPOS="333">
+                  <String ID="string_r1l7"
+                          HEIGHT="40"
+                          WIDTH="564"
+                          VPOS="1091"
+                          HPOS="333"
+                          CONTENT="obscurités qu'ils n'entendent pas."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="1021,1180 1049,1178 1077,1177 1105,1176 1133,1176 1161,1174 1189,1173"
+                         HEIGHT="52"
+                         WIDTH="168"
+                         VPOS="1143"
+                         HPOS="1021">
+                  <String ID="string_r1l8"
+                          HEIGHT="52"
+                          WIDTH="168"
+                          VPOS="1143"
+                          HPOS="1021"
+                          CONTENT="Pascal."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

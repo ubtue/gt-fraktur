@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Noscemus GM 3.0(htr_id=26395)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-11-23T11:55:11.010+01:00</Created>
+        <LastChange>2021-05-11T13:50:30.646+02:00</LastChange>
+        <TranskribusMetadata docId="543222" pageId="22808912" pageNr="4" tsid="57733459" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=FKZJITJDHCJUHMQPBDWFMDLO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CMTWRVQIJORBRVNRKKVDQBTO" imageId="17784590"/>
+    </Metadata>
+    <Page imageFilename="drey1834_0049.tif" imageWidth="1354" imageHeight="2331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626327940939" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="region_1606320854477_229"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="17,91 17,1981 1077,1981 1077,91"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="420,138 493,143 522,143 551,142 580,140 609,138 683,143 682,95 609,93 580,95 551,97 522,98 493,98 420,98"/>
+                <Baseline points="433,127 493,128 526,157 566,163 597,140 609,123 670,124"/>
+                <TextEquiv>
+                    <Unicode>— 49 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="32,234 84,235 136,235 188,236 241,236 293,236 345,236 397,236 450,236 502,236 554,235 606,235 659,235 711,235 763,235 815,236 868,236 920,237 972,239 1024,240 1077,242 1077,197 1024,195 972,194 920,192 868,191 815,191 763,190 711,190 659,190 606,190 554,190 502,191 450,191 397,191 345,191 293,191 241,191 188,191 136,190 84,190 32,189"/>
+                <Baseline points="32,219 84,220 136,220 188,221 241,221 293,221 345,221 397,221 450,221 502,221 554,220 606,220 659,220 711,220 763,220 815,221 868,221 920,222 972,224 1024,225 1077,227"/>
+                <TextEquiv>
+                    <Unicode>den von ihnen geltend gemachten politiſchen Gruͤnden abgeaͤn⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="26,297 78,298 130,299 182,300 234,300 286,300 338,300 391,300 443,299 495,299 547,299 599,298 651,298 703,298 756,298 808,299 860,299 912,300 964,301 1016,303 1069,305 1069,260 1016,258 964,256 912,255 860,254 808,254 756,253 703,253 651,253 599,253 547,254 495,254 443,254 391,255 338,255 286,255 234,255 182,255 130,254 78,253 26,252"/>
+                <Baseline points="26,282 78,283 130,284 182,285 234,285 286,285 338,285 391,285 443,284 495,284 547,284 599,283 651,283 703,283 756,283 808,284 860,284 912,285 964,286 1016,288 1069,290"/>
+                <TextEquiv>
+                    <Unicode>dert werden, und iſt nicht an dieſen ein großer Theil, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="21,358 73,360 125,361 178,361 230,361 283,361 335,361 388,361 440,361 493,360 545,360 597,359 650,359 702,359 755,359 807,359 860,360 912,360 965,361 1017,363 1070,365 1070,322 1017,320 965,318 912,317 860,317 807,316 755,316 702,316 650,316 597,316 545,317 493,317 440,318 388,318 335,318 283,318 230,318 178,318 125,318 73,317 21,315"/>
+                <Baseline points="21,344 73,346 125,347 178,347 230,347 283,347 335,347 388,347 440,347 493,346 545,346 597,345 650,345 702,345 755,345 807,345 860,346 912,346 965,347 1017,349 1070,351"/>
+                <TextEquiv>
+                    <Unicode>von dem Concilium beſchloſſenen Verbeſſerungen in der Aus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="25,425 77,425 129,425 181,425 233,425 285,424 337,424 389,424 441,423 493,423 545,422 597,422 649,422 701,421 753,421 805,421 857,421 909,422 961,422 1013,423 1066,424 1066,381 1013,380 961,379 909,379 857,378 805,378 753,378 701,378 649,379 597,379 545,379 493,380 441,380 389,381 337,381 285,381 233,382 181,382 129,382 77,382 25,382"/>
+                <Baseline points="25,411 77,411 129,411 181,411 233,411 285,410 337,410 389,410 441,409 493,409 545,408 597,408 649,408 701,407 753,407 805,407 857,407 909,408 961,408 1013,409 1066,410"/>
+                <TextEquiv>
+                    <Unicode>fuͤhrung geſcheitert? Und wie ſehr hat ſich ſeit dem ſechszehn⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="32,487 83,487 134,488 185,488 237,488 288,488 339,487 391,487 442,487 493,487 545,486 596,486 647,486 698,485 750,485 801,485 852,486 904,486 955,487 1006,487 1058,488 1058,443 1006,442 955,442 904,441 852,441 801,440 750,440 698,440 647,441 596,441 545,441 493,442 442,442 391,442 339,442 288,443 237,443 185,443 134,443 83,442 32,442"/>
+                <Baseline points="32,472 83,472 134,473 185,473 237,473 288,473 339,472 391,472 442,472 493,472 545,471 596,471 647,471 698,470 750,470 801,470 852,471 904,471 955,472 1006,472 1058,473"/>
+                <TextEquiv>
+                    <Unicode>ten Jahrhundert der Einfluß der Politik auf kirchliche Angele⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="34,548 85,548 136,549 188,549 239,549 291,549 342,549 394,549 445,548 497,548 548,547 599,547 651,547 702,546 754,546 805,546 857,546 908,546 960,546 1011,546 1063,547 1063,504 1011,503 960,503 908,503 857,503 805,503 754,503 702,503 651,504 599,504 548,504 497,505 445,505 394,506 342,506 291,506 239,506 188,506 136,506 85,505 34,505"/>
+                <Baseline points="34,534 85,534 136,535 188,535 239,535 291,535 342,535 394,535 445,534 497,534 548,533 599,533 651,533 702,532 754,532 805,532 857,532 908,532 960,532 1011,532 1063,533"/>
+                <TextEquiv>
+                    <Unicode>genheiten geſteigert? Aber gerade darin finde ich einen neuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="30,607 81,607 133,608 185,608 236,609 288,609 340,609 391,609 443,609 495,609 547,609 598,608 650,608 702,608 753,608 805,608 857,607 908,607 960,608 1012,608 1064,608 1064,565 1012,565 960,565 908,564 857,564 805,565 753,565 702,565 650,565 598,565 547,566 495,566 443,566 391,566 340,566 288,566 236,566 185,565 133,565 81,564 30,564"/>
+                <Baseline points="30,593 81,593 133,594 185,594 236,595 288,595 340,595 391,595 443,595 495,595 547,595 598,594 650,594 702,594 753,594 805,594 857,593 908,593 960,594 1012,594 1064,594"/>
+                <TextEquiv>
+                    <Unicode>Grund zu zweifeln, ob dieſe Politik die Abhaltung von Sy⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="22,671 73,670 125,670 177,670 229,670 281,670 333,670 384,670 436,671 488,671 540,671 592,671 644,672 696,672 747,671 799,671 851,671 903,670 955,669 1007,668 1059,666 1059,624 1007,626 955,627 903,628 851,629 799,629 747,629 696,630 644,630 592,629 540,629 488,629 436,629 384,628 333,628 281,628 229,628 177,628 125,628 73,628 22,629"/>
+                <Baseline points="22,657 73,656 125,656 177,656 229,656 281,656 333,656 384,656 436,657 488,657 540,657 592,657 644,658 696,658 747,657 799,657 851,657 903,656 955,655 1007,654 1059,652"/>
+                <TextEquiv>
+                    <Unicode>noden geſtatten wird; ich will fuͤr gewiße Leſer eine Auctoritaͤt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="23,734 77,733 132,732 187,732 241,732 296,732 351,732 405,732 460,732 515,733 569,733 624,734 679,734 733,734 788,734 843,734 897,734 952,734 1007,733 1062,732 1062,687 1007,688 952,689 897,689 843,689 788,689 733,689 679,689 624,689 569,688 515,688 460,687 405,687 351,687 296,687 241,687 187,687 132,687 77,688 23,689"/>
+                <Baseline points="23,719 77,718 132,717 187,717 241,717 296,717 351,717 405,717 460,717 515,718 569,718 624,719 679,719 733,719 788,719 843,719 897,719 952,719 1007,718 1062,717"/>
+                <TextEquiv>
+                    <Unicode>anfuͤhren, der ſie vielleicht lieber glauben als mir. Eichhorn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="24,796 76,794 128,793 180,792 233,791 285,791 337,791 390,791 442,791 494,792 547,793 599,793 651,794 703,794 756,795 808,795 860,795 913,795 965,795 1017,795 1070,794 1070,751 1017,752 965,752 913,752 860,752 808,752 756,752 703,751 651,751 599,750 547,750 494,749 442,748 390,748 337,748 285,748 233,748 180,749 128,750 76,751 24,753"/>
+                <Baseline points="24,782 76,780 128,779 180,778 233,777 285,777 337,777 390,777 442,777 494,778 547,779 599,779 651,780 703,780 756,781 808,781 860,781 913,781 965,781 1017,781 1070,780"/>
+                <TextEquiv>
+                    <Unicode>in ſeinem Kirchenrecht, Bd. II. S. 9., nachdem er zuerſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="29,856 80,855 132,855 184,854 236,854 288,853 339,853 391,853 443,853 495,852 547,852 598,853 650,853 702,853 754,854 806,854 857,855 909,855 961,856 1013,857 1065,858 1065,815 1013,814 961,813 909,812 857,812 806,811 754,811 702,810 650,810 598,810 547,809 495,809 443,810 391,810 339,810 288,810 236,811 184,811 132,812 80,812 29,813"/>
+                <Baseline points="29,842 80,841 132,841 184,840 236,840 288,839 339,839 391,839 443,839 495,838 547,838 598,839 650,839 702,839 754,840 806,840 857,841 909,841 961,842 1013,843 1065,844"/>
+                <TextEquiv>
+                    <Unicode>von der Wirkſamkeit der Provincial⸗ und National⸗Concilien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="22,919 74,920 127,920 179,920 232,920 285,920 337,920 390,919 442,919 495,918 548,918 600,917 653,917 705,916 758,916 811,916 863,916 916,917 968,917 1021,918 1074,919 1074,874 1021,873 968,872 916,872 863,871 811,871 758,871 705,871 653,872 600,872 548,873 495,873 442,874 390,874 337,875 285,875 232,875 179,875 127,875 74,875 22,874"/>
+                <Baseline points="22,904 74,905 127,905 179,905 232,905 285,905 337,905 390,904 442,904 495,903 548,903 600,902 653,902 705,901 758,901 811,901 863,901 916,902 968,902 1021,903 1074,904"/>
+                <TextEquiv>
+                    <Unicode>in den fruͤhern Zeiten geſprochen, faͤhrt fort: „dagegen koͤn⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="29,981 80,982 132,983 183,984 235,984 287,984 338,984 390,984 441,983 493,983 545,982 596,981 648,981 699,980 751,979 803,979 854,979 906,978 957,978 1009,979 1061,979 1061,934 1009,934 957,933 906,933 854,934 803,934 751,934 699,935 648,936 596,936 545,937 493,938 441,938 390,939 338,939 287,939 235,939 183,939 132,938 80,937 29,936"/>
+                <Baseline points="29,966 80,967 132,968 183,969 235,969 287,969 338,969 390,969 441,968 493,968 545,967 596,966 648,966 699,965 751,964 803,964 854,964 906,963 957,963 1009,964 1061,964"/>
+                <TextEquiv>
+                    <Unicode>nen beide Inſtitute, nach der Beſchaffenheit der neueren Diſci⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="21,1044 73,1044 125,1045 177,1045 229,1045 281,1045 333,1045 385,1045 437,1045 489,1045 541,1045 593,1045 645,1045 697,1045 749,1045 801,1045 853,1044 905,1044 957,1044 1009,1044 1061,1043 1061,998 1009,999 957,999 905,999 853,999 801,1000 749,1000 697,1000 645,1000 593,1000 541,1000 489,1000 437,1000 385,1000 333,1000 281,1000 229,1000 177,1000 125,1000 73,999 21,999"/>
+                <Baseline points="21,1029 73,1029 125,1030 177,1030 229,1030 281,1030 333,1030 385,1030 437,1030 489,1030 541,1030 593,1030 645,1030 697,1030 749,1030 801,1030 853,1029 905,1029 957,1029 1009,1029 1061,1028"/>
+                <TextEquiv>
+                    <Unicode>plin und der jetzigen Stellung der Kirche gegen den Staat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="27,1105 79,1106 131,1106 184,1107 236,1107 288,1108 341,1108 393,1108 445,1108 498,1108 550,1108 602,1108 655,1107 707,1107 759,1107 812,1106 864,1106 916,1106 969,1105 1021,1105 1074,1104 1074,1059 1021,1060 969,1060 916,1061 864,1061 812,1061 759,1062 707,1062 655,1062 602,1063 550,1063 498,1063 445,1063 393,1063 341,1063 288,1063 236,1062 184,1062 131,1061 79,1061 27,1060"/>
+                <Baseline points="27,1090 79,1091 131,1091 184,1092 236,1092 288,1093 341,1093 393,1093 445,1093 498,1093 550,1093 602,1093 655,1092 707,1092 759,1092 812,1091 864,1091 916,1091 969,1090 1021,1090 1074,1089"/>
+                <TextEquiv>
+                    <Unicode>nur ausnahmsweiſe von Nutzen ſeyn. Der roͤmiſche Stuhl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="24,1165 76,1166 128,1167 180,1168 232,1169 284,1169 336,1170 388,1170 440,1170 492,1170 545,1169 597,1169 649,1169 701,1169 753,1168 805,1168 857,1167 909,1167 961,1167 1013,1167 1066,1167 1066,1124 1013,1124 961,1124 909,1124 857,1124 805,1125 753,1125 701,1126 649,1126 597,1126 545,1126 492,1127 440,1127 388,1127 336,1127 284,1126 232,1126 180,1125 128,1124 76,1123 24,1122"/>
+                <Baseline points="24,1151 76,1152 128,1153 180,1154 232,1155 284,1155 336,1156 388,1156 440,1156 492,1156 545,1155 597,1155 649,1155 701,1155 753,1154 805,1154 857,1153 909,1153 961,1153 1013,1153 1066,1153"/>
+                <TextEquiv>
+                    <Unicode>unterwirft jede wahre Veraͤnderung der beſtehenden Diſciplin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="18,1225 70,1227 122,1228 174,1228 226,1229 279,1229 331,1229 383,1229 435,1229 487,1229 540,1229 592,1229 644,1229 696,1228 748,1228 801,1228 853,1227 905,1227 957,1227 1009,1227 1062,1227 1062,1185 1009,1185 957,1185 905,1185 853,1185 801,1186 748,1186 696,1186 644,1187 592,1187 540,1187 487,1187 435,1187 383,1187 331,1187 279,1187 226,1187 174,1186 122,1186 70,1185 18,1183"/>
+                <Baseline points="18,1211 70,1213 122,1214 174,1214 226,1215 279,1215 331,1215 383,1215 435,1215 487,1215 540,1215 592,1215 644,1215 696,1214 748,1214 801,1214 853,1213 905,1213 957,1213 1009,1213 1062,1213"/>
+                <TextEquiv>
+                    <Unicode>in einem ſolchen Umfang ſeinem Urtheil, daß er damit einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="21,1288 73,1288 125,1287 177,1287 229,1287 282,1286 334,1286 386,1286 438,1287 490,1287 543,1287 595,1287 647,1287 699,1288 751,1288 804,1288 856,1288 908,1288 960,1288 1012,1288 1065,1288 1065,1246 1012,1246 960,1246 908,1246 856,1246 804,1246 751,1246 699,1246 647,1245 595,1245 543,1245 490,1245 438,1245 386,1244 334,1244 282,1244 229,1245 177,1245 125,1245 73,1246 21,1246"/>
+                <Baseline points="21,1274 73,1274 125,1273 177,1273 229,1273 282,1272 334,1272 386,1272 438,1273 490,1273 543,1273 595,1273 647,1273 699,1274 751,1274 804,1274 856,1274 908,1274 960,1274 1012,1274 1065,1274"/>
+                <TextEquiv>
+                    <Unicode>Particularkirche uͤberhaupt alle Autonomie abſpricht, und ſo⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="20,1354 72,1353 124,1353 176,1352 228,1352 280,1352 332,1352 384,1351 436,1351 488,1351 540,1351 592,1351 644,1352 696,1352 748,1352 800,1352 852,1352 904,1353 956,1353 1008,1353 1060,1354 1060,1309 1008,1308 956,1308 904,1308 852,1307 800,1307 748,1307 696,1307 644,1307 592,1306 540,1306 488,1306 436,1306 384,1306 332,1307 280,1307 228,1307 176,1307 124,1308 72,1308 20,1309"/>
+                <Baseline points="20,1339 72,1338 124,1338 176,1337 228,1337 280,1337 332,1337 384,1336 436,1336 488,1336 540,1336 592,1336 644,1337 696,1337 748,1337 800,1337 852,1337 904,1338 956,1338 1008,1338 1060,1339"/>
+                <TextEquiv>
+                    <Unicode>mit alle organiſche Geſetzgebung in Diſciplinarſachen ausſchlie⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="21,1419 72,1419 124,1418 176,1418 228,1418 280,1418 331,1418 383,1417 435,1417 487,1417 539,1417 590,1417 642,1416 694,1416 746,1416 798,1416 849,1416 901,1416 953,1416 1005,1416 1057,1416 1057,1373 1005,1373 953,1373 901,1373 849,1373 798,1373 746,1373 694,1373 642,1373 590,1374 539,1374 487,1374 435,1374 383,1374 331,1375 280,1375 228,1375 176,1375 124,1375 72,1376 21,1376"/>
+                <Baseline points="21,1405 72,1405 124,1404 176,1404 228,1404 280,1404 331,1404 383,1403 435,1403 487,1403 539,1403 590,1403 642,1402 694,1402 746,1402 798,1402 849,1402 901,1402 953,1402 1005,1402 1057,1402"/>
+                <TextEquiv>
+                    <Unicode>ßend zu einem Recht des paͤbſtlichen Primats macht. So⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="17,1479 69,1480 121,1480 173,1480 225,1480 277,1480 329,1480 381,1480 433,1480 485,1480 538,1480 590,1480 642,1480 694,1480 746,1479 798,1479 850,1479 902,1479 954,1478 1006,1478 1059,1478 1059,1435 1006,1435 954,1435 902,1436 850,1436 798,1436 746,1436 694,1437 642,1437 590,1437 538,1437 485,1437 433,1437 381,1437 329,1437 277,1437 225,1437 173,1437 121,1437 69,1437 17,1436"/>
+                <Baseline points="17,1465 69,1466 121,1466 173,1466 225,1466 277,1466 329,1466 381,1466 433,1466 485,1466 538,1466 590,1466 642,1466 694,1466 746,1465 798,1465 850,1465 902,1465 954,1464 1006,1464 1059,1464"/>
+                <TextEquiv>
+                    <Unicode>lange ſich eine Particularkirche dieſem Syſtem fuͤgen zu muͤſ⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="22,1543 74,1542 126,1542 178,1542 231,1542 283,1542 335,1542 387,1542 440,1542 492,1542 544,1542 596,1542 649,1542 701,1542 753,1542 805,1541 858,1541 910,1540 962,1539 1014,1539 1067,1538 1067,1493 1014,1494 962,1494 910,1495 858,1496 805,1496 753,1497 701,1497 649,1497 596,1497 544,1497 492,1497 440,1497 387,1497 335,1497 283,1497 231,1497 178,1497 126,1497 74,1497 22,1498"/>
+                <Baseline points="22,1528 74,1527 126,1527 178,1527 231,1527 283,1527 335,1527 387,1527 440,1527 492,1527 544,1527 596,1527 649,1527 701,1527 753,1527 805,1526 858,1526 910,1525 962,1524 1014,1524 1067,1523"/>
+                <TextEquiv>
+                    <Unicode>ſen glaubt, wird daher jede entſchiedene Veraͤnderung der be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="22,1606 74,1605 126,1605 178,1605 231,1605 283,1605 335,1605 388,1605 440,1605 492,1605 545,1605 597,1604 649,1604 701,1604 754,1604 806,1603 858,1603 911,1602 963,1601 1015,1601 1068,1600 1068,1555 1015,1556 963,1556 911,1557 858,1558 806,1558 754,1559 701,1559 649,1559 597,1559 545,1560 492,1560 440,1560 388,1560 335,1560 283,1560 231,1560 178,1560 126,1560 74,1560 22,1561"/>
+                <Baseline points="22,1591 74,1590 126,1590 178,1590 231,1590 283,1590 335,1590 388,1590 440,1590 492,1590 545,1590 597,1589 649,1589 701,1589 754,1589 806,1588 858,1588 911,1587 963,1586 1015,1586 1068,1585"/>
+                <TextEquiv>
+                    <Unicode>ſtehenden Diſciplin immer die Mitwirkung des Pabſts erfor⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="26,1669 77,1668 129,1668 181,1668 232,1668 284,1667 336,1667 387,1667 439,1667 491,1667 543,1666 594,1666 646,1666 698,1666 749,1666 801,1666 853,1666 904,1666 956,1665 1008,1665 1060,1665 1060,1620 1008,1620 956,1620 904,1621 853,1621 801,1621 749,1621 698,1621 646,1621 594,1621 543,1621 491,1622 439,1622 387,1622 336,1622 284,1622 232,1623 181,1623 129,1623 77,1623 26,1624"/>
+                <Baseline points="26,1654 77,1653 129,1653 181,1653 232,1653 284,1652 336,1652 387,1652 439,1652 491,1652 543,1651 594,1651 646,1651 698,1651 749,1651 801,1651 853,1651 904,1651 956,1650 1008,1650 1060,1650"/>
+                <TextEquiv>
+                    <Unicode>dern. Außer dieſer iſt aber auch die Zuſtimmung des Staats</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="28,1731 79,1730 131,1729 183,1729 234,1729 286,1728 338,1728 389,1728 441,1729 493,1729 545,1729 596,1729 648,1730 700,1730 751,1730 803,1730 855,1730 906,1730 958,1729 1010,1728 1062,1727 1062,1682 1010,1683 958,1684 906,1685 855,1685 803,1685 751,1685 700,1685 648,1685 596,1684 545,1684 493,1684 441,1684 389,1683 338,1683 286,1683 234,1684 183,1684 131,1684 79,1685 28,1686"/>
+                <Baseline points="28,1716 79,1715 131,1714 183,1714 234,1714 286,1713 338,1713 389,1713 441,1714 493,1714 545,1714 596,1714 648,1715 700,1715 751,1715 803,1715 855,1715 906,1715 958,1714 1010,1713 1062,1712"/>
+                <TextEquiv>
+                    <Unicode>nothwendig, und dadurch wird es das Einfachſte, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="24,1796 75,1793 127,1792 179,1791 231,1790 283,1789 335,1789 387,1789 439,1789 491,1790 543,1790 594,1791 646,1791 698,1791 750,1792 802,1792 854,1791 906,1791 958,1790 1010,1789 1062,1788 1062,1745 1010,1746 958,1747 906,1748 854,1748 802,1749 750,1749 698,1748 646,1748 594,1748 543,1747 491,1747 439,1746 387,1746 335,1746 283,1746 231,1747 179,1748 127,1749 75,1750 24,1753"/>
+                <Baseline points="24,1782 75,1779 127,1778 179,1777 231,1776 283,1775 335,1775 387,1775 439,1775 491,1776 543,1776 594,1777 646,1777 698,1777 750,1778 802,1778 854,1777 906,1777 958,1776 1010,1775 1062,1774"/>
+                <TextEquiv>
+                    <Unicode>ſolchen Fällen lieber geradezu eine durch unmit⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="28,1855 79,1853 131,1852 182,1851 234,1851 286,1850 337,1850 389,1850 440,1851 492,1851 544,1851 595,1852 647,1852 698,1852 750,1852 802,1852 853,1851 905,1851 956,1849 1008,1848 1060,1846 1060,1804 1008,1806 956,1807 905,1809 853,1809 802,1810 750,1810 698,1810 647,1810 595,1810 544,1809 492,1809 440,1809 389,1808 337,1808 286,1808 234,1809 182,1809 131,1810 79,1811 28,1813"/>
+                <Baseline points="28,1841 79,1839 131,1838 182,1837 234,1837 286,1836 337,1836 389,1836 440,1837 492,1837 544,1837 595,1838 647,1838 698,1838 750,1838 802,1838 853,1837 905,1837 956,1835 1008,1834 1060,1832"/>
+                <TextEquiv>
+                    <Unicode>telbare Verhandlung des letztern mit dem roͤmi⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="22,1920 73,1918 125,1916 177,1915 229,1914 281,1914 333,1913 385,1913 437,1913 489,1913 541,1914 592,1914 644,1914 696,1914 748,1914 800,1914 852,1914 904,1913 956,1912 1008,1911 1060,1909 1060,1864 1008,1866 956,1867 904,1868 852,1869 800,1869 748,1869 696,1869 644,1869 592,1869 541,1869 489,1868 437,1868 385,1868 333,1868 281,1869 229,1869 177,1870 125,1871 73,1873 22,1875"/>
+                <Baseline points="22,1905 73,1903 125,1901 177,1900 229,1899 281,1899 333,1898 385,1898 437,1898 489,1898 541,1899 592,1899 644,1899 696,1899 748,1899 800,1899 852,1899 904,1898 956,1897 1008,1896 1060,1894"/>
+                <TextEquiv>
+                    <Unicode>ſchen Stuhle vorbereitete Verfuͤgung des Pabſtes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="21,1981 73,1981 125,1981 177,1981 229,1981 281,1981 333,1981 385,1981 437,1981 489,1980 541,1980 593,1980 645,1979 697,1979 749,1978 801,1977 853,1977 905,1976 957,1975 1009,1974 1061,1973 1061,1928 1009,1929 957,1930 905,1931 853,1932 801,1932 749,1933 697,1934 645,1934 593,1935 541,1935 489,1935 437,1936 385,1936 333,1936 281,1936 229,1936 177,1936 125,1936 73,1936 21,1936"/>
+                <Baseline points="21,1966 73,1966 125,1966 177,1966 229,1966 281,1966 333,1966 385,1966 437,1966 489,1965 541,1965 593,1965 645,1964 697,1964 749,1963 801,1962 853,1962 905,1961 957,1960 1009,1959 1061,1958"/>
+                <TextEquiv>
+                    <Unicode>die fuͤr noͤthig erachteten Beſtimmungen einfuͤh⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 49 —
+den von ihnen geltend gemachten politiſchen Gruͤnden abgeaͤn⸗
+dert werden, und iſt nicht an dieſen ein großer Theil, der
+von dem Concilium beſchloſſenen Verbeſſerungen in der Aus⸗
+fuͤhrung geſcheitert? Und wie ſehr hat ſich ſeit dem ſechszehn⸗
+ten Jahrhundert der Einfluß der Politik auf kirchliche Angele⸗
+genheiten geſteigert? Aber gerade darin finde ich einen neuen
+Grund zu zweifeln, ob dieſe Politik die Abhaltung von Sy⸗
+noden geſtatten wird; ich will fuͤr gewiße Leſer eine Auctoritaͤt
+anfuͤhren, der ſie vielleicht lieber glauben als mir. Eichhorn
+in ſeinem Kirchenrecht, Bd. II. S. 9., nachdem er zuerſt
+von der Wirkſamkeit der Provincial⸗ und National⸗Concilien
+in den fruͤhern Zeiten geſprochen, faͤhrt fort: „dagegen koͤn⸗
+nen beide Inſtitute, nach der Beſchaffenheit der neueren Diſci⸗
+plin und der jetzigen Stellung der Kirche gegen den Staat,
+nur ausnahmsweiſe von Nutzen ſeyn. Der roͤmiſche Stuhl
+unterwirft jede wahre Veraͤnderung der beſtehenden Diſciplin
+in einem ſolchen Umfang ſeinem Urtheil, daß er damit einer
+Particularkirche uͤberhaupt alle Autonomie abſpricht, und ſo⸗
+mit alle organiſche Geſetzgebung in Diſciplinarſachen ausſchlie⸗
+ßend zu einem Recht des paͤbſtlichen Primats macht. So⸗
+lange ſich eine Particularkirche dieſem Syſtem fuͤgen zu muͤſ⸗
+ſen glaubt, wird daher jede entſchiedene Veraͤnderung der be⸗
+ſtehenden Diſciplin immer die Mitwirkung des Pabſts erfor⸗
+dern. Außer dieſer iſt aber auch die Zuſtimmung des Staats
+nothwendig, und dadurch wird es das Einfachſte, in
+ſolchen Fällen lieber geradezu eine durch unmit⸗
+telbare Verhandlung des letztern mit dem roͤmi⸗
+ſchen Stuhle vorbereitete Verfuͤgung des Pabſtes,
+die fuͤr noͤthig erachteten Beſtimmungen einfuͤh⸗</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1606320854477_229" custom="readingOrder {index:1;}">
+            <Coords points="808,2008 808,2053 857,2053 857,2008"/>
+            <TextLine id="line_1606320854497_232" custom="readingOrder {index:0;}">
+                <Coords points="808,2008 808,2053 857,2053 857,2008"/>
+                <Baseline points="808,2029 857,2029"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
