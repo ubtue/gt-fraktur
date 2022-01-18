@@ -1,6 +1,6 @@
 # GT-FRAKTUR
 
-[gt-fraktur](https://github.com/ubtue/gt-fraktur/) is the Ground Truth (GT) data for Fraktur/Gothic prints from the 19th Century, released by UB, Uni-Tübingen as Open Data under the [CC0 public license](https://creativecommons.org/choose/zero/). 
+[gt-fraktur](https://github.com/ubtue/gt-fraktur/) is the Ground Truth (GT) data for Fraktur/Gothic prints from the 19th Century, released by UB, Uni-Tübingen as Open Data under the [CC0 public license](https://creativecommons.org/publicdomain/zero/1.0/). 
  
  
 + [§1. GT-Data](#1-GT-Data)
@@ -12,7 +12,7 @@
 
 # §1. GT Data <span id="1-GT-Data"><span>
 
-This repository contains transcriptions of selected pages from 19th Century books as listed below. The original TIFF images used for OCR transcription of the following publications are published on Archive.org under the [CC0 public license](https://creativecommons.org/choose/zero/).
+This repository contains transcriptions of selected pages from 19th Century books as listed below. The original TIFF images used for OCR transcription of the following publications are published on Archive.org under the [CC0 public license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## §1.1. Shelfmark <span id="1-1-Shelfmark"><span>
 
@@ -53,6 +53,6 @@ Details of the page quality issues observed during the transcription process:
 
 # §2. LICENSE <span id="2-LICENSE"><span>
 
-* This data is is released by UB, Uni-Tuebingen as Open Data under the [CC0 public license](https://creativecommons.org/choose/zero/).
+* This data is is released by UB, Uni-Tuebingen as Open Data under the [CC0 public license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 
