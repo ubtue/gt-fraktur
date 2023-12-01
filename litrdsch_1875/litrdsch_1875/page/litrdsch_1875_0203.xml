@@ -351,7 +351,7 @@ Transkribus</Creator>
                 <Coords points="377,2038 405,2038 434,2038 463,2038 492,2040 521,2040 549,2040 578,2040 607,2040 636,2040 665,2040 693,2040 722,2041 751,2041 780,2041 809,2041 837,2041 866,2041 895,2040 924,2040 953,2040 953,2010 924,2010 895,2010 866,2011 837,2011 809,2011 780,2011 751,2011 722,2011 693,2010 665,2010 636,2010 607,2010 578,2010 549,2010 521,2010 492,2010 463,2008 434,2008 405,2008 377,2008"/>
                 <Baseline points="377,2028 405,2028 434,2028 463,2028 492,2030 521,2030 549,2030 578,2030 607,2030 636,2030 665,2030 693,2030 722,2031 751,2031 780,2031 809,2031 837,2031 866,2031 895,2030 924,2030 953,2030"/>
                 <TextEquiv>
-                    <Unicode>Und wo du biſt, oft ſelbst nicht weißt,</Unicode>
+                    <Unicode>Und wo du biſt, oft ſelbſt nicht weißt,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l49" custom="readingOrder {index:46;}">
@@ -512,7 +512,7 @@ Transkribus</Creator>
                 <Coords points="378,2903 429,2905 458,2905 486,2907 515,2907 543,2907 572,2908 600,2908 629,2908 657,2908 686,2908 714,2908 743,2908 771,2908 800,2907 828,2907 857,2907 885,2907 914,2905 942,2905 971,2905 971,2875 942,2875 914,2875 885,2877 857,2877 828,2877 800,2877 771,2878 743,2878 714,2878 686,2878 657,2878 629,2878 600,2878 572,2878 543,2877 515,2877 486,2877 458,2875 429,2875 378,2874"/>
                 <Baseline points="380,2894 429,2895 458,2895 486,2897 515,2897 543,2897 572,2898 600,2898 629,2898 657,2898 686,2898 714,2898 743,2898 771,2898 800,2897 828,2897 857,2897 885,2897 914,2895 942,2895 971,2895"/>
                 <TextEquiv>
-                    <Unicode>Fast groſchengroß ein ſchwarzer Tüpfel,</Unicode>
+                    <Unicode>Faſt groſchengroß ein ſchwarzer Tüpfel,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l72" custom="readingOrder {index:69;}">
@@ -554,7 +554,7 @@ Transkribus</Creator>
                 <Coords points="386,3115 411,3115 437,3115 463,3117 489,3118 515,3118 541,3118 567,3120 593,3120 619,3121 644,3121 670,3121 696,3122 722,3123 748,3123 774,3123 800,3123 826,3124 852,3124 878,3124 878,3094 852,3094 826,3094 800,3093 774,3093 748,3093 722,3093 696,3092 670,3091 644,3091 619,3091 593,3090 567,3090 541,3088 515,3088 489,3088 463,3087 437,3085 411,3085 386,3085"/>
                 <Baseline points="386,3105 411,3105 437,3105 463,3107 489,3108 515,3108 541,3108 567,3110 593,3110 619,3111 644,3111 670,3111 696,3112 722,3113 748,3113 774,3113 800,3113 826,3114 852,3114 878,3114"/>
                 <TextEquiv>
-                    <Unicode>Als jener Ort, woſelbst du ſtehſt,</Unicode>
+                    <Unicode>Als jener Ort, woſelbſt du ſtehſt,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l78" custom="readingOrder {index:75;}">
@@ -610,7 +610,7 @@ Was oft erprobt ich und erfahren.
 Wenn du einmal zu Fuß, zu Roß,
 Ob einſam, ob mit Dienertroß,
 Mit viel Geld oder wenig reiſt,
-Und wo du biſt, oft ſelbst nicht weißt,
+Und wo du biſt, oft ſelbſt nicht weißt,
 Wie weit von Haus, wo ungefähr
 Das Städtchen liegt, wie nah dem Meer,
 An welchem Fluß und Berg, kurzum,
@@ -633,13 +633,13 @@ Tritt von der Wand zurück und ſchau
 Die Karte an, daß grau in grau
 Die Ebne, Berg und Fluß verſchwimmt;
 Da zeigt ſich deutlich und beſtimmt
-Fast groſchengroß ein ſchwarzer Tüpfel,
+Faſt groſchengroß ein ſchwarzer Tüpfel,
 Wie eines hohen Berges Gipfel.
 Nun dicht heran! Wie dir die Schuppen
 Jetzt von den Augen fall’n! entpuppen
 Wird ſich der Berg, der ſchwarze Punkt,
 Der wie ein Chimborazzo prunkt,
-Als jener Ort, woſelbst du ſtehſt,
+Als jener Ort, woſelbſt du ſtehſt,
 Nach dem du auf der Karte ſpähſt.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -712,7 +712,7 @@ Nach dem du auf der Karte ſpähſt.</Unicode>
                 <Coords points="1235,744 1301,745 1348,745 1395,744 1443,744 1490,744 1537,742 1584,742 1632,741 1679,741 1726,741 1773,739 1821,739 1868,739 1915,739 1962,739 2010,739 2057,739 2104,739 2151,739 2199,739 2199,709 2151,709 2104,709 2057,709 2010,709 1962,709 1915,709 1868,709 1821,709 1773,709 1726,711 1679,711 1632,711 1584,712 1537,712 1490,714 1443,714 1395,714 1348,715 1301,715 1233,711"/>
                 <Baseline points="1240,735 1301,735 1348,735 1395,734 1443,734 1490,734 1537,732 1584,732 1632,731 1679,731 1726,731 1773,729 1821,729 1868,729 1915,729 1962,729 2010,729 2057,729 2104,729 2151,729 2199,729"/>
                 <TextEquiv>
-                    <Unicode>ſchreibsel Wolff ſeine 196 Seiten füllt. — Geradezu eine</Unicode>
+                    <Unicode>ſchreibſel Wolff ſeine 196 Seiten füllt. — Geradezu eine</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l11" custom="readingOrder {index:10;}">
@@ -782,7 +782,7 @@ Nach dem du auf der Karte ſpähſt.</Unicode>
                 <Coords points="1415,1165 1441,1165 1467,1164 1493,1164 1519,1164 1545,1164 1571,1162 1597,1162 1623,1162 1649,1162 1676,1162 1702,1161 1728,1161 1754,1161 1780,1161 1806,1161 1832,1161 1858,1162 1884,1162 1911,1162 1911,1132 1884,1132 1858,1132 1832,1131 1806,1131 1780,1131 1754,1131 1728,1131 1702,1131 1676,1132 1649,1132 1623,1132 1597,1132 1571,1132 1545,1134 1519,1134 1493,1134 1467,1134 1441,1135 1415,1135"/>
                 <Baseline points="1415,1155 1441,1155 1467,1154 1493,1154 1519,1154 1545,1154 1571,1152 1597,1152 1623,1152 1649,1152 1676,1152 1702,1151 1728,1151 1754,1151 1780,1151 1806,1151 1832,1151 1858,1152 1884,1152 1911,1152"/>
                 <TextEquiv>
-                    <Unicode>Das wollen wir einmal studiren,</Unicode>
+                    <Unicode>Das wollen wir einmal ſtudiren,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l22" custom="readingOrder {index:20;}">
@@ -1138,7 +1138,7 @@ Da biſt du glücklich nun gelandet.
 Dreißig Verſe dieſes Sermons ſind überſchlagen,
 und der Abdruck der andern findet ſeine Entſchuldigung
 nur darin, daß man dadurch begreift, mit welchem Ge⸗
-ſchreibsel Wolff ſeine 196 Seiten füllt. — Geradezu eine
+ſchreibſel Wolff ſeine 196 Seiten füllt. — Geradezu eine
 Prämie könnte man ausſetzen für jeden, der etwas noch
 Banaleres ausfindig machte, als folgende Reimerei, die
 doch einen Hauptknotenpunkt des ganzen Opus darſtellt.
@@ -1148,7 +1148,7 @@ S. 117: Der ſchon vom warmen Sonnenſchein
 Getrocknet war, und ein Papier
 Zog Till hervor: Ich habe hier
 Das neu’ſte Kreisblatt mitgenommen,
-Das wollen wir einmal studiren,
+Das wollen wir einmal ſtudiren,
 Was hier die Leute inſeriren,
 Und ob wir auf die Spur nicht kommen,
 Die jetzt mit Energie und Liſt
