@@ -91,7 +91,7 @@ Transkribus</Creator>
                 <Coords points="139,1197 185,1200 231,1201 277,1202 323,1203 369,1203 415,1203 461,1203 507,1202 553,1202 599,1201 645,1200 691,1200 737,1199 783,1199 829,1199 875,1199 921,1199 967,1200 1013,1201 1059,1203 1059,1166 1013,1164 967,1163 921,1162 875,1162 829,1162 783,1162 737,1162 691,1163 645,1163 599,1164 553,1165 507,1165 461,1166 415,1166 369,1166 323,1166 277,1165 231,1164 185,1163 139,1160"/>
                 <Baseline points="139,1185 185,1188 231,1189 277,1190 323,1191 369,1191 415,1191 461,1191 507,1190 553,1190 599,1189 645,1188 691,1188 737,1187 783,1187 829,1187 875,1187 921,1187 967,1188 1013,1189 1059,1191"/>
                 <TextEquiv>
-                    <Unicode>Bauer, Eiſenſchmid Fritzſche, Genßler,</Unicode>
+                    <Unicode>Bauer, Eiſenſchmid, Fritzſche, Genßler,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:11;}">
@@ -182,7 +182,7 @@ von
 mehren Gelehrten,
 unter Mitwirkung
 von
-Bauer, Eiſenſchmid Fritzſche, Genßler,
+Bauer, Eiſenſchmid, Fritzſche, Genßler,
 Goͤrwitz, Gruner, Hagenbach, Henkel, Hey⸗
 denreich, Hildebrand, Jakobi, Klein, Lom⸗
 ler, Alex. Muͤller, Paulus, Pertſch, Schott,
