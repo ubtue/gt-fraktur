@@ -8,7 +8,6 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 Transkribus</Creator>
         <Created>2020-11-23T14:11:42.782+01:00</Created>
         <LastChange>2021-05-12T09:10:14.574+02:00</LastChange>
-        <TranskribusMetadata docId="543315" pageId="22811362" pageNr="5" tsid="57767424" status="GT" userId="78683" imgUrl="https://files.transkribus.eu/Get?id=APTKMMQHAMSBQRSSBIMVPJMI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZSTEAVWBWGNPXQTOLAFYWOIK" imageId="17786981"/>
     </Metadata>
     <Page imageFilename="zpk_1838_01_0033.tif" imageWidth="2405" imageHeight="2854">
         <ReadingOrder>
@@ -211,7 +210,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="line_1620802933615_1171" custom="readingOrder {index:25;}">
                 <Coords points=""/>
-                <Baseline points="1322,1572"/>
+                <Baseline points="1322,1572 1399,1572"/>
                 <TextEquiv>
                     <Unicode>was er von uns fordert, hat Chriſtus ſelbſt uns an⸗</Unicode>
                 </TextEquiv>
@@ -246,7 +245,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="line_1620802933640_1173" custom="readingOrder {index:30;}">
                 <Coords points=""/>
-                <Baseline points="1322,1836"/>
+                <Baseline points="1322,1836 1322,1899"/>
                 <TextEquiv>
                     <Unicode>durch geſetzliche Stellvertreter ausübt.</Unicode>
                 </TextEquiv>
